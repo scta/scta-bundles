@@ -1,33 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div xmlns:new="http://new"
-     xmlns:transk="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
-     xmlns:ns3="http://www.loc.gov/METS/"
-     xmlns:ns2="http://www.w3.org/1999/xlink">
+<div xml:id="dor5dc">
+<div alias="prin-pt4-magnet-c1">
+<head>Caput 1</head>
    <p><!--Chart-A-00707_00190r.xml-->
       <pb ed="#P" n="Chat-A-00707_00190"/>
-      <lb ed="#P" n="1"/>Kürtzliche Erleüterung
-          [pbreak]<lb ed="#P" n="2"/>Etlicher Vorgaben von der Würkung,
-          [pbreak]<lb ed="#P" n="3"/>Des MagnetSteins,
-          [pbreak]<lb ed="#P" n="4"/>Nach Anleitung und gesetzten Grundstükken
-          [pbreak]<lb ed="#P" n="5"/>Vom Cartesio.
-          [pbreak]<lb ed="#P" n="6"/>Cap. 1.
-          [pbreak]<lb ed="#P" n="7"/>Die Problemata oder Vorgaben seind diese:
-          [pbreak]<lb ed="#P" n="8"/>1. Daß in einem Magnet zweyerley Poli zufinden, unter welchen 
+      <lb ed="#P" n="1"/>Kürtzliche Erleüterung       
+<lb ed="#P" n="2"/>Etlicher Vorgaben von der Würkung,   
+<lb ed="#P" n="3"/>Des MagnetSteins,
+<lb ed="#P" n="4"/>Nach Anleitung und gesetzten Grundstükken
+<lb ed="#P" n="5"/>Vom Cartesio.
+          </p>
+            <p>
+<lb ed="#P" n="6"/>Cap. 1.
+          </p>
+            <p>            
+<lb ed="#P" n="7"/>Die Problemata oder Vorgaben seind diese:
+          </p>
+           <p>            
+<lb ed="#P" n="8"/>1. Daß in einem Magnet zweyerley Poli zufinden, unter welchen 
           <lb ed="#P" n="9"/>sich an allen Orten der eine gegen den Nordpolum der Erden, der andere
           <lb ed="#P" n="10"/>aber gegen derselben Südpolum wendet.
-          [pbreak]<lb ed="#P" n="11"/>2. Daß diese zwen Poli des Magnets nach underschiedenen Örtern
+          </p>
+           <p>            
+<lb ed="#P" n="11"/>2. Daß diese zwen Poli des Magnets nach underschiedenen Örtern
           <lb ed="#P" n="12"/>der Erden auf welchen sie enthalten werden, sich auch underschiedlich
           <lb ed="#P" n="13"/>gegen den Mittelpunct der Erden neigen.
-          [pbreak]<lb ed="#P" n="14"/>3. Daß zwene runde Magnet sich gegen einander kehren, wie sonst
+          </p>
+           <p>            
+<lb ed="#P" n="14"/>3. Daß zwene runde Magnet sich gegen einander kehren, wie sonst
           <lb ed="#P" n="15"/>ein iedweder derselben allein sich gegen der Erden wendet.
-          [pbreak]<lb ed="#P" n="16"/>4. Daß wenn sie sich also gewendet haben, hernachmals sich zu ei¬
+          </p>
+           <p>            
+<lb ed="#P" n="16"/>4. Daß wenn sie sich also gewendet haben, hernachmals sich zu ei¬
           <lb ed="#P" n="17"/>nander begeben.
-          [pbreak]<lb ed="#P" n="18"/>5. Daß wo man sie im Gegentheil in widriger Situation ent¬
+          </p>
+           <p>            
+<lb ed="#P" n="18"/>5. Daß wo man sie im Gegentheil in widriger Situation ent¬
           <lb ed="#P" n="19"/>hält, einer von dem anderen weichet.
-          [pbreak]<lb ed="#P" n="20"/>6. Daß wenn ein Magnet gerade durch die Polos selbsten getheilet
+          </p>
+           <p>            
+<lb ed="#P" n="20"/>6. Daß wenn ein Magnet gerade durch die Polos selbsten getheilet
           <lb ed="#P" n="21"/>wird, alsdenn die beeden Stükke, so vorhero beysammen vereiniget
           <lb ed="#P" n="22"/>gewesen, gleichergestalt von einander weichen.
-          [pbreak]<lb ed="#P" n="23"/>7. Daß wenn er mitten zwischen den Polis mit einer Linien ge¬
+          </p>
+           <p>            
+<lb ed="#P" n="23"/>7. Daß wenn er mitten zwischen den Polis mit einer Linien ge¬
           <lb ed="#P" n="24"/>rad in Zwey getheilet wird, werden alsdenn die beeden erst anei¬
           <lb ed="#P" n="25"/>nander vereinigten puncta, zwen Poli von widriger Würckung,
           <lb ed="#P" n="26"/>der eine in einem und der andere im anderen Stükke oder Theile.
@@ -37,50 +54,80 @@
           <lb ed="#P" n="30"/>funden, also daß seine Kraft, die sonst in Ansehung dieser Polorum
           <lb ed="#P" n="31"/>underschiedlich oder widrig zu sein scheinet, doch so wohl in iedem Stück
           <lb ed="#P" n="32"/>als in dem gantzen dieselbe und solcher Gestalt einerley ist.
-          [pbreak]<lb ed="#P" n="33"/>9. Daß daß Reißen dergleichen Kraft vom Magnet amptfehet
+          </p>
+           <p>            
+<lb ed="#P" n="33"/>9. Daß daß Reißen dergleichen Kraft vom Magnet amptfehet
           <lb ed="#P" n="34"/>wenn es nur an denselben gehalten wird.
-          [pbreak]<lb ed="#P" n="35"/>10. Daß es noch underschiedlicher Art, als es an denselben ge¬
+          </p>
+           <p>            
+<lb ed="#P" n="35"/>10. Daß es noch underschiedlicher Art, als es an denselben ge¬
           <lb ed="#P" n="36"/>halten wird, auch underschiedliche Krafft empfehet.
-          [pbreak]<lb ed="#P" n="37"/>11. Daß ein langlichtes Eisen, auf was vor Art es auch den
+          </p>
+           <p>            
+<lb ed="#P" n="37"/>11. Daß ein langlichtes Eisen, auf was vor Art es auch den
           <!--Chart-A-00707_00190v.xml-->
       <pb ed="#P" n="Chat-A-00707_00190"/>
       <lb ed="#P" n="1"/>Magnet berühret, doch allezeit deßen Krafft seiner Lenge nach empfehet.
-          [pbreak]<lb ed="#P" n="2"/>12. Daß der Magnet von seiner Krafft nichts verlieret, ob er schon
+          </p>
+           <p>            
+<lb ed="#P" n="2"/>12. Daß der Magnet von seiner Krafft nichts verlieret, ob er schon
           <lb ed="#P" n="3"/>dieselbe dem Eisen mittheilet.
-          [pbreak]<lb ed="#P" n="4"/>13. Daß zwar dieselbe in gar in gar kurtzer Zeit dem Eysen kann mitge¬
+          </p>
+           <p>            
+<lb ed="#P" n="4"/>13. Daß zwar dieselbe in gar in gar kurtzer Zeit dem Eysen kann mitge¬
           <lb ed="#P" n="5"/>theilet aber mit der Länge der Zeit mehr und mehr bestärket werden.
           <lb ed="#P" n="6"/>14. Daß der härteste Stahl solche Kraft viel stärcker annimmt
           <lb ed="#P" n="7"/>auch die angenommene viel beständiger behält als das geringste Eisen.
           <lb ed="#P" n="8"/>15. Daß Ihnes auch eine mehrers Kraft von einem vollkomme¬
           <lb ed="#P" n="9"/>nen als schwachen Magneten gegeben wird.
-          [pbreak]<lb ed="#P" n="10"/>16. Daß auch die Erde selbst ein Magnet ist, und von seiner Krafft
+          </p>
+           <p>            
+<lb ed="#P" n="10"/>16. Daß auch die Erde selbst ein Magnet ist, und von seiner Krafft
           <lb ed="#P" n="11"/>etwas dem Eisen mittheilet.
-          [pbreak]<lb ed="#P" n="12"/>17. Daß diese Kraft in der Erden, als dem größten Magnet, nicht
+          </p>
+           <p>            
+<lb ed="#P" n="12"/>17. Daß diese Kraft in der Erden, als dem größten Magnet, nicht
           <lb ed="#P" n="13"/>so stark als in einem unter anderen magneten den kleinsten erscheinet.
           <lb ed="#P" n="14"/>18. Daß eine vom Magnet berührte Nadel ihre Spitzen so wohl
           <lb ed="#P" n="15"/>als wie der Magnet seine Polos gegen die Erde wendet.
-          [pbreak]<lb ed="#P" n="16"/>19. Daß sie solche nicht eben gantz gerade gegen die Polos der
+          </p>
+           <p>            
+<lb ed="#P" n="16"/>19. Daß sie solche nicht eben gantz gerade gegen die Polos der
           <lb ed="#P" n="17"/>Erden kehret, sondern underschiedlich an underschiedenen orten
           <lb ed="#P" n="18"/>von ihnen abweichet (decliniret).
-          [pbreak]<lb ed="#P" n="19"/>20. Daß die abweichung mit der Zeit könne geendert werden.
+          </p>
+           <p>            
+<lb ed="#P" n="19"/>20. Daß die abweichung mit der Zeit könne geendert werden.
           <lb ed="#P" n="20"/>21. Daß in einem Magnet, welcher auf einen von seinen Po¬
           <lb ed="#P" n="21"/>lis perpendiculariter aufgerichtet, keine Abweichung, wie etliche
           <lb ed="#P" n="22"/>sagen, aber doch nicht dergleichen noch so stark ist, als in dem, dessen
           <lb ed="#P" n="23"/>Poli gleich von der Erden stehen.
-          [pbreak]<lb ed="#P" n="24"/>22. Daß der Magnet das Eisen zihet.
-          [pbreak]<lb ed="#P" n="25"/>23. Daß ein gewafneter Magnet viel mehr Eisen an sich ent¬
+          </p>
+           <p>            
+<lb ed="#P" n="24"/>22. Daß der Magnet das Eisen zihet.
+          </p>
+           <p>            
+<lb ed="#P" n="25"/>23. Daß ein gewafneter Magnet viel mehr Eisen an sich ent¬
           <lb ed="#P" n="26"/>helt, als ein ein bloßer.
-          [pbreak]<lb ed="#P" n="27"/>24. Daß die beeden Poli, ob sie schon einander zuwider (con¬
+          </p>
+           <p>            
+<lb ed="#P" n="27"/>24. Daß die beeden Poli, ob sie schon einander zuwider (con¬
           <lb ed="#P" n="28"/>trär) doch einander helffen das Eisen zu enthalten.
-          [pbreak]<lb ed="#P" n="29"/>25. Daß die Herumbträhung auf beyde seiten Eiserner und an
+          </p>
+           <p>            
+<lb ed="#P" n="29"/>25. Daß die Herumbträhung auf beyde seiten Eiserner und an
           <lb ed="#P" n="30"/>dem Magneten hangende Rädlein von der Kraft des Magnets nicht
           <lb ed="#P" n="31"/>gehindert wird.
-          [pbreak]<lb ed="#P" n="32"/>26. Daß die Kraft des Magnets auf underschiedliche art kann
+          </p>
+           <p>            
+<lb ed="#P" n="32"/>26. Daß die Kraft des Magnets auf underschiedliche art kann
           <lb ed="#P" n="33"/>vermehret und vermindert werden, nach dem man einen anderen
           <lb ed="#P" n="34"/>magnet oder Eisen demselben underschiedlich appliciret.
-          [pbreak]<!--Chart-A-00707_00191r.xml-->
+          </p>
+           <p>            
+<!--Chart-A-00707_00191r.xml-->
       <pb ed="#P" n="Chat-A-00707_00191"/>
-      <lb ed="#P" n="1"/>
+      <lb ed="#P" n="1" type="fixed=Chat-A-00707_00191"/>
       <figure>
          <graphic url="iiifurl/93,85,0,1501/full/full/default.jpg"/>
          <ab type="figure-details">
@@ -191,59 +238,92 @@
       <lb ed="#P" n="1"/>27. Daß ein Magnet, ob er schon stärcker, doch das von ihm abstehen¬
           <lb ed="#P" n="2"/>de Eisen von der anhefftung oder anrührung eines anderen, schwächeren
           <lb ed="#P" n="3"/>Magnets nicht abzuziehen vermag.
-          [pbreak]<lb ed="#P" n="4"/>28. Daß hingegen ein schwacher Magnet oder ein gringes Eisen
+          </p>
+           <p>            
+<lb ed="#P" n="4"/>28. Daß hingegen ein schwacher Magnet oder ein gringes Eisen
           <lb ed="#P" n="5"/>ein anderes Eisen, welches drangehalten wird, von einem stärckeren
           <lb ed="#P" n="6"/>magnet separiret.
-          [pbreak]<lb ed="#P" n="7"/>29. Daß der jenige polus des Magnets, welchen wir Australem nennen,
+          </p>
+           <p>            
+<lb ed="#P" n="7"/>29. Daß der jenige polus des Magnets, welchen wir Australem nennen,
           <lb ed="#P" n="8"/>in disen Nordischen örtern vielmehr Eisen an sich enthelt, als der, welchen
           <lb ed="#P" n="9"/>wir Borealem nennen.
-          [pbreak]<lb ed="#P" n="10"/>30. Daß die Eisenfeyle umb einen oder mehr Magnet auf eine
+          </p>
+           <p>            
+<lb ed="#P" n="10"/>30. Daß die Eisenfeyle umb einen oder mehr Magnet auf eine
           <lb ed="#P" n="11"/>gewiße art sich disponiret.
-          [pbreak]<lb ed="#P" n="12"/>31. Das das Eisenblech, so dem Polo des Magnets vereiniget
+          </p>
+           <p>            
+<lb ed="#P" n="12"/>31. Das das Eisenblech, so dem Polo des Magnets vereiniget
           <lb ed="#P" n="13"/>seine Kraft das Eisen zuziehen und umbzukehren abwendig
           <lb ed="#P" n="14"/>machet.
-          [pbreak]<lb ed="#P" n="15"/>32. Das sonsten von darzwischen Stellung eines anderen Corpo¬
+          </p>
+           <p>            
+<lb ed="#P" n="15"/>32. Das sonsten von darzwischen Stellung eines anderen Corpo¬
           <lb ed="#P" n="16"/>ris nicht geschiehet.
-          [pbreak]<lb ed="#P" n="17"/>33. Das der Magnet mit der Zeit seine Kraft verlieret, wann
+          </p>
+           <p>            
+<lb ed="#P" n="17"/>33. Das der Magnet mit der Zeit seine Kraft verlieret, wann
           <lb ed="#P" n="18"/>er gegen die Erde oder andere Magneten anders gehalten wird,
           <lb ed="#P" n="19"/>alß er sich sonsten, ungehindert seiner bewegung, von selbsten kehret.
           <lb ed="#P" n="20"/>34. Das auch entlich seine Kraft, durch den Rost, feuchtigkeit, und
           <lb ed="#P" n="21"/>noch anderer unreinigkeit vergringert auch durch das Feuer gar hinweg
           <lb ed="#P" n="22"/>genommen wird. Nicht aber auf eine einige andere Uns bewußte
           <lb ed="#P" n="23"/>art.
-          [pbreak]<lb ed="#P" n="24"/>Cap. 11.
-          [pbreak]<lb ed="#P" n="25"/>§ 1. Ehe man aber zu der Resolution dieser gesetzten vorgaben schreitet, müßen
+          </p>
+          </div>
+          <div alias="prin-pt4-magnet-c2">
+          <head>Caput 2</head>
+           <p>            
+<lb ed="#P" n="24"/>Cap. 11.
+          </p>
+           <p>            
+<lb ed="#P" n="25"/>§ 1. Ehe man aber zu der Resolution dieser gesetzten vorgaben schreitet, müßen
           <lb ed="#P" n="26"/>vorhero zu desto beßerem Verstand die vom dem Cartesio vorgehen¬
           <lb ed="#P" n="27"/>de und meistens Mathematisch demonstrirte principia praesuppo
           <lb ed="#P" n="28"/>niret und genehm gehalten werden.
-          [pbreak]<lb ed="#P" n="29"/>§ 2. Und zwar das gleichsam aller erschaffenen Natürlichen
+          </p>
+           <p>            
+<lb ed="#P" n="29"/>§ 2. Und zwar das gleichsam aller erschaffenen Natürlichen
           <lb ed="#P" n="30"/>oder sichtbaren dinge bestendigkeit, vermehrung und verminderung
           <lb ed="#P" n="31"/>besteht in der Erhaltung, zugehenden Verringerung und Zerstreuen¬
           <lb ed="#P" n="32"/>den abnehmung kleiner Stückkerchen oder Bißergen, so Cartesius
           <lb ed="#P" n="33"/>Particulas, andere Corpuscula nennen, so aber von den atomis
           <lb ed="#P" n="34"/>Democriti und der alten differiren, das diese den Ihrigen unter
           <lb ed="#P" n="35"/>andern eine beständige größe, form, bewegung etc zugeeignet.
-          [pbreak]<lb ed="#P" n="36"/>§ 3. Da hingegen jener ihr underschied nicht in einem be¬
+          </p>
+           <p>            
+<lb ed="#P" n="36"/>§ 3. Da hingegen jener ihr underschied nicht in einem be¬
           <lb ed="#P" n="37"/>ständigen sondern vielfältig verenderlichen underschied 1. ihrer
           <lb ed="#P" n="38"/>größe, 2. Ihrer Figur, 3. Und derart Ihrer bewegung besteht.
-          [pbreak]<lb ed="#P" n="39"/>§ 4. ob nun wol diese Ihre drey zufälle nicht eben
+          </p>
+           <p>            
+<lb ed="#P" n="39"/>§ 4. ob nun wol diese Ihre drey zufälle nicht eben
           <!--Chart-A-00707_00192v.xml-->
       <pb ed="#P" n="Chat-A-00707_00192"/>
       <lb ed="#P" n="1"/>als unendlich (infinite) werden sie doch als unbeschreiblich oder als
           <lb ed="#P" n="2"/>unausdenklich (indefinite) in ihrem underschiede gehalten.
-          [pbreak]<lb ed="#P" n="3"/>§ 5. Der Hauptgrund aber deßen allen, ist die erste ihnen gege¬
+          </p>
+           <p>            
+<lb ed="#P" n="3"/>§ 5. Der Hauptgrund aber deßen allen, ist die erste ihnen gege¬
           <lb ed="#P" n="4"/>bene und annoch, iedoch mit gewißer maß, taurende bewegung, welche
           <lb ed="#P" n="5"/>so wohl als ihr Wesen selbst (so da ein Corpus ist und in den dreyen
           <lb ed="#P" n="6"/>dimensionibus, longitudine, latitudine et profunditate bestehet) ein¬
           <lb ed="#P" n="7"/>tzig und allein auf eine unbegreifliche Weise Gott dem Allmech¬
           <lb ed="#P" n="8"/>tigen als Motori oder Moventi primo zu seiner heyligen Ehre zuzu¬
           <lb ed="#P" n="9"/>schreiben.
-          [pbreak]<lb ed="#P" n="10"/>§ 6. Auß diser bewegung nun entspringen zwar noch vorge¬
+          </p>
+           <p>            
+<lb ed="#P" n="10"/>§ 6. Auß diser bewegung nun entspringen zwar noch vorge¬
           <lb ed="#P" n="11"/>setzten eigenschaften: der größe, gestalt und bewegung, viel- und
           <lb ed="#P" n="12"/>auf unaussprechliche art mancherley Particulae.
-          [pbreak]<lb ed="#P" n="13"/>§ 7. Jedoch finden sich derselben anfänge oder Elementa vor¬
+          </p>
+           <p>            
+<lb ed="#P" n="13"/>§ 7. Jedoch finden sich derselben anfänge oder Elementa vor¬
           <lb ed="#P" n="14"/>nemlich dreyerley folgender gestalt:
-          [pbreak]<lb ed="#P" n="15"/>§ 8. In dem man sihet das wenn eckigtes und ungestaltes
+          </p>
+           <p>            
+<lb ed="#P" n="15"/>§ 8. In dem man sihet das wenn eckigtes und ungestaltes
           <lb ed="#P" n="16"/>Corpus auf gewiße weise hun und wider geweltzet wird, es seine
           <lb ed="#P" n="17"/>ecken gantz und gar verliret und eine Zirkel runde bekommet, die
           <lb ed="#P" n="18"/>hernachmals, in so ferner es dergleichen Bewegung gleich behelt, be¬
@@ -253,7 +333,9 @@
           <lb ed="#P" n="22"/>der abgestoßenen kleineren ramentorum oder Stückkergen, ziem¬
           <lb ed="#P" n="23"/>licher größe, nicht das Erste sondern das Andere Element constitui¬
           <lb ed="#P" n="24"/>ren und Aetherem oder den Himmel machen.
-          [pbreak]<lb ed="#P" n="25"/>§ 9. Das Erste Element aber seint die aller Subtilesten
+          </p>
+           <p>            
+<lb ed="#P" n="25"/>§ 9. Das Erste Element aber seint die aller Subtilesten
           <lb ed="#P" n="26"/>und kleinesten abgestoßenen ramenta oder Stückergen F von vorge¬
           <lb ed="#P" n="27"/>setzten runden Particulis, welche, ob sie schon die aller kleinesten so
           <lb ed="#P" n="28"/>zu erdencken müglich, können sie doch nicht zunicht gebracht werden,
@@ -261,12 +343,16 @@
           <lb ed="#P" n="30"/>überauß schnellen und hefftigen bewegung, auß welchen sonder¬
           <lb ed="#P" n="31"/>lich das licht, und die Sonne, so gleichsam der mittelpunct Ihrer
           <lb ed="#P" n="32"/>versamlung, nebenst den Fix-Sternen, entstehet.
-          [pbreak]<lb ed="#P" n="33"/>§ 10. Weilen nun die Übrigen ramenta nicht eben so
+          </p>
+           <p>            
+<lb ed="#P" n="33"/>§ 10. Weilen nun die Übrigen ramenta nicht eben so
           <lb ed="#P" n="34"/>subtil sondern größer auch underschiedlicher Figur etc und deswe¬
           <lb ed="#P" n="35"/>gen nicht so wohl zu einigen oder wenigstens schneller bewegung taug¬
           <lb ed="#P" n="36"/>lich, geben sie das Dritte Element, worauß die Erde nebenst
           <lb ed="#P" n="37"/>den anderen Planeten bestehet.
-          [pbreak]<!--Chart-A-00707_00193r.xml-->
+          </p>
+           <p>            
+<!--Chart-A-00707_00193r.xml-->
       <pb ed="#P" n="Chat-A-00707_00193"/>
       <lb ed="#P" n="1"/>§ 11. Vorbey aber sonderlich zu mercken, das, wie schon im § 3
           <lb ed="#P" n="2"/>dieses Cap. gemeldet, keines von dergleichen particulis stetig in seiner
@@ -278,33 +364,49 @@
           <lb ed="#P" n="8"/>leufftigkeit zu vermeiden, underlaßen, dergleichen aber als ein
           <lb ed="#P" n="9"/>praesuppositum oder genehmhaltung nach dem § 1 dieses Cap. ge¬
           <lb ed="#P" n="10"/>setzet wird.
-          [pbreak]<lb ed="#P" n="11"/>§ 12. Wieweilen denn nun alle Corpora naturalia aus dergleichen
+          </p>
+           <p>            
+<lb ed="#P" n="11"/>§ 12. Wieweilen denn nun alle Corpora naturalia aus dergleichen
           <lb ed="#P" n="12"/>zusammen gefügten ungleichen particulis bestehen, so ist es unmüglich das in
           <lb ed="#P" n="13"/>solchem zusammenfügen wegen ihrer ungleichen form nicht interstitia
           <lb ed="#P" n="14"/>oder Raume verbleiben sollten.
-          [pbreak]<lb ed="#P" n="15"/>§ 13. Welche, das Vacuum zu vermeiden, hernachmals nach art
+          </p>
+           <p>            
+<lb ed="#P" n="15"/>§ 13. Welche, das Vacuum zu vermeiden, hernachmals nach art
           <lb ed="#P" n="16"/>ihrer weits dem anderen annoch sich bewegenden particulis nach
           <lb ed="#P" n="17"/>iedes proportion einen durchgang geben.
-          [pbreak]<lb ed="#P" n="18"/>§ 4. Unter solchen nun, so zu vorgesetzter materis des Magnets
+          </p>
+           <p>            
+<lb ed="#P" n="18"/>§ 4. Unter solchen nun, so zu vorgesetzter materis des Magnets
           <lb ed="#P" n="19"/>dienen, seint diese, so von Cartesio Striatae, alhier aber rund¬
           <lb ed="#P" n="20"/>streiffigte genennet und in gleichnüs einer schrauben, betrachtet
           <lb ed="#P" n="21"/>werden.
-          [pbreak]<lb ed="#P" n="22"/>§ 15. Was aber dergleichen sein, und wie sie in solcher figur
+          </p>
+           <p>            
+<lb ed="#P" n="22"/>§ 15. Was aber dergleichen sein, und wie sie in solcher figur
           <lb ed="#P" n="23"/>generirt werden können, wird vom Cartesio zwar in Princip. Phlae
           <lb ed="#P" n="24"/>part. 3 § 90 p. m. 128 demonstriret alhier aber nach dem 1. und
           <lb ed="#P" n="25"/>10 § dieses Cap. vor genehm gehalten.
-          [pbreak]<lb ed="#P" n="26"/>§ 16. Wie nicht weniger Ihre stete bewegung nebenst anderen
+          </p>
+           <p>            
+<lb ed="#P" n="26"/>§ 16. Wie nicht weniger Ihre stete bewegung nebenst anderen
           <lb ed="#P" n="27"/>auch in, durch, und umb die Erde, und durch die jenigen Particulas
           <lb ed="#P" n="28"/>so den Magnet und Eisen, worunter ingleichen der Stahl zu ver¬
           <lb ed="#P" n="29"/>sehen, Constituiren.
-          [pbreak]<lb ed="#P" n="30"/>§ 17. Wieweilen kein einiger Eisenstein, der nicht ein wenig
+          </p>
+           <p>            
+<lb ed="#P" n="30"/>§ 17. Wieweilen kein einiger Eisenstein, der nicht ein wenig
           <lb ed="#P" n="31"/>des Magneten natur gleichen, und kein Magnet, der nicht etwas
           <lb ed="#P" n="32"/>eisen in sich halten sollte, zufinden.
-          [pbreak]<lb ed="#P" n="33"/>§ 18. Wie aber solche rundstreiffigte, striate, particulae durch 
+          </p>
+           <p>            
+<lb ed="#P" n="33"/>§ 18. Wie aber solche rundstreiffigte, striate, particulae durch 
           <lb ed="#P" n="34"/>die Meatus oder durchgänge der Erden tringen, dannenhero noch¬
           <lb ed="#P" n="35"/>mals die Uhrsachen der proprietäten derer im 1. Cap. verzeichne¬
           <lb ed="#P" n="36"/>ten problematum, erhellen, ist aus dieser Figur No. 1 abzunehmen
-          <lb ed="#P" n="37"/>§19 Aldas bezeichnen A B die Erde und zwar A derselben
+          </p>
+          <p>
+          <lb ed="#P" n="37"/>§ 19. Aldas bezeichnen A B die Erde und zwar A derselben
           <lb ed="#P" n="38"/>Polum Australem, oder SüdPol. B aber Borealem oder NordPol.
           <!--Chart-A-00707_00193v.xml-->
       <pb ed="#P" n="Chat-A-00707_00193"/>
@@ -322,7 +424,19 @@
           <lb ed="#P" n="12"/>wieder zurückkehren. Dieweilen die durchgänge, dardurch sie von
           <lb ed="#P" n="13"/>einem theil zum andern kommen also beschaffen seint, das sie durch
           <lb ed="#P" n="14"/>dieselbe nicht können oder vermögen zurückgehen.
-          [pbreak]<lb ed="#P" n="15"/>§ 20. So viel nun von den theilen des Himmels E und F neue
+      <lb ed="#P" n="1" type="fixed=Chat-A-00707_00191"/>
+        <figure>
+         <graphic url="iiifurl/93,85,0,1501/full/full/default.jpg"/>
+         <ab type="figure-details">
+            <seg type="figure-text">No I gehört ad pag. 5. § 19 und ad pag. 7 - 2. E a I b A a K b G h L C a b M a F b N a B D No I gehört ad pag. 5. § 19 und ad pag. 7 - 2. E a I b A a K b G h L C a b M a F b N a B D</seg>
+            <seg type="figure-ideas"/>
+            <seg type="transkribus-id">r2</seg>
+         </ab>
+         <figDesc/>
+      </figure>
+          </p>
+           <p>            
+<lb ed="#P" n="15"/>§ 20. So viel nun von den theilen des Himmels E und F neue
           <lb ed="#P" n="16"/>kommen, so viel gehen hingegen an den andern theilen des Hum¬
           <lb ed="#P" n="17"/>mels G und H widerum hinweg, oder aber sie werden in weren¬
           <lb ed="#P" n="18"/>der ihrer wanderzeit zerstreuet, oder aber verlieren ihre gestalt
@@ -336,7 +450,9 @@
           <lb ed="#P" n="26"/>Elemente, welche particulen, indem sie derselbe aus ihren
           <lb ed="#P" n="27"/>Plätzen oder örtern zuvertreiben sich bearbeiten, werden sie bis—
           <lb ed="#P" n="28"/>weilen von diesen comminuiret oder kleiner gemachet.
-          [pbreak]<lb ed="#P" n="29"/>§ 21 So nun etwas diese rundstreifichte (striatae) particulae da¬
+          </p>
+           <p>            
+<lb ed="#P" n="29"/>§ 21 So nun etwas diese rundstreifichte (striatae) particulae da¬
           <lb ed="#P" n="30"/>selbst einen Magnet antreffen, und in demselben solche durchgän¬
           <lb ed="#P" n="31"/>ge, die mit ihrer figur oder gestalt übereinkommen, auch auf
           <lb ed="#P" n="32"/>diese art, als die durchgänge in der inneren erde disponiret
@@ -346,6 +462,26 @@
           <lb ed="#P" n="36"/>wenn der Magnet auf so einer art gehalten wird, das die eingänge
           <lb ed="#P" n="37"/>(orificia) seiner durchgänge (meatum) gegen die theile der Erden
           <lb ed="#P" n="38"/>sich kehren, von welchen dieselben rundstreiffigten Particulae kommen,
+          </p>
+          <!--missing 2 lines-->
+          </div>
+          <div alias="prin-pt4-magnet-c3">
+          <head>Caput 3</head>
+          <!--missing Chart-A-00707_00194r.xml-->
+          <p>
+          </p>
+          <p>
+        <lb ed="#P" n="1" type="fixed=Chat-A-00707_00191"/>
+        <figure>
+         <graphic url="iiifurl/93,85,0,1501/full/full/default.jpg"/>
+         <ab type="figure-details">
+            <seg type="figure-text">No I gehört ad pag. 5. § 19 und ad pag. 7 - 2. E a I b A a K b G h L C a b M a F b N a B D No I gehört ad pag. 5. § 19 und ad pag. 7 - 2. E a I b A a K b G h L C a b M a F b N a B D</seg>
+            <seg type="figure-ideas"/>
+            <seg type="transkribus-id">r2</seg>
+         </ab>
+         <figDesc/>
+      </figure>
+          </p>
           <!--Chart-A-00707_00194v.xml-->
       <pb ed="#P" n="Chat-A-00707_00194"/>
       <lb ed="#P" n="1"/>und keiner von disen beeden polis ist mehr als der andere geneigt oder abhengend,
@@ -368,9 +504,13 @@
           <lb ed="#P" n="18"/>und können von den Nordischen, welche von dem Strich der Erden A C
           <lb ed="#P" n="19"/>zu seinem andern Polo, b so leicht wenn er aufgerichtet als wieder
           <lb ed="#P" n="20"/>gebeuget ist, kommen, nicht gehindert werden.
-          [pbreak]<lb ed="#P" n="21"/>(3. Warumb ein Magnet zu dem anderen sich
-          [pbreak]<lb ed="#P" n="22"/>kehret und neige gleich als zu der Erden?)
-          [pbreak]<lb ed="#P" n="23"/>Indem aber nun diese particulae striate, oder rundstreifichte particulen
+          </p>
+           <p>            
+<lb ed="#P" n="21"/>(3. Warumb ein Magnet zu dem anderen sich
+<lb ed="#P" n="22"/>kehret und neige gleich als zu der Erden?)
+          </p>
+           <p>            
+<lb ed="#P" n="23"/>Indem aber nun diese particulae striate, oder rundstreifichte particulen
           <lb ed="#P" n="24"/>durch ieden Magnet auf gleiche Weise, als wie durch die Erde geehen,
           <lb ed="#P" n="25"/>so müßen nothwendig zwene runde Magnet einen zu dem andern
           <lb ed="#P" n="26"/>nicht anders, als wie zu der gantzen runden sich kehren. und ist
@@ -385,12 +525,16 @@
           <lb ed="#P" n="35"/>Und also, was die Magnetische Kraft betrifft, verhelt es sich in
           <lb ed="#P" n="36"/>allen sachen von einen Magneten gegen den anderen, als wie
           <lb ed="#P" n="37"/>gegen der Erden, welche nichts anders, als ein großer Magnet ist.
+          </p>
+          <p>
           <!--Chart-A-00707_00195r.xml-->
       <pb ed="#P" n="Chat-A-00707_00195"/>
       <lb ed="#P" n="1"/>(4. Warumb sich zwenn Magnet zueinander begeben
-          [pbreak]<lb ed="#P" n="2"/>und was eines ieden Umbkreises Krafft sey?
-          [pbreak]<lb ed="#P" n="3"/>(quae sit cuiusqe sphaera activitatis.)
-          [pbreak]<lb ed="#P" n="4"/>Es kehren sich aber nicht allein zwene Magnete gegen einander bis der
+<lb ed="#P" n="2"/>und was eines ieden Umbkreises Krafft sey?
+<lb ed="#P" n="3"/>(quae sit cuiusqe sphaera activitatis.)
+          </p>
+           <p>            
+<lb ed="#P" n="4"/>Es kehren sich aber nicht allein zwene Magnete gegen einander bis der
           <lb ed="#P" n="5"/>einen Nord-Pol gegen des anderen Süd-Pol gleich über zustehen kommet, sondern
           <lb ed="#P" n="6"/>überdieses, wenn sie also gewendet oder gerichtet stehen, so begeben sie sich
           <lb ed="#P" n="7"/>auch zueinander, das einer den anderen berühret, woferne nichts nicht
@@ -440,9 +584,13 @@
           <lb ed="#P" n="10"/>schwierigkeit thun sollten, welche zwene wege auch viel kürtzer
           <lb ed="#P" n="11"/>seind, das sich diese zwene Magneten zusammen begeben, als
           <lb ed="#P" n="12"/>wenn der eine gehalten und nur der andere zu ihme kömmet.
-          [pbreak]<lb ed="#P" n="13"/>(5. Warumb sie ie bisweilen von
-          [pbreak]<lb ed="#P" n="14"/>einander blieben?)
-          [pbreak]<lb ed="#P" n="15"/>Die gleich-genanten Poli aber zweyer Magneten kommen nicht also zu¬
+          </p>
+           <p>            
+<lb ed="#P" n="13"/>(5. Warumb sie ie bisweilen von
+<lb ed="#P" n="14"/>einander blieben?)
+          </p>
+           <p>            
+<lb ed="#P" n="15"/>Die gleich-genanten Poli aber zweyer Magneten kommen nicht also zu¬
           <lb ed="#P" n="16"/>sammen, sondern im gegentheil, wenn sie einander zu nahe
           <lb ed="#P" n="17"/>gehalten werden, flihen oder weichen sie voneinander. Denn
           <lb ed="#P" n="18"/>die Particulae Striatae, die von des einen Magnets Polo, welchen
@@ -475,11 +623,15 @@
           <lb ed="#P" n="3"/>alle Zeit ein Raum erfordert zwischen den zweyen Magneten, damit
           <lb ed="#P" n="4"/>die Particulae striatae aus Ihnen durch die Polos A und a kommende,
           <lb ed="#P" n="5"/>gegen V und X durchgehen können.
-          [pbreak]<lb ed="#P" n="6"/>(6. Warumb die in Zwey geschnittene theile eines
-          [pbreak]<lb ed="#P" n="7"/>Magnets, welche vor der Zerschneidung ver¬
-          [pbreak]<lb ed="#P" n="8"/>einiget gewesen, hernachmals von einan¬
-          [pbreak]<lb ed="#P" n="9"/>der abweichen?)
-          [pbreak]<lb ed="#P" n="10"/>Und aus diesem nun ist leichtlich zu verstehen, warumb, wenn ein
+          </p>
+           <p>            
+<lb ed="#P" n="6"/>(6. Warumb die in Zwey geschnittene theile eines
+<lb ed="#P" n="7"/>Magnets, welche vor der Zerschneidung ver¬
+<lb ed="#P" n="8"/>einiget gewesen, hernachmals von einan¬
+<lb ed="#P" n="9"/>der abweichen?)
+          </p>
+           <p>            
+<lb ed="#P" n="10"/>Und aus diesem nun ist leichtlich zu verstehen, warumb, wenn ein
           <lb ed="#P" n="11"/>Magnet mit einer geraden Linien durch die Polos getheilet oder zerschnit¬
           <lb ed="#P" n="12"/>ten wird, und das eine abgeschnittene Theil frey über den Magnet von
           <lb ed="#P" n="13"/>welchen es abgeschnitten ist, gehenget wird, sich alden von sich selbsten
@@ -493,20 +645,28 @@
           <lb ed="#P" n="21"/>gegangen, müßen dieselbige durch den Nordertheil des anderen
           <lb ed="#P" n="22"/>wiederum hinein gehen, und die durch den Nordertheil passierten ausgangenen
           <lb ed="#P" n="23"/>müssen durch den Südertheil wieder hinein gehen.
-          [pbreak]<lb ed="#P" n="24"/>(7. Warumb die Zwey Puncta, welche erstlich in
-          [pbreak]<lb ed="#P" n="25"/>einem Magnet einander berühreten, hernach¬
-          [pbreak]<lb ed="#P" n="26"/>mals in desselben Stükken Poli werden
-          [pbreak]<lb ed="#P" n="27"/>von underschiedlicher Krafft?)
-          [pbreak]<lb ed="#P" n="28"/>Hierauß ist auch offenbahr, warumb, wenn ein Magnet zwischen
+          </p>
+           <p>            
+<lb ed="#P" n="24"/>(7. Warumb die Zwey Puncta, welche erstlich in
+<lb ed="#P" n="25"/>einem Magnet einander berühreten, hernach¬
+<lb ed="#P" n="26"/>mals in desselben Stükken Poli werden
+<lb ed="#P" n="27"/>von underschiedlicher Krafft?)
+          </p>
+           <p>            
+<lb ed="#P" n="28"/>Hierauß ist auch offenbahr, warumb, wenn ein Magnet zwischen
           <lb ed="#P" n="29"/>den polis in der mitten entzwey getheilet wird, die poli der beeden
           <lb ed="#P" n="30"/>stücke, welche vor der Zertheilung einander berühreten, als b und
           <lb ed="#P" n="31"/>a, wiedriger würkunge seind: Dieweil nemlich die particulae striatae,
           <lb ed="#P" n="32"/>die da durch einen aus disen polis hervor kommen, durch den an¬
           <lb ed="#P" n="33"/>deren wiederumb hienein gehen müße.
-          [pbreak]<lb ed="#P" n="34"/>(8. Warumb in einem ieden Theil des Magneten
-          [pbreak]<lb ed="#P" n="35"/>Die Krafft oder Würkung sey, als wie sie
-          [pbreak]<lb ed="#P" n="36"/>ist in dem Gantzen Magnet?)
-          [pbreak]<lb ed="#P" n="37"/>Es ist auch nicht weniger bekand, das eben die Krafft und Würkung
+          </p>
+           <p>            
+<lb ed="#P" n="34"/>(8. Warumb in einem ieden Theil des Magneten
+<lb ed="#P" n="35"/>Die Krafft oder Würkung sey, als wie sie
+<lb ed="#P" n="36"/>ist in dem Gantzen Magnet?)
+          </p>
+           <p>            
+<lb ed="#P" n="37"/>Es ist auch nicht weniger bekand, das eben die Krafft und Würkung
           <lb ed="#P" n="38"/>in einem anderen theil des Magneten, als wie in dem gantzen
           <lb ed="#P" n="39"/>zuverspühren sey: Denn es ist keine andere Krafft in den Polis
           <lb ed="#P" n="40"/>als in den anderen Stükken, sondern sie scheinet nur deswegen
@@ -524,9 +684,13 @@
           <lb ed="#P" n="7"/>nicht das kleineste Stüklein oder bißlein eines Magneten zu finden,
           <lb ed="#P" n="8"/>in welchem sie, woferne der eingang vorhanden, nicht auch einen aus¬
           <lb ed="#P" n="9"/>gang haben sollten.
-          [pbreak]<lb ed="#P" n="10"/>(9. Warumb ein Magnet dem Eisen, das ihn
-          [pbreak]<lb ed="#P" n="11"/>berühret, seine Krafft mittheilet?)
-          [pbreak]<lb ed="#P" n="12"/>So ist es auch kein Wunder, das das Eisen, so den Magnet berühret,
+          </p>
+           <p>            
+<lb ed="#P" n="10"/>(9. Warumb ein Magnet dem Eisen, das ihn
+<lb ed="#P" n="11"/>berühret, seine Krafft mittheilet?)
+          </p>
+           <p>            
+<lb ed="#P" n="12"/>So ist es auch kein Wunder, das das Eisen, so den Magnet berühret,
           <lb ed="#P" n="13"/>von ihme eine Magnetische Krafft erlange, denn es hat schon
           <lb ed="#P" n="14"/>bequeme gänge die Particulas striatas anzunehmen, und es man¬
           <lb ed="#P" n="15"/>gelt ihme nichts mehr diese Krafft zuerlangen, als das noch in
@@ -542,11 +706,15 @@
           <lb ed="#P" n="25"/>durchgängen hervor rakende Spitzergen darnieder, und geben
           <lb ed="#P" n="26"/>ihm also ferner alle das, was in Ihm zur Magnetischen Krafft
           <lb ed="#P" n="27"/>mogte begehret werden.
-          [pbreak]<lb ed="#P" n="28"/>(10. Warumb das Eisen nach underschiedlicher
-          [pbreak]<lb ed="#P" n="29"/>art, als es gegen den Magnet gehalten
-          [pbreak]<lb ed="#P" n="30"/>wird, seine Krafft underschiedlich em¬
-          [pbreak]<lb ed="#P" n="31"/>pfahe?)
-          [pbreak]<lb ed="#P" n="32"/>Und zwar nach underschiedlichen theilen des Magnets, denen das
+          </p>
+           <p>            
+<lb ed="#P" n="28"/>(10. Warumb das Eisen nach underschiedlicher
+<lb ed="#P" n="29"/>art, als es gegen den Magnet gehalten
+<lb ed="#P" n="30"/>wird, seine Krafft underschiedlich em¬
+<lb ed="#P" n="31"/>pfahe?)
+          </p>
+           <p>            
+<lb ed="#P" n="32"/>Und zwar nach underschiedlichen theilen des Magnets, denen das
           <lb ed="#P" n="33"/>Eisen appliciret wird, empfähet es auch underschiedlich dessel¬
           <lb ed="#P" n="34"/>ben Krafft, also das theil R des Eisens R S T, wenn es dem Nord-
           <lb ed="#P" n="35"/>Pol des Magneten P appliciret wird, so wird es der Süd-Pol
@@ -566,9 +734,13 @@
           <lb ed="#P" n="7"/>den seiten R und T heraus, und wird also aus diesen beeden theilen
           <lb ed="#P" n="8"/>die Krafft des Süd-Poli, in der mitten aber die Krafft des Nord¬
           <lb ed="#P" n="9"/>Poli haben.
-          [pbreak]<lb ed="#P" n="10"/>(11. Warumb ein länglecht Eisen die Krafft des Magnets
-          [pbreak]<lb ed="#P" n="11"/>nicht anders, als nach seiner länge empfahe?)
-          [pbreak]<lb ed="#P" n="12"/>Hier kann auch gefragt werden, warumb die particulae striatae, die da
+          </p>
+           <p>            
+<lb ed="#P" n="10"/>(11. Warumb ein länglecht Eisen die Krafft des Magnets
+<lb ed="#P" n="11"/>nicht anders, als nach seiner länge empfahe?)
+          </p>
+           <p>            
+<lb ed="#P" n="12"/>Hier kann auch gefragt werden, warumb die particulae striatae, die da
           <lb ed="#P" n="13"/>aus dem Polo A des Magneten in das theil S des Eisens hinein gan¬
           <lb ed="#P" n="14"/>gen, nicht gerade gegen E zu gehen, sondern sich vielmehr hier und
           <lb ed="#P" n="15"/>dar gegen R und T reflectiren, das also solches eisen die Magnetische 
@@ -576,10 +748,14 @@
           <lb ed="#P" n="17"/>wort aber hierauf ist leicht, dieweil sie viel mehr geöfnete und leich¬
           <lb ed="#P" n="18"/>tere Wege in dem eisen denn in der Lufft finden, derohalben sie auch
           <lb ed="#P" n="19"/>von dieser gegen das Eisen reflectiret werden.
-          [pbreak]<lb ed="#P" n="20"/>(12. Warumb der Magnet von seiner Krafft
-          [pbreak]<lb ed="#P" n="21"/>nicht abgehet, ob Er schon dieselbe dem
-          [pbreak]<lb ed="#P" n="22"/>Eisen mittheilet?)
-          [pbreak]<lb ed="#P" n="23"/>Auch diese andwort ist leicht, wenn man fraget: Warumb einen Magne¬
+          </p>
+           <p>            
+<lb ed="#P" n="20"/>(12. Warumb der Magnet von seiner Krafft
+<lb ed="#P" n="21"/>nicht abgehet, ob Er schon dieselbe dem
+<lb ed="#P" n="22"/>Eisen mittheilet?)
+          </p>
+           <p>            
+<lb ed="#P" n="23"/>Auch diese andwort ist leicht, wenn man fraget: Warumb einen Magne¬
           <lb ed="#P" n="24"/>ten von seiner Krafft nichts abgehet, da er doch diselbe dem Eisen
           <lb ed="#P" n="25"/>mittheilet? Denn in dem Magnet geschihet keine Enderung deswegen
           <lb ed="#P" n="26"/>das die Particulae striatae von ihm aus, und mehr lieber in das Eisen
@@ -588,29 +764,41 @@
           <lb ed="#P" n="29"/>figer aus dem Magnet, wenn ihme das Eysen vereiniget ist, heraus
           <lb ed="#P" n="30"/>sich begeben; das ist aber so weit gefehlet, das seine Krafft sollte dardurch
           <lb ed="#P" n="31"/>vermintert und nicht vielmehr vermehret werden.
-          [pbreak]<lb ed="#P" n="32"/>(13. Warumb diese Krafft dem Eisen so ge¬
-          [pbreak]<lb ed="#P" n="33"/>schwinde zwar mittgetheilet, aber mit der
-          [pbreak]<lb ed="#P" n="34"/>Länge der Zeit bestärket wird?)
-          [pbreak]<lb ed="#P" n="35"/>Und in gar kurtzer Zeit kömt diese Kraft zu dem Eisen, dieweil die
+          </p>
+           <p>            
+<lb ed="#P" n="32"/>(13. Warumb diese Krafft dem Eisen so ge¬
+<lb ed="#P" n="33"/>schwinde zwar mittgetheilet, aber mit der
+<lb ed="#P" n="34"/>Länge der Zeit bestärket wird?)
+          </p>
+           <p>            
+<lb ed="#P" n="35"/>Und in gar kurtzer Zeit kömt diese Kraft zu dem Eisen, dieweil die
           <lb ed="#P" n="36"/>Particulae striatae auf das geschwindeste durch dasselbe durchgehen;
           <lb ed="#P" n="37"/>aber mit einem längeren verzug wird es mehr in demselben
           <lb ed="#P" n="38"/>bestärket, denn ie lenger in einem theil die hervor gerakten Spitzen
           <lb ed="#P" n="39"/>der ramentorum wieder gebogen bleiben, desto schwerer können sie
           <lb ed="#P" n="40"/>auf den gegentheil reflectiret werden.
-          [pbreak]<!--Chart-A-00707_00197v.xml-->
+          </p>
+           <p>            
+<!--Chart-A-00707_00197v.xml-->
       <pb ed="#P" n="Chat-A-00707_00197"/>
       <lb ed="#P" n="1"/>(14. Warumb zu empfahung dieser Krafft
-          [pbreak]<lb ed="#P" n="2"/>der Stahl viel bequehmer als das gringste
-          [pbreak]<lb ed="#P" n="3"/>Eisen sey?)
-          [pbreak]<lb ed="#P" n="4"/>Und der Stahl nimt diese Krafft viel stärker an, als das gringste
+<lb ed="#P" n="2"/>der Stahl viel bequehmer als das gringste
+<lb ed="#P" n="3"/>Eisen sey?)
+          </p>
+           <p>            
+<lb ed="#P" n="4"/>Und der Stahl nimt diese Krafft viel stärker an, als das gringste
           <lb ed="#P" n="5"/>Eisen, dieweil er mehrere und volkommenere durchgänge hat, so da
           <lb ed="#P" n="6"/>bequehm die partciulas striatas anzunehmen: Diese Krafft enthelt er
           <lb ed="#P" n="7"/>auch bestendiger, dieweilen die in seinen durchgängen herfür rakende
           <lb ed="#P" n="8"/>endgen der ramulorum sich nicht so leicht hin und wieder biegen lassen.
-          [pbreak]<lb ed="#P" n="9"/>(15. Warumb dem Stahl eine stärkere Krafft von einem
-          [pbreak]<lb ed="#P" n="10"/>guten Magneten als einem schlimmen mittgethei¬
-          [pbreak]<lb ed="#P" n="11"/>let wird?)
-          [pbreak]<lb ed="#P" n="12"/>Und es wird Ihme auch eine stärkere Krafft von einem großen und gu¬
+          </p>
+           <p>            
+<lb ed="#P" n="9"/>(15. Warumb dem Stahl eine stärkere Krafft von einem
+<lb ed="#P" n="10"/>guten Magneten als einem schlimmen mittgethei¬
+<lb ed="#P" n="11"/>let wird?)
+          </p>
+           <p>            
+<lb ed="#P" n="12"/>Und es wird Ihme auch eine stärkere Krafft von einem großen und gu¬
           <lb ed="#P" n="13"/>ten Magneten mitgetheilet; so wohl weilen die Particulae striatae mit
           <lb ed="#P" n="14"/>einer hefftigen gewalt in seine durchgänge einbrechen, und die in
           <lb ed="#P" n="15"/>denen selben hervorgehende endgen der ramulorum mehr umb¬
@@ -625,9 +813,13 @@
           <lb ed="#P" n="24"/>durchgänge eröfnen, sondern nur wenige und zwar diese, so da
           <lb ed="#P" n="25"/>von den gar leicht zubiegenden Endgen (extremitatibus) der ramulorum
           <lb ed="#P" n="26"/>verstopffet seint.
-          [pbreak]<lb ed="#P" n="27"/>(16. Warumb auch die Erde selbst dem Eisen
-          [pbreak]<lb ed="#P" n="28"/>eine Magnetische Krafft zueignet?)
-          [pbreak]<lb ed="#P" n="29"/>Dannenhero geschihet, das auch das gringste Eisen, in welchem nem¬
+          </p>
+           <p>            
+<lb ed="#P" n="27"/>(16. Warumb auch die Erde selbst dem Eisen
+<lb ed="#P" n="28"/>eine Magnetische Krafft zueignet?)
+          </p>
+           <p>            
+<lb ed="#P" n="29"/>Dannenhero geschihet, das auch das gringste Eisen, in welchem nem¬
           <lb ed="#P" n="30"/>lich dieselbe Endgen oder Spitzen der ramulorum leicht zu biegen
           <lb ed="#P" n="31"/>sein, von der Erden selbsten, als dem größten aber sehr schwachen
           <lb ed="#P" n="32"/>Magnet, etlicher maßen eine Magnetische Krafft in kurtzer Zeit
@@ -639,12 +831,16 @@
           <lb ed="#P" n="38"/>es dieselbe verlieren und eine gantz-widrige annehmen, wan
           <lb ed="#P" n="39"/>dasselbe Ende des Eysens in die Höhe gehoben, und das gegentheil
           <lb ed="#P" n="40"/>gesenket wird.
-          [pbreak]<!--Chart-A-00707_00198r.xml-->
+          </p>
+           <p>            
+<!--Chart-A-00707_00198r.xml-->
       <pb ed="#P" n="Chat-A-00707_00198"/>
       <lb ed="#P" n="1"/>(17. Warumb die Krafft der Magnetische in der
-          [pbreak]<lb ed="#P" n="2"/>Erden schwächer sey, als in anderen kleine¬
-          [pbreak]<lb ed="#P" n="3"/>ren Magneten?)
-          [pbreak]<lb ed="#P" n="4"/>So aber gefraget wird, warumb diselbe Kraft in der Erden als in dem
+<lb ed="#P" n="2"/>Erden schwächer sey, als in anderen kleine¬
+<lb ed="#P" n="3"/>ren Magneten?)
+          </p>
+           <p>            
+<lb ed="#P" n="4"/>So aber gefraget wird, warumb diselbe Kraft in der Erden als in dem
           <lb ed="#P" n="5"/>größeren Magnet schwächer sey, denn in anderen kleineren: So andworte
           <lb ed="#P" n="6"/>ich, das ich nicht darvor halte das sie schwächer sey, sondern vielmehr viel
           <lb ed="#P" n="7"/>stärker, in der mitten nemlich der Erden. welche, wie wir oben gesaget,
@@ -677,10 +873,14 @@
           <lb ed="#P" n="34"/>ein Magnet gewesen, dannenhero sich die Poli des ausgehauenen Magnets
           <lb ed="#P" n="35"/>nach derselben erden gewendet; wie kurtz zu vor gesaget ist, das ein
           <lb ed="#P" n="36"/>stücklein des Magnets gegen den anderen sich verwende.
-          [pbreak]<lb ed="#P" n="37"/>(18. Warumb die vom Magnet berührten Nadeln
-          [pbreak]<lb ed="#P" n="38"/>allezeit die Polus ihrer Kräffte in ihren Spi¬
-          [pbreak]<lb ed="#P" n="39"/>tzen haben?)
-          [pbreak]<lb ed="#P" n="40"/>Nun aber, in dem die Magnetische Krafft nicht anders, Einem länglech¬
+          </p>
+           <p>            
+<lb ed="#P" n="37"/>(18. Warumb die vom Magnet berührten Nadeln
+<lb ed="#P" n="38"/>allezeit die Polus ihrer Kräffte in ihren Spi¬
+<lb ed="#P" n="39"/>tzen haben?)
+          </p>
+           <p>            
+<lb ed="#P" n="40"/>Nun aber, in dem die Magnetische Krafft nicht anders, Einem länglech¬
           <!--Chart-A-00707_00198v.xml-->
       <pb ed="#P" n="Chat-A-00707_00198"/>
       <lb ed="#P" n="1"/>tem Eisen als nach dessen Länge mitgetheilet wird, so ist es gewiß, das
@@ -688,12 +888,16 @@
           <lb ed="#P" n="3"/>selben theilen der erden wenden müsse, gegen welche eine runder
           <lb ed="#P" n="4"/>Magnet seine Polos kehret, und das dergleichen Nadel allezeit über die Po¬
           <lb ed="#P" n="5"/>los Ihrer Magnetischen Krafft genau in ihren Spitzen haben.
-          [pbreak]<lb ed="#P" n="6"/>(19. Warumb die Poli, darinnen Magnetische
-          [pbreak]<lb ed="#P" n="7"/>Kräffte, sich nicht allezeit gerade gegen
-          [pbreak]<lb ed="#P" n="8"/>die Polos der Erden wenden oder rich¬
-          [pbreak]<lb ed="#P" n="9"/>ten, sondern underschidlich von
-          [pbreak]<lb ed="#P" n="10"/>ihnen abweichen?)
-          [pbreak]<lb ed="#P" n="11"/>Und dieweilen Ihre Spitzen leichtlicher von den anderen theilen zu¬
+          </p>
+           <p>            
+<lb ed="#P" n="6"/>(19. Warumb die Poli, darinnen Magnetische
+<lb ed="#P" n="7"/>Kräffte, sich nicht allezeit gerade gegen
+<lb ed="#P" n="8"/>die Polos der Erden wenden oder rich¬
+<lb ed="#P" n="9"/>ten, sondern underschidlich von
+<lb ed="#P" n="10"/>ihnen abweichen?)
+          </p>
+           <p>            
+<lb ed="#P" n="11"/>Und dieweilen Ihre Spitzen leichtlicher von den anderen theilen zu¬
           <lb ed="#P" n="12"/>underscheiden seint, als die Poli des Magnets, so ist dardurch zu mer¬
           <lb ed="#P" n="13"/>ken, das die Poli, worinnen Magnetische Kräfte, nicht gerade gegen
           <lb ed="#P" n="14"/>die Polos der Erden sich richten, sondern in underschiedlichen örtern
@@ -724,9 +928,13 @@
       <pb ed="#P" n="Chat-A-00707_00199"/>
       <lb ed="#P" n="1"/>in welchen dsie abweichung geschihet, zu vergleichen, alwo man denn zuer¬
           <lb ed="#P" n="2"/>sehen, das sie groß genugsam sein.
-          [pbreak]<lb ed="#P" n="3"/>(20. Warumb auch bißweilen mit der Zeit
-          [pbreak]<lb ed="#P" n="4"/>solche abweichung verendert werde?)
-          [pbreak]<lb ed="#P" n="5"/>Es seint etliche die sagen, das diese abweichung nicht allezeit an den sel¬
+          </p>
+           <p>            
+<lb ed="#P" n="3"/>(20. Warumb auch bißweilen mit der Zeit
+<lb ed="#P" n="4"/>solche abweichung verendert werde?)
+          </p>
+           <p>            
+<lb ed="#P" n="5"/>Es seint etliche die sagen, das diese abweichung nicht allezeit an den sel¬
           <lb ed="#P" n="6"/>ben örtern der Erden gleich sey oder bleibt; sondern werde mit der Zeit
           <lb ed="#P" n="7"/>verendert. Welches einem nicht seltzam zu sein dünken soll; nicht allein
           <lb ed="#P" n="8"/>weil das Eisen täglich von einem ort der Erden zum andern durch die
@@ -734,11 +942,15 @@
           <lb ed="#P" n="10"/>so da in dem eußersten theil der erden sind, mit der Zeit können
           <lb ed="#P" n="11"/>verderbet, und andere in anderen gezeuget, oder von der innersten
           <lb ed="#P" n="12"/>Erden herausgeschicket werden.
-          [pbreak]<lb ed="#P" n="13"/>(21. Warumb dieselbe abweichung in einem Magnet,
-          [pbreak]<lb ed="#P" n="14"/>der auf einem von seinen Polis aufgerichtet stehet,
-          [pbreak]<lb ed="#P" n="15"/>schwächer oder weniger sey, als wen seine Poli
-          [pbreak]<lb ed="#P" n="16"/>gleich von der Erden stehen?)
-          [pbreak]<lb ed="#P" n="17"/>Es seint auch etliche die da vorgeben, daß dergleichen abweichung nicht
+          </p>
+           <p>            
+<lb ed="#P" n="13"/>(21. Warumb dieselbe abweichung in einem Magnet,
+<lb ed="#P" n="14"/>der auf einem von seinen Polis aufgerichtet stehet,
+<lb ed="#P" n="15"/>schwächer oder weniger sey, als wen seine Poli
+<lb ed="#P" n="16"/>gleich von der Erden stehen?)
+          </p>
+           <p>            
+<lb ed="#P" n="17"/>Es seint auch etliche die da vorgeben, daß dergleichen abweichung nicht
           <lb ed="#P" n="18"/>sey in einem runden Magnet, wenn er in denn(!) Nordischen Regionen
           <lb ed="#P" n="19"/>auf dem Süd-Pol, und in den Südischen örtern auf den Nord-Pol
           <lb ed="#P" n="20"/>perpendiculariter aufgerichtet wird, und das wenn man ihn solcher
@@ -756,8 +968,12 @@
           <lb ed="#P" n="32"/>Von welchen letzteren denn vornemlich des Magneten, welcher auf
           <lb ed="#P" n="33"/>den Polis aufgerichtet, Umbtrehung (conversio) von denen
           <lb ed="#P" n="34"/>ersten aber seine abweichung herrühret.
-          [pbreak]<lb ed="#P" n="35"/>(22. Warumb der Magnet das Eisen zihe?)
-          [pbreak]<lb ed="#P" n="36"/>Ferner so ziehet der Magnet das Eisen, oder besser zu sagen,
+          </p>
+           <p>            
+<lb ed="#P" n="35"/>(22. Warumb der Magnet das Eisen zihe?)
+          </p>
+           <p>            
+<lb ed="#P" n="36"/>Ferner so ziehet der Magnet das Eisen, oder besser zu sagen,
           <lb ed="#P" n="37"/>der Magnet und das Eisen rücken zueinander: denn es
           <lb ed="#P" n="38"/>ist da da durchaus keine Ziehung, sondern so balden das Eisen
           <!--Chart-A-00707_00199v.xml-->
@@ -771,9 +987,13 @@
           <lb ed="#P" n="7"/>es nur bloß aus solchen ramentis oder abnutzelungen bestehet, in
           <lb ed="#P" n="8"/>welchen die Particulae Striatae Ihren durchgang haben, Der
           <lb ed="#P" n="9"/>Magnet aber ist annoch mit viel steinigter Materia beschweret.
-          [pbreak]<lb ed="#P" n="10"/>(23. Warumb ein gewaffneter Magnet Viel mehr
-          [pbreak]<lb ed="#P" n="11"/>Eisen enthalte als ein bloßer?)
-          [pbreak]<lb ed="#P" n="12"/>Aber viel verwundern sich, das ein gewaffneter Magnet, oder das
+          </p>
+           <p>            
+<lb ed="#P" n="10"/>(23. Warumb ein gewaffneter Magnet Viel mehr
+<lb ed="#P" n="11"/>Eisen enthalte als ein bloßer?)
+          </p>
+           <p>            
+<lb ed="#P" n="12"/>Aber viel verwundern sich, das ein gewaffneter Magnet, oder das
           <lb ed="#P" n="13"/>eiserne Blech so an den Magnet gehefftet, viel mehr eisen enthalten
           <lb ed="#P" n="14"/>könne, als der Magnet allein. Dessen uhrsach aber doch aus dem
           <lb ed="#P" n="15"/>kann geöfnet werden, daß ob er schon mehr an ihm gehenktes
@@ -798,12 +1018,16 @@
           <lb ed="#P" n="34"/>wenig raum verbleiben muß, dardurch die Particulae striatae
           <lb ed="#P" n="35"/>aus des einen durchgängen in des anderen durchgänge kom¬
           <lb ed="#P" n="36"/>men können.
-          [pbreak]<!--Chart-A-00707_00200r.xml-->
+          </p>
+           <p>            
+<!--Chart-A-00707_00200r.xml-->
       <pb ed="#P" n="Chat-A-00707_00200"/>
       <lb ed="#P" n="1"/>(24. Warumb des Magneten Poli, ob sie einander schon
-          [pbreak]<lb ed="#P" n="2"/>entgegen, doch einander, das Eisen zuenthalten,
-          [pbreak]<lb ed="#P" n="3"/>helffen?)
-          [pbreak]<lb ed="#P" n="4"/>Es verwundern sich auch etliche, das ob schon die Poli des Magnets
+<lb ed="#P" n="2"/>entgegen, doch einander, das Eisen zuenthalten,
+<lb ed="#P" n="3"/>helffen?)
+          </p>
+           <p>            
+<lb ed="#P" n="4"/>Es verwundern sich auch etliche, das ob schon die Poli des Magnets
           <lb ed="#P" n="5"/>einer widrigen Krafft oder würkung zu sein scheinen, iedoch einander,
           <lb ed="#P" n="6"/>das Eisen zu enthalten, helffen, also das wenn sie beede mit Ei¬
           <lb ed="#P" n="7"/>sernen blechen gewaffnet, sie fast noch zweymahl mehrs Eisens zu¬
@@ -826,12 +1050,18 @@
           <lb ed="#P" n="24"/>in die höhe steigen bis zu B des Magnets NordPol und also
           <lb ed="#P" n="25"/>hingegen, die da ausgehen aus B durch das blech E F, das ange¬
           <lb ed="#P" n="26"/>henkte Eisen H G in das andere blech D C, kommen zurück zu A.
-          [pbreak]<lb ed="#P" n="27"/>(25. Warumb die herumb-trehung Eiserner Rätlein
-          [pbreak]<lb ed="#P" n="28"/>Von der Krafft des Magnets, an dem sie hangen,
-          [pbreak]<lb ed="#P" n="29"/>nicht gehindert wird?)
-          [pbreak]<lb ed="#P" n="30"/>Diese bewegung aber der Particularum striatarum durch den Magnet
+          </p>
+           <p>            
+<lb ed="#P" n="27"/>(25. Warumb die herumb-trehung Eiserner Rätlein
+<lb ed="#P" n="28"/>Von der Krafft des Magnets, an dem sie hangen,
+<lb ed="#P" n="29"/>nicht gehindert wird?)
+          </p>
+           <p>            
+<lb ed="#P" n="30"/>Diese bewegung aber der Particularum striatarum durch den Magnet
           <lb ed="#P" n="31"/>und das Eisen, scheinet nicht daß sie auch so wohl mit der Zirkel
-          [pbreak]<lb ed="#P" n="32"/>runden Bewegung Eiserner Räderlein überein komme, welche,
+          </p>
+           <p>            
+<lb ed="#P" n="32"/>runden Bewegung Eiserner Räderlein überein komme, welche,
           <lb ed="#P" n="33"/>wenn sie als eine torrel umbeträhet sein und an dem Magnet
           <lb ed="#P" n="34"/>hängen, sich viel länger also bewegen, als wenn sie ohne den
           <lb ed="#P" n="35"/>Magnet bloß auf der Erden stehen. Und zwar, woferne die
@@ -851,9 +1081,13 @@
           <lb ed="#P" n="7"/>gehindert, wenn sie also an demselben hangende herumbgeträhet
           <lb ed="#P" n="8"/>werden, als von dem anrühren der Erden, welche sie mit ihrem
           <lb ed="#P" n="9"/>gewichte trükken.
-          [pbreak]<lb ed="#P" n="10"/>(26. Wie und warum die Krafft eines Magnets, des
-          [pbreak]<lb ed="#P" n="11"/>anderen Krafft vermehre und vermindere?)
-          [pbreak]<lb ed="#P" n="12"/>Die Krafft eines Magnets wird durch die beykommung eines anderen
+          </p>
+           <p>            
+<lb ed="#P" n="10"/>(26. Wie und warum die Krafft eines Magnets, des
+<lb ed="#P" n="11"/>anderen Krafft vermehre und vermindere?)
+          </p>
+           <p>            
+<lb ed="#P" n="12"/>Die Krafft eines Magnets wird durch die beykommung eines anderen
           <lb ed="#P" n="13"/>Magnets underschiedlich vermehret und vermintert. Es ist
           <lb ed="#P" n="14"/>aber hierinnen eine allgemeine Regel, das so offt die Magneten
           <lb ed="#P" n="15"/>also gestellet sein, das einer in den anderen seine Particulas Stri¬
@@ -877,11 +1111,15 @@
           <lb ed="#P" n="33"/>das es von ihm allein nicht mögte gehalten werden, wenn dessen
           <lb ed="#P" n="34"/>andere Spitze D auf einen anderen Cörper als den Magneten
           <lb ed="#P" n="35"/>C bestünde.
-          [pbreak]<lb ed="#P" n="36"/>(27. Warumb ein Magnet, ob er schon stark, iedoch
-          [pbreak]<lb ed="#P" n="37"/>ein Eisen, das er nicht berühret, von einem
-          [pbreak]<lb ed="#P" n="38"/>anderen Schwächeren Magnet, nicht
-          [pbreak]<lb ed="#P" n="39"/>abzuziehen vermag?)
-          [pbreak]<!--Chart-A-00707_00201r.xml-->
+          </p>
+           <p>            
+<lb ed="#P" n="36"/>(27. Warumb ein Magnet, ob er schon stark, iedoch
+<lb ed="#P" n="37"/>ein Eisen, das er nicht berühret, von einem
+<lb ed="#P" n="38"/>anderen Schwächeren Magnet, nicht
+<lb ed="#P" n="39"/>abzuziehen vermag?)
+          </p>
+           <p>            
+<!--Chart-A-00707_00201r.xml-->
       <pb ed="#P" n="Chat-A-00707_00201"/>
       <lb ed="#P" n="1"/>Aber doch wird inzwischen einige Kraft des Magneten F von dem
           <lb ed="#P" n="2"/>Magneten C versichert, Nemlich diese, dardurch er er sonsten das
@@ -896,11 +1134,15 @@
           <lb ed="#P" n="11"/>F ist, und können derohalben das Eisen D E so nicht allein durch dieselbe
           <lb ed="#P" n="12"/>Magnetische Krafft, sondern auch durch die berührung des Magneten
           <lb ed="#P" n="13"/>C, an welchem es fest ist, gegen F abziehen.
-          [pbreak]<lb ed="#P" n="14"/>(28. Warumb ein Schwacher Magnet oder Eisen,
-          [pbreak]<lb ed="#P" n="15"/>wen er ein anderes Eisen, das an einem anderen,
-          [pbreak]<lb ed="#P" n="16"/>ob schon stärkeren Magnet hänget, berühret, von
-          [pbreak]<lb ed="#P" n="17"/>demselben abziehen könne?)
-          [pbreak]<lb ed="#P" n="18"/>Und dannenhero ist offenbar warümb öfters ein schwacher Magnet
+          </p>
+           <p>            
+<lb ed="#P" n="14"/>(28. Warumb ein Schwacher Magnet oder Eisen,
+<lb ed="#P" n="15"/>wen er ein anderes Eisen, das an einem anderen,
+<lb ed="#P" n="16"/>ob schon stärkeren Magnet hänget, berühret, von
+<lb ed="#P" n="17"/>demselben abziehen könne?)
+          </p>
+           <p>            
+<lb ed="#P" n="18"/>Und dannenhero ist offenbar warümb öfters ein schwacher Magnet
           <lb ed="#P" n="19"/>oder ein gringes Eisen, ein anderes eisen von einem stärkeren
           <lb ed="#P" n="20"/>Magnet abziehe. Aber alhier ist zu merken, das dieses niemals ge¬
           <lb ed="#P" n="21"/>schehen könne, Es sey denn das der schwache Magnet das Eisen
@@ -915,10 +1157,14 @@
           <lb ed="#P" n="30"/>als einem anderen anhängete, als allein das es dem jenigen,
           <lb ed="#P" n="31"/>welchen es anhänget (in majori superficie) In mehrerem ober¬
           <lb ed="#P" n="32"/>theil als den anderen berührete.
-          [pbreak]<lb ed="#P" n="33"/>(29. Warumb in diesen Nordländern Der SüdPol
-          [pbreak]<lb ed="#P" n="34"/>des Magnets viel stärker sey als dessen
-          [pbreak]<lb ed="#P" n="35"/>NordPol?)
-          [pbreak]<lb ed="#P" n="36"/>Deswegen aber weil der Magnet F dem Magneten C hilffet,
+          </p>
+           <p>            
+<lb ed="#P" n="33"/>(29. Warumb in diesen Nordländern Der SüdPol
+<lb ed="#P" n="34"/>des Magnets viel stärker sey als dessen
+<lb ed="#P" n="35"/>NordPol?)
+          </p>
+           <p>            
+<lb ed="#P" n="36"/>Deswegen aber weil der Magnet F dem Magneten C hilffet,
           <lb ed="#P" n="37"/>das Eisen D E zuenthalten, so ist es klar, warumb der von uns
           <lb ed="#P" n="38"/>so genante SüdPol viel mehr Eisen an sich enthalte als der andere
           <!--Chart-A-00707_00201v.xml-->
@@ -927,9 +1173,13 @@
           <lb ed="#P" n="2"/>Magnet geholffen, auf eben die art wie dem Magneten C vom Ma¬
           <lb ed="#P" n="3"/>gneten F; hingegen wird sein anderer Polus, in dem er mit der Er¬
           <lb ed="#P" n="4"/>den nicht überein kommet, von derselben verhindert.
-          [pbreak]<lb ed="#P" n="5"/>(30. Von denen dingen, welche man bey der Eisen-feihel, so
-          [pbreak]<lb ed="#P" n="6"/>umb den Magneten hänget, zubeobachten hat)
-          [pbreak]<lb ed="#P" n="7"/>Wenn Wir etwas eigentlicher betrachten, auf was vor eine art die Eisen¬
+          </p>
+           <p>            
+<lb ed="#P" n="5"/>(30. Von denen dingen, welche man bey der Eisen-feihel, so
+<lb ed="#P" n="6"/>umb den Magneten hänget, zubeobachten hat)
+          </p>
+           <p>            
+<lb ed="#P" n="7"/>Wenn Wir etwas eigentlicher betrachten, auf was vor eine art die Eisen¬
           <lb ed="#P" n="8"/>feihel umd den Magnet sich disponire, so werden wir dardurch viel ver¬
           <lb ed="#P" n="9"/>nehmen, so da das bishergedachte bestettigen wird. Denn vornemlich
           <lb ed="#P" n="10"/>ist zumerken, das derselben Stäublein sich nicht unordentlich auf einander
@@ -991,9 +1241,13 @@
           <lb ed="#P" n="25"/>schiedlich und ungleich seint, so geschihet es allezeit, das etlich particulae
           <lb ed="#P" n="26"/>der Eisenfeyl einen Magnet oder Eisen, andere einem anderen
           <lb ed="#P" n="27"/>fester anhangen und sich vereinigen.
-          [pbreak]<lb ed="#P" n="28"/>(31. Warumb ein Eisenblech, wen es dem Polo eines
-          [pbreak]<lb ed="#P" n="29"/>Magneten vereiniget ist, die Krafft desselben im
-          [pbreak]<lb ed="#P" n="30"/>Zihen und das Eisen umb zu kehren hindere?)¬
+          </p>
+           <p>            
+<lb ed="#P" n="28"/>(31. Warumb ein Eisenblech, wen es dem Polo eines
+<lb ed="#P" n="29"/>Magneten vereiniget ist, die Krafft desselben im
+          </p>
+           <p>            
+<lb ed="#P" n="30"/>Zihen und das Eisen umb zu kehren hindere?)¬
           <lb ed="#P" n="31"/>Die Eiserne Bleche, wenn sie dem Polo des Magnets zugefüget werden,
           <lb ed="#P" n="32"/>können seine Krafft, das Eisen zuenthalten viel vermehren, wie zu¬
           <lb ed="#P" n="33"/>vor gesaget, verhindert auch desselben Krafft das eisen an sich zu zi¬
@@ -1012,9 +1266,13 @@
           <lb ed="#P" n="2"/>lo zu dem anderen widerumb zurück kehren, weswegen es denn geschi¬
           <lb ed="#P" n="3"/>het, das bey uns die Magnetische Krafft der gantzen Erden sehr schwach
           <lb ed="#P" n="4"/>verspüret wird.
-          [pbreak]<lb ed="#P" n="5"/>(32. Warumb diese Krafft, durch darzwischensetzung
-          [pbreak]<lb ed="#P" n="6"/>eines anderen nicht auch gehindert werde?)
-          [pbreak]<lb ed="#P" n="7"/>Aber ausgenommen Eysen oder Magnet, ist kein Corpus, das wenn es
+          </p>
+           <p>            
+<lb ed="#P" n="5"/>(32. Warumb diese Krafft, durch darzwischensetzung
+<lb ed="#P" n="6"/>eines anderen nicht auch gehindert werde?)
+          </p>
+           <p>            
+<lb ed="#P" n="7"/>Aber ausgenommen Eysen oder Magnet, ist kein Corpus, das wenn es
           <lb ed="#P" n="8"/>an stat des blechs C D gesetzet würde, den Magnet A B, das er seine
           <lb ed="#P" n="9"/>Würkung in der Nadel E F nicht üben sollte, hinderen könne, Denn wir
           <lb ed="#P" n="10"/>haben in dieser Eusersten Erden nichts so dichte und hart, in welchem
@@ -1024,19 +1282,27 @@
           <lb ed="#P" n="14"/>welche deswegen die Particulae striatae nicht weniger als durch die Lufft
           <lb ed="#P" n="15"/>in welcher sie auch die globulos des anderen Elements antreffen, durchge¬
           <lb ed="#P" n="16"/>hen können.
-          [pbreak]<lb ed="#P" n="17"/>(33. Warumb die übele Stellung des Magnets, desselben
-          [pbreak]<lb ed="#P" n="18"/>Kräffte allgemach vermindere?)
-          [pbreak]<lb ed="#P" n="19"/>Wenn das Eisen oder Magnet zu der Erden oder andere nahe Magnet anders gekehret
+          </p>
+           <p>            
+<lb ed="#P" n="17"/>(33. Warumb die übele Stellung des Magnets, desselben
+<lb ed="#P" n="18"/>Kräffte allgemach vermindere?)
+          </p>
+           <p>            
+<lb ed="#P" n="19"/>Wenn das Eisen oder Magnet zu der Erden oder andere nahe Magnet anders gekehret
           <lb ed="#P" n="20"/>und nicht also gehalten wird, als er sich sonsten von sich selbsten kehrete, wenn
           <lb ed="#P" n="21"/>seine bewegung nicht gehindert würde, durch dieses verlieret er allge¬
           <lb ed="#P" n="22"/>mach seine Kräfte; dieweilen die Particulae Striatae so aus der Erden
           <lb ed="#P" n="23"/>oder anderen nahen Magneten kommen, in dem sie schrat und gleichsam
           <lb ed="#P" n="24"/>abgekehret (oblique vel averse) in seine durchgänge kommen, und also
           <lb ed="#P" n="25"/>gemach derselben figuren enderen und verderben.
-          [pbreak]<lb ed="#P" n="26"/>(34. Warumb der Rost, die Feuchtigkeit, und die unsauber¬
-          [pbreak]<lb ed="#P" n="27"/>keit seine Kräfte vermidnere, ein hefftiges Feur aber
-          [pbreak]<lb ed="#P" n="28"/>gar hinweg nehme?)
-          [pbreak]<lb ed="#P" n="29"/>Endlichen so wird auch die Kraft des Magnets durch Feuchtigkeit
+          </p>
+           <p>            
+<lb ed="#P" n="26"/>(34. Warumb der Rost, die Feuchtigkeit, und die unsauber¬                    
+<lb ed="#P" n="27"/>keit seine Kräfte vermidnere, ein hefftiges Feur aber
+<lb ed="#P" n="28"/>gar hinweg nehme?)
+          </p>
+           <p>            
+<lb ed="#P" n="29"/>Endlichen so wird auch die Kraft des Magnets durch Feuchtigkeit
           <lb ed="#P" n="30"/>Rost, und unreinigkeit sehr vergringert, von einem hefftigen Feuer
           <lb ed="#P" n="31"/>aber gar hinweg genommen, Denn der Rost, so aus den ramentis
           <lb ed="#P" n="32"/>des Eisens hervor kommet, verstopfet die öffnungen der durch¬
@@ -1047,6 +1313,11 @@
           <lb ed="#P" n="37"/>so warhafftig und gewiß, was den Magneten betrifft, observiret
           <lb ed="#P" n="38"/>worden, dessen Uhrsachen man nicht aus dem, was itzoher explici¬
           <lb ed="#P" n="39"/>ret worden, leichtlich verstehen könnte.
-          [pbreak]<lb ed="#P" n="40"/>Ende.
-          [pbreak]</p>
+          </p>
+           <p>            
+<lb ed="#P" n="40"/>Ende.
+          </p>
+           <p>            
+</p>
+</div>
 </div>
