@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div xml:id="dor5dc">
-   <div alias="prin-pt4-magnet-c1"> <!-- descartes c. 145 -->
-      <head>Caput 1</head>
+   <div alias="prin-pt4-c145">
+      <head>Caput 145</head>
       <p><!--Chart-A-00707_00190r.xml-->
          <pb ed="#P" n="190-r"/>
          <lb ed="#P" n="1"/>Kürtzliche Erleüterung       
@@ -286,8 +286,9 @@
          <lb ed="#P" n="23"/>art.
       </p>
    </div>
-   <div alias="prin-pt4-magnet-c2">
-      <head>Caput 2</head>
+   
+      <div alias="prin-pt4-XXX"> <!-- unclear what in descartes this parallels; maybe kind of commentary or additional text not in Latin editino -->
+      <head>XXX</head>
       <p>            
          <lb ed="#P" n="24"/>Cap. 11.
       </p>
@@ -303,7 +304,7 @@
          <lb ed="#P" n="31"/>besteht in der Erhaltung, zugehenden Verringerung und Zerstreuen¬
          <lb ed="#P" n="32"/>den abnehmung kleiner Stückkerchen oder Bißergen, so Cartesius
          <lb ed="#P" n="33"/>Particulas, andere Corpuscula nennen, so aber von den atomis
-         <lb ed="#P" n="34"/>Democriti und der alten differiren, das diese den Ihrigen unter
+         <lb ed="#P" n="34"/><ame>Democriti</ame> und der alten differiren, das diese den Ihrigen unter
          <lb ed="#P" n="35"/>andern eine beständige größe, form, bewegung etc zugeeignet.
       </p>
       <p>            
@@ -419,8 +420,9 @@
          <lb ed="#P" n="35"/>mals die Uhrsachen der proprietäten derer im 1. Cap. verzeichne¬
          <lb ed="#P" n="36"/>ten problematum, erhellen, ist aus dieser Figur No. 1 abzunehmen
       </p>
-      
-      <p> <!-- 146 -->
+   </div>
+   <div alias="prin-pt4-c146">
+      <head>Caput 146</head>
          <lb ed="#P" n="37"/>§ 19. Aldas bezeichnen A B die Erde und zwar A derselben
          <lb ed="#P" n="38"/>Polum Australem, oder SüdPol. B aber Borealem oder NordPol.
          <!--Chart-A-00707_00193v.xml-->
@@ -449,8 +451,10 @@
             </ab>
             <figDesc/>
          </figure>
-      </p>
-      <p> <!-- 147 -->
+   </div>
+   <div alias="prin-pt4-c147">
+      <head>Caput 147</head>
+      <p> 
          <lb ed="#P" n="15" type="fixed=193-v"/>§ 20. So viel nun von den theilen des Himmels E und F neue
          <lb ed="#P" n="16"/>kommen, so viel gehen hingegen an den andern theilen des Hum¬
          <lb ed="#P" n="17"/>mels G und H widerum hinweg, oder aber sie werden in weren¬
@@ -466,7 +470,10 @@
          <lb ed="#P" n="27"/>Plätzen oder örtern zuvertreiben sich bearbeiten, werden sie bis—
          <lb ed="#P" n="28"/>weilen von diesen comminuiret oder kleiner gemachet.
       </p>
-      <p><!-- 148? -->
+   </div>
+   <div alias="prin-pt4-c148">
+      <head>Caput 148</head>
+      <p>
          <lb ed="#P" n="29"/>§ 21 So nun etwas diese rundstreifichte (striatae) particulae da¬
          <lb ed="#P" n="30"/>selbst einen Magnet antreffen, und in demselben solche durchgän¬
          <lb ed="#P" n="31"/>ge, die mit ihrer figur oder gestalt übereinkommen, auch auf
@@ -483,12 +490,13 @@
          <lb ed="#P" n="2"/>hen können.
       </p>
    </div>
-   <div alias="prin-pt4-magnet-c3">
-      <head>Caput 3</head>
+   <div alias="prin-pt4-c149">
+      <head>Caput 149</head>
+      <!-- this is where german translation chapter 3 begins -->
       <p>
          <lb ed="#P" n="3"/>Cap. III
       </p>
-      <p><!-- descartes c. 149 -->
+      <p>
          <lb ed="#P" n="4"/>(1. Welches die Poli des Magnets seind, und warumb sie sich
          <lb ed="#P" n="5"/>gegen die Erde kehren?)
       </p>
@@ -507,7 +515,9 @@
          <lb ed="#P" n="17"/>Sachen selbst übel-überein kommende namen durch steten gebrauch an¬
          <lb ed="#P" n="18"/>zu nehmen und zu approbiren. 
       </p>
-      <!-- desc 150 -->
+   </div>
+   <div alias="prin-pt4-c150">
+      <head>Caput 150</head>
       <p>
          Nun aber, wenn sich etwan solche
          <lb ed="#P" n="19"/>Poli des Magnets nicht zu denen theilen der Erden kehren oder gewand sein,
@@ -525,7 +535,10 @@
          <lb ed="#P" n="31"/>mitte der Erden kommen, und die sich nach Norden wenden,
          <lb ed="#P" n="32"/>sint gleichergestalt erstlichvon Norden kommen.
       </p>
-      <p> <!-- Descartes c. 151-->
+   </div>
+   <div alias="prin-pt4-c151">
+      <head>Caput 151</head>
+      <p>
          <lb ed="#P" n="33"/>(2. Warumb sich auch die zwen Poli des Magnets auf eine
          <lb ed="#P" n="34"/>gewiße art gegen den mittelpunct der
          <lb ed="#P" n="35"/>erden neigen?)
@@ -570,7 +583,10 @@
          <lb ed="#P" n="19"/>zu seinem andern Polo, b so leicht wenn er aufgerichtet als wieder
          <lb ed="#P" n="20"/>gebeuget ist, kommen, nicht gehindert werden.
       </p>
-      <p> <!-- descartes 152 -->
+   </div>
+   <div alias="prin-pt4-c152">
+      <head>Caput 152</head>
+      <p>
          <lb ed="#P" n="21"/>(3. Warumb ein Magnet zu dem anderen sich
          <lb ed="#P" n="22"/>kehret und neige gleich als zu der Erden?)
       </p>
@@ -591,7 +607,10 @@
          <lb ed="#P" n="36"/>allen sachen von einen Magneten gegen den anderen, als wie
          <lb ed="#P" n="37"/>gegen der Erden, welche nichts anders, als ein großer Magnet ist.
       </p>
-      <p> <!-- Descartes c. 153 -->
+   </div>
+   <div alias="prin-pt4-c153">
+      <head>Caput 153</head>
+      <p>
          <!--Chart-A-00707_00195r.xml-->
          <pb ed="#P" n="195-r"/>
          <lb ed="#P" n="1"/>(4. Warumb sich zwenn Magnet zueinander begeben
@@ -662,7 +681,10 @@
          <lb ed="#P" n="11"/>seind, das sich diese zwene Magneten zusammen begeben, als
          <lb ed="#P" n="12"/>wenn der eine gehalten und nur der andere zu ihme kömmet.
       </p>
-      <p><!-- descartes 154-->
+   </div>
+   <div alias="prin-pt4-c154">
+      <head>Caput 154</head>
+      <p>
          <lb ed="#P" n="13"/>(5. Warumb sie ie bisweilen von
          <lb ed="#P" n="14"/>einander blieben?)
       </p>
@@ -713,7 +735,10 @@
          <lb ed="#P" n="4"/>die Particulae striatae aus Ihnen durch die Polos A und a kommende,
          <lb ed="#P" n="5"/>gegen V und X durchgehen können.
       </p>
-      <p> <!-- desc 155 -->
+   </div>
+   <div alias="prin-pt4-c155">
+      <head>Caput 155</head>
+      <p>
          <lb ed="#P" n="6"/>(6. Warumb die in Zwey geschnittene theile eines
          <lb ed="#P" n="7"/>Magnets, welche vor der Zerschneidung ver¬
          <lb ed="#P" n="8"/>einiget gewesen, hernachmals von einan¬
@@ -747,7 +772,9 @@
          <lb ed="#P" n="22"/>wiederum hinein gehen, und die durch den Nordertheil passierten ausgangenen
          <lb ed="#P" n="23"/>müssen durch den Südertheil wieder hinein gehen.
       </p>
-      <!-- desc 156 -->
+   </div>
+   <div alias="prin-pt4-c156">
+      <head>Caput 156</head>
       <p> 
          <lb ed="#P" n="24"/>(7. Warumb die Zwey Puncta, welche erstlich in
          <lb ed="#P" n="25"/>einem Magnet einander berühreten, hernach¬
@@ -774,7 +801,10 @@
          <lb ed="#P" n="32"/>die da durch einen aus disen polis hervor kommen, durch den an¬
          <lb ed="#P" n="33"/>deren wiederumb hienein gehen müße.
       </p>
-      <p> <!-- desc 157 -->
+   </div>
+   <div alias="prin-pt4-c157">
+      <head>Caput 157</head>
+      <p> 
          <lb ed="#P" n="34"/>(8. Warumb in einem ieden Theil des Magneten
          <lb ed="#P" n="35"/>Die Krafft oder Würkung sey, als wie sie
          <lb ed="#P" n="36"/>ist in dem Gantzen Magnet?)
@@ -799,7 +829,10 @@
          <lb ed="#P" n="8"/>in welchem sie, woferne der eingang vorhanden, nicht auch einen aus¬
          <lb ed="#P" n="9"/>gang haben sollten.
       </p>
-      <p> <!-- c. 158 -->
+   </div>
+   <div alias="prin-pt4-c158">
+      <head>Caput 158</head>
+      <p> 
          <lb ed="#P" n="10"/>(9. Warumb ein Magnet dem Eisen, das ihn
          <lb ed="#P" n="11"/>berühret, seine Krafft mittheilet?)
       </p>
@@ -821,7 +854,10 @@
          <lb ed="#P" n="26"/>ihm also ferner alle das, was in Ihm zur Magnetischen Krafft
          <lb ed="#P" n="27"/>mogte begehret werden.
       </p>
-      <p> <!-- descart 159 -->
+   </div>
+   <div alias="prin-pt4-c159">
+      <head>Caput 159</head>
+      <p> 
          <lb ed="#P" n="28"/>(10. Warumb das Eisen nach underschiedlicher
          <lb ed="#P" n="29"/>art, als es gegen den Magnet gehalten
          <lb ed="#P" n="30"/>wird, seine Krafft underschiedlich em¬
@@ -861,8 +897,10 @@
          <lb ed="#P" n="8"/>die Krafft des Süd-Poli, in der mitten aber die Krafft des Nord¬
          <lb ed="#P" n="9"/>Poli haben.
       </p>
-      <!-- Desc 160 -->
-      <p>
+   </div>
+   <div alias="prin-pt4-c160">
+      <head>Caput 160</head>
+      <p> 
          <lb ed="#P" n="10"/>(11. Warumb ein länglecht Eisen die Krafft des Magnets
          <lb ed="#P" n="11"/>nicht anders, als nach seiner länge empfahe?)
       </p>
@@ -888,7 +926,10 @@
          <lb ed="#P" n="18"/>tere Wege in dem eisen denn in der Lufft finden, derohalben sie auch
          <lb ed="#P" n="19"/>von dieser gegen das Eisen reflectiret werden.
       </p>
-      <p> <!-- desc 161 -->
+   </div>
+   <div alias="prin-pt4-c161">
+      <head>Caput 161</head>
+      <p> 
          <lb ed="#P" n="20"/>(12. Warumb der Magnet von seiner Krafft
          <lb ed="#P" n="21"/>nicht abgehet, ob Er schon dieselbe dem
          <lb ed="#P" n="22"/>Eisen mittheilet?)
@@ -904,7 +945,10 @@
          <lb ed="#P" n="30"/>sich begeben; das ist aber so weit gefehlet, das seine Krafft sollte dardurch
          <lb ed="#P" n="31"/>vermintert und nicht vielmehr vermehret werden.
       </p>
-      <p> <!-- desc c. 162 -->
+   </div>
+   <div alias="prin-pt4-c162">
+      <head>Caput 162</head>
+      <p> 
          <lb ed="#P" n="32"/>(13. Warumb diese Krafft dem Eisen so ge¬
          <lb ed="#P" n="33"/>schwinde zwar mittgetheilet, aber mit der
          <lb ed="#P" n="34"/>Länge der Zeit bestärket wird?)
@@ -917,26 +961,32 @@
          <lb ed="#P" n="39"/>der ramentorum wieder gebogen bleiben, desto schwerer können sie
          <lb ed="#P" n="40"/>auf den gegentheil reflectiret werden.
       </p>
-      <p> <!-- desc 163 -->
+   </div>
+   <div alias="prin-pt4-c163">
+      <head>Caput 163</head>
+      <p> 
          <!--Chart-A-00707_00197v.xml-->
          <pb ed="#P" n="197-v"/>
          <lb ed="#P" n="1"/>(14. Warumb zu empfahung dieser Krafft
          <lb ed="#P" n="2"/>der Stahl viel bequehmer als das gringste
          <lb ed="#P" n="3"/>Eisen sey?)
       </p>
-      <p>            
+      <p>
          <lb ed="#P" n="4"/>Und der Stahl nimt diese Krafft viel stärker an, als das gringste
          <lb ed="#P" n="5"/>Eisen, dieweil er mehrere und volkommenere durchgänge hat, so da
          <lb ed="#P" n="6"/>bequehm die partciulas striatas anzunehmen: Diese Krafft enthelt er
          <lb ed="#P" n="7"/>auch bestendiger, dieweilen die in seinen durchgängen herfür rakende
          <lb ed="#P" n="8"/>endgen der ramulorum sich nicht so leicht hin und wieder biegen lassen.
       </p>
-      <p><!-- desc 164 -->
+   </div>
+   <div alias="prin-pt4-c164">
+      <head>Caput 164</head>
+      <p> 
          <lb ed="#P" n="9"/>(15. Warumb dem Stahl eine stärkere Krafft von einem
          <lb ed="#P" n="10"/>guten Magneten als einem schlimmen mittgethei¬
          <lb ed="#P" n="11"/>let wird?)
       </p>
-      <p>            
+      <p>
          <lb ed="#P" n="12"/>Und es wird Ihme auch eine stärkere Krafft von einem großen und gu¬
          <lb ed="#P" n="13"/>ten Magneten mitgetheilet; so wohl weilen die Particulae striatae mit
          <lb ed="#P" n="14"/>einer hefftigen gewalt in seine durchgänge einbrechen, und die in
@@ -953,7 +1003,10 @@
          <lb ed="#P" n="25"/>von den gar leicht zubiegenden Endgen (extremitatibus) der ramulorum
          <lb ed="#P" n="26"/>verstopffet seint.
       </p>
-      <p><!-- desc 165 -->
+   </div>
+   <div alias="prin-pt4-c165">
+      <head>Caput 165</head>
+      <p> 
          <lb ed="#P" n="27"/>(16. Warumb auch die Erde selbst dem Eisen
          <lb ed="#P" n="28"/>eine Magnetische Krafft zueignet?)
       </p>
@@ -971,7 +1024,10 @@
          <lb ed="#P" n="39"/>dasselbe Ende des Eysens in die Höhe gehoben, und das gegentheil
          <lb ed="#P" n="40"/>gesenket wird.
       </p>
-      <p><!-- desc 166 -->
+   </div>
+   <div alias="prin-pt4-c166">
+      <head>Caput 166</head>
+      <p> 
          <!--Chart-A-00707_00198r.xml-->
          <pb ed="#P" n="198-r"/>
          <lb ed="#P" n="1"/>(17. Warumb die Krafft der Magnetische in der
@@ -1013,7 +1069,10 @@
          <lb ed="#P" n="35"/>nach derselben erden gewendet; wie kurtz zu vor gesaget ist, das ein
          <lb ed="#P" n="36"/>stücklein des Magnets gegen den anderen sich verwende.
       </p>
-      <p><!-- desc 167 -->
+   </div>
+   <div alias="prin-pt4-c167">
+      <head>Caput 167</head>
+      <p> 
          <lb ed="#P" n="37"/>(18. Warumb die vom Magnet berührten Nadeln
          <lb ed="#P" n="38"/>allezeit die Polus ihrer Kräffte in ihren Spi¬
          <lb ed="#P" n="39"/>tzen haben?)
@@ -1028,14 +1087,17 @@
          <lb ed="#P" n="4"/>Magnet seine Polos kehret, und das dergleichen Nadel allezeit über die Po¬
          <lb ed="#P" n="5"/>los Ihrer Magnetischen Krafft genau in ihren Spitzen haben.
       </p>
-      <p><!-- desc 168 -->
+   </div>
+   <div alias="prin-pt4-c168">
+      <head>Caput 168</head>
+      <p> 
          <lb ed="#P" n="6"/>(19. Warumb die Poli, darinnen Magnetische
          <lb ed="#P" n="7"/>Kräffte, sich nicht allezeit gerade gegen
          <lb ed="#P" n="8"/>die Polos der Erden wenden oder rich¬
          <lb ed="#P" n="9"/>ten, sondern underschidlich von
          <lb ed="#P" n="10"/>ihnen abweichen?)
       </p>
-      <p>            
+      <p>
          <lb ed="#P" n="11"/>Und dieweilen Ihre Spitzen leichtlicher von den anderen theilen zu¬
          <lb ed="#P" n="12"/>underscheiden seint, als die Poli des Magnets, so ist dardurch zu mer¬
          <lb ed="#P" n="13"/>ken, das die Poli, worinnen Magnetische Kräfte, nicht gerade gegen
@@ -1068,7 +1130,10 @@
          <lb ed="#P" n="1"/>in welchen dsie abweichung geschihet, zu vergleichen, alwo man denn zuer¬
          <lb ed="#P" n="2"/>sehen, das sie groß genugsam sein.
       </p>
-      <p><!-- desc 169 -->
+   </div>
+   <div alias="prin-pt4-c169">
+      <head>Caput 169</head>
+      <p> 
          <lb ed="#P" n="3"/>(20. Warumb auch bißweilen mit der Zeit
          <lb ed="#P" n="4"/>solche abweichung verendert werde?)
       </p>
@@ -1082,13 +1147,16 @@
          <lb ed="#P" n="11"/>verderbet, und andere in anderen gezeuget, oder von der innersten
          <lb ed="#P" n="12"/>Erden herausgeschicket werden.
       </p>
-      <p><!--desc 170-->
+   </div>
+   <div alias="prin-pt4-c170">
+      <head>Caput 170</head>
+      <p> 
          <lb ed="#P" n="13"/>(21. Warumb dieselbe abweichung in einem Magnet,
          <lb ed="#P" n="14"/>der auf einem von seinen Polis aufgerichtet stehet,
          <lb ed="#P" n="15"/>schwächer oder weniger sey, als wen seine Poli
          <lb ed="#P" n="16"/>gleich von der Erden stehen?)
       </p>
-      <p>            
+      <p>
          <lb ed="#P" n="17"/>Es seint auch etliche die da vorgeben, daß dergleichen abweichung nicht
          <lb ed="#P" n="18"/>sey in einem runden Magnet, wenn er in denn(!) Nordischen Regionen
          <lb ed="#P" n="19"/>auf dem Süd-Pol, und in den Südischen örtern auf den Nord-Pol
@@ -1108,7 +1176,10 @@
          <lb ed="#P" n="33"/>den Polis aufgerichtet, Umbtrehung (conversio) von denen
          <lb ed="#P" n="34"/>ersten aber seine abweichung herrühret.
       </p>
-      <p><!-- desc 171 -->
+   </div>
+   <div alias="prin-pt4-c171">
+      <head>Caput 171</head>
+      <p> 
          <lb ed="#P" n="35"/>(22. Warumb der Magnet das Eisen zihe?)
       </p>
       <p>            
@@ -1127,11 +1198,14 @@
          <lb ed="#P" n="8"/>welchen die Particulae Striatae Ihren durchgang haben, Der
          <lb ed="#P" n="9"/>Magnet aber ist annoch mit viel steinigter Materia beschweret.
       </p>
-      <p> <!-- desc 172 -->
+   </div>
+   <div alias="prin-pt4-c172">
+      <head>Caput 172</head>
+      <p> 
          <lb ed="#P" n="10"/>(23. Warumb ein gewaffneter Magnet Viel mehr
          <lb ed="#P" n="11"/>Eisen enthalte als ein bloßer?)
       </p>
-      <p>            
+      <p>
          <lb ed="#P" n="12"/>Aber viel verwundern sich, das ein gewaffneter Magnet, oder das
          <lb ed="#P" n="13"/>eiserne Blech so an den Magnet gehefftet, viel mehr eisen enthalten
          <lb ed="#P" n="14"/>könne, als der Magnet allein. Dessen uhrsach aber doch aus dem
@@ -1158,7 +1232,10 @@
          <lb ed="#P" n="35"/>aus des einen durchgängen in des anderen durchgänge kom¬
          <lb ed="#P" n="36"/>men können.
       </p>
-      <p><!-- 178 -->
+   </div>
+   <div alias="prin-pt4-c163">
+      <head>Caput 163</head>
+      <p> 
          <!--Chart-A-00707_00200r.xml-->
          <pb ed="#P" n="200-r"/>
          <lb ed="#P" n="1"/>(24. Warumb des Magneten Poli, ob sie einander schon
@@ -1202,7 +1279,10 @@
          <lb ed="#P" n="25"/>hingegen, die da ausgehen aus B durch das blech E F, das ange¬
          <lb ed="#P" n="26"/>henkte Eisen H G in das andere blech D C, kommen zurück zu A.
       </p>
-      <p><!-- 174-->
+   </div>
+   <div alias="prin-pt4-c174">
+      <head>Caput 174</head>
+      <p> 
          <lb ed="#P" n="27"/>(25. Warumb die herumb-trehung Eiserner Rätlein
          <lb ed="#P" n="28"/>Von der Krafft des Magnets, an dem sie hangen,
          <lb ed="#P" n="29"/>nicht gehindert wird?)
@@ -1231,7 +1311,10 @@
          <lb ed="#P" n="8"/>werden, als von dem anrühren der Erden, welche sie mit ihrem
          <lb ed="#P" n="9"/>gewichte trükken.
       </p>
-      <p><!-- 175-->
+   </div>
+   <div alias="prin-pt4-c175">
+      <head>Caput 175</head>
+      <p> 
          <lb ed="#P" n="10"/>(26. Wie und warum die Krafft eines Magnets, des
          <lb ed="#P" n="11"/>anderen Krafft vermehre und vermindere?)
       </p>
@@ -1273,7 +1356,10 @@
          <lb ed="#P" n="34"/>andere Spitze D auf einen anderen Cörper als den Magneten
          <lb ed="#P" n="35"/>C bestünde.
       </p>
-      <p><!-- 176-->
+   </div>
+   <div alias="prin-pt4-c176">
+      <head>Caput 176</head>
+      <p> 
          <lb ed="#P" n="36"/>(27. Warumb ein Magnet, ob er schon stark, iedoch
          <lb ed="#P" n="37"/>ein Eisen, das er nicht berühret, von einem
          <lb ed="#P" n="38"/>anderen Schwächeren Magnet, nicht
@@ -1308,8 +1394,10 @@
          <lb ed="#P" n="12"/>Magnetische Krafft, sondern auch durch die berührung des Magneten
          <lb ed="#P" n="13"/>C, an welchem es fest ist, gegen F abziehen.
       </p>
-      <!-- 177-->
-      <p>
+   </div>
+   <div alias="prin-pt4-c177">
+      <head>Caput 177</head>
+      <p> 
          <lb ed="#P" n="14"/>(28. Warumb ein Schwacher Magnet oder Eisen,
          <lb ed="#P" n="15"/>wen er ein anderes Eisen, das an einem anderen,
          <lb ed="#P" n="16"/>ob schon stärkeren Magnet hänget, berühret, von
@@ -1332,7 +1420,10 @@
          <lb ed="#P" n="31"/>welchen es anhänget (in majori superficie) In mehrerem ober¬
          <lb ed="#P" n="32"/>theil als den anderen berührete.
       </p>
-      <p><!-- 178-->
+   </div>
+   <div alias="prin-pt4-c178">
+      <head>Caput 178</head>
+      <p> 
          <lb ed="#P" n="33"/>(29. Warumb in diesen Nordländern Der SüdPol
          <lb ed="#P" n="34"/>des Magnets viel stärker sey als dessen
          <lb ed="#P" n="35"/>NordPol?)
@@ -1360,7 +1451,10 @@
          <lb ed="#P" n="3"/>gneten F; hingegen wird sein anderer Polus, in dem er mit der Er¬
          <lb ed="#P" n="4"/>den nicht überein kommet, von derselben verhindert.
       </p>
-      <p><!-- 179-->
+   </div>
+   <div alias="prin-pt4-c179">
+      <head>Caput 179</head>
+      <p>
          <lb ed="#P" n="5"/>(30. Von denen dingen, welche man bey der Eisen-feihel, so
          <lb ed="#P" n="6"/>umb den Magneten hänget, zubeobachten hat)
       </p>
@@ -1440,7 +1534,10 @@
          <lb ed="#P" n="26"/>der Eisenfeyl einen Magnet oder Eisen, andere einem anderen
          <lb ed="#P" n="27"/>fester anhangen und sich vereinigen.
       </p>
-      <p> <!-- 180 -->
+   </div>
+   <div alias="prin-pt4-c180">
+      <head>Caput 180</head>
+      <p>
          <lb ed="#P" n="28"/>(31. Warumb ein Eisenblech, wen es dem Polo eines
          <lb ed="#P" n="29"/>Magneten vereiniget ist, die Krafft desselben im
          <lb ed="#P" n="30"/>Zihen und das Eisen umb zu kehren hindere?)¬
@@ -1477,7 +1574,10 @@
          <lb ed="#P" n="3"/>het, das bey uns die Magnetische Krafft der gantzen Erden sehr schwach
          <lb ed="#P" n="4"/>verspüret wird.
       </p>
-      <p> <!-- 181 -->
+   </div>
+   <div alias="prin-pt4-c181">
+      <head>Caput 181</head>
+      <p>
          <lb ed="#P" n="5"/>(32. Warumb diese Krafft, durch darzwischensetzung
          <lb ed="#P" n="6"/>eines anderen nicht auch gehindert werde?)
       </p>
@@ -1505,7 +1605,10 @@
          <lb ed="#P" n="15"/>in welcher sie auch die globulos des anderen Elements antreffen, durchge¬
          <lb ed="#P" n="16"/>hen können.
       </p>
-      <p><!-- 182 -->
+   </div>
+   <div alias="prin-pt4-c182">
+      <head>Caput 182</head>
+      <p>
          <lb ed="#P" n="17"/>(33. Warumb die übele Stellung des Magnets, desselben
          <lb ed="#P" n="18"/>Kräffte allgemach vermindere?)
       </p>
@@ -1518,7 +1621,10 @@
          <lb ed="#P" n="24"/>abgekehret (oblique vel averse) in seine durchgänge kommen, und also
          <lb ed="#P" n="25"/>gemach derselben figuren enderen und verderben.
       </p>
-      <p><!-- 183 -->
+   </div>
+   <div alias="prin-pt4-c183">
+      <head>Caput 183</head>
+      <p>
          <lb ed="#P" n="26"/>(34. Warumb der Rost, die Feuchtigkeit, und die unsauber¬
          <lb ed="#P" n="27"/>keit seine Kräfte vermidnere, ein hefftiges Feur aber
          <lb ed="#P" n="28"/>gar hinweg nehme?)
