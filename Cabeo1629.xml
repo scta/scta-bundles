@@ -1199,9 +1199,13 @@
           <lb ed="#P" n="36"/>qualitatem duarum facierum, atque hoc accuratè statim in initio notan¬
           <lb ed="#P" n="37"/>dum est; in hoc enim ferè tota magnetica philosophia consistit.
           </p>
-<p>
+
 <!--28.xml-->
       <pb ed="#P" n="28"/>
+    </div>
+    <div alias="l1c4">
+        <head>Caput 4</head>
+        <p>
       <lb ed="#P" n="1"/>Qua ratione seù via hae facies in magnete sint dispositae. Caput Quartum.
           </p>
 <p>
@@ -1362,6 +1366,9 @@
           <lb ed="#P" n="6"/>guntui; ut mox dicam, in illa'que tota magneticae attractionis, &amp; directio¬
           <lb ed="#P" n="7"/>nis vis conspirat, &amp; haec praecipuè puncta quaeruntur in magnete.
           </p>
+    </div>
+    <div alias="l1c5">
+        <head>Caput 5</head>
 <p>
 <lb ed="#P" n="8"/>Qua ratione possit in magnete vera eius longitudo cognosci, &amp; poli illius inveniri. Cap V
           </p>
@@ -1782,10 +1789,12 @@
           <lb ed="#P" n="10"/>cam philosophiam pernoverit, verum priusquam ad causam inquirendam
           <lb ed="#P" n="11"/>descendamus, libet, quid à priscis hac de re habere possimùs, indagare.
           </p>
-<p>
-<lb ed="#P" n="12"/>Utrum antiquis nota fuerit haec virtus magnetica dirigendi se ad polos.
-          </p>
-<p>
+
+    </div>
+    <div alias="l1c6">
+        <head>Caput 6</head>
+        <p>
+            <lb ed="#P" n="12"/>Utrum antiquis nota fuerit haec virtus magnetica dirigendi se ad polos.
 <lb ed="#P" n="13"/>Caput Sextum.
           </p>
 <p>
@@ -2062,6 +2071,9 @@
           <lb ed="#P" n="30"/>cae partes, ac proinde incitarent ex se motum illo momento, quo amicis
           <lb ed="#P" n="31"/>obijciuntur partibus.
           </p>
+    </div>
+    <div alias="l1c7">
+        <head>Caput 7</head>
 <p>
 <lb ed="#P" n="32"/>Aliorum opiniones de causa motus magnetis, &amp; magneticorum, quo moventur,
           <lb ed="#P" n="33"/>ut sua longitudine meridianum obtineat. Caput VII.
@@ -2403,6 +2415,9 @@
           <lb ed="#P" n="23"/>ractarit. Huius sententiam cum alijs connumerare nolui,
           <lb ed="#P" n="24"/>sunt; nec impugnari, quòd opugnationem excipere nequeant.
           </p>
+    </div>
+    <div alias="l1c8">
+        <head>Caput 8</head>
 <p>
 <lb ed="#P" n="25"/>Gilberti opinio de causa motus Magneticorum. Caput VIII.
           </p>
@@ -2470,9 +2485,13 @@
 <lb ed="#P" n="38"/>Hęc opinio in quibus nam probetur explicabitur, dum meam exponam,
           <lb ed="#P" n="39"/>sententiam, &amp; tria illa principia examinabo. Interim exposuisse satis sit.
           </p>
-<p>
+
 <!--52.xml-->
       <pb ed="#P" n="52"/>
+    </div>
+    <div alias="l1c9">
+    <head>Caput 9</head>
+        <p>
       <lb ed="#P" n="1"/>Magnetem ab interno principio moveri, ac dirigi in polos, &amp; ad suum meridianum
           <lb ed="#P" n="2"/>se conformare. Caput Nonum.
           </p>
@@ -2597,6 +2616,9 @@
           <lb ed="#P" n="16"/>ri, nec de hac re disputare in praesentia; alius locus forte id postulabit. in
           <lb ed="#P" n="17"/>magnete, quod dixi, certum est.
           </p>
+    </div>
+    <div alias="l1c10">
+        <head>Caput 10</head>     
 <p>
 <lb ed="#P" n="18"/>Quale sit huiusmodi principium motus Magnetici. Caput X.
           </p>
@@ -2700,10 +2722,12 @@
           <lb ed="#P" n="21"/>zonio; qui in hoc sapienter, hoc est in ordine ad sapientiam, hanc philoso¬
           <lb ed="#P" n="22"/>phiam pertractavit.
           </p>
+    </div>
+    <div alias="l1c11">
+        <head>Caput 11</head>
 <p>
 <lb ed="#P" n="23"/>Quam convenienter hic magneticus motor in universo sit positus.
-          </p>
-<p>
+
 <lb ed="#P" n="24"/>Caput XI.
           </p>
 <p>
@@ -2904,10 +2928,11 @@
           <lb ed="#P" n="27"/>unico motore omnib. ex partibus absolutum cernimus universum. cur er¬
           <lb ed="#P" n="28"/>go id negemus? ac propter hoc istas placuit afferre rationes.
           </p>
+    </div>
+    <div alias="l1c12">
+        <head>Caput 12</head>
 <p>
 <lb ed="#P" n="29"/>De instrumento huius magnetici motus; &amp; qua ratione moveat
-          </p>
-<p>
 <lb ed="#P" n="30"/>magnetica. Caput XII.
           </p>
 <p>
@@ -3009,6 +3034,9 @@
           <lb ed="#P" n="32"/>gnetici motus assignare. cum tamen; si hoc tibi ego, causam descensus la¬
           <lb ed="#P" n="33"/>pidis afferrenti obijcerem, iniuriosus videter? sed de hoc etiam alibi.
           </p>
+    </div>
+    <div alias="l1c13">
+        <head>Caput 13</head>
 <p>
 <lb ed="#P" n="34"/>In ferrum etiam hanc virtutem, quae à natura est instituta, ad magneticum motum;
           <lb ed="#P" n="35"/>&amp; conversionem in polos derivari. Caput XIII.
@@ -3134,6 +3162,9 @@
           <lb ed="#P" n="2"/>non habent aliae rerum formae. Verum de ferro, &amp; de his qualitatibus tàm
           <lb ed="#P" n="3"/>directivis quàm attractivis iterum dicetur infra.
           </p>
+    </div>
+    <div alias="l1c14">
+        <head>Caput 14</head>
 <p>
 <lb ed="#P" n="4"/>De terminis motus magnetici. Caput XIV.
           </p>
@@ -3177,12 +3208,15 @@
           <lb ed="#P" n="39"/>cae directionis habeamus, hinc maior errorum nascitur seges, &amp; difficilior
           <lb ed="#P" n="40"/>veritatis investigatio.
           </p>
-<p>
+
 <!--66.xml-->
       <pb ed="#P" n="66"/>
+    </div>
+    <div alias="l1c15">
+        <head>Caput 15</head>
+        <p>
       <lb ed="#P" n="1"/>Terminus magnetici motus non est in Coelo, quocunque in puncto deinde
-          </p>
-<p>
+
 <lb ed="#P" n="2"/>ponatur. Caput XV.
           </p>
 <p>
@@ -3437,11 +3471,13 @@
           <lb ed="#P" n="27"/>dirigitur ad A. Et haec globi magnetici inspectio videtur mihi clarissimè
           <lb ed="#P" n="28"/>ostendere hanc magnetis directionem ad polum terrae.
           </p>
+    </div>
+    <div alias="l1c16">
+        <head>Caput 16</head>
 <p>
 <lb ed="#P" n="29"/>Magnetem, &amp; magnetica non dirigi ad ullum determinatum punctum in terra,
           <lb ed="#P" n="30"/>tanquam ad proprium terminum, quem ubique respiciant.
-          </p>
-<p>
+
 <lb ed="#P" n="31"/>Caput XVI.
           </p>
 <p>
@@ -3765,10 +3801,12 @@
           <lb ed="#P" n="21"/>hic tantum, alibi plus, aut minus declinet: Ut autem meam afferam senten¬
           <lb ed="#P" n="22"/>tiam nonnulla prius iacienda sunt fundamenta.
           </p>
+    </div>
+    <div alias="l1c17">
+        <head>Caput 17</head>
 <p>
 <lb ed="#P" n="23"/>Universum terrae globum vim magneticam obtinere experimentis probatur.
-          </p>
-<p>
+
 <lb ed="#P" n="24"/>Caput XVII.
           </p>
 <p>
@@ -4211,11 +4249,13 @@
           <lb ed="#P" n="13"/>debet infra probari, hic solum indicare volui. repete tù hoc Lector infra
           <lb ed="#P" n="14"/>positum suo loco.
           </p>
+    </div>
+    <div alias="l1c18">
+        <head>Caput 18</head>
 <p>
 <lb ed="#P" n="15"/>Cur in toto terrestri globo sit haec vis magnetica; ut scilicet, formetur in suo situ
           <lb ed="#P" n="16"/>melius, quam sola gravitate, nec fluctuet ad motum cuiuscunque
-          </p>
-<p>
+     
 <lb ed="#P" n="17"/>rei gravis super terram. Caput XVIII.
           </p>
 <p>
@@ -4487,12 +4527,15 @@
           <lb ed="#P" n="39"/>concluderet mathematicè, &amp; supponeret terram in vacuo, non in pleno,
           <lb ed="#P" n="40"/>cum resistentia medij ad motum.
           </p>
-<p>
+
 <!--91.xml-->
       <pb ed="#P" n="91"/>
+    </div>
+    <div alias="l1c19">
+        <head>Caput 19</head>
+        <p>
       <lb ed="#P" n="1"/>Confutatur Gilberti opinio terram esse magnum magnetem.
-          </p>
-<p>
+
 <lb ed="#P" n="2"/>Caput XIX.
           </p>
 <p>
@@ -4788,13 +4831,12 @@
           <lb ed="#P" n="14"/>verum, ex rationibus supra dictis, vel fit mistibilium alteratorum unio, &amp;
           <lb ed="#P" n="15"/>transit in aliam naturam.
           </p>
+    </div>
+    <div alias="l1c20">
+        <head>Caput 20</head>
 <p>
 <lb ed="#P" n="16"/>De inclinatione magnetica, qua infra horizontem aequilibrata ferramenta
-          </p>
-<p>
 <lb ed="#P" n="17"/>descendunt, ac primum de ratione constituendi instrumentum
-          </p>
-<p>
 <lb ed="#P" n="18"/>declinationis. Caput XX.
           </p>
 <p>
@@ -4970,6 +5012,9 @@
           <lb ed="#P" n="10"/>trarium se invenisse verum, utrum polum illum inclinatum, ac elevatum
           <lb ed="#P" n="11"/>invenerit, non narrat, quod sciam.
           </p>
+    </div>
+    <div alias="l1c21">
+        <head>Caput 21</head>
 <p>
 <lb ed="#P" n="12"/>De gradu, ad quem descendunt magnetica infra horizontem per hanc inclinationem,
           <lb ed="#P" n="13"/>pro varia locorum latitudine. Caput XXI.
@@ -5190,8 +5235,13 @@
          </ab>
          <figDesc/>
       </figure>
+    </p>
       <!--106.xml-->
       <pb ed="#P" n="106"/>
+    </div>
+    <div alias="l1c22">
+        <head>Caput 22</head>
+        <p>
       <lb ed="#P" n="1"/>Qua ratione corrigenda videatur ista regula directionum magneticarum ex aliquo
           <lb ed="#P" n="2"/>phisico experimento. Caput XXII.
           </p>
@@ -5344,6 +5394,9 @@
           <lb ed="#P" n="11"/>quae vergit ad austrum, seu ad polum oppositum) cum haec ad attractionem
           <lb ed="#P" n="12"/>spectent, ex dicendis suo loco patebunt. hic solum de directione est sermo.
           </p>
+    </div>
+    <div alias="l1c23">
+        <head>Caput 23</head>
 <p>
 <lb ed="#P" n="13"/>De declinatione magnetica à veris polis terrae, deque eius causa, &amp; tandem de
           <lb ed="#P" n="14"/>terminis magnetici motus. Caput XXIII.
@@ -5719,9 +5772,14 @@
 <lb ed="#P" n="5"/>De altero magnetis effectu, hoc est de attractione
           <lb ed="#P" n="6"/>magneticorum.
           </p>
-<p>
+
+    </div>
+    <div alias="l2c1">
+        <head>Caput 1</head>
+        <p>
 <lb ed="#P" n="7"/>Ferrum, &amp; magnetes sese re ipsa attrahere ostenditur. Caput Primum.
-          <lb ed="#P" n="8"/>Hactenus de primo motu, &amp; effectu magneticorum, &amp; de
+    </p><p>   
+        <lb ed="#P" n="8"/>Hactenus de primo motu, &amp; effectu magneticorum, &amp; de
           <lb ed="#P" n="9"/>causis illius disputatum est, quo se magnes, &amp; magneti¬
           <lb ed="#P" n="10"/>ca ad polum convertunt, seu ad meridianum se confor¬
           <lb ed="#P" n="11"/>mant, &amp; principium illius motus, &amp; proxima instru¬
