@@ -5834,7 +5834,10 @@
             <lb ed="#P" n="27"/>cum facies meridiana, non meridianam sibi similem, sed septentrionalem
             <lb ed="#P" n="28"/>trahat, septentrionalis vero meridianam.
         </p>
-        <p>
+    </div>
+    <div alias="l2c2">
+        <head>Caput 2</head>
+        <p>           
             <lb ed="#P" n="29"/>Quid alij senserint de magnetica attractione. Caput Secundum.
         </p>
         <p>
@@ -6233,8 +6236,11 @@
             <lb ed="#P" n="1"/>lae nau¬
             <lb ed="#P" n="2"/>Expenditur opinio Petri Peregrini, de magnetica attractione.
         </p>
-        <p>
-            <lb ed="#P" n="3"/>Cap. III.
+        </div>
+        <div alias="l2c3">
+            <head>Caput 3</head>
+            <p> 
+             <lb ed="#P" n="3"/>Cap. III.
         </p>
         <p>
             <lb ed="#P" n="4"/>Praecedenti inclusimus capite reliquorum opiniones de magne¬
@@ -6581,6 +6587,9 @@
         <p>
             <lb ed="#P" n="13"/>Proponitur Gilberti opinio, de causa attractionis magneticae.
         </p>
+        </div>
+    <div alias="l2c4">
+        <head>Caput 4</head>
         <p>
             <lb ed="#P" n="14"/>Caput IIII.
         </p>
@@ -6690,6 +6699,9 @@
         <p>
             <lb ed="#P" n="20"/>Attractiones magneticas fieri per qualitatem duarum facierum.
         </p>
+    </div>
+    <div alias="l2c5">
+        <head>Caput 5</head>
         <p>
             <lb ed="#P" n="21"/>Caput V.
         </p>
@@ -6804,6 +6816,9 @@
         <p>
             <lb ed="#P" n="36"/>De natura qualitatis duarum facierum, &amp; eius facultate motiva, &amp; alterativa;
         </p>
+    </div>
+    <div alias="l2c6">
+        <head>Caput 6</head>
         <p>
             <lb ed="#P" n="37"/>&amp; quot modis existere possit. Caput VI.
         </p>
@@ -7228,6 +7243,9 @@
             <lb ed="#P" n="31"/>amittit hanc qualitatem, &amp; tamen ferrum magis aliquando perficitur illo
             <lb ed="#P" n="32"/>igne.
         </p>
+    </div>
+    <div alias="l2c7">
+        <head>Caput 7</head>
         <p>
             <lb ed="#P" n="33"/>Quomodo haec qualitas producatur. Caput VII.
         </p>
@@ -7359,6 +7377,9 @@
             <lb ed="#P" n="18"/>quarum facierum permanenter, &amp; firmiter inhaerentem, sive deinde tale a¬
             <lb ed="#P" n="19"/>gens sit magnes, sive ferrum, sive tota terra.
         </p>
+    </div>
+    <div alias="l2c8">
+        <head>Caput 8</head>
         <p>
             <lb ed="#P" n="20"/>Quid requiratur, ut haec qualitas hac existendi modo producatur, &amp; ferrum ma¬
             <lb ed="#P" n="21"/>gneticè excitetur. Cap. VIII.
@@ -7536,10 +7557,11 @@
             <lb ed="#P" n="3"/>situata, vel situativa, quaeque certa quadam ratione excurrit, non mole, sed
             <lb ed="#P" n="4"/>virtute, videamus iam, quo situ producatur.
         </p>
+    </div>
+    <div alias="l2c9">
+        <head>Caput 9</head>
         <p>
             <lb ed="#P" n="5"/>De situ, quo haec qualitas duarum facierum est in ipso magnete in ordine
-        </p>
-        <p>
             <lb ed="#P" n="6"/>ad agendum. Cap. IX.
         </p>
         <p>
@@ -7724,6 +7746,9 @@
             <lb ed="#P" n="27"/>virtutis, sed etiam eiusdem figuiae, ut verbi gratia ambo habeant sphaericam
             <lb ed="#P" n="28"/>figuram, mihi tamen etiam in hoc dubitationes non leves occurrunt.
         </p>
+    </div>
+    <div alias="l2c10">
+        <head>Caput 10</head>
         <p>
             <lb ed="#P" n="29"/>Quo situ haec qualitas propagetur per medium. Cap. X.
         </p>
@@ -8007,12 +8032,14 @@
             <lb ed="#P" n="42"/>lem partem? &amp; cur semper obliquitas est in sectione meridiana illius terrellae? per
             <lb ed="#P" n="43"/>se loquendo.
         </p>
+        
+    </div>
+    <div alias="l2c11">
+        <head>Caput 11</head>
         <p>
             <!--163.xml-->
             <pb ed="#P" n="163"/>
             <lb ed="#P" n="1"/>Cur Magnetica supra magnetem determinata ratione dirigantur.
-        </p>
-        <p>
             <lb ed="#P" n="2"/>Caput XI.
         </p>
         <p>
@@ -8457,13 +8484,14 @@
             <lb ed="#P" n="6"/>quae pariter iuvat actionem, ad longiorem E. B. ità angulus O. E. G. ad G.
             <lb ed="#P" n="7"/>L. M. sic enim fortasse dirigetur obelus eadem servata ratione.
         </p>
+    </div>
+    <div alias="l2c12">
+        <head>Caput 12</head>
         <p>
             <lb ed="#P" n="8"/>Qua ratione inueniri possint proportiones, quae requiruntur ad determinandam
-        </p>
-        <p>
+
             <lb ed="#P" n="9"/>inclinationem magneticorum supra magnetem, &amp; ad causam
-        </p>
-        <p>
+
             <lb ed="#P" n="10"/>explicandam. Cap. XII.
         </p>
         <p>
@@ -8507,6 +8535,7 @@
             <pb ed="#P" n="172"/>
             <lb ed="#P" n="1"/>Lib. II. Cap. XII.
             <lb ed="#P" n="2"/>153
+ <!--            line error-->           
             <lb ed="#P" n="3"/>indagabitur. sit circulus maximus sphaerae A. E. B. H. sitque E. H. sectio su¬
             <lb ed="#P" n="4"/>praposita, inveniendaque sit proportio partis sphaerae E. A. H. ad partem B.
             <lb ed="#P" n="5"/>E. H. in ijsdem numeris: ducatur per centrum T. linea B. T. A. utrinque in¬
@@ -8572,11 +8601,12 @@
             <lb ed="#P" n="17"/>nometria cognoscuntur in ijsdem numeris reliqua latera: cognita ergo
             <lb ed="#P" n="18"/>erunt omnia illa quatuor, quod erat faciendum.
         </p>
+    </div>
+    <div alias="l2c13">
+        <head>Caput 13</head>
         <p>
             <lb ed="#P" n="19"/>An detur alia qualitas duarum facierum diversa à magnetica: &amp; an detur alia unius
             <lb ed="#P" n="20"/>faciei propria naturae ferri: &amp; utrum qualitas magnetica terrae sit eiusdem
-        </p>
-        <p>
             <lb ed="#P" n="21"/>speciei cum qualitate duarum facierum magnetis. Cap. XIII.
         </p>
         <p>
@@ -8898,6 +8928,12 @@
                 </ab>
                 <figDesc/>
             </figure>
+        </p>
+        
+    </div>
+    <div alias="l2c14">
+        <head>Caput 14</head>
+        <p>
             <!--180.xml-->
             <pb ed="#P" n="180"/>
             <lb ed="#P" n="1"/>De causa cur magnes magnetem trahat. Cap. XIV.
@@ -9241,6 +9277,9 @@
             <lb ed="#P" n="41"/>simpliciter, sed ad commodè se conservandum, ad quod habendum debet
             <lb ed="#P" n="42"/>fugere etiam ab illa exigva vi telluris.
         </p>
+    </div>
+    <div alias="l2c15">
+        <head>Caput 15</head>
         <p>
             <!--187.xml-->
             <pb ed="#P" n="187"/>
@@ -9589,10 +9628,11 @@
             <lb ed="#P" n="27"/>ipsi A. aliam sui partem, quam B. quia sic qualitas semel acquisita roboratur;
             <lb ed="#P" n="28"/>alias destrueretur.
         </p>
+    </div>
+    <div alias="l2c16">
+        <head>Caput 16</head>
         <p>
             <lb ed="#P" n="29"/>An pars magnetis, quae in septentrionem convertitur, sit verè septentrionalis.
-        </p>
-        <p>
             <lb ed="#P" n="30"/>Cap. XVI.
         </p>
         <p>
@@ -9769,6 +9809,9 @@
             <lb ed="#P" n="13"/>sit unicuique loqui, ut lubet. Et haec dicta sint de attractionibus magneticis
             <lb ed="#P" n="14"/>in universum. singula uberius dicentur lib. 4.
         </p>
+    </div>
+    <div alias="l2c17">
+        <head>Caput 17</head>
         <p>
             <lb ed="#P" n="15"/>De electricis attractionibus; &amp; primo de multiplici discrimine inter magnetis,
             <lb ed="#P" n="16"/>electri attractiones. Cap. XVII.
@@ -9917,6 +9960,9 @@
             <lb ed="#P" n="13"/>electrica vero trahant quodcunque corpus proportionatum, quod ad ma¬
             <lb ed="#P" n="14"/>gnitudinem, si non sit nimis rarum, &amp; trahi non patiatur.
         </p>
+    </div>
+    <div alias="l2c18">
+        <head>Caput 18</head>
         <p>
             <lb ed="#P" n="15"/>Quia ratione propriè electrica trahat ad se alia corpora Cap. 18.
         </p>
@@ -10005,6 +10051,9 @@
             <lb ed="#P" n="5"/>inter se. Verùm, cum hactenus explicaverim, qua ratione fiant attractiones
             <lb ed="#P" n="6"/>electricae, causas etiam illarum conabor hic, pro meo modulo, explicare.
         </p>
+    </div>
+    <div alias="l2c19">
+        <head>Caput 19</head>
         <p>
             <lb ed="#P" n="7"/>De causa electricarum attractionum. Cap. XIX.
         </p>
@@ -10237,6 +10286,9 @@
             <lb ed="#P" n="19"/>ditate, non trahent nisi humida, sicca fugabunt. sed trahunt omnia sicca,
             <lb ed="#P" n="20"/>imo fortasse libentius, haec ergo non trahunt ex humiditate.
         </p>
+    </div>
+    <div alias="l2c20">
+        <head>Caput 20</head>
         <p>
             <lb ed="#P" n="21"/>Confutatur Gilberti opinio de electricis atractionibus, &amp; cur humida, bullae in aqua, &amp;
             <lb ed="#P" n="22"/>alia confluant, hanc vero non esse electricam atractionem. Cap. XX.
@@ -10450,6 +10502,9 @@
             <lb ed="#P" n="32"/>qualitatis Hic autem nec dicitur, nec videtar posse dici, cum sit nimis univer¬
             <lb ed="#P" n="33"/>salis attractio. Ut igitur dicam ego, quod sentio, &amp; quam maxima possum claritate.
         </p>
+    </div>
+    <div alias="l2c21">
+        <head>Caput 21</head>
         <p>
             <lb ed="#P" n="34"/>Explicatur ratio electricae atractionis. Cap. XXI.
         </p>
@@ -10628,21 +10683,16 @@
         <p>
             <lb ed="#P" n="17"/>Finis Libri Secundi.
         </p>
+    </div>
+    <div alias="l3c1">
+        <head>Caput 1</head>
         <p>
             <!--216.xml-->
             <pb ed="#P" n="216"/>
             <lb ed="#P" n="1"/>DE
-        </p>
-        <p>
             <lb ed="#P" n="2"/>MAGNETICA
-        </p>
-        <p>
             <lb ed="#P" n="3"/>PHILOSOPHIA
-        </p>
-        <p>
             <lb ed="#P" n="4"/>LIBER TERTIUS
-        </p>
-        <p>
             <lb ed="#P" n="5"/>In quo ponuntur effectus ad directionem spectantes,
             <lb ed="#P" n="6"/>Et eorum causę.
         </p>
@@ -10731,10 +10781,13 @@
             <lb ed="#P" n="41"/>commonstrat per invia maris, simul etiam caligantes ingenij cursus per
             <lb ed="#P" n="42"/>brevia, &amp; syrtes huius philosophiae diriget ad certum veritatis portum.
             <!--218.xml-->
+        </p>
+    </div>
+    <div alias="l3c2">
+        <head>Caput 2</head>
+        <p>
             <pb ed="#P" n="218"/>
             <lb ed="#P" n="1"/>Unicam tantum habet magnes dimensionem, secundum quam extenditur
-        </p>
-        <p>
             <lb ed="#P" n="2"/>eius virtus. Cap. II.
         </p>
         <p>
@@ -10913,10 +10966,11 @@
             <lb ed="#P" n="18"/>pide est directionis virtus, quod ab initio propositum fuerat, &amp; cuius ratio
             <lb ed="#P" n="19"/>inquirebatur.
         </p>
+    </div>
+    <div alias="l3c3">
+        <head>Caput 3</head>
         <p>
             <lb ed="#P" n="20"/>Non dirigitur magnes suis polis ad polos Coeli, nec ad aliquod astrum, sed ad
-        </p>
-        <p>
             <lb ed="#P" n="21"/>polos Terrae. Cap. III.
         </p>
         <p>
@@ -11050,6 +11104,9 @@
             <lb ed="#P" n="20"/>fit re ipsa. patet ergo magnetica corpora non polos Cęli respicere, sed Terrę.
             <lb ed="#P" n="21"/>&amp; huius rei causa etiam patet, quod erat propositum.
         </p>
+    </div>
+    <div alias="l3c4">
+        <head>Caput 4</head>
         <p>
             <lb ed="#P" n="22"/>Non habet magnes vim se dirigendi ad alias partes, quam ad polares; nec ullam habet
             <lb ed="#P" n="23"/>faciem Orientalem, aut occidentalem. Cap. IV.
@@ -11187,6 +11244,9 @@
         <p>
             <lb ed="#P" n="4"/>Non solum inutiliter, sed omnino perniciosè fieret versorium magneticum in
         </p>
+    </div>
+    <div alias="l3c5">
+        <head>Caput 5</head>
         <p>
             <lb ed="#P" n="5"/>forma Crucis. Cap. V.
         </p>
@@ -11375,6 +11435,9 @@
             <lb ed="#P" n="30"/>tibi unquam arescet arbor, quam transplantes, sicuti ex hoc neglecto oriri ar
             <lb ed="#P" n="31"/>bitror, quòd multae passim transplantatae arbores arescant.
         </p>
+    </div>
+    <div alias="l3c6">
+        <head>Caput 6</head>
         <p>
             <lb ed="#P" n="32"/>Polares facies nunquam per se in magnete mutantur. Cap. VI.
         </p>
@@ -11473,6 +11536,9 @@
             <lb ed="#P" n="10"/>gitur, &amp; disponitur terra, ut in tali situ contineatur; ita, &amp; quaelibet terrella
             <lb ed="#P" n="11"/>debet axem medium transmittere per suam substantiam.
         </p>
+    </div>
+    <div alias="l3c7">
+        <head>Caput 7</head>
         <p>
             <lb ed="#P" n="12"/>Variantur puncta polaria diviso magnete per parallelum aequatoris at non variatur axis,
             <lb ed="#P" n="13"/>nisi diviso per parallelum axe. Cap. VII.
@@ -11561,6 +11627,9 @@
             <lb ed="#P" n="38"/>C. D. non remanet axis; quod erat propositum, sed convenienti ratione
             <lb ed="#P" n="39"/>quaerendus est alius axis.
         </p>
+    </div>
+    <div alias="l3c8">
+        <head>Caput 8</head>
         <p>
             <!--233.xml-->
             <pb ed="#P" n="233"/>
@@ -11674,6 +11743,9 @@
             <lb ed="#P" n="1"/>dignabundus lapis, quod fuerit facta divisio, non vult amplius ad eundem
             <lb ed="#P" n="2"/>situm redire. Verum hoc ad alium spectat locum.
         </p>
+    </div>
+    <div alias="l3c9">
+        <head>Caput 9</head>
         <p>
             <lb ed="#P" n="3"/>Magnes non ubique terrarum directè dirigitur ad polos: variat tamen etiam ista variatio
             <lb ed="#P" n="4"/>à polo pro varietate locorum. Cap. IX.
@@ -11810,13 +11882,12 @@
             <lb ed="#P" n="29"/>partem id provenire pronunciabis, tanquam ex proxima causa, quod ad il¬
             <lb ed="#P" n="30"/>lam partem excurrant maiora telluris spatia, quam ad aliam.
         </p>
+    </div>
+    <div alias="l3c10">
+        <head>Caput 10</head>
         <p>
             <lb ed="#P" n="31"/>Si causam deviationis à vero meridiano cognovißent per hanc potuissent Americam
-        </p>
-        <p>
             <lb ed="#P" n="32"/>certo signo praecognoscere, &amp; praedicere illius Orbis inventores.
-        </p>
-        <p>
             <lb ed="#P" n="33"/>Caput X.
         </p>
         <p>
@@ -11866,10 +11937,11 @@
             <lb ed="#P" n="33"/>Terrarum tractum, &amp; longè maiorem, quam sit ex parte opposita, à qua di¬
             <lb ed="#P" n="34"/>scedit.
         </p>
+    </div>
+    <div alias="l3c11">
+        <head>Caput 11</head>
         <p>
             <lb ed="#P" n="35"/>Non est constanter eadem magnetis à vero Meridiano deviatio in quolibet puncto,
-        </p>
-        <p>
             <lb ed="#P" n="36"/>eiusdem Meridiani. Caput XI.
         </p>
         <p>
@@ -11944,13 +12016,12 @@
             <lb ed="#P" n="27"/>ceani vastitates, &amp; ad frontem habet ferè mediam totam Afticam, ideo ibi
             <lb ed="#P" n="28"/>congruit cum vero meridiano.
         </p>
+    </div>
+    <div alias="l3c12">
+        <head>Caput 12</head>
         <p>
             <lb ed="#P" n="29"/>Longitudo Terrestris inveniri non potest per magneticam directionem
-        </p>
-        <p>
             <lb ed="#P" n="30"/>ad polos.
-        </p>
-        <p>
             <lb ed="#P" n="31"/>Caput XII.
         </p>
         <p>
@@ -12000,10 +12071,11 @@
             <lb ed="#P" n="33"/>deviationem magneticam longitudo regionis potest inveniri; quod hic
             <lb ed="#P" n="34"/>contendo.
         </p>
+    </div>
+    <div alias="l3c12b">
+        <head>Caput 12b</head>
         <p>
             <lb ed="#P" n="35"/>Deviationes caeteris partibus maiores sunt in polaribus regionibus, quàm in
-        </p>
-        <p>
             <lb ed="#P" n="36"/>aequinoctialibus. Cap. XII.
         </p>
         <p>
@@ -12420,6 +12492,9 @@
             <lb ed="#P" n="13"/>parte polari, non est mirum quod caeteris paribus maiorem efficere possit
             <lb ed="#P" n="14"/>deviationem.
         </p>
+    </div>
+    <div alias="l3c13">
+        <head>Caput 13</head>
         <p>
             <lb ed="#P" n="15"/>Potest certius per magneticas directiones inveniri latitudo regionis seu altitudo Poli, quam
             <lb ed="#P" n="16"/>etiam linea Meridiana. Cap. XIII.
@@ -12523,11 +12598,14 @@
             <lb ed="#P" n="18"/>ligentia. Per magnetem ergo melius altitudinem poli definimus, quod
             <lb ed="#P" n="19"/>erat ostendendum.
         </p>
+    </div>
+    <div alias="l3c14">
+        <head>Caput 14</head>
         <p>
             <lb ed="#P" n="20"/>Bilances exactissimae non fiant ex ferro, sed ex quolibet alio metallo.
+            <lb ed="#P" n="21"/>Caput XIV.
         </p>
         <p>
-            <lb ed="#P" n="21"/>Caput XIV.
             <lb ed="#P" n="22"/>Loquor hic non de bilance communi, qua pondera ingentia, &amp;
             <lb ed="#P" n="23"/>vulgaria examinantur, sed de bilance perfectissima, qua aurum,
             <lb ed="#P" n="24"/>aut gemmae trutinantur, &amp; quibus cognoscere volumus non so
@@ -12569,10 +12647,11 @@
             <lb ed="#P" n="16"/>nari, nisi aut igne, aut longissimis temporum iniurijs, quibus prorsus bilanx
             <lb ed="#P" n="17"/>tota corrumpitur.
         </p>
+    </div>
+    <div alias="l3c15">
+        <head>Caput 15</head>
         <p>
             <lb ed="#P" n="18"/>Vix supra parietem versorium certum suum invenire potest aliquando meridianum,
-        </p>
-        <p>
             <lb ed="#P" n="19"/>ac maximo periculo ibi dirigitur. Cap. XV.
         </p>
         <p>
@@ -12641,10 +12720,11 @@
             <lb ed="#P" n="34"/>facio, vel alia ratione, si ulla est, disponenda sunt ad meridianum non adhi¬
             <lb ed="#P" n="35"/>bito magnetico versorio: sic enim minus fortasse errabis.
         </p>
+    </div>
+    <div alias="l3c16">
+        <head>Caput 16</head>
         <p>
             <lb ed="#P" n="36"/>Pyxis alicubi Terrarum etiam bene excitata non dirigitur ad polum, aut ad
-        </p>
-        <p>
             <lb ed="#P" n="37"/>ullam partem. Cap. XVI.
         </p>
         <p>
@@ -12761,11 +12841,16 @@
             <lb ed="#P" n="42"/>tionis, Verum quia hoc idem explicandi commodior est alibi occasio, mis¬
             <lb ed="#P" n="43"/>sum facio in praesentia.
         </p>
+    </div>
+    <div alias="l3c17">
+        <head>Caput 17</head>
         <p>
             <!--256.xml-->
             <pb ed="#P" n="256"/>
             <lb ed="#P" n="1"/>Potest contingere ut progrediendo eodem recto itinere supra Terram semper in directum,
             <lb ed="#P" n="2"/>Pyxis de repente convertat se ad oppositam partem. Cap. XVII.
+        </p>
+        <p>
             <lb ed="#P" n="3"/>Hoc etiam quod dico commoveret animum sua novitate, si
             <lb ed="#P" n="4"/>contingeret, &amp; in magnetica philosophia mirum fortasse vi¬
             <lb ed="#P" n="5"/>deretur causam ignoranti. ideo, quamvis in promptu ratio sit,
@@ -12866,10 +12951,11 @@
             <lb ed="#P" n="28"/>hoc idem circa terrae polum accidere animo fingas; nec enim finges, sed,
             <lb ed="#P" n="29"/>quod est, intelliges.
         </p>
+    </div>
+    <div alias="l3c18">
+        <head>Caput 18</head>
         <p>
             <lb ed="#P" n="30"/>Est haec verticitas primario in magnete, qua se convertit ad polos; sed haec eadem ferro
-        </p>
-        <p>
             <lb ed="#P" n="31"/>etiam communicatur. Cap. XVIII.
         </p>
         <p>
@@ -13002,6 +13088,9 @@
             <lb ed="#P" n="22"/>at vero ubi ferrum invenerit vel ferreum corpus, quia istud est subiectum
             <lb ed="#P" n="23"/>proportionatum propter naturae similitudinem, in illo qualitas radicatur.
         </p>
+    </div>
+    <div alias="l3c19">
+        <head>Caput 19</head>
         <p>
             <lb ed="#P" n="24"/>Verticitas semper ferro communicatur secundum maiorem ferri longitudinem, quacun¬
             <lb ed="#P" n="25"/>que ratione ferrum magneti applicetur. Cap. XIX.
@@ -13215,6 +13304,11 @@
                 </ab>
                 <figDesc/>
             </figure>
+            </p>
+    </div>
+    <div alias="l3c20">
+        <head>Caput 20</head>
+        <p>
             <!--264.xml-->
             <pb ed="#P" n="264"/>
             <lb ed="#P" n="1"/>Solo ferro magneticè excitato, expeditè cognosci potest directio, &amp; inclinatio magnetica,
@@ -13365,13 +13459,12 @@
             <lb ed="#P" n="2"/>mum, si versorium ex magnete formasset; nam operam luderet, dum maxi¬
             <lb ed="#P" n="3"/>mos artis conatus in tali opere faciendo delusos inveniret.
         </p>
+    </div>
+    <div alias="l3c21">
+        <head>Caput 21</head>
         <p>
             <lb ed="#P" n="4"/>Ferrum acquirit verticitatem non solum magnetem tangendo, sed etiam solum propius
-        </p>
-        <p>
             <lb ed="#P" n="5"/>accedendo: nec solum pars ferri, quae tangit, sed etiam opposita
-        </p>
-        <p>
             <lb ed="#P" n="6"/>per se virtutem concipit. Cap. XXI.
         </p>
         <p>
@@ -13522,11 +13615,12 @@
             <lb ed="#P" n="1"/>receditur à magnete, donec tandem, si ferrum sit longissimum desinat in
             <lb ed="#P" n="2"/>non virtutum.
         </p>
+    </div>
+    <div alias="l3c22">
+        <head>Caput 22</head>
         <p>
             <lb ed="#P" n="3"/>Ferrum, si collocetur secundum longitudinem supra magnetem, acquirit verticitatem
             <lb ed="#P" n="4"/>contraria ratione ac sit in ipso magnete.
-        </p>
-        <p>
             <lb ed="#P" n="5"/>Cap. XXII.
         </p>
         <p>
@@ -13587,11 +13681,14 @@
             <lb ed="#P" n="4"/>mirum videbitur, quod tantopere miratur Gilbertus illo cap. 11. propagari
             <lb ed="#P" n="5"/>virtutem aequali ratione, quod ad vim directivam, per totum medium.
         </p>
+    </div>
+    <div alias="l3c23">
+        <head>Caput 23</head>
         <p>
             <lb ed="#P" n="6"/>Nunquam ita ferrum magneticè excitatur, quin utranque faciem simul acquirat.
+            <lb ed="#P" n="7"/>Cap. XXIII.
         </p>
         <p>
-            <lb ed="#P" n="7"/>Cap. XXIII.
             <lb ed="#P" n="8"/>Sit magnes A. B. tangatur filo ferteo, vel acu in altero tantum
             <lb ed="#P" n="9"/>extremorum A. vel B. dico futurum, ut acus non solum quali¬
             <lb ed="#P" n="10"/>tatem acquirat, et excitetur magnatice acquirendo virtutem
@@ -13672,6 +13769,9 @@
             <lb ed="#P" n="25"/>ergo, quamvis ferrum magnetem tangat ex unica solum parte, utranque ta¬
             <lb ed="#P" n="26"/>men acquiret faciem; quod erat propositum.
         </p>
+    </div>
+    <div alias="l3c24">
+        <head>Caput 24</head>
         <p>
             <lb ed="#P" n="27"/>Ferrum, si à polo magnetis tangatur medium, in extremitatibus oppositis eandem habe¬
             <lb ed="#P" n="28"/>bit faciem. Cap. XXIV.
@@ -13831,6 +13931,9 @@
             <lb ed="#P" n="19"/>dem habeat faciem, applicari obelus ad punctum polare, &amp; in sui medie¬
             <lb ed="#P" n="20"/>tate.
         </p>
+    </div>
+    <div alias="l3c25">
+        <head>Caput 25</head>
         <p>
             <lb ed="#P" n="21"/>Quaelibet facies magnetis ferrum magneticè excitat; sed quam virtutem dedit una, alte¬
             <lb ed="#P" n="22"/>ra aufert, ut sua ratione immittat qualitatem. Cap. XXV.
@@ -13953,6 +14056,9 @@
             <lb ed="#P" n="31"/>cere, quae priorem ab alia parte productam exterminet, cum habeat actionem
             <lb ed="#P" n="32"/>eiusdem intensionis cum prima, quod sanè mirum est, dicetur mox.
         </p>
+    </div>
+    <div alias="l3c26">
+        <head>Caput 26</head>
         <p>
             <lb ed="#P" n="33"/>Potest ferri verticitas contactu eiusdem magnetis immutari, quoties libuerit; imo etiam
             <lb ed="#P" n="34"/>immutabitur magnete debiliori. Cap. XXVI.
@@ -14169,6 +14275,9 @@
             <lb ed="#P" n="9"/>modo facto; sed etiam ratio manifestissima, quantum ego arbitror, constat
             <lb ed="#P" n="10"/>ex dictis, quod quaerebatur.
         </p>
+    </div>
+    <div alias="l3c27">
+        <head>Caput 27</head>
         <p>
             <lb ed="#P" n="11"/>Versorium accurrit ad lamellae centrum, dum illa centro magnetis polum tangit, &amp; refu¬
             <lb ed="#P" n="12"/>git ab eodem lamellae centro, dum procul removetur magnes; &amp; tamen lamella
@@ -14292,6 +14401,9 @@
             <lb ed="#P" n="31"/>Idem punctum magnetis, quod communicavit ferro vim se convertendi ad Austrum, po¬
             <lb ed="#P" n="32"/>terit etiam communicare vim se convertendi ad Septentrionem in cor¬
         </p>
+    </div>
+    <div alias="l3c28">
+        <head>Caput 28</head>
         <p>
             <lb ed="#P" n="33"/>rupto magnete. Cap. XXVIII.
         </p>
@@ -14382,6 +14494,9 @@
             <lb ed="#P" n="15"/>illius; nunc vero, quia facta divisione est propius polo septentrionali, illi de¬
             <lb ed="#P" n="16"/>servit, &amp; iuxta eius virtutem agit.
         </p>
+    </div>
+    <div alias="l3c29">
+        <head>Caput 29</head>
         <p>
             <lb ed="#P" n="17"/>Ferrum oblongum maximè in ordine ad directionem melius excitatur quam rotundum,
             <lb ed="#P" n="18"/>aut quadratum. Cap. XXIX.
@@ -14468,6 +14583,9 @@
             <lb ed="#P" n="7"/>ferrum oblongum melius excitari in ordine ad directionem, quod quaereba
             <lb ed="#P" n="8"/>tur, cuius etiam ratio constat, quantum locus iste admittit.
         </p>
+    </div>
+    <div alias="l3c30">
+        <head>Caput 30</head>
         <p>
             <lb ed="#P" n="9"/>Ferreus pulvis, si contineatur unitus, verticitatem concipit certam ex contactu magnetis;
             <lb ed="#P" n="10"/>sed si misceatur iterum, amittit, seu amittere videtur. Cap. XXX.
@@ -14580,11 +14698,12 @@
             <lb ed="#P" n="21"/>sic adhęrescere: retinet tamen ferreus puluis etiam ablato magnete vim ma
             <lb ed="#P" n="22"/>gneticam, quod erat conficiendum.
         </p>
+    </div>
+    <div alias="l3c31">
+        <head>Caput 31</head>
         <p>
             <lb ed="#P" n="23"/>Si duo, vel plura versoria simul applicentur ad magnetem, coniunguntur ad tangendum
             <lb ed="#P" n="24"/>eundem polum; remoto magnete à coniunctione illa abhorrent, &amp; se paral¬
-        </p>
-        <p>
             <lb ed="#P" n="25"/>lela constituunt. Cap. XXXI.
         </p>
         <p>
@@ -14651,12 +14770,13 @@
             <lb ed="#P" n="40"/>cem dissentire, atque cuspides; ac proinde, vt vtrisque aequum fiat, in paral¬
             <lb ed="#P" n="41"/>lelo situ collocantur.
         </p>
+    </div>
+    <div alias="l3c32">
+        <head>Caput 32</head>
         <p>
             <!--292.xml-->
             <pb ed="#P" n="292"/>
             <lb ed="#P" n="1"/>Perniciosè in eodem Instrumento, si non sit maximum, plura collocantur versoria, ut
-        </p>
-        <p>
             <lb ed="#P" n="2"/>illis meridiana linea ostendatur. Cap. XXXII.
         </p>
         <p>
@@ -14699,13 +14819,14 @@
             <lb ed="#P" n="37"/>intra sphaeram activitatis, quod ut ne contingat, debent minimum per unam
             <lb ed="#P" n="38"/>aut alteram spithamam ab invicem distare.
         </p>
+    </div>
+    <div alias="l3c33">
+        <head>Caput 33</head>
         <p>
             <!--293.xml-->
             <pb ed="#P" n="293"/>
             <lb ed="#P" n="1"/>Duo tantum corpora hanc verticitatem, &amp; habent in se à natura, &amp; alijs tribuunt corpo¬
             <lb ed="#P" n="2"/>ribus, magnes scilicet, &amp; tota Terra, non adamas, non aliud.
-        </p>
-        <p>
             <lb ed="#P" n="3"/>Cap. XXXIII.
         </p>
         <p>
@@ -14782,11 +14903,12 @@
             <lb ed="#P" n="28"/>corpus maximè terrestre. huiusmodi autem sola hanc virtutem, &amp; recipiunt,
             <lb ed="#P" n="29"/>&amp; retinent, quod quaerebatur.
         </p>
+    </div>
+    <div alias="l3c34">
+        <head>Caput 34</head>
         <p>
             <lb ed="#P" n="30"/>Omnes acus; &amp; ferrei obeli, etiam si nunquam magnetem tetigerint, convertunt se ad me¬
             <lb ed="#P" n="31"/>ridianum magneticum, si aquis imponantur; non tamen semper convertunt,
-        </p>
-        <p>
             <lb ed="#P" n="32"/>eandem partem in Septentrionem. Cap. XXXIV.
         </p>
         <p>
@@ -15005,6 +15127,9 @@
             <lb ed="#P" n="1"/>dem semper facies seu extremitas ad determinatum polum dirigitur supra
             <lb ed="#P" n="2"/>terrae globum.
         </p>
+    </div>
+    <div alias="l3c35">
+        <head>Caput 35</head>
         <p>
             <lb ed="#P" n="3"/>Ferrum, si incanduerit, refrigeratum in linea meridiana, aut erectum verticitatem acqui¬
             <lb ed="#P" n="4"/>rit satis insignem. Cap. XXXV.
@@ -15107,6 +15232,9 @@
             <lb ed="#P" n="8"/>immittat, qua globus magneticus, convenienter etiam ad terram disponi¬
             <lb ed="#P" n="9"/>tur in nostra hac latitudine, si ad eius centrum erigatur ferrum.
         </p>
+    </div>
+    <div alias="l3c36">
+        <head>Caput 36</head>
         <p>
             <lb ed="#P" n="10"/>Ferramenta igniaria omnia, si librentur ex filo partem infernam convertunt in Septen¬
             <lb ed="#P" n="11"/>trionem, manubrium in Austrum. Cap. XXXVI.
@@ -15161,11 +15289,12 @@
             <lb ed="#P" n="12"/>erecta ad terram, &amp; pars inferior dirigitur ad Septentrionem, quia terram tan¬
             <lb ed="#P" n="13"/>git quodammodo in parte Septentrionali.
         </p>
+    </div>
+    <div alias="l3c37">
+        <head>Caput 37</head>
         <p>
             <lb ed="#P" n="14"/>Omnia ferramenta, quae longo tempore, aut in meridiana linea, aut erecta supra terram
             <lb ed="#P" n="15"/>mansere, determinatam acquirunt verticitatem, quam etiam acquirunt fer¬
-        </p>
-        <p>
             <lb ed="#P" n="16"/>rei lateres. quibus solent viae insterni. Cap. XXXVII.
         </p>
         <p>
@@ -15254,27 +15383,20 @@
                 </ab>
                 <figDesc/>
             </figure>
+        </p>
+    </div>
+    <div alias="l4c1">
+        <head>Caput 1</head>
+        <p>
             <!--304.xml-->
             <pb ed="#P" n="304"/>
             <lb ed="#P" n="1"/>DE
-        </p>
-        <p>
             <lb ed="#P" n="2"/>MAGNETICA
-        </p>
-        <p>
             <lb ed="#P" n="3"/>PHILOSOPHIA
-        </p>
-        <p>
             <lb ed="#P" n="4"/>LIBER QUARTUS.
-        </p>
-        <p>
             <lb ed="#P" n="5"/>In quo ponuntur effectus ad attractionem spectantes,
-        </p>
-        <p>
             <lb ed="#P" n="6"/>Et eorum causae.
             <lb ed="#P" n="7"/>Cur istius attractionis causae adeo hactenus ignotae fuerint.
-        </p>
-        <p>
             <lb ed="#P" n="8"/>Caput Primum.
         </p>
         <p>
@@ -15307,10 +15429,11 @@
             <lb ed="#P" n="2"/>posse vidram: iterum iterum'que versare non recuso, si fortasse, quod tam¬
             <lb ed="#P" n="3"/>diu traho, tandem è tenebris extraham.
         </p>
+    </div>
+    <div alias="l4c2">
+        <head>Caput 2</head>
         <p>
             <lb ed="#P" n="4"/>Contrariae facies in magneticis corporibus solae se mutuo coniungunt, similes semper
-        </p>
-        <p>
             <lb ed="#P" n="5"/>se fugiunt. Caput II.
         </p>
         <p>
@@ -15444,11 +15567,12 @@
             <lb ed="#P" n="29"/>ferrum convertat ad faciem Septentrionalem suam Australem, &amp; è contra¬
             <lb ed="#P" n="30"/>rio, ut se ad illam accommodet qualitatem; quod erat demonstrandum.
         </p>
+    </div>
+    <div alias="l4c3">
+        <head>Caput 3</head>
         <p>
             <lb ed="#P" n="31"/>Si magnes secetur secundum longitudinem, partes, si suspendantur, non cohaerent amplius
             <lb ed="#P" n="32"/>eadem ratione, qua prius erant coniunctae; sed solum contrario situ
-        </p>
-        <p>
             <lb ed="#P" n="33"/>coniunguntur. Cap. III.
         </p>
         <p>
@@ -15478,6 +15602,9 @@
             <lb ed="#P" n="15"/>tis vi debitur inculcatum. quod
             <lb ed="#P" n="16"/>ut melius intelligatur subdo.
         </p>
+    </div>
+    <div alias="l4c4">
+        <head>Caput 4</head>
         <p>
             <lb ed="#P" n="17"/>Si versorium supra magnetem suspendas, vel supponas, illius extrema constanter accur¬
             <lb ed="#P" n="18"/>rent ad illam magnetis partem, quam semel tetigere. Cap. IV.
@@ -15629,10 +15756,11 @@
             <lb ed="#P" n="12"/>grandum unum totum, agens; quo casu simul duo illa agentia iungunt a¬
             <lb ed="#P" n="13"/>ctiones.
         </p>
+    </div>
+    <div alias="l4c5">
+        <head>Caput 5</head>
         <p>
             <lb ed="#P" n="14"/>Versorium supra lapidem positum contraria ratione se dirigit, atque si applicetur ad
-        </p>
-        <p>
             <lb ed="#P" n="15"/>alterum polorum magnetis. Cap. V.
         </p>
         <p>
@@ -15678,6 +15806,9 @@
             <lb ed="#P" n="14"/>tae se mutuo advocant; quam legem praecipuam in magneticis attractioni¬
             <lb ed="#P" n="15"/>bus statuimus.
         </p>
+    </div>
+    <div alias="l4c6">
+        <head>Caput 6</head>
         <p>
             <lb ed="#P" n="16"/>Si lapis rumpatur in parallelo, &amp; eodem modo, quo prius erant coniunctae partes, libratae
             <lb ed="#P" n="17"/>confluunt, &amp; contraria etiam ratione copulantur. Cap. VI.
@@ -15723,10 +15854,16 @@
             <lb ed="#P" n="1"/>vinculis connectentur ad invicem; quia sic ijsdem obtemperant magneticis
             <lb ed="#P" n="2"/>legibus. quia autem A. &amp; D. sunt facies similes, se mutuo fugabunt.
         </p>
+    </div>
+    <div alias="l4c7">
+        <head>Caput 7</head>
         <p>
             <lb ed="#P" n="3"/>Si collocentur prope duo versoria, vel suspendantur duo magnetes ita, ut ab invicem rece¬
             <lb ed="#P" n="4"/>dere non possint, collocabunt se in situ parallelo magneticorum
             <lb ed="#P" n="5"/>longitudines. Cap. VII.
+        </p>
+        <p>
+            
             <lb ed="#P" n="6"/>Dixi supra contrarias facies invicem confluere, &amp; similes se invi¬
             <lb ed="#P" n="7"/>cem propulsare. Occurret fortasse aliquis hac, quam hic po¬
             <lb ed="#P" n="8"/>no, propositione: si enim duo versoria collocentur in eodem
@@ -15882,6 +16019,9 @@
             <lb ed="#P" n="1"/>sunt motu gyrationis, nullo vero modo motu recto, ideo ratio supra posi¬
             <lb ed="#P" n="2"/>ta vim suam obtinet, &amp; manent directa modo explicato.
         </p>
+    </div>
+    <div alias="l4c8">
+        <head>Caput 8</head>
         <p>
             <lb ed="#P" n="3"/>Si duo versoriae superponantur unum alteri, convertent se invicem contrario situ, &amp; op¬
             <lb ed="#P" n="4"/>posita ratione conformabunt. Cap. VIII.
@@ -15938,11 +16078,14 @@
                 </ab>
                 <figDesc/>
             </figure>
+        </p>
+    </div>
+    <div alias="l4c9">
+        <head>Caput 9</head>
+        <p>
             <!--317.xml-->
             <pb ed="#P" n="317"/>
             <lb ed="#P" n="1"/>Variè movetur versorium ad motum magnetis iuxta positi pro varia collatione
-        </p>
-        <p>
             <lb ed="#P" n="2"/>ipsius lapidis, &amp; motu utriusque. Cap. IX.
         </p>
         <p>
@@ -16120,11 +16263,12 @@
             <lb ed="#P" n="19"/>rium, quod solum movetur ad nouam, ut ita dixerim, illius qualitatis in me¬
             <lb ed="#P" n="20"/>dio situationem, ut ad illam se accommodet, quam hic nullam supponimus.
         </p>
+    </div>
+    <div alias="l4c10">
+        <head>Caput 10</head>
         <p>
             <lb ed="#P" n="21"/>Fabulosum est, quod duo Homines possint quasi se alloqui è remotissimis, &amp; clausis lo¬
             <lb ed="#P" n="22"/>cis, per duorum vensoriorum mutuam directionem.
-        </p>
-        <p>
             <lb ed="#P" n="23"/>Cap. X.
         </p>
         <p>
@@ -16385,11 +16529,12 @@
             <lb ed="#P" n="34"/>quisita ęqualitate talia fieri possunt, quibus duo sibi invicem animi sensa
             <lb ed="#P" n="35"/>quasi describant. quod erat ostendendum.
         </p>
+    </div>
+    <div alias="l4c11">
+        <head>Caput 11</head>
         <p>
             <lb ed="#P" n="36"/>Commovent se versoria, &amp; magnetica trahuntur, si sint in debita distantia, quocunque
             <lb ed="#P" n="37"/>corpore interposito etiam solidissimo, perinde ac si eßet solus aer.
-        </p>
-        <p>
             <lb ed="#P" n="38"/>Cap. XI.
         </p>
         <p>
@@ -16662,11 +16807,12 @@
             <lb ed="#P" n="9"/>medium suam propagat magnes actionem, &amp; virtutem. quod erat demon¬
             <lb ed="#P" n="10"/>strandum, &amp; ratio etiam huius, quae quaerebatur, constat à priori.
         </p>
+    </div>
+    <div alias="l4c12">
+        <head>Caput 12</head>
         <p>
             <lb ed="#P" n="11"/>Magnes trahit magnetem omnis generis, Ferrum, venam ferri, lateres ferreos, arenam
             <lb ed="#P" n="12"/>nigram, &amp; si quae sunt alia huiusmodi ferrea corpora, non aliud.
-        </p>
-        <p>
             <lb ed="#P" n="13"/>Cap. XII.
         </p>
         <p>
@@ -16749,6 +16895,9 @@
             <lb ed="#P" n="42"/>teris paribus, seu, ut verius loquar, ad magnum avide magis accurrit ferrum;
             <lb ed="#P" n="43"/>neque enim in hoc à reliquia diversam habet rationem.
         </p>
+    </div>
+    <div alias="l4c13">
+        <head>Caput 13</head>
         <p>
             <!--333.xml-->
             <pb ed="#P" n="333"/>
@@ -16826,14 +16975,13 @@
             <lb ed="#P" n="24"/>fiant omnes magneticę actiones, &amp; ferri provocationes, quae iam attractiones vo¬
             <lb ed="#P" n="25"/>cantur, hinc est, ut ferrum attrahat ab utroque extremo. quod erat ostendendum.
         </p>
+    </div>
+    <div alias="l4c14">
+        <head>Caput 14</head>
         <p>
             <lb ed="#P" n="26"/>Si polus magnetis, puta, australis in pulverem ferreum immittatur, fit ille polus veluti
             <lb ed="#P" n="27"/>barbatus, cui si admoveatur alterius magnetis pariter pars australis, repelluntur
-        </p>
-        <p>
             <lb ed="#P" n="28"/>veluti contrario vento, &amp; iuhorrescunt pili, odmoota Septentrionali ad¬
-        </p>
-        <p>
             <lb ed="#P" n="29"/>vocantur, &amp; comuntur. Cap. XIV.
         </p>
         <p>
@@ -16974,14 +17122,13 @@
             <lb ed="#P" n="24"/>polum inclinant: cessat enim ratio discedendi ab invicem, quia efficacius
             <lb ed="#P" n="25"/>iuvantur à magnete, quam laedantur ab invicem.
         </p>
+    </div>
+    <div alias="l4c15">
+        <head>Caput 15</head>
         <p>
             <lb ed="#P" n="26"/>Si pendeant ex eodem polo magnetis duo obeli, ex impulsu unius alter etiam impellitur;
             <lb ed="#P" n="27"/>etiam si non tangatur: &amp; si pendeant ex filo duplici supra eundem
-        </p>
-        <p>
             <lb ed="#P" n="28"/>polum, ab invicem utroque extremo discedunt.
-        </p>
-        <p>
             <lb ed="#P" n="29"/>Cap. XV.
         </p>
         <p>
@@ -17061,20 +17208,15 @@
             <lb ed="#P" n="2"/>tur extremum ex eadem ratione ab in¬
             <lb ed="#P" n="3"/>vicem divertit.
         </p>
+    </div>
+    <div alias="l4c16">
+        <head>Caput 16</head>
         <p>
             <lb ed="#P" n="4"/>Si supra magnetis polum gladium à manu
             <lb ed="#P" n="5"/>brio ad cuspidem ductando frices, virtus
-        </p>
-        <p>
             <lb ed="#P" n="6"/>communicatur gladio: Si vero à cuspidi
-        </p>
-        <p>
             <lb ed="#P" n="7"/>ad manubrium fricationem deducas, vi¬
-        </p>
-        <p>
             <lb ed="#P" n="8"/>detur auferri, non tamen aufertur.
-        </p>
-        <p>
             <lb ed="#P" n="9"/>Cap. XVI.
         </p>
         <p>
@@ -17249,6 +17391,9 @@
             <lb ed="#P" n="11"/>sit ex ferro aequè perfecto, rationes non addo; quia puto constare ex alibi
             <lb ed="#P" n="12"/>dictis.
         </p>
+    </div>
+    <div alias="l4c17">
+        <head>Caput 17</head>
         <p>
             <lb ed="#P" n="13"/>Ferro ferrum à magnete surripitur, quod magneti adhaerebat; non tamen propterea plùs
             <lb ed="#P" n="14"/>est virtutis in ferro, quam in magnete. Cap. XVII.
@@ -17779,13 +17924,12 @@
             <lb ed="#P" n="15"/>ex hoc confirmatur, &amp; stabilitur doctrina posita, quò facillimè ex illa singu¬
             <lb ed="#P" n="16"/>lorum redditur clarissima ratio.
         </p>
+    </div>
+    <div alias="l4c18">
+        <head>Caput 18</head>
         <p>
             <lb ed="#P" n="17"/>Potest ferrum suspendi inter duos magnetes; ac proinde poßet esse verum ex doctrina
-        </p>
-        <p>
             <lb ed="#P" n="18"/>magnetica, quod dicitur de arca Mahometis, nisi aliunde constet esse falsum.
-        </p>
-        <p>
             <lb ed="#P" n="19"/>Cap. XVIII.
         </p>
         <p>
@@ -17867,11 +18011,14 @@
                 </ab>
                 <figDesc/>
             </figure>
+        </p>
+    </div>
+    <div alias="l4c19">
+        <head>Caput 19</head>
+        <p>            
             <!--355.xml-->
             <pb ed="#P" n="355"/>
             <lb ed="#P" n="1"/>Potest etiam unico solum magnete, metaplysicè loquendo, suspendi ferrum, ut pendeat,
-        </p>
-        <p>
             <lb ed="#P" n="2"/>in libero aere. Cap. XIX.
         </p>
         <p>
@@ -17982,13 +18129,12 @@
             <lb ed="#P" n="15"/>sistat, neque sursum, neque deorsum ten¬
             <lb ed="#P" n="16"/>dat. quod erat demonstrandum.
         </p>
+    </div>
+    <div alias="l4c20">
+        <head>Caput 20</head>
         <p>
             <lb ed="#P" n="17"/>Motus perpetuus non videtur posse fieri per ma¬
-        </p>
-        <p>
             <lb ed="#P" n="18"/>gneticam attractionem; &amp;, si posset fieri, quae
-        </p>
-        <p>
             <lb ed="#P" n="19"/>esset tentanda via. Cap. XX.
         </p>
         <p>
@@ -18376,6 +18522,9 @@
             <lb ed="#P" n="16"/>re de motu perpetuo per magnetem effecto. Siquis tamen his non obstan¬
             <lb ed="#P" n="17"/>tibus velit proprio experimento rei difficultatem sentire, non repugno.
         </p>
+    </div>
+    <div alias="l4c21">
+        <head>Caput 21</head>
         <p>
             <lb ed="#P" n="18"/>Nec magnes trahit propriè ferrum, nec ferrum ad se magnetem provocat, sed ambo pari
             <lb ed="#P" n="19"/>conatu ad invicem confluunt. Cap. XXI.
@@ -18418,6 +18567,9 @@
             <lb ed="#P" n="9"/>ostentet divitias naturae, &amp; suam illi communicet qualitatem, &amp; ferrum mo
             <lb ed="#P" n="10"/>veatur ad magnetem, ut illam recipiat.
         </p>
+    </div>
+    <div alias="l4c22">
+        <head>Caput 22</head>
         <p>
             <lb ed="#P" n="11"/>Ferrum ignitum non trahitur à magnete. Cap. XXII.
         </p>
@@ -18516,14 +18668,13 @@
             <lb ed="#P" n="13"/>mutuus ferri, &amp; magnetis à qualitate mutua proveniat, cum in ferro can¬
             <lb ed="#P" n="14"/>denti nulla esse possit, non est ratio, cur sit talis nexus.
         </p>
+    </div>
+    <div alias="l4c23">
+        <head>Caput 23</head>
         <p>
             <lb ed="#P" n="15"/>Tam magnes, quam ferrum per vehementem ignitionem verticitatem amittit, non per
             <lb ed="#P" n="16"/>fricationem allijs non per interpositionem adamantis; nec alia simili re: sed
-        </p>
-        <p>
             <lb ed="#P" n="17"/>ferrum statim iterum illam acquirere potest; magnes non item.
-        </p>
-        <p>
             <lb ed="#P" n="18"/>Cap. XXIII.
         </p>
         <p>
@@ -18773,6 +18924,9 @@
             <lb ed="#P" n="30"/>toties causam inculcet, &amp; repetat Gilbertus illo cap. 4. quasi vero tunc pri¬
             <lb ed="#P" n="31"/>mum amitteretur vis illa, cum fluit.
         </p>
+    </div>
+    <div alias="l4c24">
+        <head>Caput 24</head>
         <p>
             <lb ed="#P" n="32"/>Vena ferri imbecillis, &amp; iners post longam ignitionem verticitatem concipit etiam nul¬
             <lb ed="#P" n="33"/>lum tangendo magnetem. Cap. XXIV.
@@ -18835,15 +18989,14 @@
             <lb ed="#P" n="40"/>luta, &amp; melius ad magneticam naturam provecta, iam poterit in se illum con¬
             <lb ed="#P" n="41"/>cipere vigorem, &amp; prodere. quod erat propositum.
         </p>
+    </div>
+    <div alias="l4c25">
+        <head>Caput 25</head>
         <p>
             <!--375.xml-->
             <pb ed="#P" n="375"/>
             <lb ed="#P" n="1"/>Exterminatur etiam virtus a ferro longis temporum iniurijs; &amp; si ad longum tempus
-        </p>
-        <p>
             <lb ed="#P" n="2"/>detineatur in contrario situ, atque postulet eius directio.
-        </p>
-        <p>
             <lb ed="#P" n="3"/>Cap. XXV.
         </p>
         <p>
@@ -18904,11 +19057,12 @@
             <lb ed="#P" n="12"/>contraria, quod erat propositum; quod patet, quia hanc solum ob causam
             <lb ed="#P" n="13"/>convertit se, si possit, ne sic laedatur.
         </p>
+    </div>
+    <div alias="l4c26">
+        <head>Caput 26</head>
         <p>
             <lb ed="#P" n="14"/>Magnes bene conservatur in ferreo pulvere, &amp; in purpureo panno; sed praecipuè conser¬
             <lb ed="#P" n="15"/>vatur, si detineatur in convenienti collocatione in ordine ad universum.
-        </p>
-        <p>
             <lb ed="#P" n="16"/>Cap. XXVI.
         </p>
         <p>
@@ -19104,6 +19258,9 @@
             <lb ed="#P" n="22"/>Magnes melius trahit ferrum mundum, quam rubiginosum, melius aciarium, quam fer¬
             <lb ed="#P" n="23"/>rum commune, melius temperatum quam molle, vnde versoria perfecta fiant
         </p>
+    </div>
+    <div alias="l4c27">
+        <head>Caput 27</head>
         <p>
             <lb ed="#P" n="24"/>ex aciario temperato. Cap. XXVII.
         </p>
@@ -19200,6 +19357,9 @@
             <lb ed="#P" n="26"/>Si ferri uncia pendeat ex magnete addita alia ferri uncia adhuc pendebit, addita semiun¬
             <lb ed="#P" n="27"/>cia plumbi non pendebit amplius sed decidet ferrum.
         </p>
+    </div>
+    <div alias="l4c28">
+        <head>Caput 28</head>
         <p>
             <lb ed="#P" n="28"/>Cap. XXVIII.
         </p>
@@ -19273,6 +19433,9 @@
             <lb ed="#P" n="5"/>ex illo, &amp; consequenter eius gravitas non augeatur propter rationem mox
             <lb ed="#P" n="6"/>ponendam.
         </p>
+    </div>
+    <div alias="l4c29">
+        <head>Caput 29</head>
         <p>
             <lb ed="#P" n="7"/>Magnes universaliter non fortius suspendit directè in polo, sed firmius adhaeret ferrum,
             <lb ed="#P" n="8"/>si lateri adiaceat convenienter, quam si pendeat ex polo. Cap. XXIX.
@@ -19631,6 +19794,9 @@
             <lb ed="#P" n="33"/>riam inspiraret qualitatem, seu contrariam faciem; verum propter ferri cras
             <lb ed="#P" n="34"/>siciem aliquid virtutis etiam conciperet, ut consideranti patebit.
         </p>
+    </div>
+    <div alias="l4c30">
+        <head>Caput 30</head>
         <p>
             <lb ed="#P" n="35"/>Magnes in polis trahit solum ferrum per extrema, &amp; erigit; in lateribus trahit per medium
             <lb ed="#P" n="36"/>ut sibi adiaceat. Cap. XXX.
@@ -19681,18 +19847,17 @@
                 </ab>
                 <figDesc/>
             </figure>
+        </p>
+    </div>
+    <div alias="l4c31">
+        <head>Caput 31</head>
+        <p>
             <!--392.xml-->
             <pb ed="#P" n="392"/>
             <lb ed="#P" n="1"/>Ferrei fenestrarum cancelli semper inferna parte trahunt versorij partem, quae in Austrum
             <lb ed="#P" n="2"/>dirigitur, superiori. quae in Septentrionem. sic, &amp; ferramenta, quae ad ignem adhi¬
-        </p>
-        <p>
             <lb ed="#P" n="3"/>bentur, manubrio trahunt Septentrionalem, cuspide, quae ad ignem
-        </p>
-        <p>
             <lb ed="#P" n="4"/>adhibetur, Australem versorij partem.
-        </p>
-        <p>
             <lb ed="#P" n="5"/>Cap. XXXI.
         </p>
         <p>
@@ -19759,10 +19924,11 @@
             <lb ed="#P" n="19"/>à tellure magnetice sursum erigebatur, non minus constanter trahet partem
             <lb ed="#P" n="20"/>versorij, quae convertitur in septentrionem.
         </p>
+    </div>
+    <div alias="l4c32">
+        <head>Caput 32</head>
         <p>
             <lb ed="#P" n="21"/>Ferrum ex magnete melius suspenditur in parte crassiori, quam in graciliori.
-        </p>
-        <p>
             <lb ed="#P" n="22"/>Cap. XXXII.
         </p>
         <p>
@@ -19859,11 +20025,12 @@
             <lb ed="#P" n="17"/>cum magnete coniungatur in sua parte crassiore, quam si iungatur in gracilio¬
             <lb ed="#P" n="18"/>ri, quod erat demonstrandum.
         </p>
+    </div>
+    <div alias="l4c33">
+        <head>Caput 33</head>
         <p>
             <lb ed="#P" n="19"/>Versoria melius fiunt ex optima materia, ex figura oblonga potius, quam quadrilatera, &amp;
             <lb ed="#P" n="20"/>excitantur melius in utroque extremo, quam in altero tantum.
-        </p>
-        <p>
             <lb ed="#P" n="21"/>Cap. XXXIII.
         </p>
         <p>
@@ -20128,6 +20295,9 @@
             <lb ed="#P" n="39"/>mè, quantum magnetis virtus potest, atque adeo hisce legib. observatis ver¬
             <lb ed="#P" n="40"/>sorium habebis perfectissimum, quod erat hic propositum.
         </p>
+    </div>
+    <div alias="l4c34">
+        <head>Caput 34</head>
         <p>
             <!--401.xml-->
             <pb ed="#P" n="401"/>
@@ -20255,10 +20425,11 @@
             <lb ed="#P" n="30"/>sentiet actionem, &amp; firmius adhaerebit: ergo detrahendo aliquid à magnete
             <lb ed="#P" n="31"/>fit, ut melius, ferrum suspendat, quod erat propositum.
         </p>
+    </div>
+    <div alias="l4c35">
+        <head>Caput 35</head>
         <p>
             <lb ed="#P" n="32"/>Ferrum alias magnetice excitatum facilius saepè trahitur, nonnunquam tamen aegrius
-        </p>
-        <p>
             <lb ed="#P" n="33"/>adhaeret. Cap. XXXV.
         </p>
         <p>
@@ -20310,13 +20481,14 @@
             <lb ed="#P" n="35"/>quod prius obtinere non poteras. Ferrum ergo excitatum melius aliquan¬
             <lb ed="#P" n="36"/>do, pendet ex magnete, quod erat propositum.
         </p>
+    </div>
+    <div alias="l4c36">
+        <head>Caput 36</head>
         <p>
             <!--405.xml-->
             <pb ed="#P" n="405"/>
             <lb ed="#P" n="1"/>Magnes iuvatur ad suspendendum ferrum adiuncto sibi altero magnete, si convenienter
             <lb ed="#P" n="2"/>adiungatur; quod multipliciter potest contingere.
-        </p>
-        <p>
             <lb ed="#P" n="3"/>Cap. XXXVI.
         </p>
         <p>
@@ -20532,13 +20704,14 @@
             <lb ed="#P" n="33"/>illam ipsa vim, qua robustiori adhaeret, robustum relinquit, ut infirmiori co
             <lb ed="#P" n="34"/>puletur; quod proprium est charitatis.
         </p>
+    </div>
+    <div alias="l4c37">
+        <head>Caput 37</head>
         <p>
             <!--409.xml-->
             <pb ed="#P" n="409"/>
             <lb ed="#P" n="1"/>Impeditur magnes ab attractione, &amp; cogitur sibi ferrum adiunctum relinquere adventu
             <lb ed="#P" n="2"/>alterius magnetis non convenienter positi: quod dupliciter contingit.
-        </p>
-        <p>
             <lb ed="#P" n="3"/>Cap. XXXVII.
         </p>
         <p>
@@ -20704,6 +20877,9 @@
             <lb ed="#P" n="2"/>debet producere, sed potius conformem, &amp; ideo poterit iuvare, &amp; quod de
             <lb ed="#P" n="3"/>magnete dictum est; idem etiam de ferro magneti adiuncto dicendum erit.
         </p>
+    </div>
+    <div alias="l4c38">
+        <head>Caput 38</head>
         <p>
             <lb ed="#P" n="4"/>Polus magnetis, qui in Septentrionem dirigitur in nostro hemisphaerio, maiorem ferri quan¬
             <lb ed="#P" n="5"/>titatem suspendit, quam polus ille, qui dirigitur in austrum. Cap. XXXVIII.
@@ -20794,14 +20970,17 @@
             <lb ed="#P" n="42"/>norem ferri quantitatem sustineri, &amp; laedi eius actionem magneticam ex to¬
             <lb ed="#P" n="43"/>to telluris globo.
         </p>
+    </div>
+    <div alias="l4c39">
+        <head>Caput 39</head>
         <p>
             <!--414.xml-->
             <pb ed="#P" n="414"/>
             <lb ed="#P" n="1"/>Ferrum iuvatur ad actiones magneti¬
             <lb ed="#P" n="2"/>tas à praesentia magnetis.
+            <lb ed="#P" n="3"/>Cap. XXXIX.
         </p>
         <p>
-            <lb ed="#P" n="3"/>Cap. XXXIX.
             <lb ed="#P" n="4"/>Dum supra rationem
             <lb ed="#P" n="5"/>redderem, cur fer¬
             <lb ed="#P" n="6"/>rum magneti ferrum
@@ -20920,12 +21099,15 @@
                 </ab>
                 <figDesc/>
             </figure>
+        </p>
+    </div>
+    <div alias="l4c40">
+        <head>Caput 40</head>
             <!--416.xml-->
+        <p>
             <pb ed="#P" n="416"/>
             <lb ed="#P" n="1"/>Eadem non ferri facies, seu extremitas si nunquam fuerit magnetice excitum ferrum, po¬
             <lb ed="#P" n="2"/>sita supra versorium in nostro hemisphaerio trahit partem australem; eadem posita infra
-        </p>
-        <p>
             <lb ed="#P" n="3"/>trahit partem Septentrionalem eiusdem. Cap. XL.
         </p>
         <p>
@@ -21126,14 +21308,13 @@
             <lb ed="#P" n="10"/>roborata, exterminatur, &amp; nova in contrario situ producitur, &amp; novam tra¬
             <lb ed="#P" n="11"/>hit versorij partem.
         </p>
+    </div>
+    <div alias="l4c41">
+        <head>Caput 41</head>
         <p>
             <lb ed="#P" n="12"/>Si ferri una extremitas, dum ferrum iacet horizonti parallelum, ad versorium applicetur,
             <lb ed="#P" n="13"/>trahet crucem versorij, exempli causa; si ferrum erigatur perpendiculariter,
-        </p>
-        <p>
             <lb ed="#P" n="14"/>vel quasi perpendiculariter, eadem extremitas trahet iam cuspidem.
-        </p>
-        <p>
             <lb ed="#P" n="15"/>Cap. XLI.
         </p>
         <p>
@@ -21238,11 +21419,12 @@
             <lb ed="#P" n="10"/>quam sit versorium locatum horizontaliter, quae res multum facit. Verum
             <lb ed="#P" n="11"/>hoc ipsum magis adhuc patebit ex mox dicendis.
         </p>
+    </div>
+    <div alias="l4c42">
+        <head>Caput 42</head>
         <p>
             <lb ed="#P" n="12"/>Si ferram oblongum iaceat horizonti parallelum ex diversa collocatione, sive meridionali¬
             <lb ed="#P" n="13"/>ter, sive in parallelo, trahet diversam versorij extremitatem.
-        </p>
-        <p>
             <lb ed="#P" n="14"/>Cap. XLII.
         </p>
         <p>
@@ -21286,6 +21468,9 @@
             <lb ed="#P" n="3"/>Magnes iuvatur maxime ad suspendendum ferrum ex coniunctione cum ferro, magis
             <lb ed="#P" n="4"/>etiam quam, ex coniunctione cùm altero magnete.
         </p>
+    </div>
+    <div alias="l4c43">
+        <head>Caput 43</head>
         <p>
             <lb ed="#P" n="5"/>Cap. XLIII.
         </p>
@@ -21478,6 +21663,9 @@
             <lb ed="#P" n="27"/>terit magnetice, &amp; iuvabitur plus magnes à ferro sibi adiuncto, quam à ma¬
             <lb ed="#P" n="28"/>gnete, quod erat propositum.
         </p>
+    </div>
+    <div alias="l4c44">
+        <head>Caput 44</head>
         <p>
             <lb ed="#P" n="29"/>Si praeferato per axem magnete inseratur inforamine clavus, ferreus, iuvatur summopere
             <lb ed="#P" n="30"/>magnes ad magneticas attractiones. Cap. XLIV.
@@ -21551,13 +21739,14 @@
             <lb ed="#P" n="40"/>axem, &amp; consequenter minus efficaces: at vero, dum explet foramen effica¬
             <lb ed="#P" n="41"/>ciori recta linea transmittit vim: iuvat ergo efficacius, quod quaerebatur.
         </p>
+    </div>
+    <div alias="l4c45">
+        <head>Caput 45</head>
         <p>
             <!--428.xml-->
             <pb ed="#P" n="428"/>
             <lb ed="#P" n="1"/>Si magnes imbecillior fuerit, &amp; superponatur polo lamina ferrea, vix versorium conver¬
             <lb ed="#P" n="2"/>tetur ad polum ipsius magnetis, sed convertetur, ad extrema lamellae.
-        </p>
-        <p>
             <lb ed="#P" n="3"/>Cap. XLV.
         </p>
         <p>
@@ -21691,10 +21880,11 @@
             <lb ed="#P" n="22"/>rum. Quae etiam causa est, cur terra minus efficaciter, ferro à se excitato,
             <lb ed="#P" n="23"/>provocet ad se versorium, ut patere potest ex supradictis,
         </p>
+    </div>
+    <div alias="l4c46">
+        <head>Caput 46</head>
         <p>
             <lb ed="#P" n="24"/>Alia etiam via ex non nullorum placito magnetica virtus incrementum accipit.
-        </p>
-        <p>
             <lb ed="#P" n="25"/>Cap. XLVI.
         </p>
         <p>
@@ -21749,1146 +21939,6 @@
         </p>
         <p>
             <lb ed="#P" n="30"/>FINIS.
-            <!--432.xml-->
-            <pb ed="#P" n="432"/>
-            <lb ed="#P" n="1"/>Primus numerus paginam; secundus partem paginę indicat.
-            <!--432.xml-->
-            <pb ed="#P" n="432"/>
-            <lb ed="#P" n="2"/>A
-            <lb ed="#P" n="3"/>Accidentia non habent in di¬
-            <lb ed="#P" n="4"/>viduationem à subiecto; sed
-            <lb ed="#P" n="5"/>unitatem numericam. &amp;
-            <lb ed="#P" n="6"/>hoc quomodo, &amp; quae	173.1
-            <lb ed="#P" n="7"/>Aciarium melius magneticam vim conci¬
-            <lb ed="#P" n="8"/>pit 132. 1. Et melius trahitur à ferro
-            <lb ed="#P" n="9"/>361. 2
-            <lb ed="#P" n="10"/>Actio in distans non datur, nec in magnete,
-            <lb ed="#P" n="11"/>nec in alio	304. 1.	Sed fit per medium
-            <lb ed="#P" n="12"/>118. 2.
-            <lb ed="#P" n="13"/>Actio non sit transmissa eadem numero qua¬
-            <lb ed="#P" n="14"/>litate ab agente ad passum 311. 1.
-            <lb ed="#P" n="15"/>Activum immediatè nihil est, nisi substan¬
-            <lb ed="#P" n="16"/>tia, &amp; qualitas 41. 2.
-            <lb ed="#P" n="17"/>Acus etiam non excitatae dirigunt se ad polos
-            <lb ed="#P" n="18"/>275.2. Et convertunt se semper ad sep¬
-            <lb ed="#P" n="19"/>tentrionem; sed non semper eadem deter¬
-            <lb ed="#P" n="20"/>minata parte 279. 1. Et supernatant
-            <lb ed="#P" n="21"/>aquis sine ullo cortice 276. 1.
-            <lb ed="#P" n="22"/>Adamas non confert vim magneticam ferro
-            <lb ed="#P" n="23"/>274. 1. Et cur hoc? quia non est terreus
-            <lb ed="#P" n="24"/>ex praedominio 275. 2. Non tamen vim
-            <lb ed="#P" n="25"/>magneticam impedit 351. 2.
-            <lb ed="#P" n="26"/>Aequilibrata perfectè siant in quolibet situ
-            <lb ed="#P" n="27"/>80. 2.
-            <lb ed="#P" n="28"/>Aer quomodo ad aerem rarefactum accur¬
-            <lb ed="#P" n="29"/>rat 106. 25.
-            <lb ed="#P" n="30"/>Aer impulsus tenuiter revertitur in gyrum
-            <lb ed="#P" n="31"/>ad impellens 193. 2.
-            <lb ed="#P" n="32"/>Agentia agunt, ut se quodammodo aeternent
-            <lb ed="#P" n="33"/>123 1
-            <lb ed="#P" n="34"/>Agens principale immediate agit per totam
-            <lb ed="#P" n="35"/>sphaeram activitatis 129. 1.
-            <lb ed="#P" n="36"/>Agens minus intensum quomodo possit de¬
-            <lb ed="#P" n="37"/>struere contrarium magis intensum, quam
-            <lb ed="#P" n="38"/>sit ipsum 261. 2.
-            <lb ed="#P" n="39"/>Agentis magnitudo, densitas, &amp;c. non facit,
-            <lb ed="#P" n="40"/>ut producat intensionem maiorem, quam
-            <!--432.xml-->
-            <pb ed="#P" n="432"/>
-            <lb ed="#P" n="41"/>habeat in se 329. 1. 3241.
-            <lb ed="#P" n="42"/>Agens non acquirit maiorem vim per passi
-            <lb ed="#P" n="43"/>dispositionem passivam 321. 2.
-            <lb ed="#P" n="44"/>Agens magnum etc maiorem habet sphaeram;
-            <lb ed="#P" n="45"/>&amp; explicatur incrementum activitatis
-            <lb ed="#P" n="46"/>329. 2. &amp; seq.
-            <lb ed="#P" n="47"/>Agens quomodo velit, unum facere cum pas
-            <lb ed="#P" n="48"/>so 110. 1.
-            <lb ed="#P" n="49"/>Allium magneticae virtuti, nullo modo ad¬
-            <lb ed="#P" n="50"/>versatur 381. 1.
-            <lb ed="#P" n="51"/>Animam non arguit, neque motus rei in pro¬
-            <lb ed="#P" n="52"/>prio loco 36. 1. Quomodo sit principium
-            <lb ed="#P" n="53"/>se movendi 38. 2.
-            <lb ed="#P" n="54"/>Animam non esse formam magnetis. 35.2.
-            <lb ed="#P" n="55"/>Animalia cur motum localem habeant. 28. 1
-            <lb ed="#P" n="56"/>Animus natura erectus causam rerum li¬
-            <lb ed="#P" n="57"/>bentius quaerit in sublimi 47 1.
-            <lb ed="#P" n="58"/>Antiqui multa ignorarunt, etiam utilissima
-            <lb ed="#P" n="59"/>20. 2.
-            <lb ed="#P" n="60"/>Aqua, &amp; aer resistunt simpliciter motui lo
-            <lb ed="#P" n="61"/>cali, non solum velocitati. 71. 2. 185. 1
-            <lb ed="#P" n="62"/>188. 2.
-            <lb ed="#P" n="63"/>Aqua si non resisteret motui musca moveret,
-            <lb ed="#P" n="64"/>onerariam 71. 1.
-            <lb ed="#P" n="65"/>Aquis imposita gravia, si non descendant,
-            <lb ed="#P" n="66"/>fossam faciunt circa se 188. 2.
-            <lb ed="#P" n="67"/>Aqua congelata est adhuc aqua 347. 2.
-            <lb ed="#P" n="68"/>Aqua in qua diriguntur ferramenta ad po¬
-            <lb ed="#P" n="69"/>los debet esse recenter austa, et cur 276. 1
-            <lb ed="#P" n="70"/>Aqua stagans in extrema superficie sphaeri¬
-            <lb ed="#P" n="71"/>ca est. 187. 2. Et ad hanc inclinat per
-            <lb ed="#P" n="72"/>solam gravitatem. 161. 1.
-            <lb ed="#P" n="73"/>Aquis praefocatur virtus magnetica 356. 1
-            <lb ed="#P" n="74"/>Aristotelis liber de lapidibus, qui citatur ab
-            <lb ed="#P" n="75"/>Alberto, non videtur ipsius 22. 1.
-            <lb ed="#P" n="76"/>Archimedis demonstratio de proportionibus
-            <lb ed="#P" n="77"/>vectis dubitationem habet 70. 1.
-            <lb ed="#P" n="78"/>Artificium, quo magnes dividitur, &amp; for¬
-            <!--432.xml-->
-            <pb ed="#P" n="432"/>
-            <lb ed="#P" n="79"/>INDEX RERUM
-            <!--433.xml-->
-            <pb ed="#P" n="433"/>
-            <lb ed="#P" n="1"/>matur, quale sit 81.
-            <lb ed="#P" n="2"/>sensus videtur iudicare. 90. 2.
-            <lb ed="#P" n="3"/>Astrorum partes si revellerentur ad suum
-            <lb ed="#P" n="4"/>Causa immediate effectum contingit. 117.2
-            <lb ed="#P" n="5"/>totum confluerent suo impetu 115. 2.
-            <lb ed="#P" n="6"/>Causa saepe quaeritur de effectu, qui non
-            <lb ed="#P" n="7"/>Attractio quot modis fiat 192. 1.
-            <lb ed="#P" n="8"/>adest praef. 3.
-            <lb ed="#P" n="9"/>Attractio magnetica inter quae corpora sit
-            <lb ed="#P" n="10"/>Centrum gravitatis quid sit, &amp; quomodo
-            <lb ed="#P" n="11"/>313. 1. &amp; fit per facies dissimiles 99.
-            <lb ed="#P" n="12"/>mutetur in toto terrestri globo ad avicu¬
-            <lb ed="#P" n="13"/>2. Nec unquam est attractio sine fuga
-            <lb ed="#P" n="14"/>lae volatum. 68. 1.
-            <lb ed="#P" n="15"/>296. 1.
-            <lb ed="#P" n="16"/>Centrum gravitatis partium non est actu
-            <lb ed="#P" n="17"/>Augmentum magneticae virtutis per ma¬
-            <lb ed="#P" n="18"/>in toto. 70. 1.
-            <lb ed="#P" n="19"/>gnetem, &amp; ferrum 366. 1. &amp; seq. &amp;
-            <lb ed="#P" n="20"/>Charitatis in proximum egregium in magne
-            <lb ed="#P" n="21"/>maius per ferrum, &amp; cur 405. 12.
-            <lb ed="#P" n="22"/>te documentum. 389. 1.
-            <lb ed="#P" n="23"/>Avium aspectus potuit deservire ad longas
-            <lb ed="#P" n="24"/>Chimicorum ingenium. 205. 1. 2.
-            <lb ed="#P" n="25"/>navigationes 20. 1.
-            <lb ed="#P" n="26"/>Circularis motus magnetis circulariter ro¬
-            <lb ed="#P" n="27"/>Axis magnetis quid sit 213. 1. Quando
-            <lb ed="#P" n="28"/>tat versorium, sed contraria ratione. 298.
-            <lb ed="#P" n="29"/>varietur per divisionem 2 12. 2.
-            <lb ed="#P" n="30"/>2. Sed ad unam magnetis circumlatio¬
-            <lb ed="#P" n="31"/>B.
-            <lb ed="#P" n="32"/>nem bis rotatur. 299. 2.
-            <lb ed="#P" n="33"/>Bacilla humida in superficie aquarum
-            <lb ed="#P" n="34"/>Coelum non movetur in bonum proprium;
-            <lb ed="#P" n="35"/>eminentia non confluunt ex humi¬
-            <lb ed="#P" n="36"/>ideo non activè à se ipso. 360 2. 28. 1.
-            <lb ed="#P" n="37"/>do, sed ex motu elementari. 186. 2.
-            <lb ed="#P" n="38"/>Coeli imaginem in magnete expressam puta¬
-            <lb ed="#P" n="39"/>187. 2.
-            <lb ed="#P" n="40"/>vit Peregninus. 24. 2.
-            <lb ed="#P" n="41"/>Beneficentia in alios à natura ipsa inspira¬
-            <lb ed="#P" n="42"/>Coeli nullum punctum respicitur à magnete
-            <lb ed="#P" n="43"/>tur; quasi sit honum benefacientis. 347. 1.
-            <lb ed="#P" n="44"/>26. &amp; seq. 47. &amp; seq.
-            <lb ed="#P" n="45"/>Bilances perfectissimae non fieri ex ferro.
-            <lb ed="#P" n="46"/>Conservatur magnes in situ convenienter cu
-            <lb ed="#P" n="47"/>232. 2.
-            <lb ed="#P" n="48"/>stoditus. 361. 1.
-            <lb ed="#P" n="49"/>Bullae, quae fiunt in aqua quid sint, &amp; quo¬
-            <lb ed="#P" n="50"/>Conversionem magneticam ad polos, qui pri
-            <lb ed="#P" n="51"/>modo fiant. 189. 2. Cur plures fiant
-            <lb ed="#P" n="52"/>mi commemorent. 21. 2.
-            <lb ed="#P" n="53"/>ex aliquibus humeribus ibi. cur ad invicen
-            <lb ed="#P" n="54"/>Contingentia ex accidente, in hac philosophia
-            <lb ed="#P" n="55"/>confluant. ibi &amp; cur confluant ad lim¬
-            <lb ed="#P" n="56"/>non contemnuntur. 2. 45.2.
-            <lb ed="#P" n="57"/>bum vasis. 190. 2.
-            <lb ed="#P" n="58"/>Cor hominis lapis ille est, qui trahit aurum,
-            <lb ed="#P" n="59"/>C.
-            <lb ed="#P" n="60"/>&amp; non est alius. 274. 2.
-            <lb ed="#P" n="61"/>Calefactionis vis in sphera activita¬
-            <lb ed="#P" n="62"/>Corporum diversitas, per diversitatem sim¬
-            <lb ed="#P" n="63"/>tis, qua ratione possit mensurari,
-            <lb ed="#P" n="64"/>pliciter, &amp; secundum quid, motuum nu¬
-            <lb ed="#P" n="65"/>
-            <lb ed="#P" n="66"/>quomodo decrescat. 142.1.
-            <lb ed="#P" n="67"/>merantur. 38. 2.
-            <lb ed="#P" n="68"/>Calefactio electricorum non fit per ignem,
-            <lb ed="#P" n="69"/>D.
-            <lb ed="#P" n="70"/>nec solem, sed perfricationem 181. 2.
-            <lb ed="#P" n="71"/>Declinatio magnetica non potest nunc
-            <lb ed="#P" n="72"/>Calcinatio, quia fit dissolvendo humidum,
-            <lb ed="#P" n="73"/>in dubium revocari. 56 2. Non ta¬
-            <lb ed="#P" n="74"/>reddit corpus impalpabile. 184. 2.
-            <lb ed="#P" n="75"/>men certam servat regulam. 54. 2.
-            <lb ed="#P" n="76"/>Cancelli ferrei quibus muniuntur fenestrae
-            <lb ed="#P" n="77"/>historia illius ad quem spectet. 57. 1. Et
-            <lb ed="#P" n="78"/>vim habent magneticam. 61. 2. Et ver¬
-            <lb ed="#P" n="79"/>à quibus esset observanda. 89. 1.
-            <lb ed="#P" n="80"/>sorium trahunt cum diversitate facierum
-            <lb ed="#P" n="81"/>Declinationis historia relata ex naviganti¬
-            <lb ed="#P" n="82"/>273. 1.
-            <lb ed="#P" n="83"/>bus ad indos 89. 2. 91. 1.
-            <lb ed="#P" n="84"/>Carta maleo tusa levior est, non gravior, ut
-            <lb ed="#P" n="85"/>Declinatio magnetica à vero meridiano non
-            <!--434.xml-->
-            <pb ed="#P" n="434"/>
-            <lb ed="#P" n="1"/>lia
-            <lb ed="#P" n="2"/>cognoscitur supra parietem. 641. non est
-            <lb ed="#P" n="3"/>diuntur quocunque interposito ibid.
-            <lb ed="#P" n="4"/>semper eadem in eodem toto meridiano.
-            <lb ed="#P" n="5"/>Electricum effluvium cur flammam non
-            <lb ed="#P" n="6"/>55. 2. 220 2. &amp; huius causae. 221. 1.
-            <lb ed="#P" n="7"/>dissipet. 194. 2. quomodo emittatur,
-            <lb ed="#P" n="8"/>91. 1. 217. 12.
-            <lb ed="#P" n="9"/>192. 1. qnomodo trahant 193. 2.
-            <lb ed="#P" n="10"/>Declinatio iu regionibus polaribus fit à qua¬
-            <lb ed="#P" n="11"/>Electrica nullam habent facierum distin¬
-            <lb ed="#P" n="12"/>libet exigua vi. 226 1. Est aequalis iu
-            <lb ed="#P" n="13"/>ctionem. 182. 2. Quo calore praeparen¬
-            <lb ed="#P" n="14"/>parvo, &amp; magno versorio 227. 1. non ori
-            <lb ed="#P" n="15"/>tur. 181. 2. 193. 1. Cur &amp; quando ne¬
-            <lb ed="#P" n="16"/>tur ex infinma vi magnetica. 217.1.
-            <lb ed="#P" n="17"/>cessaria praeparatio ibid.
-            <lb ed="#P" n="18"/>Declinatio magnetica cur in Italia, &amp; Eu¬
-            <lb ed="#P" n="19"/>Electrica non trahunt propter similitudine
-            <lb ed="#P" n="20"/>ropa sit ad orientem; in Anglia maior
-            <lb ed="#P" n="21"/>naturae. 191. 2.
-            <lb ed="#P" n="22"/>quam in Italia. 218. 1. 2. Et quanta sit
-            <lb ed="#P" n="23"/>Electricum magnum trahit nulla praevia
-            <lb ed="#P" n="24"/>ubique 94. 1. 217. 1. Quomodo cogno¬
-            <lb ed="#P" n="25"/>praeparatione. 193. 1. Requirunt coelum
-            <lb ed="#P" n="26"/>serenum. ibid.
-            <lb ed="#P" n="27"/>scenda. 95. 1.
-            <lb ed="#P" n="28"/>Declinatio magneticorum ab axe magnetico
-            <lb ed="#P" n="29"/>Electrum ita trahit, ut si trahat nimis effi¬
-            <lb ed="#P" n="30"/>in locis intermedijs cur fiat. 148. 1.
-            <lb ed="#P" n="31"/>caciter, ex appulsu res resiliant. 194. 1.
-            <lb ed="#P" n="32"/>Democritus sibi oculos eruit, ut causas libe¬
-            <lb ed="#P" n="33"/>non perficiunt, quae trahunt ad se. 19. 1. 2
-            <lb ed="#P" n="34"/>rius fingeret; non ut inveniret. 316.2
-            <lb ed="#P" n="35"/>Electricè vis activa non communicatur per
-            <lb ed="#P" n="36"/>contactum, prout magnetica. 180.1.
-            <lb ed="#P" n="37"/>Descensus magneticorum infra Orizontem
-            <lb ed="#P" n="38"/>non est aequalis elevationi poli in qualibet
-            <lb ed="#P" n="39"/>Electrica trahuntur omnia corpora. 180. 2.
-            <lb ed="#P" n="40"/>Elementa quomodo ab Aristotele probentur
-            <lb ed="#P" n="41"/>regione. 81. 1. Cognoscitur solum per
-            <lb ed="#P" n="42"/>ferrum ibi.
-            <lb ed="#P" n="43"/>eße actu in mixto. 184. 2.
-            <lb ed="#P" n="44"/>Emplastrum ad extrahendum ferrum ma¬
-            <lb ed="#P" n="45"/>Determinatio agentis determinat effectum.
-            <lb ed="#P" n="46"/>le habet admixtum magnetem. 3. 1.
-            <lb ed="#P" n="47"/>96. 1.
-            <lb ed="#P" n="48"/>Enigma Fernelij elegans de flamma. 120.1
-            <lb ed="#P" n="49"/>Directio fit maior in aequatore quam in po¬
-            <lb ed="#P" n="50"/>Epiciclaris motus non quadrat in gyratio¬
-            <lb ed="#P" n="51"/>laribus regionibus. 223. 1.
-            <lb ed="#P" n="52"/>ne magnetis, aut versorij. 300. 1.
-            <lb ed="#P" n="53"/>Distantia causa est cur res parva videatur.
-            <lb ed="#P" n="54"/>Experimenta quam exercitatum hominem
-            <lb ed="#P" n="55"/>116. 2.
-            <lb ed="#P" n="56"/>requirant. 201. 2. quam difficile su¬
-            <lb ed="#P" n="57"/>Divisio non affert novam vim physicam. es¬
-            <lb ed="#P" n="58"/>mantur. 294. 2
-            <lb ed="#P" n="59"/>to afferat novas relationes, &amp; rationes
-            <lb ed="#P" n="60"/>Experimentis philosophari non est omnium
-            <lb ed="#P" n="61"/>mesaphysicas 139. 1.
-            <lb ed="#P" n="62"/>320. 2.
-            <lb ed="#P" n="63"/>E.
-            <lb ed="#P" n="64"/>F.
-            <lb ed="#P" n="65"/>Effluvium corpusculorum non fit ex ma¬
-            <lb ed="#P" n="66"/>Fabulas invehentes in philosophia mul
-            <lb ed="#P" n="67"/>gnete 101. 1.
-            <lb ed="#P" n="68"/>ctandi. 301. 2.
-            <lb ed="#P" n="69"/>Effluvium magneticum quid sit. 119. 1.
-            <lb ed="#P" n="70"/>Facies eaedem magnetis, &amp; opponun¬
-            <lb ed="#P" n="71"/>Electrice quam multa trahant. 179. 1.
-            <lb ed="#P" n="72"/>tur, &amp; coniunguntur diverso modo
-            <lb ed="#P" n="73"/>Et multa quae differunt genere. 180. 1.
-            <lb ed="#P" n="74"/>Nec ex humoribus concrescunt omia 184. 1
-            <lb ed="#P" n="75"/>293 2.
-            <lb ed="#P" n="76"/>Facies oppositae in magnete cur se trahunt.
-            <lb ed="#P" n="77"/>Electrica trahunt sursum, &amp; deorsum. 192. 1
-            <lb ed="#P" n="78"/>Electrum semel praeparatum, &amp; custoditum
-            <lb ed="#P" n="79"/>286. 2.
-            <lb ed="#P" n="80"/>Facilitas in quo formaliter consistat. 30. 1.
-            <lb ed="#P" n="81"/>post duodecim, &amp; amplius horas trahit.
-            <lb ed="#P" n="82"/>Ferrum cur magnetem sequatur. 168. 1.
-            <lb ed="#P" n="83"/>193.1. Obnubilatur halitu humido, &amp;
-            <lb ed="#P" n="84"/>magnetice excitetur. 240. 1. Sunt simi¬
-            <lb ed="#P" n="85"/>impeditur, non autem oleo. 182. 1. impe¬
-            <!--435.xml-->
-            <pb ed="#P" n="435"/>
-            <lb ed="#P" n="2"/>lia in nostra. 168.1.
-            <lb ed="#P" n="3"/>Ferrum subiectum est magis aptum ad ma¬
-            <lb ed="#P" n="4"/>gneticam qualitatem quam magnes. 324.
-            <lb ed="#P" n="5"/>2. cur. 406. 2.
-            <lb ed="#P" n="6"/>Ferrum non habet magneticam qualitatem
-            <lb ed="#P" n="7"/>ex se. 324. 2. nec amitit ex confusione
-            <lb ed="#P" n="8"/>partium 116. 2. nec habet vim activam
-            <lb ed="#P" n="9"/>illam sibi producendi. 260. 1.
-            <lb ed="#P" n="10"/>Ferri vena non ubique est obvia 73. 2. quo¬
-            <lb ed="#P" n="11"/>modo ex omni terra eruatur. 7.4. 2. for¬
-            <lb ed="#P" n="12"/>tasse potest percolari ex lateribus exco¬
-            <lb ed="#P" n="13"/>dis 313. 2.
-            <lb ed="#P" n="14"/>Ferrum quomodo mutetur cum acquirit vim
-            <lb ed="#P" n="15"/>magneticam. 44. 2. excitatur etiam non
-            <lb ed="#P" n="16"/>tangendo magnetem. 168. 2. 248. 1. ex
-            <lb ed="#P" n="17"/>uno contactu utranque faciem acquirit
-            <lb ed="#P" n="18"/>137.2. &amp; vim activam recipit. 45.1. sed
-            <lb ed="#P" n="19"/>semper per longiorem sui partem. 244.1
-            <lb ed="#P" n="20"/>Ferrum non acquirit maiorem vim quam
-            <lb ed="#P" n="21"/>sit in magnete. 325. 2. etiamsi ferrum
-            <lb ed="#P" n="22"/>illi surripiat. 327. 1.
-            <lb ed="#P" n="23"/>Ferro à magnete pendenti non coniungitur
-            <lb ed="#P" n="24"/>ferrum, nisi in parte remotiore à magne¬
-            <lb ed="#P" n="25"/>te. 364. 2.
-            <lb ed="#P" n="26"/>Ferrum magis suspenditur à magnete in la¬
-            <lb ed="#P" n="27"/>teribus, quam in polis. 365. 2. extremum
-            <lb ed="#P" n="28"/>dirigit ad magnetis polum, medium sui
-            <lb ed="#P" n="29"/>ad Aequatorem. 371. 2.
-            <lb ed="#P" n="30"/>Ferrum diverso modo trahitur horizonta¬
-            <lb ed="#P" n="31"/>liter prostratum, &amp; erectum verticali¬
-            <lb ed="#P" n="32"/>ter. 401. 2.
-            <lb ed="#P" n="33"/>Ferrum non propriè trahitur. 174. 1. cur¬
-            <lb ed="#P" n="34"/>tamen dicatur trahi. 105. 1. ille motus non
-            <lb ed="#P" n="35"/>est naturalis. 174. 1.
-            <lb ed="#P" n="36"/>Ferrum magis auget vires magneticas illi
-            <lb ed="#P" n="37"/>adiunctum, quam si addatur magnes. 405
-            <lb ed="#P" n="38"/>1. &amp; seq
-            <lb ed="#P" n="39"/>Ferrum per oppositum contactum magnetis
-            <lb ed="#P" n="40"/>acquirit opposito modo qualitatem. 170.
-            <lb ed="#P" n="41"/>intrinsecè alteratur, dum excitatur.
-            <lb ed="#P" n="42"/>118. 1.
-            <lb ed="#P" n="43"/>Ferri concursus ad magnetem non fit trans¬
-            <!--435.xml-->
-            <pb ed="#P" n="435"/>
-            <lb ed="#P" n="44"/>est
-            <lb ed="#P" n="45"/>EX.
-            <lb ed="#P" n="46"/>missione corpusculorum. 101. 2. nec, ne
-            <lb ed="#P" n="47"/>detur vacuum. 102. 2. quomodo, ut sint
-            <lb ed="#P" n="48"/>partes in toto bene dispositae. 106. 2.
-            <lb ed="#P" n="49"/>Ferrum virtutem concipit non ut est in ma¬
-            <lb ed="#P" n="50"/>gnete, sed ut est in medio. 251. 2 ideo
-            <lb ed="#P" n="51"/>magneti adiacet in Aequatore. 149. 1.
-            <lb ed="#P" n="52"/>&amp; se ad polum certa ratione disponit. 277. 1.
-            <lb ed="#P" n="53"/>Ferrum per unum contactum acquirit u¬
-            <lb ed="#P" n="54"/>tranque faciem. 252. 1. potest habere
-            <lb ed="#P" n="55"/>eandem faciem in utroque extremo. 253.
-            <lb ed="#P" n="56"/>2. si eodem extremo tangat utrunque po
-            <lb ed="#P" n="57"/>lum amittit primum vigorem. 257. 2.
-            <lb ed="#P" n="58"/>Ferrum rotundum exiguam habet vim di¬
-            <lb ed="#P" n="59"/>rectivam. 267. 2. non statim post conta¬
-            <lb ed="#P" n="60"/>tum incipit amittere vim magneticam.
-            <lb ed="#P" n="61"/>259 2. cur hoc 260. 2. semper confluit
-            <lb ed="#P" n="62"/>ad partem semel tactam 289. 2.
-            <lb ed="#P" n="63"/>Ferrum prope, magnetem, &amp; procul diver¬
-            <lb ed="#P" n="64"/>sam trahit versorij partem; non tamen
-            <lb ed="#P" n="65"/>mutat verticitatem. 265. 1.
-            <lb ed="#P" n="66"/>Ferrum iam excitatum, qua ratione possit
-            <lb ed="#P" n="67"/>librari. 49. 2.
-            <lb ed="#P" n="68"/>Ferrum ignitum non est subiectum idoneum
-            <lb ed="#P" n="69"/>magneticae qualitatis; ideo non trahitur.
-            <lb ed="#P" n="70"/>349. 2 Ab illo sic exterminantur qua¬
-            <lb ed="#P" n="71"/>litates terrae. 213. 1. est tamen verè fer¬
-            <lb ed="#P" n="72"/>rum substantialiter. 348. 2. 354. 1 ne¬
-            <lb ed="#P" n="73"/>que expirat suum mercurium, &amp; sulphur.
-            <lb ed="#P" n="74"/>362. 1.
-            <lb ed="#P" n="75"/>Ferrum non conuertit in septentrionem par
-            <lb ed="#P" n="76"/>tem septentrionalem, sed australem.
-            <lb ed="#P" n="77"/>176. 2.
-            <lb ed="#P" n="78"/>Ferrum inter duos magnetes situari potest
-            <lb ed="#P" n="79"/>pendulum. 334. 2. immo, &amp; unico ma¬
-            <lb ed="#P" n="80"/>gnete. 336. 1. 2.
-            <lb ed="#P" n="81"/>Ferrum non extrahitur à vulneribus ma¬
-            <lb ed="#P" n="82"/>gnetem in emplastro miscendo. 4 2.
-            <lb ed="#P" n="83"/>Ferrum erectum supra terram verticita¬
-            <lb ed="#P" n="84"/>tem concipit. 61. 2. 2832 &amp; procu¬
-            <lb ed="#P" n="85"/>sum in linea meridiana. 28. 1.
-            <lb ed="#P" n="86"/>Ferrum à tellure excitatum plus potest, quam
-            <lb ed="#P" n="87"/>tellus. 402. 2. haec vis communicata non
-            <!--436.xml-->
-            <pb ed="#P" n="436"/>
-            <lb ed="#P" n="1"/>est mortua, nec sterilis. 155. 2. sed su¬
-            <lb ed="#P" n="2"/>propriam habent totalem formam dispo¬
-            <lb ed="#P" n="3"/>pendit ferrum non excitatum. 158. 1.
-            <lb ed="#P" n="4"/>nentem. 32. 1.
-            <lb ed="#P" n="5"/>Gravia num sint graviora, dum sunt in lo¬
-            <lb ed="#P" n="6"/>&amp; excitat aliud 159 2.
-            <lb ed="#P" n="7"/>Ferrum supra, &amp; infra versorium diversa¬
-            <lb ed="#P" n="8"/>co deorsum, quam sursum, quo pacto pos¬
-            <lb ed="#P" n="9"/>trahit extremitates. 160. 2. &amp; erectum
-            <lb ed="#P" n="10"/>sit quis experiri. 186. 2.
-            <lb ed="#P" n="11"/>Gravia eiusdem speciei, &amp; formae aequalive
-            <lb ed="#P" n="12"/>maximè versorium deturbat. 284. 2.
-            <lb ed="#P" n="13"/>Horizontaliter quomodo versorium trahat,
-            <lb ed="#P" n="14"/>locitate descendunt, magnum, &amp; parvum.
-            <lb ed="#P" n="15"/>403.2 &amp; vera est ista diversitas situs
-            <lb ed="#P" n="16"/>30. 1.
-            <lb ed="#P" n="17"/>Gravia, &amp; levia quomodo moveantur à ge¬
-            <lb ed="#P" n="18"/>400. 1. 2.
-            <lb ed="#P" n="19"/>nerante. 36. 1. 104. 2.
-            <lb ed="#P" n="20"/>Ferreus pulvis magnetem conservat. 357.1
-            <lb ed="#P" n="21"/>Gravitatis centrum cur sit in medio. 212. 1
-            <lb ed="#P" n="22"/>Ferrum magneticè excitatum non habet ali¬
-            <lb ed="#P" n="23"/>Gravia quando descendant in aqua, &amp; non
-            <lb ed="#P" n="24"/>quando ullam directionem. 254. 1. exci
-            <lb ed="#P" n="25"/>ad fundum vasis. 50 1. &amp; quo artificio
-            <lb ed="#P" n="26"/>tatum aliquando difficilius trahitur. 785.
-            <lb ed="#P" n="27"/>hoc possit obtineri. ibi.
-            <lb ed="#P" n="28"/>1. etiam ipsum confluere ad magnetem
-            <lb ed="#P" n="29"/>Gravia non tendere ad centrum universi;
-            <lb ed="#P" n="30"/>gyrationibus, non recta aliquando. 117 1
-            <lb ed="#P" n="31"/>sed solum ut sint infra corpus levius se
-            <lb ed="#P" n="32"/>Ferrum ferro verticitatem immutat, &amp;
-            <lb ed="#P" n="33"/>in specie. 268. 2.
-            <lb ed="#P" n="34"/>quomodo 262. 2.
-            <lb ed="#P" n="35"/>Gravitas, &amp; levitas non sunt activae quali¬
-            <lb ed="#P" n="36"/>Fossa quae sit circa arida dum aquis impo¬
-            <lb ed="#P" n="37"/>nuntur, cur non repleatur ab aqua 188. 2
-            <lb ed="#P" n="38"/>tates 122. 2.
-            <lb ed="#P" n="39"/>Gravitas quomodo terram stabiliat. 69. 2.
-            <lb ed="#P" n="40"/>Frigore transmutantur quidem subctantia
-            <lb ed="#P" n="41"/>Gravia qualibet vi rotantur circa suum cen
-            <lb ed="#P" n="42"/>liter res aliquando, non tamen praecisè per
-            <lb ed="#P" n="43"/>trum. 70. 1.
-            <lb ed="#P" n="44"/>glaciem. 348. 1.
-            <lb ed="#P" n="45"/>Gravitas accidentalis per motum produci¬
-            <lb ed="#P" n="46"/>Frigus, cuiusque cubiculi in aestate, quo in¬
-            <lb ed="#P" n="47"/>tur. 122. 2.
-            <lb ed="#P" n="48"/>strumento possit quis metiri. 36. 1.
-            <lb ed="#P" n="49"/>Guttae aquae cur, &amp; quomodo concurrant.
-            <lb ed="#P" n="50"/>142. 1.
-            <lb ed="#P" n="51"/>Fracastorij opinio de attractionibus magne¬
-            <lb ed="#P" n="52"/>189. 2.
-            <lb ed="#P" n="53"/>H.
-            <lb ed="#P" n="54"/>ticis. 107. 1.
-            <lb ed="#P" n="55"/>Homogenea, ut essentiam ita proprie
-            <lb ed="#P" n="56"/>Fricatio ferri supra magnetem, ut excite¬
-            <lb ed="#P" n="57"/>tates totas habent in toto, et totas
-            <lb ed="#P" n="58"/>tur, cur fiat. 381. 1.
-            <lb ed="#P" n="59"/>in qualibet parte. 211.2.
-            <lb ed="#P" n="60"/>G.
-            <lb ed="#P" n="61"/>Horologia solaria quomodo disponantur per
-            <lb ed="#P" n="62"/>Gallus cur cantu leonem terreat, si
-            <lb ed="#P" n="63"/>magnetem. 26. 1.
-            <lb ed="#P" n="64"/>fabula esset vera. 103. 2.
-            <lb ed="#P" n="65"/>Humidorum in aqua eminentium concur¬
-            <lb ed="#P" n="66"/>Gemmae multae trahunt electricae, non
-            <lb ed="#P" n="67"/>sus, est motus elementaris. 186. 2. cur
-            <lb ed="#P" n="68"/>omnes, &amp; gummae multae, non omnes.
-            <lb ed="#P" n="69"/>haec confluant. 189. 1. non confluunt, ut
-            <lb ed="#P" n="70"/>179. 1.
-            <lb ed="#P" n="71"/>uniantur. 184. 2.
-            <lb ed="#P" n="72"/>Generosa animalia vix bis idem opus aggre
-            <lb ed="#P" n="73"/>Humiditas quomodo corpora omnia coniun¬
-            <lb ed="#P" n="74"/>diuntur, si non succedat, &amp; cur 285. 2.
-            <lb ed="#P" n="75"/>gant. 184. 2.
-            <lb ed="#P" n="76"/>Galacies non mutat rei substantiam, in aqua,
-            <lb ed="#P" n="77"/>Humida sive aquea sint, sive pinguia, si con¬
-            <lb ed="#P" n="78"/>vino &amp;c. 347. 2.
-            <lb ed="#P" n="79"/>crescant, electricè trahunt 183.1.
-            <lb ed="#P" n="80"/>Globus magneticus, qui se perpetuo circum¬
-            <lb ed="#P" n="81"/>Humida cur difficilius separentur, quam sic¬
-            <lb ed="#P" n="82"/>volvat, fieri non potest. 205. 1.
-            <lb ed="#P" n="83"/>ca. 181. 1.
-            <lb ed="#P" n="84"/>Globi totales mundum integrantes singuli
-            <!--437.xml-->
-            <pb ed="#P" n="437"/>
-            <lb ed="#P" n="1"/>L.
-            <lb ed="#P" n="2"/>I.
-            <lb ed="#P" n="3"/>Igniarium instrumentum trahit verso¬
-            <lb ed="#P" n="4"/>Lamella ferrea prope magnetem una
-            <lb ed="#P" n="5"/>rium cum diversitate facierum. 373.
-            <lb ed="#P" n="6"/>partem versorij trahit, procul alte¬
-            <lb ed="#P" n="7"/>2. determinatam habet vim magneti¬
-            <lb ed="#P" n="8"/>ram. 264. 1.
-            <lb ed="#P" n="9"/>cam. 63. 1. 282.1.
-            <lb ed="#P" n="10"/>Lapis Philosophorum magnes vocatur. 4. 2.
-            <lb ed="#P" n="11"/>Ignis magneticam qualitatem profligat.
-            <lb ed="#P" n="12"/>Lateres adusti, &amp; ferrei vim magneticam
-            <lb ed="#P" n="13"/>352. 1. transmittit tamen qualitatem
-            <lb ed="#P" n="14"/>concipiunt à terra. 63.2. &amp; à magnete.
-            <lb ed="#P" n="15"/>magneticam, ut medium. 352. 1. exter¬
-            <lb ed="#P" n="16"/>131. 1.
-            <lb ed="#P" n="17"/>minat terreas qualitates à ferro. 353. 1.
-            <lb ed="#P" n="18"/>Leonardi Garzonij Veneti commendatur in¬
-            <lb ed="#P" n="19"/>Ignitio ferri verticitatem immutat. 280. 1.
-            <lb ed="#P" n="20"/>genium de magnetica Philosophia opti¬
-            <lb ed="#P" n="21"/>mè meritum. in praef 1. 2.
-            <lb ed="#P" n="22"/>disponit ferrum ad verticitatem conci¬
-            <lb ed="#P" n="23"/>piendam. ibi. non iuvat tamen directè,
-            <lb ed="#P" n="24"/>Libratio versorij inclinationis quomodo fiat.
-            <lb ed="#P" n="25"/>sed removendo prohibens ibi.
-            <lb ed="#P" n="26"/>80. 1.
-            <lb ed="#P" n="27"/>Inclinationis cognoscendae instrumentum.
-            <lb ed="#P" n="28"/>Librari non poterit ferrum exactè, si ma¬
-            <lb ed="#P" n="29"/>79. 2. cur sit ita factum 224. 2.
-            <lb ed="#P" n="30"/>gnetem praesenserit. 49. 1.
-            <lb ed="#P" n="31"/>Inclinatio magnetica solum per ferrum evi¬
-            <lb ed="#P" n="32"/>Librata perfectè, verè stant in quolibet situ.
-            <lb ed="#P" n="33"/>denter cognoscitur. 246. 2.
-            <lb ed="#P" n="34"/>247.1.
-            <lb ed="#P" n="35"/>Inclinatio magnetica cur fuerit aliquibus
-            <lb ed="#P" n="36"/>Lignum suis venis in longum protractis
-            <lb ed="#P" n="37"/>varia, instrumento ad orientem, &amp; ad
-            <lb ed="#P" n="38"/>magnetis naturam explicat. 9. 1.
-            <lb ed="#P" n="39"/>occidentem converso. 58. 2.
-            <lb ed="#P" n="40"/>Ligni facies sursum, &amp; deorsum magnetis
-            <lb ed="#P" n="41"/>facies declarant. 9 2.
-            <lb ed="#P" n="42"/>India mendaciorum asylum. 274. 2.
-            <lb ed="#P" n="43"/>Influentiae inaequales astrorum faciunt res sibi
-            <lb ed="#P" n="44"/>Lignum omnes habet positionum differen¬
-            <lb ed="#P" n="45"/>invicem subordinatas. 103 2.
-            <lb ed="#P" n="46"/>tias &amp; meridianam in se ostendit lineam.
-            <lb ed="#P" n="47"/>Inimica videntur promptiora ad nocendum,
-            <lb ed="#P" n="48"/>209. 2.
-            <lb ed="#P" n="49"/>quam amica ad iuvandum, &amp; quomodo.
-            <lb ed="#P" n="50"/>Lignum cur habeat propriam longitudinem
-            <lb ed="#P" n="51"/>200. 1.
-            <lb ed="#P" n="52"/>296. 1.
-            <lb ed="#P" n="53"/>Instrumenta motus trium generum sunt,
-            <lb ed="#P" n="54"/>Localis motus rebus solum datur in bonum
-            <lb ed="#P" n="55"/>ipsorum à natura. 28. 1.
-            <lb ed="#P" n="56"/>unde magnetici motus instrumentum con¬
-            <lb ed="#P" n="57"/>Locales motus ut tres sunt, ita sunt tres gra
-            <lb ed="#P" n="58"/>ficitur. 39. 2.
-            <lb ed="#P" n="59"/>dus moventium. 362.
-            <lb ed="#P" n="60"/>Internus motor aeque movet magnum ac pa¬
-            <lb ed="#P" n="61"/>Et tres tantum designantur termini, cen
-            <lb ed="#P" n="62"/>ruum mobile. 29. 2.
-            <lb ed="#P" n="63"/>trum, circumferentia, &amp; poli, 38. 1.
-            <lb ed="#P" n="64"/>Intensio qualitatis quomodo fiat, &amp; quid
-            <lb ed="#P" n="65"/>Locus naturalis physicus qualis sit. 95. 2.
-            <lb ed="#P" n="66"/>requirat. 333. 1.
-            <lb ed="#P" n="67"/>non trahit locatum; ex quo motus sis in fi
-            <lb ed="#P" n="68"/>Intensio maior in causa non infertur ex in¬
-            <lb ed="#P" n="69"/>ne velocior. 186. 2.
-            <lb ed="#P" n="70"/>tensione effectus praecisè. 396. 2.
-            <lb ed="#P" n="71"/>Longitudo magnetis certa est, &amp; invariabi
-            <lb ed="#P" n="72"/>Intentionales species cur spirituales dican¬
-            <lb ed="#P" n="73"/>lis 211. 1. Quomodo inveniatur. 12. 2.
-            <lb ed="#P" n="74"/>tur. 126. 2.
-            <lb ed="#P" n="75"/>quomodo mensuretur. 11. 1. maior auget
-            <lb ed="#P" n="76"/>Intentionales qualitates multiplicantur ad
-            <lb ed="#P" n="77"/>vim activam magnetis 382. 2.
-            <lb ed="#P" n="78"/>multiplicationem agentis non subiecti.
-            <lb ed="#P" n="79"/>Longitudo terrestris non cognoscitur per ma
-            <lb ed="#P" n="80"/>173.1.
-            <lb ed="#P" n="81"/>gnetem. 221. 2. quomodo cognoscatur.
-            <lb ed="#P" n="82"/>55. 1.
-            <!--438.xml-->
-            <pb ed="#P" n="438"/>
-            <lb ed="#P" n="1"/>Lucretij opinio de attractione magnetis:
-            <lb ed="#P" n="2"/>repellit, dum trahit. 388. 2.
-            <lb ed="#P" n="3"/>101. 1.
-            <lb ed="#P" n="4"/>Magnes cur specialiter vim habeat motivam
-            <lb ed="#P" n="5"/>Lumen quomodo propagetur. 124. 2. eodem
-            <lb ed="#P" n="6"/>fugiendi à contrario. 166. 2.
-            <lb ed="#P" n="7"/>modo propagatur qualitas magnetis. ibid.
-            <lb ed="#P" n="8"/>Trahit etiam magnetem. 162. 2. Non
-            <lb ed="#P" n="9"/>Lumen in medio perpetuo pendet à lumino¬
-            <lb ed="#P" n="10"/>est tamen attractio violenta. 163. 1.
-            <lb ed="#P" n="11"/>so; sic &amp; qualitas magnetica à magnete¬
-            <lb ed="#P" n="12"/>Magnes duas habet facies 6. 1. Et quo¬
-            <lb ed="#P" n="13"/>125. 2.
-            <lb ed="#P" n="14"/>modo habeat 7. 2. quomodo per eas se di¬
-            <lb ed="#P" n="15"/>Lumen exceptum medicatis lapillis, in illis
-            <lb ed="#P" n="16"/>rigat ad polos. 13. 1. Huius motus In¬
-            <lb ed="#P" n="17"/>durat. 128. 1. producit effectum procul,
-            <lb ed="#P" n="18"/>strumentum, &amp; unicum est, &amp; multi
-            <lb ed="#P" n="19"/>quem non producit in proximo. 130. 2.
-            <lb ed="#P" n="20"/>forme. 40. 1.
-            <lb ed="#P" n="21"/>in medio aliquando est maius; sed non
-            <lb ed="#P" n="22"/>Motiva virtus magnetica in quo perfectior
-            <lb ed="#P" n="23"/>intensius. 332. 2.
-            <lb ed="#P" n="24"/>sit elementari, &amp; imperfectior animali.
-            <lb ed="#P" n="25"/>Luminosum cur non impediatur à quali¬
-            <lb ed="#P" n="26"/>36. 2. Est qualitas motiva, &amp; alterati¬
-            <lb ed="#P" n="27"/>bet qualitate. 311. 2.
-            <lb ed="#P" n="28"/>va. 41.1. Est naturale principium, &amp;
-            <lb ed="#P" n="29"/>Lunae pars ad Lunam lunatice fluerent, &amp;
-            <lb ed="#P" n="30"/>intrinsecum motus. 33. 1.
-            <lb ed="#P" n="31"/>solis ad solem. 115 2.
-            <lb ed="#P" n="32"/>Magneticae directionis causa, ita cognita
-            <lb ed="#P" n="33"/>Lupum ovem insequi ex astris, quis dixerit.
-            <lb ed="#P" n="34"/>est, ut causa descensus in lapide. 43. 2.
-            <lb ed="#P" n="35"/>Magnetem non esse animatum. 35. 2. qui
-            <lb ed="#P" n="36"/>103. 2.
-            <lb ed="#P" n="37"/>M.
-            <lb ed="#P" n="38"/>nam id falsò putarint. 105. 2.
-            <lb ed="#P" n="39"/>Machinae, quo magis sunt artificiosae
-            <lb ed="#P" n="40"/>Magnes non se collocat in sua directione
-            <lb ed="#P" n="41"/>peiores sunt; quo simpliciores, me¬
-            <lb ed="#P" n="42"/>in situ, in quo natus est. 29. 1. Si tamen
-            <lb ed="#P" n="43"/>hoc esset; cur praecaeteris vellet se ad eun¬
-            <lb ed="#P" n="44"/>liores. 341. 2.
-            <lb ed="#P" n="45"/>Magnes albus cur ad amoris Philtrum ad¬
-            <lb ed="#P" n="46"/>dem situm restituere. 95. 1.
-            <lb ed="#P" n="47"/>hibeatur. 3. 1.
-            <lb ed="#P" n="48"/>Magneticae longitudinis ratio. 199. 2. Non
-            <lb ed="#P" n="49"/>habet nodos, ut lignum. 201. 1.
-            <lb ed="#P" n="50"/>Magnetis nomen unde sumptum. 2. 1.
-            <lb ed="#P" n="51"/>Quot sint genera. 22. ubi reperiatur. ibid
-            <lb ed="#P" n="52"/>Magnes non se converteret ad Coelum, si ter
-            <lb ed="#P" n="53"/>ra non esset. 104. 1. Habet tamen suam
-            <lb ed="#P" n="54"/>Magnetis falsa miracula Praefat. 4. quo
-            <lb ed="#P" n="55"/>artificio dividatur. 8. 2.
-            <lb ed="#P" n="56"/>vim à se, non à terra 129. 1. licet sit in
-            <lb ed="#P" n="57"/>Magnetica, &amp; Electrica aequè invocantur
-            <lb ed="#P" n="58"/>gratiam telluris, non in gratiam magne¬
-            <lb ed="#P" n="59"/>in obscuris difficultatibus. 178. 2. Sunt
-            <lb ed="#P" n="60"/>tis. 167.1.
-            <lb ed="#P" n="61"/>tamen aequè cognita, atque qualitates i¬
-            <lb ed="#P" n="62"/>Magneticae directionis terminus. 94. 2.
-            <lb ed="#P" n="63"/>Eius vera causa. 97. 2. 239. 1. 302. 2.
-            <lb ed="#P" n="64"/>gnis. 121. 2.
-            <lb ed="#P" n="65"/>Magnes traxit semper Philosophorum in¬
-            <lb ed="#P" n="66"/>Magnes non habet puncta, neque Orienta¬
-            <lb ed="#P" n="67"/>genia aequè, ac ferrum. 21. 2.
-            <lb ed="#P" n="68"/>lia. neque Occidentalia; sed solum pola¬
-            <lb ed="#P" n="69"/>Magnes ferrum non trahit ex influentijs.
-            <lb ed="#P" n="70"/>ria 205. 1. Et totus est meridionalis, to¬
-            <lb ed="#P" n="71"/>103. 2. Trahit ex omni parte. 314. 1.
-            <lb ed="#P" n="72"/>tus Australis, &amp; totus confert vim ad
-            <lb ed="#P" n="73"/>Immò, &amp; ipse ad ferrum fertur, &amp; ex
-            <lb ed="#P" n="74"/>utrumque polum. 136. 2.
-            <lb ed="#P" n="75"/>illo pendet. 346 1. non ut faciat unum
-            <lb ed="#P" n="76"/>Magnetis quodlibet punctum versus alte¬
-            <lb ed="#P" n="77"/>cum illo. 111. 2.
-            <lb ed="#P" n="78"/>rum polorum eodem modo agit, atque Po
-            <lb ed="#P" n="79"/>lus. 266. 1. Immò idem punctum vim
-            <lb ed="#P" n="80"/>Magnetem Coelum referre quis putarit
-            <lb ed="#P" n="81"/>confert se convertendi ad utrumque po¬
-            <lb ed="#P" n="82"/>24. 2.
-            <lb ed="#P" n="83"/>lum. 266 2 . Sicut utroque extremo ma¬
-            <lb ed="#P" n="84"/>Magnes per vim attractivam ferrum à se
-            <!--439.xml-->
-            <pb ed="#P" n="439"/>
-            <lb ed="#P" n="1"/>gneticam vim confert ferro. 256. 2.
-            <lb ed="#P" n="2"/>Magnes libratus descendit altero extremo
-            <lb ed="#P" n="3"/>infra Orizontem, &amp; quis primus hoc ob¬
-            <lb ed="#P" n="4"/>servaverit. 47. 2. Immo maiori, vi descen
-            <lb ed="#P" n="5"/>dit, quam ad meridianum feratur. 224 1.
-            <lb ed="#P" n="6"/>Magnes agit. in istanti 129. 2. nec virtus
-            <lb ed="#P" n="7"/>propagatur ex centro, sed ex polis. 145.
-            <lb ed="#P" n="8"/>2. Et in orbem aequaliter funditur. 141.
-            <lb ed="#P" n="9"/>2. Non est tamen qualitas in sphaera a¬
-            <lb ed="#P" n="10"/>ctivitatis ea ratione, qua est in magnete.
-            <lb ed="#P" n="11"/>248. 2.
-            <lb ed="#P" n="12"/>Magnes Armatus robustior, &amp; perforatus.
-            <lb ed="#P" n="13"/>407. 1.
-            <lb ed="#P" n="14"/>Magnetis vires augentur mole. 146. 1
-            <lb ed="#P" n="15"/>Crescit tamen aliquando vis detrahendo de
-            <lb ed="#P" n="16"/>magnete. 382. 2. 384. 1. Et minor ma¬
-            <lb ed="#P" n="17"/>gnes à maiore ferrum surripit, &amp; me¬
-            <lb ed="#P" n="18"/>lius, quo fuerit minor. 333. 2.
-            <lb ed="#P" n="19"/>Magneticae virtuti nullum contrarium.
-            <lb ed="#P" n="20"/>311. 2 ideo quodlibet medium est pro¬
-            <lb ed="#P" n="21"/>portionatum. 307 1. Pervadit eius vir¬
-            <lb ed="#P" n="22"/>tus etiam durissima corpora. 308. 1. nec
-            <lb ed="#P" n="23"/>reflectitur. 309. 2. Et dirigit versorium
-            <lb ed="#P" n="24"/>etiam sepultus magnes. 310 2.
-            <lb ed="#P" n="25"/>Magneticae virtuti, quae noceant. 356. 1.
-            <lb ed="#P" n="26"/>Magnes magnetem etiam excitat. 131. 2.
-            <lb ed="#P" n="27"/>&amp; verticitatem immutat. 262. 2.
-            <lb ed="#P" n="28"/>Magnes quo errore dicatur iuventutem con¬
-            <lb ed="#P" n="29"/>servare. 4. 2.
-            <lb ed="#P" n="30"/>Magnetis facies similes se directae expel¬
-            <lb ed="#P" n="31"/>lunt, non fugiunt per accidens. 101. 2.
-            <lb ed="#P" n="32"/>Et quae prius erant coniunctae se fugiunt.
-            <lb ed="#P" n="33"/>291. 1
-            <lb ed="#P" n="34"/>Mantuae ferrum in magnetem, quasi conver
-            <lb ed="#P" n="35"/>sum. 63. 1.
-            <lb ed="#P" n="36"/>Mahometis Arca an potuerit in aere sus¬
-            <lb ed="#P" n="37"/>vendi, &amp; quandiù 335. 1.
-            <lb ed="#P" n="38"/>Medicamenta per Magnetem effecta, quae
-            <lb ed="#P" n="39"/>falso dicantur. 4. 1.
-            <lb ed="#P" n="40"/>Medicamenta purgantia quomodo pur¬
-            <lb ed="#P" n="41"/>gent. 165. 2.
-            <lb ed="#P" n="42"/>Mensurantur res graves exactissime, per pon
-            <!--439.xml-->
-            <pb ed="#P" n="439"/>
-            <lb ed="#P" n="43"/>derationem in acqua. 382. 2.
-            <lb ed="#P" n="44"/>Meridianae lineae supra parietem vix possunt
-            <lb ed="#P" n="45"/>certo per magnetem designari. 233. 2.
-            <lb ed="#P" n="46"/>Metalla metallicos emittunt spiritus
-            <lb ed="#P" n="47"/>398. 1.
-            <lb ed="#P" n="48"/>Metalla omnia humida sunt, &amp; praecipuè
-            <lb ed="#P" n="49"/>ferrum 102. 1.
-            <lb ed="#P" n="50"/>Modus sciendi apud Aristotelem non est.
-            <lb ed="#P" n="51"/>logica. 37 2.
-            <lb ed="#P" n="52"/>Motus localis non est gratia sui. 27. 2. sed
-            <lb ed="#P" n="53"/>in bonum rei motae 362. 2.
-            <lb ed="#P" n="54"/>Motus perpetuus quomodo possit per ma¬
-            <lb ed="#P" n="55"/>gnetem excogitari. 338. 2. moveri non
-            <lb ed="#P" n="56"/>potest res de novo sine sui mutatione.
-            <lb ed="#P" n="57"/>117. 2.
-            <lb ed="#P" n="58"/>N.
-            <lb ed="#P" n="59"/>Naturae definitio ab Aristotele tra¬
-            <lb ed="#P" n="60"/>dita, quomodo intelligatur in ma¬
-            <lb ed="#P" n="61"/>gnete 43. 1.
-            <lb ed="#P" n="62"/>Natura subiecti est vera causa proprietatum,
-            <lb ed="#P" n="63"/>patens, &amp; non occulta. 46. 1.
-            <lb ed="#P" n="64"/>Natura non deficit in necessarijs ad conser¬
-            <lb ed="#P" n="65"/>vationem. 33. 2.
-            <lb ed="#P" n="66"/>Natura pronior ad iuvandum quam ad no¬
-            <lb ed="#P" n="67"/>cendum. 390. 1.
-            <lb ed="#P" n="68"/>Naves ad scopulos magnetis dissolvi extra¬
-            <lb ed="#P" n="69"/>ctis clavis fabula est. 74. 2.
-            <lb ed="#P" n="70"/>Navigationes, etiam in Oceano, potuerunt
-            <lb ed="#P" n="71"/>fieri sine pyxide. 20. 1.
-            <lb ed="#P" n="72"/>Nautae quomodo locum navis cognoscant, et
-            <lb ed="#P" n="73"/>dirigant per altitudines poli. 230. 2.
-            <lb ed="#P" n="74"/>Et ideo quantum intersit illos scire eleva
-            <lb ed="#P" n="75"/>tionem poli ubique. 231. 1. quam melius
-            <lb ed="#P" n="76"/>cognoscent per magnetem, quam meridia
-            <lb ed="#P" n="77"/>iam lineam. 331. 2.
-            <lb ed="#P" n="78"/>Nodi in transversum acti non sunt in ma¬
-            <lb ed="#P" n="79"/>gnete, ut in ligno. 201. 1.
-            <lb ed="#P" n="80"/>Nomina rebus imponere munus sapien¬
-            <lb ed="#P" n="81"/>tum. 1. 1.
-            <lb ed="#P" n="82"/>Nomen est brevis rei definitio. 1. 2. sumi¬
-            <lb ed="#P" n="83"/>tur tamen aliquando ab accidente 2. 1.
-            <lb ed="#P" n="84"/>Novum orbem suis investigatoribus indica¬
-            <!--440.xml-->
-            <pb ed="#P" n="440"/>
-            <lb ed="#P" n="1"/>bat declinatio magnetica, si cognoscere
-            <lb ed="#P" n="2"/>valuissent. 219. 1.
-            <lb ed="#P" n="3"/>Nutritio nec lapidibus, nec magneti conve¬
-            <lb ed="#P" n="4"/>O.
-            <lb ed="#P" n="5"/>nit. 105. 2.
-            <lb ed="#P" n="6"/>Obeli pendentes supra magnetem,
-            <lb ed="#P" n="7"/>quomodo se disponant. 319. 2.
-            <lb ed="#P" n="8"/>Obliquae conformationis obelorum
-            <lb ed="#P" n="9"/>supra magnetem vera causa. 150. 1 &amp;
-            <lb ed="#P" n="10"/>&amp; seq. nec oritur ex designatione cordae;
-            <lb ed="#P" n="11"/>aut infirma tractione. 141. 1. cur aver¬
-            <lb ed="#P" n="12"/>tantur à polo, &amp; axe. 143. 2.
-            <lb ed="#P" n="13"/>Oceanus potuit etiam navigari sine pyxide.
-            <lb ed="#P" n="14"/>20.
-            <lb ed="#P" n="15"/>1.
-            <lb ed="#P" n="16"/>Oceanus non ita naves per se agitat, ut ma¬
-            <lb ed="#P" n="17"/>re mediteraneum. 91. 1.
-            <lb ed="#P" n="18"/>Oppositae facies in magnete sola se trahunt.
-            <lb ed="#P" n="19"/>P.
-            <lb ed="#P" n="20"/>286. 1.
-            <lb ed="#P" n="21"/>Papi Alexandrini demonstratio de at¬
-            <lb ed="#P" n="22"/>tractione ponderis in plano inclinato
-            <lb ed="#P" n="23"/>examinatur. 339. 2.
-            <lb ed="#P" n="24"/>Partes similes magnetis quomodo coniungan¬
-            <lb ed="#P" n="25"/>tur. 291. 2
-            <lb ed="#P" n="26"/>Partes designatae, &amp; divisae in hac philoso¬
-            <lb ed="#P" n="27"/>phia magnam faciunt diversitatem. 291. 1.
-            <lb ed="#P" n="28"/>Passi dispositio non auget virtutem agentis.
-            <lb ed="#P" n="29"/>325. 2.
-            <lb ed="#P" n="30"/>Petri Peregrini epistola de magnete sibi al¬
-            <lb ed="#P" n="31"/>lius adscripsit. 23. 2. eius error de ra¬
-            <lb ed="#P" n="32"/>tatione magnetis sphaericae. 24. 1.
-            <lb ed="#P" n="33"/>Perfectum in natura, habet in eodem ordi¬
-            <lb ed="#P" n="34"/>ne etiam imperfectum, quod sibi respon¬
-            <lb ed="#P" n="35"/>det. 39. 1.
-            <lb ed="#P" n="36"/>Perpetuus motus per magnetem non potuit
-            <lb ed="#P" n="37"/>fieri. 339 1.
-            <lb ed="#P" n="38"/>Philosophi nomen quis mereatur. in praef. 1.
-            <lb ed="#P" n="39"/>Pili ferrei formantur suprae magnetem ex
-            <lb ed="#P" n="40"/>pulvere ferreo. 316. 1.
-            <lb ed="#P" n="41"/>Plantae sursum germinant, etiam ramo ad ter
-            <lb ed="#P" n="42"/>ram reflexo. 34. 2
-            <lb ed="#P" n="43"/>Plantandae arboris ratio peculiaris, ut non
-            <lb ed="#P" n="44"/>arescat. 210 2.
-            <lb ed="#P" n="45"/>Plauti locus explicatur de versoria. 19. 2.
-            <lb ed="#P" n="46"/>Planetarum motus circa solem insinuatur,
-            <!--440.xml-->
-            <pb ed="#P" n="440"/>
-            <lb ed="#P" n="47"/>N n
-            <lb ed="#P" n="48"/>360.
-            <lb ed="#P" n="49"/>per magneticam conversionem. 300. 1.
-            <lb ed="#P" n="50"/>Poli magnetis à quo primum commemoren¬
-            <lb ed="#P" n="51"/>tur. 21. 2. cos inveniri. 1. 2 &amp; seq. ad¬
-            <lb ed="#P" n="52"/>hibendo ferrum. 16. 1. quomodo varien
-            <lb ed="#P" n="53"/>tur per divisionem magnetis 212. 2. non
-            <lb ed="#P" n="54"/>sunt principium activum, sed termini a¬
-            <lb ed="#P" n="55"/>ctionis. 144. 2. 287. 1. sunt veluti pun¬
-            <lb ed="#P" n="56"/>cta radiosa. 245. 1.
-            <lb ed="#P" n="57"/>Polus magnetis in sua vena hic, sit ne eleva¬
-            <lb ed="#P" n="58"/>tus, an depressus infra horizontem. 82. 1.
-            <lb ed="#P" n="59"/>Polus unus magnetis destruit, quod alter
-            <lb ed="#P" n="60"/>produxit. 288. 1. idem &amp; conferre, &amp;
-            <lb ed="#P" n="61"/>auferre videtur vim magneticam 320. 2
-            <lb ed="#P" n="62"/>Potunt mutare idem polus, quod produxit. 320 2.
-            <lb ed="#P" n="63"/>Poli magnetici soli magneticam directionem,
-            <lb ed="#P" n="64"/>&amp; eius terminos demonstrant. 246 1.
-            <lb ed="#P" n="65"/>Poli magnetici in tabulis geographicis im¬
-            <lb ed="#P" n="66"/>perite pinguntur, ideo abradendi. 52.
-            <lb ed="#P" n="67"/>&amp; seq.
-            <lb ed="#P" n="68"/>Poli magnetici terrae non sunt praecisè poli
-            <lb ed="#P" n="69"/>magnitudinis. 217. 2.
-            <lb ed="#P" n="70"/>Polares terrae partes maiorem. habent activi¬
-            <lb ed="#P" n="71"/>tatem magneticam. 229. 1. &amp; septentrio
-            <lb ed="#P" n="72"/>nalis hic in magnete plus potest quam au
-            <lb ed="#P" n="73"/>stralis. 393. 1.
-            <lb ed="#P" n="74"/>Poli elevatio facilè per magnetem cogno¬
-            <lb ed="#P" n="75"/>scitur. 230. 2. &amp; quomodo à nautis co¬
-            <lb ed="#P" n="76"/>gnoscatur. 231. 1.
-            <lb ed="#P" n="77"/>Pondus, ut trahatur, minorem requirit po¬
-            <lb ed="#P" n="78"/>tentiam, quam ut attollatur. 342. 1.
-            <lb ed="#P" n="79"/>quam requirat, ut trahatur in plano in¬
-            <lb ed="#P" n="80"/>clinato. 342. 2.
-            <lb ed="#P" n="81"/>Portae opinio de attractione magnetica. 10 2
-            <lb ed="#P" n="82"/>Posteriorum utilitas ex priorum erroribus.
-            <lb ed="#P" n="83"/>46. 1
-            <lb ed="#P" n="84"/>Propter quod unumquodque tale, &amp; illud
-            <lb ed="#P" n="85"/>magis, quomodo in hac philosophia sit ve
-            <lb ed="#P" n="86"/>cum. 245. 1.
-            <lb ed="#P" n="87"/>Pulvis ferreus magnetem conservat 359.
-            <lb ed="#P" n="88"/>1. Quomodo concipiat vim magneticam.
-            <lb ed="#P" n="89"/>269. 1. Ferruminatur praesente magne¬
-            <lb ed="#P" n="90"/>te, illo remoto dissolvitur. 271. 1.
-            <lb ed="#P" n="91"/>Purpureus panus, magnetem, conservat,
-            <!--441.xml-->
-            <pb ed="#P" n="441"/>
-            <lb ed="#P" n="1"/>360. 1.
-            <lb ed="#P" n="2"/>petuo tamen sic pendet à magnete. 125. 2.
-            <lb ed="#P" n="3"/>Purgantia medicamenta quomodo purgent.
-            <lb ed="#P" n="4"/>Qualitas vnius faciei propria ferri non da¬
-            <lb ed="#P" n="5"/>165. 2.
-            <lb ed="#P" n="6"/>tur. 160. 2.
-            <lb ed="#P" n="7"/>Pyxis nautica à quibus fuerit inventa. 22.
-            <lb ed="#P" n="8"/>Qualitas terrae magnetica non videtur attra
-            <lb ed="#P" n="9"/>2. quomodo eius ferrum formetur. 380.
-            <lb ed="#P" n="10"/>ctiva. 156. 2. utrum sit eiusdem speciei
-            <lb ed="#P" n="11"/>1. cur ferrum tegatur circulo cartaceo.
-            <lb ed="#P" n="12"/>cum qualitate magnetis. 155. 2.
-            <lb ed="#P" n="13"/>379. 2. eius stella quomodo eclipsetur.
-            <lb ed="#P" n="14"/>R.
-            <lb ed="#P" n="15"/>235. 1.
-            <lb ed="#P" n="16"/>Q.
-            <lb ed="#P" n="17"/>Radius magis directus est efficacior
-            <lb ed="#P" n="18"/>Qualitatum aliae activae, aliae al¬
-            <lb ed="#P" n="19"/>refracto; &amp; in magnete, &amp; in
-            <lb ed="#P" n="20"/>terativae, aliae quae utrunque si¬
-            <lb ed="#P" n="21"/>lumine. 382. 2.
-            <lb ed="#P" n="22"/>mul habent; ut est magnetica. 40. 2
-            <lb ed="#P" n="23"/>Radij virtutis quomodo intelligantur dis¬
-            <lb ed="#P" n="24"/>Qualitas occulta non est, quae effectum
-            <lb ed="#P" n="25"/>seminari; &amp; etiam in perspectiva, quo¬
-            <lb ed="#P" n="26"/>habet patentem; sed erit innominata.
-            <lb ed="#P" n="27"/>modo intelligantur radij luminosi. 145. 1
-            <lb ed="#P" n="28"/>121. 1. etiam si non sit ex primis qua¬
-            <lb ed="#P" n="29"/>Reactio quid operetur in magnetica philo¬
-            <lb ed="#P" n="30"/>litatibus. 120. 1.
-            <lb ed="#P" n="31"/>sophia. 261. 1.
-            <lb ed="#P" n="32"/>Qualitas magnetica tripliciter existit. 126.
-            <lb ed="#P" n="33"/>Rectum est index sui, &amp; obliqui. 264. 1.
-            <lb ed="#P" n="34"/>2. non est duplex, sed unica, tota au¬
-            <lb ed="#P" n="35"/>Reflexio fit quidem in lumine; sed non in
-            <lb ed="#P" n="36"/>stralis, &amp; tota septentrionalis. 136 1.
-            <lb ed="#P" n="37"/>qualitate magnetica, &amp; cur. 130. 1.
-            <lb ed="#P" n="38"/>nec duplicatur in eodem situ permanen¬
-            <lb ed="#P" n="39"/>Repetitio eiusdem rei non semper debet esse
-            <lb ed="#P" n="40"/>ter. 171. 2. duplicatur tamen intentiona
-            <lb ed="#P" n="41"/>molesta. 198. 1.
-            <lb ed="#P" n="42"/>liter. ibi.
-            <lb ed="#P" n="43"/>Resistentia respectu agentis, ex quo solum
-            <lb ed="#P" n="44"/>Qualitas magnetica nullum habet contra¬
-            <lb ed="#P" n="45"/>oriatur. 311. 2.
-            <lb ed="#P" n="46"/>rium; ideo producitur in instanti. 129 2
-            <lb ed="#P" n="47"/>Rubiginis in ferro causae verae explicantur.
-            <lb ed="#P" n="48"/>311. 2. 392. 1. &amp; quatenus habet con¬
-            <lb ed="#P" n="49"/>358. 2. cur aliqua ferramenta magis,
-            <lb ed="#P" n="50"/>trarium, non est simul cum illo in eodem
-            <lb ed="#P" n="51"/>aliqua minus contrahant. ibi.
-            <lb ed="#P" n="52"/>subiecto 171. 1.
-            <lb ed="#P" n="53"/>Rubiginosum ferrum vix trahitur à ma¬
-            <lb ed="#P" n="54"/>Qualitas duarum facierum est motiva, &amp;
-            <lb ed="#P" n="55"/>gnete. 261. 2.
-            <lb ed="#P" n="56"/>alterativa. 121. 2. &amp; seq. &amp; cur hoc.
-            <lb ed="#P" n="57"/>Rupes magneticas in polis constitutas, quae
-            <lb ed="#P" n="58"/>167. 2 dum est in ferro, non statim in¬
-            <lb ed="#P" n="59"/>magnetem dirigant, dari fabulosum est.
-            <lb ed="#P" n="60"/>cipit minui 289 2. &amp; cur hoc 260 2
-            <lb ed="#P" n="61"/>29. 2.
-            <lb ed="#P" n="62"/>S.
-            <lb ed="#P" n="63"/>quamvis activa non proveniat à ferro.
-            <lb ed="#P" n="64"/>Salomon num habuerit pyxidem nauti¬
-            <lb ed="#P" n="65"/>260. 1.
-            <lb ed="#P" n="66"/>cam in suis classibus. 20. 2.
-            <lb ed="#P" n="67"/>Qualitas magnetica mutatur in ferro per
-            <lb ed="#P" n="68"/>Sciri potest causa alicuius, etiam si nomen
-            <lb ed="#P" n="69"/>novum contactum. 170 &amp; seq. 262. 1
-            <lb ed="#P" n="70"/>ignoretur. 121. 1.
-            <lb ed="#P" n="71"/>invenitur in omnibus ferramentis à ter¬
-            <lb ed="#P" n="72"/>Semen quomodo augeatur in terra, &amp; cre¬
-            <lb ed="#P" n="73"/>ra producta. 165. 1.
-            <lb ed="#P" n="74"/>scat. 326. 1.
-            <lb ed="#P" n="75"/>Qualitas magnetica est actu in medio, &amp;
-            <lb ed="#P" n="76"/>Sensus non elicit sensationem, nisi praevia sui
-            <lb ed="#P" n="77"/>in tota sphaera activitatis. 249. 2. &amp;
-            <lb ed="#P" n="78"/>mutatione aliqua. 118. 2.
-            <lb ed="#P" n="79"/>propagatur per quodlibet medium, etiam
-            <lb ed="#P" n="80"/>Senescit etiam magnes temporum decursu. 356. 1
-            <lb ed="#P" n="81"/>durissimum 125. 1. qualiter autem sit
-            <lb ed="#P" n="82"/>Similitudo per se non coniungit similia, ne¬
-            <lb ed="#P" n="83"/>in hac sphaera, &amp; quomodo disposita.
-            <lb ed="#P" n="84"/>que in magnete. 111. 2.
-            <lb ed="#P" n="85"/>139. 2. disseminatur ex polis, ut ex pun
-            <lb ed="#P" n="86"/>Similes facies in magnete se directe expel¬
-            <lb ed="#P" n="87"/>ctis radiatis. 144. 2. 179. 1. 135. 2. per¬
-            <lb ed="#P" n="88"/>lunt. 113. 1.
-            <!--442.xml-->
-            <pb ed="#P" n="442"/>
-            <lb ed="#P" n="1"/>Vacuum
-            <lb ed="#P" n="2"/>Similia in universum cur non moveantur
-            <lb ed="#P" n="3"/>etiam si mutet centrum gravitatis. 69. 1
-            <lb ed="#P" n="4"/>ad similia, sed solus magnes. 161. 1.
-            <lb ed="#P" n="5"/>Terram non esse magnum magnetem perfe¬
-            <lb ed="#P" n="6"/>Situs diversitas in collocatione ferri vere di
-            <lb ed="#P" n="7"/>ctissimum probatur pluribus. 74. &amp; seq.
-            <lb ed="#P" n="8"/>verso modo trahit versorium. 400. 1.
-            <lb ed="#P" n="9"/>nec trahit ad se gravia magnetice. 72. 2.
-            <lb ed="#P" n="10"/>Solutivum medicamentum dicitur, sed non
-            <lb ed="#P" n="11"/>habet tamen vim magneticam, ut pluri¬
-            <lb ed="#P" n="12"/>exhibetur; quod operetur in distans 304. 2
-            <lb ed="#P" n="13"/>bus ostenditur. 57. &amp; seq. unde illi pro¬
-            <lb ed="#P" n="14"/>Sonus quid sit &amp; quomodo propagetur. 165. 2. a
-            <lb ed="#P" n="15"/>veniat. 66. 2. &amp; cur illi data sit. ibi.
-            <lb ed="#P" n="16"/>quo fiat acutus, &amp; gravis ibi. quomodo
-            <lb ed="#P" n="17"/>Terrae cavitates non sunt sensibiles in illa;
-            <lb ed="#P" n="18"/>propagentur, dum sonorum circumcludi¬
-            <lb ed="#P" n="19"/>unde nec inducerent variationem dire¬
-            <lb ed="#P" n="20"/>tur. 308. 2.
-            <lb ed="#P" n="21"/>ctionum; si terra esset magnus magnes. 77. 1
-            <lb ed="#P" n="22"/>Sphaera activitatis magneticorum suadetur.
-            <lb ed="#P" n="23"/>Terra vim magneticam magis habet in par
-            <lb ed="#P" n="24"/>323. 1. omnia corpora illi sunt apta. 129. 2.
-            <lb ed="#P" n="25"/>te superiori, quam in imis. 77. 2. 91. 2.
-            <lb ed="#P" n="26"/>Sphaerae data segmenta cognoscere. 153. 1.
-            <lb ed="#P" n="27"/>Terra non habet nec orientem nec occiden¬
-            <lb ed="#P" n="28"/>Speculum cur reddat imaginem, tam notum
-            <lb ed="#P" n="29"/>tem; sed solum determinatos polos. 206.
-            <lb ed="#P" n="30"/>est, quam, cur ferrum magnetice excite¬
-            <lb ed="#P" n="31"/>1. &amp; eius venae excurrunt à polo, ad po¬
-            <lb ed="#P" n="32"/>tur. 240. 1.
-            <lb ed="#P" n="33"/>lum. 58. 1.
-            <lb ed="#P" n="34"/>Spuma cur ebulitione generetur. 191. 1. cu¬
-            <lb ed="#P" n="35"/>Terra si volveretur in se, ex vi magnetica
-            <lb ed="#P" n="36"/>concidat, si super illam exprimatur cor¬
-            <lb ed="#P" n="37"/>restitueret se ad situm polarem. 57. 2.
-            <lb ed="#P" n="38"/>tex mali aurantij. 189. 2.
-            <lb ed="#P" n="39"/>&amp; propter hoc data est illi haec virtus, ut
-            <lb ed="#P" n="40"/>species intentionales unum faciunt cùm suo
-            <lb ed="#P" n="41"/>impediat à vertigine. 69. 2.
-            <lb ed="#P" n="42"/>corpore, à quo sunt. 107. 2.
-            <lb ed="#P" n="43"/>Terra circulariter est aequè disposita in pa¬
-            <lb ed="#P" n="44"/>Stellam pollarem non respicit magnes, nec
-            <lb ed="#P" n="45"/>rallelis 206. 2.
-            <lb ed="#P" n="46"/>ullum circa stellam punctum. 27. 2.
-            <lb ed="#P" n="47"/>Terrae qualitas magnetica non videtur at¬
-            <lb ed="#P" n="48"/>Substantia non est immediate motiva loca¬
-            <lb ed="#P" n="49"/>tractiva. 156. 2. nec alterativa. 157. 1.
-            <lb ed="#P" n="50"/>liter. 42. 1.
-            <lb ed="#P" n="51"/>habet tamen vere utrumque 158. 1. &amp;
-            <lb ed="#P" n="52"/>Substantialis mutatio non fit sine magna
-            <lb ed="#P" n="53"/>cur non videatur habere. 284. 2.
-            <lb ed="#P" n="54"/>accidentium alteratione, &amp; mutatione.
-            <lb ed="#P" n="55"/>Terra ferro verticitatem vix immutat. 158.
-            <lb ed="#P" n="56"/>44 1
-            <lb ed="#P" n="57"/>1 producit tamen qualitatem 59. 2. &amp;
-            <lb ed="#P" n="58"/>Superiora uniunt in se, quae in inferioribus
-            <lb ed="#P" n="59"/>immutat etiam 75 2.
-            <lb ed="#P" n="60"/>sunt divisa. 123. 1.
-            <lb ed="#P" n="61"/>Terrarum ingentes tractus trahunt ad se ver
-            <lb ed="#P" n="62"/>Sus elephantem terit. 103. 2.
-            <lb ed="#P" n="63"/>sorium. 92. 2.
-            <lb ed="#P" n="64"/>Sympathica determinatam requirunt distan
-            <lb ed="#P" n="65"/>Terra disponit omnes acus, si aquis imponan¬
-            <lb ed="#P" n="66"/>tiam. 106. 1.
-            <lb ed="#P" n="67"/>tur, ad meridianum. 277. 1.
-            <lb ed="#P" n="68"/>Sympathici motus fiunt, aliquid per medium
-            <lb ed="#P" n="69"/>Terra cur exiguam vim attractivam habe¬
-            <lb ed="#P" n="70"/>diffundendo 165. 1. 303. 1.
-            <lb ed="#P" n="71"/>re videatur. 284. 2.
-            <lb ed="#P" n="72"/>Sympathia, &amp; Antipathia saepe sunt asy¬
-            <lb ed="#P" n="73"/>Termini motuum elementarium tres tantum
-            <lb ed="#P" n="74"/>lum ignorantiae. 305. 1. 405. 2.
-            <lb ed="#P" n="75"/>defignantur à natura, centrum, circum¬
-            <lb ed="#P" n="76"/>ferentia poli. 38. 1.
-            <lb ed="#P" n="77"/>T.
-            <lb ed="#P" n="78"/>Terra est in medio physice non mathe
-            <lb ed="#P" n="79"/>Terminus magnetici motus non est punctum
-            <lb ed="#P" n="80"/>maticè, &amp; in loco physico, non ma¬
-            <lb ed="#P" n="81"/>aliquod mobile, nec immobile. 52. 2. qua¬
-            <lb ed="#P" n="82"/>thematico. 69. 2.
-            <lb ed="#P" n="83"/>lis sit. 94. 2.
-            <lb ed="#P" n="84"/>Terrae fluctuatio non sequitur ex qualibet
-            <lb ed="#P" n="85"/>Tractio quomodo fiat sine violentia. 104.
-            <lb ed="#P" n="86"/>motione rei gravis supra terram. 68. 1.
-            <lb ed="#P" n="87"/>2.
-            <lb ed="#P" n="88"/>T.
-            <!--443.xml-->
-            <pb ed="#P" n="443"/>
-            <lb ed="#P" n="1"/>gneticis infra, vel supra erectis. 234. 1.
-            <lb ed="#P" n="2"/>Vacuum quomodo vitetur per con¬
-            <lb ed="#P" n="3"/>&amp; disponuntur à magnete etiam quocun
-            <lb ed="#P" n="4"/>fluentiam corporum. 107 1.
-            <lb ed="#P" n="5"/>que amplissimo pariete interposito. 300. i
-            <lb ed="#P" n="6"/>Ubi, qui sit modus, non est termi¬
-            <lb ed="#P" n="7"/>Versoria multiplicata non certius dirigun¬
-            <lb ed="#P" n="8"/>nus physicus per se intentus à natura in
-            <lb ed="#P" n="9"/>tur; sed se impediunt. 273. 1. quantum
-            <lb ed="#P" n="10"/>motu locali. 28. 1.
-            <lb ed="#P" n="11"/>distare debeant, ut non se impediant. ibi.
-            <lb ed="#P" n="12"/>Vena ferri ex se vim magneticam ostendit.
-            <lb ed="#P" n="13"/>Versorium fit etiam ad electrica experimen
-            <lb ed="#P" n="14"/>si sit ditior 355. 1. ignitione, si sit ignobi¬
-            <lb ed="#P" n="15"/>ta. 181. 1.
-            <lb ed="#P" n="16"/>lis, disponitur ad hanc qualitatem. 355.
-            <lb ed="#P" n="17"/>Verba adhibenda ex communi sensu 175. 1.
-            <lb ed="#P" n="18"/>1. &amp; ut haec disponitur, ita magnes corrum
-            <lb ed="#P" n="19"/>Veritas non est deserenda propter difficulta
-            <lb ed="#P" n="20"/>pitur. 127. 2.
-            <lb ed="#P" n="21"/>tem in contrarium. 259. 2.
-            <lb ed="#P" n="22"/>
-            <lb ed="#P" n="23"/>Venae terrae, quae in montibus exaesis cernun¬
-            <lb ed="#P" n="24"/>Vinum congelatum est adhuc vinum 348. 1.
-            <lb ed="#P" n="25"/>tur, faciunt angulum cum Horizonte
-            <lb ed="#P" n="26"/>Violentum fere in hac philosophia perpe¬
-            <lb ed="#P" n="27"/>aequalem altitudini poli. 59. 1.
-            <lb ed="#P" n="28"/>tuum. 294 2.
-            <lb ed="#P" n="29"/>Versoria quid sint apud Plautum. 19. 2.
-            <lb ed="#P" n="30"/>Virtus unita fortior ex Aristotile, quomo¬
-            <lb ed="#P" n="31"/>Versoria cur non fiunt ex magnete, sed
-            <lb ed="#P" n="32"/>do intelligendum. 377 2.
-            <lb ed="#P" n="33"/>ex ferro. 246. 1. non debent fieri in for¬
-            <lb ed="#P" n="34"/>Viventia dupliciter ordinata, &amp; partes in¬
-            <lb ed="#P" n="35"/>mam crucis. 207. 1.cur fiant, ex lamella,
-            <lb ed="#P" n="36"/>ter se, &amp; totum in ordine ad universum.
-            <lb ed="#P" n="37"/>non ex virgula 377. 1.cur fiant oblon¬
-            <lb ed="#P" n="38"/>161 2.
-            <lb ed="#P" n="39"/>ga. ibi. cur non valde materiata. ibi Hori
-            <lb ed="#P" n="40"/>Viventia quomodo moveantur à se, non à ge
-            <lb ed="#P" n="41"/>zontalia non sint aequilibrata antequam
-            <lb ed="#P" n="42"/>neraente. 105. 1.
-            <lb ed="#P" n="43"/>excitentur. 378. 2. materia optima est
-            <lb ed="#P" n="44"/>Voluptas, etiam in rebus inanimatis cerni¬
-            <lb ed="#P" n="45"/>ferrum optimum, &amp; temperatum. 362. 2.
-            <lb ed="#P" n="46"/>tur. 104. 1.
-            <lb ed="#P" n="47"/>Versoria quomodo bene excitentur magnete.
-            <lb ed="#P" n="48"/>Unitas agentis non est causa concursus ma¬
-            <lb ed="#P" n="49"/>380 2. &amp; excitentur optimo magnete,
-            <lb ed="#P" n="50"/>gneticorum. 111. 2. 113. 2.
-            <lb ed="#P" n="51"/>&amp; cur excitentur per magnetem, &amp; non
-            <lb ed="#P" n="52"/>Unisonorum cur si unum tangatur, &amp; alterum
-            <lb ed="#P" n="53"/>comitantur terrae polum, ut dirigantur.
-            <lb ed="#P" n="54"/>sonet. 165. 2.
-            <lb ed="#P" n="55"/>278. 2.dum tangunt magnetem acqui¬
-            <lb ed="#P" n="56"/>Unguentum armarium, seu sympaticum lu
-            <lb ed="#P" n="57"/>runt facies oppositas. 290. 2.
-            <lb ed="#P" n="58"/>sus creditur, &amp; cur. 304. 2.
-            <lb ed="#P" n="59"/>Versoria magnetica non congruunt cum ve¬
-            <lb ed="#P" n="60"/>Ursam magnes non respicit; nec ullum eius
-            <lb ed="#P" n="61"/>ro meridiano in toto aliquo meridiano.
-            <lb ed="#P" n="62"/>punctum. 26. 2.
-            <lb ed="#P" n="63"/>55. 2. nec supra magnetem, ubique eodem
-            <lb ed="#P" n="64"/>Vulnera simplicia sanantur solum servando
-            <lb ed="#P" n="65"/>modo diriguntur. 202. 1.
-            <lb ed="#P" n="66"/>munda, &amp; ab extrinsecis. 304. 2.
-            <lb ed="#P" n="67"/>Versoria vehementer commoventur à ma¬
-            <lb ed="#P" n="68"/>FINIS.
-            <!--443.xml-->
-            <pb ed="#P" n="443"/>
-            <lb ed="#P" n="69"/>Corrige
-            <lb ed="#P" n="70"/>Corrige
-            <lb ed="#P" n="71"/>Errata
-            <lb ed="#P" n="72"/>Errata
-            <lb ed="#P" n="73"/>Corrige
-            <lb ed="#P" n="74"/>Errata
-            <lb ed="#P" n="75"/>gummae
-            <lb ed="#P" n="76"/>179 27 gemmae
-            <lb ed="#P" n="77"/>Epicycios
-            <lb ed="#P" n="78"/>85 7 Epiciscolos
-            <lb ed="#P" n="79"/>rarum
-            <lb ed="#P" n="80"/>errum
-            <lb ed="#P" n="81"/>qua trahant
-            <lb ed="#P" n="82"/>181 11 quia trahat
-            <lb ed="#P" n="83"/>Goae
-            <lb ed="#P" n="84"/>91 8 gorae
-            <lb ed="#P" n="85"/>lapidis
-            <lb ed="#P" n="86"/>17 1 lapides
-            <lb ed="#P" n="87"/>fragrant.
-            <lb ed="#P" n="88"/>191 5 flagrant
-            <lb ed="#P" n="89"/>96 2 eas
-            <lb ed="#P" n="90"/>aliqualem
-            <lb ed="#P" n="91"/>23 1 qualem
-            <lb ed="#P" n="92"/>Philosopho
-            <lb ed="#P" n="93"/>201 29 Philosofi
-            <lb ed="#P" n="94"/>sit
-            <lb ed="#P" n="95"/>106 15 Si
-            <lb ed="#P" n="96"/>putarent
-            <lb ed="#P" n="97"/>24 15 putarunt
-            <lb ed="#P" n="98"/>212 13 axe
-            <lb ed="#P" n="99"/>Inter
-            <lb ed="#P" n="100"/>107 7 In
-            <lb ed="#P" n="101"/>conformandi
-            <lb ed="#P" n="102"/>34 18 confirmandi
-            <lb ed="#P" n="103"/>222 35 partibus
-            <lb ed="#P" n="104"/>paribus,
-            <lb ed="#P" n="105"/>contendebat
-            <lb ed="#P" n="106"/>114 10 Concudebat
-            <lb ed="#P" n="107"/>sublatus
-            <lb ed="#P" n="108"/>34 1 sufflatus
-            <lb ed="#P" n="109"/>Effectum
-            <lb ed="#P" n="110"/>226 38 sinus
-            <lb ed="#P" n="111"/>unus
-            <lb ed="#P" n="112"/>122 15 Effectu
-            <lb ed="#P" n="113"/>non nihil
-            <lb ed="#P" n="114"/>36 21 nonnilem
-            <lb ed="#P" n="115"/>ęquinoctialis
-            <lb ed="#P" n="116"/>229 1 quinoctialem
-            <lb ed="#P" n="117"/>iuventur
-            <lb ed="#P" n="118"/>45 7 Iuuenitur
-            <lb ed="#P" n="119"/>ualitates
-            <lb ed="#P" n="120"/>145 4 qualitatis
-            <lb ed="#P" n="121"/>vim
-            <lb ed="#P" n="122"/>239 27 cum
-            <lb ed="#P" n="123"/>lapide
-            <lb ed="#P" n="124"/>146 18 laqide
-            <lb ed="#P" n="125"/>quos
-            <lb ed="#P" n="126"/>47 10 quas
-            <lb ed="#P" n="127"/>propinquo
-            <lb ed="#P" n="128"/>164 2 propinqui
-            <lb ed="#P" n="129"/>151 32 bis est H. pro N
-            <lb ed="#P" n="130"/>declinare
-            <lb ed="#P" n="131"/>53 23 inclinare
-            <lb ed="#P" n="132"/>polum
-            <lb ed="#P" n="133"/>284 31 ferum
-            <lb ed="#P" n="134"/>155 40 quae
-            <lb ed="#P" n="135"/>dicitur
-            <lb ed="#P" n="136"/>54 9 dicit
-            <lb ed="#P" n="137"/>convertent
-            <lb ed="#P" n="138"/>190 3 convertant,
-            <lb ed="#P" n="139"/>instar
-            <lb ed="#P" n="140"/>161 27 istar
-            <lb ed="#P" n="141"/>ferrum
-            <lb ed="#P" n="142"/>61 24 terram
-            <lb ed="#P" n="143"/>potentia h.
-            <lb ed="#P" n="144"/>proporrionatum
-            <lb ed="#P" n="145"/>304 17 potentia G.
-            <lb ed="#P" n="146"/>165 24 proprietatum
-            <lb ed="#P" n="147"/>ferreum
-            <lb ed="#P" n="148"/>63 10 ferrum
-            <lb ed="#P" n="149"/>vim
-            <lb ed="#P" n="150"/>363 4 cum
-            <lb ed="#P" n="151"/>etiam
-            <lb ed="#P" n="152"/>154 13 denique
-            <lb ed="#P" n="153"/>firmetur
-            <lb ed="#P" n="154"/>66 15 formetur
-            <lb ed="#P" n="155"/>A. D: D. H.
-            <lb ed="#P" n="156"/>eximi à vi
-            <lb ed="#P" n="157"/>369 38 A. D :D. A.
-            <lb ed="#P" n="158"/>177 15 eximiavis
-            <lb ed="#P" n="159"/>gyrant
-            <lb ed="#P" n="160"/>67 26 gerunt
-            <lb ed="#P" n="161"/>aere
-            <lb ed="#P" n="162"/>396 2 aeri
-            <lb ed="#P" n="163"/>ad A.
-            <lb ed="#P" n="164"/>178 20 ad R.
-            <lb ed="#P" n="165"/>Hipomoeleo
-            <lb ed="#P" n="166"/>70 12 ipomoleo
         </p>
     </div>
 </div>
