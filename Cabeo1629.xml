@@ -1040,41 +1040,29 @@
             <lb ed="#P" n="13"/>quieverit in E. etiam si simel ite¬
             <lb ed="#P" n="14"/>rum, ac tertio deturbes, &amp; B. con¬
             <lb ed="#P" n="15"/>vertas ad aliam partem, redibit
-            <lb ed="#P" n="44" type="fixed=6"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/923,140,-410,436/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A F C B E D A F C B E D</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375363-r5</seg>
-            </ab>
-            <figDesc/>
-         </figure>
-         <lb ed="#P" n="16" type="fixed=6"/>tamen semper ad E. constantissi¬
+          <lb ed="#P" n="16"/>tamen semper ad E. constantissi¬
             <lb ed="#P" n="17"/>me, nec unquam errore decipie¬
             <lb ed="#P" n="18"/>tur, aut casu alias sedes occupa¬
             <lb ed="#P" n="19"/>bit; &amp;, nisi vi detineatur, ubi pri¬
             <lb ed="#P" n="20"/>mum sibi relictus erit, redibit ad antiquum locum.
-            
+            <lb ed="#P" n="44" type="fixed=6"/>
+            <figure>
+              <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/923,140,-410,436/full/0/default.jpg"/>
+              <ab type="figure-details">
+                <seg type="figure-text">A F C B E D A F C B E D</seg>
+                <seg type="figure-ideas"/>
+                <seg type="transkribus-id">900522-34375363-r5</seg>
+              </ab>
+              <figDesc/>
+            </figure>
         </p>
       <p>
-         <lb ed="#P" n="21"/>Ex isto experimento iam omnibus noto conficitur, duas esse veluti par¬
+        <lb ed="#P" n="21" type="fixed=6"/>Ex isto experimento iam omnibus noto conficitur, duas esse veluti par¬
             <lb ed="#P" n="22"/>tes in lapide magnete non quidem partes molis, aut quantitatis sed dire¬
             <lb ed="#P" n="23"/>ctionis, &amp; virtutis, quarum altera in Septentrionem dirigitur, altera in Au¬
             <lb ed="#P" n="24"/>strum: vel potius unicam esse virtutem in lapide ita se disponendi, ut Me¬
             <lb ed="#P" n="25"/>ridionalem lineam obtineat, vel ab ea non multum exorbitet, quam ideo
-            
-            <lb ed="#P" n="45" type="fixed=6"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/934,833,-402,430/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C D B A C D B</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375363-r6</seg>
-            </ab>
-            <figDesc/>
-         </figure>
-         <lb ed="#P" n="26" type="fixed=6"/>duplicem appellamus, quia non vagè, &amp; nullo servato partium discrimine
+            <lb ed="#P" n="26"/>duplicem appellamus, quia non vagè, &amp; nullo servato partium discrimine
             <lb ed="#P" n="27"/>in Meridiana linea se collocare dicitur, sed hoc ita praestat, ut perpetuo pars
             <lb ed="#P" n="28"/>B. in Septentrionem vergat. A. in
             <lb ed="#P" n="29"/>Austrum, nec unquam aut B. in F.
@@ -1088,14 +1076,21 @@
             <lb ed="#P" n="37"/>determinatę partes, seù facies, qua¬
             <lb ed="#P" n="38"/>rum altera Septentrionem respi¬
             <lb ed="#P" n="39"/>cere vult, altera Austrum.
+            <lb ed="#P" n="45" type="fixed=6"/><figure>
+              <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/934,833,-402,430/full/0/default.jpg"/>
+              <ab type="figure-details">
+                <seg type="figure-text">A C D B A C D B</seg>
+                <seg type="figure-ideas"/>
+                <seg type="transkribus-id">900522-34375363-r6</seg>
+              </ab>
+              <figDesc/>
+            </figure>
         </p>
       <p>
-         <lb ed="#P" n="40"/>Licet hoc idem alio experimen¬
+        <lb ed="#P" n="40" type="fixed=6"/>Licet hoc idem alio experimen¬
             <lb ed="#P" n="41"/>to dignoscere. Summe vas satis am¬
             <lb ed="#P" n="42"/>plum A. B. aqua plenum, &amp; vascu¬
             <lb ed="#P" n="43"/>lum alterum minus C. D. in quo
-            
-            
             <!--26.xml-->
             <pb ed="#P" n="7"/>
          <lb ed="#P" n="1"/>minore ita magnetem colloca, ut aquis in isto vasculo possit innatare, tunc
@@ -1150,7 +1145,7 @@
             </figure>
       </p>
       <p>
-         <lb ed="#P" n="39"/>Colliges hoc idem, si alteram ex his partibus iterum dividas, si tertio
+         <lb ed="#P" n="39" type="fixed=7"/>Colliges hoc idem, si alteram ex his partibus iterum dividas, si tertio
             <lb ed="#P" n="40"/>rursus seces, hoc idem, si perpetuo in dividendo pergas. ergo in toto lapide
             <lb ed="#P" n="41"/>facies est Australis, in toto Septentrionalis, atque hae facies non distinctas
             <lb ed="#P" n="42"/>sibi deposcunt magnetis portiones, sed amico copulantur foedere, atque in
@@ -1286,6 +1281,8 @@
             <lb ed="#P" n="26"/>stralis erit. Hoc pacto si cum ligno collatam magnetis naturam attentè
             <lb ed="#P" n="27"/>speculaberis, &amp; quod in ligno est sursum, &amp; deorsum in lapide dicas esse
             <lb ed="#P" n="28"/>Septentrionale, &amp; Australe, eius naturam aliqua ratione introspicies.
+     </p>
+     <p>
             <lb ed="#P" n="29"/>Hanc igitur viam qua magnetis vires, &amp; facies extenduntur, magnetis
             <lb ed="#P" n="30"/>longitudinem appellabimus, cuius metiendae ratio cum artificiali longi¬
             <lb ed="#P" n="31"/>tudine aut figura, non nisi ex accidente consentit; in quo etiam à ligni non
