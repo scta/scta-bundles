@@ -1076,7 +1076,8 @@
             <lb ed="#P" n="37"/>determinatę partes, seù facies, qua¬
             <lb ed="#P" n="38"/>rum altera Septentrionem respi¬
             <lb ed="#P" n="39"/>cere vult, altera Austrum.
-            <lb ed="#P" n="45" type="fixed=6"/><figure>
+            <lb ed="#P" n="45" type="fixed=6"/>
+         <figure>
               <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/934,833,-402,430/full/0/default.jpg"/>
               <ab type="figure-details">
                 <seg type="figure-text">A C D B A C D B</seg>
@@ -1231,7 +1232,8 @@
             <lb ed="#P" n="26"/>protracti, qua primum à natura fuerunt dispositi in toto ligno; ita in qua¬
             <lb ed="#P" n="27"/>libet quantumcumque exigua magnetis particula sunt istae facies, sed ea
             <lb ed="#P" n="28"/>ratione fitùque dispositae, quem primum à natura obtinuerunt in isto lapide.
-        <lb ed="#P" n="29"/><figure>
+        <lb ed="#P" n="29"/>
+         <figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/116,724,232,328/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">C D C D</seg>
@@ -1240,7 +1242,8 @@
             </ab>
             <figDesc/>
          </figure>
-         <lb ed="#P" n="30"/><figure>
+         <lb ed="#P" n="30"/>
+         <figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/408,772,435,238/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A C B A C B</seg>
@@ -1334,6 +1337,7 @@
             <figDesc/>
          </figure>
          <!--30.xml-->
+        
          <pb ed="#P" n="11"/>
          <lb ed="#P" n="24"/>
          <figure>
