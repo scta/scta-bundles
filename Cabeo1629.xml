@@ -1674,11 +1674,11 @@
             <lb ed="#P" n="28"/>biacet in septentrionem vertetur D. in austrum collimabit.
             <lb ed="#P" n="45" type="fixed=17"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/406,843,425,381/full/0/default.jpg"/>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/428,211,417,493/full/0/default.jpg"/>
             <ab type="figure-details">
-               <seg type="figure-text"/>
+               <seg type="figure-text">F A D C E B F A D C E B</seg>
                <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375379-region_1630484260871_1598</seg>
+               <seg type="transkribus-id">900522-34375379-r6</seg>
             </ab>
             <figDesc/>
          </figure>
@@ -1689,8 +1689,21 @@
             <lb ed="#P" n="30"/>debet semper ita detineri, ut
             <lb ed="#P" n="31"/>medium lapidis, quantum fieri
             <lb ed="#P" n="32"/>potest, medium capsellae F. tan¬
-            <lb ed="#P" n="33"/>gat. Tertio hoc idem facilius
-            <lb ed="#P" n="34"/>si non ita exactè in lapide satis
+            <lb ed="#P" n="33"/>gat.
+         <lb ed="#P" n="46" type="fixed=17"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/406,843,425,381/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text"/>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375379-region_1630484260871_1598</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+         </p>
+      <p>
+         Tertio hoc idem facilius
+         <lb ed="#P" n="34" type="fixed=17"/>si non ita exactè in lapide satis
             <lb ed="#P" n="35"/>rotundo invenies: sumef rustu¬
             <lb ed="#P" n="36"/>lum ferri longitudinis tantae
             <lb ed="#P" n="37"/>quanta est grani frumenti, vel
@@ -1700,21 +1713,7 @@
             <lb ed="#P" n="41"/>pariter filum sumere potes, hu¬
             <lb ed="#P" n="42"/>iusmodi filum magneti impo¬
             <lb ed="#P" n="43"/>nito: videbis enim obliquè sta¬
-            <lb ed="#P" n="44"/>re ad omnes partes magnetis,
-            <!--36.xml-->
-            
-         <!--36.xml-->
-         <pb ed="#P" n="17"/>
-         <lb ed="#P" n="46"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/428,211,417,493/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">F A D C E B F A D C E B</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375379-r6</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+            <lb ed="#P" n="44"/>re ad omnes partes magnetis,    
          <!--37.xml-->
          <pb ed="#P" n="18"/>
          <lb ed="#P" n="1"/>&amp; solum in duobus oppositis punctis directè ad centrum magnetis perpen¬
@@ -1735,14 +1734,37 @@
             <lb ed="#P" n="16"/>horrescunt, ut solum in pun¬
             <lb ed="#P" n="17"/>ctis A. &amp; B. directè erigantur, in alijs obliquentur, vel adiaceant lapidi. Me¬
             <lb ed="#P" n="18"/>dium igitur illud A. &amp; B. erunt poli, &amp; per illa puncta transibit axis. &amp; haec
-            <lb ed="#P" n="19"/>satis expedita via est ad polos inveniendos. Denique placuit Gilberti ratio¬
-            <lb ed="#P" n="20"/>nem pau-lulum immutate, ut fortasse clariorem redderem, quo facilius in
+            <lb ed="#P" n="19"/>satis expedita via est ad polos inveniendos.
+         <lb ed="#P" n="43" type="fixed=18"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/495,354,430,200/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">B A B A</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375381-r4</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+      </p>
+      <p>
+         Denique placuit Gilberti ratio¬
+         <lb ed="#P" n="20" type="fixed=18"/>nem pau-lulum immutate, ut fortasse clariorem redderem, quo facilius in
             <lb ed="#P" n="21"/>rotundo lapide magnetico ad experimenta sanè magis accommodato po¬
             <lb ed="#P" n="22"/>los inveniamus, quam exactissime adijcere: licet fortasse parum haec ratio
             <lb ed="#P" n="23"/>iam differat à supra positis.
         </p>
       <p>
-         <lb ed="#P" n="24"/>Sume rotundum magnetem A. B. &amp; cuspidem ex aere fabrica, apta huic ex¬
+         <lb ed="#P" n="44" type="fixed=18"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/490,814,390,437/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">A B G C E F A B G C E F</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375381-r5</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+         <lb ed="#P" n="24" type="fixed=18"/>Sume rotundum magnetem A. B. &amp; cuspidem ex aere fabrica, apta huic ex¬
             <lb ed="#P" n="25"/>perimento, ita scilicet, ut commodè supra lapidem sedeat; huic versorium impo¬
             <lb ed="#P" n="26"/>nito, &amp; tandiù in diversas.
             <lb ed="#P" n="27"/>magnetis sedes trahas cum
@@ -1762,29 +1784,9 @@
             <lb ed="#P" n="41"/>describendum in lapide cir¬
             <lb ed="#P" n="42"/>culum, quem circulum in
             <!--37.xml-->
-            <pb ed="#P" n="18"/>
-         <lb ed="#P" n="43"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/495,354,430,200/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">B A B A</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375381-r4</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--37.xml-->
-         <pb ed="#P" n="18"/>
-         <lb ed="#P" n="44"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/490,814,390,437/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A B G C E F A B G C E F</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375381-r5</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+         
          <!--38.xml-->
          <pb ed="#P" n="19"/>
          <lb ed="#P" n="1"/>tali magnetis globo poteris aequatorem appellare, quia aequaliter distat
@@ -2132,7 +2134,17 @@
             <lb ed="#P" n="31"/>pite primo.
         </p>
       <p>
-         <lb ed="#P" n="32"/>Prima harum opinionum in multis, immo in omnibus displicet. &amp; qui¬
+         <lb ed="#P" n="43" type="fixed=25"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/561,1045,269,232/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">C A D B C A D B</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375392-r6</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+         <lb ed="#P" n="32" type="fixed=25"/>Prima harum opinionum in multis, immo in omnibus displicet. &amp; qui¬
             <lb ed="#P" n="33"/>dem primo si vera esset, non declinarent magnetica ferramenta versorij à
             <lb ed="#P" n="34"/>vera meridiana linea; quod tamen videmus con¬
             <lb ed="#P" n="35"/>tingere: nec enim versorium, dum magneticè di¬
@@ -2144,17 +2156,7 @@
             <lb ed="#P" n="41"/>sus, alibi ad occidentem. Sit pyxidula A. B. cuius
             <lb ed="#P" n="42"/>media linea C. D. collocetur directè supra lineam
             <!--44.xml-->
-            <pb ed="#P" n="25"/>
-         <lb ed="#P" n="43"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/561,1045,269,232/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">C A D B C A D B</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375392-r6</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+           
          <!--45.xml-->
          <pb ed="#P" n="26"/>
          <lb ed="#P" n="1"/>meridianam veram, quam aliquo artificio exquisitè invenias, videbis verso¬
@@ -2573,7 +2575,17 @@
             <lb ed="#P" n="23"/>viget, se subducere.
         </p>
       <p>
-         <lb ed="#P" n="24"/>Confirmatur hoc in consimili re:
+         <lb ed="#P" n="43" type="fixed=34"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/558,672,346,593/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text"/>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375405-region_1630484346204_1673</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+         <lb ed="#P" n="24" type="fixed=34"/>Confirmatur hoc in consimili re:
             <lb ed="#P" n="25"/>quia enim plantae, lignorumque natu¬
             <lb ed="#P" n="26"/>ra postulat, ut determinatam sui par¬
             <lb ed="#P" n="27"/>tem sursum obvertat, dum vegeta¬
@@ -2593,17 +2605,7 @@
             <lb ed="#P" n="41"/>diriguntur: quod si praeciso trunco¬
             <lb ed="#P" n="42"/>non amplius se ad eundem statum
             <!--53.xml-->
-            <pb ed="#P" n="34"/>
-         <lb ed="#P" n="43"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/558,672,346,593/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text"/>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375405-region_1630484346204_1673</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+          
          <!--54.xml-->
          <pb ed="#P" n="35"/>
          <lb ed="#P" n="1"/>restituit lignum; idest, quia ad sui conservationem, cum non amplius ter¬
@@ -3121,9 +3123,19 @@
             <lb ed="#P" n="14"/>aliqua in obelo sit facta interna mutatio; cum nunc ad contrarias se con¬
             <lb ed="#P" n="15"/>vertat partes, atque antea. Sed non pluribus pugno, quia nullus, ut arbi¬
             <lb ed="#P" n="16"/>tror, repugnabit.
+         <lb ed="#P" n="44" type="fixed=11"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/488,147,324,227/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">A B A B</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375422-r5</seg>
+            </ab>
+            <figDesc/>
+         </figure>
         </p>
       <p>
-         <lb ed="#P" n="17"/>Verum adhuc subdo hanc mutationem ex eo ortam esse, quod vim acti¬
+         <lb ed="#P" n="17" type="fixed=11"/>Verum adhuc subdo hanc mutationem ex eo ortam esse, quod vim acti¬
             <lb ed="#P" n="18"/>vam receperit ad motum, non autem ex eo tantum, quod dispositionem
             <lb ed="#P" n="19"/>passivam ad hoc habuerit. nullus illorum repugnabit, qui magneticam tra¬
             <lb ed="#P" n="20"/>ctarunt philosophiam, nec alius, nisi fortasse sciolus aliquis, qui res inge¬
@@ -3153,17 +3165,7 @@
             <lb ed="#P" n="42"/>rum, &amp; alias res, cur in ferro conservetur, in alijs non item, nulla alia po¬
             <lb ed="#P" n="43"/>test reddi in praesentia ratio, nisi ex natura ferri petita, &amp; convenientia for¬
             <!--64.xml-->
-            <pb ed="#P" n="45"/>
-         <lb ed="#P" n="44"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/488,147,324,227/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A B A B</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375422-r5</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+            
          <!--65.xml-->
          <pb ed="#P" n="46"/>
          <lb ed="#P" n="1"/>mae; quae, si non sit eadem cum magnete, saltem sit illi valde affinis, quod
@@ -3248,7 +3250,17 @@
             <lb ed="#P" n="19"/>rasque commodè nimis ostenderet. Sed rem fusius supra.
         </p>
       <p>
-         <lb ed="#P" n="20"/>Secundo non minus errarunt, qui dixerunt terminum magnetici mo¬
+         <lb ed="#P" n="41" type="fixed=47"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/491,873,320,416/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">B A B A</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375425-r5</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+         <lb ed="#P" n="20" type="fixed=47"/>Secundo non minus errarunt, qui dixerunt terminum magnetici mo¬
             <lb ed="#P" n="21"/>tus, punctum aliquem immobilem, sive in Coelo, sive supra Coelum proxi¬
             <lb ed="#P" n="22"/>mum polo, ex quo fiat, ut magnetica declinent à meridiano in eodem loco
             <lb ed="#P" n="23"/>semper eadem declinatione, diversa tamen, in diversis, nunc plus, nunc mi¬
@@ -3270,18 +3282,7 @@
             <lb ed="#P" n="39"/>quanta est crassities gladij: lamellae cras¬
             <lb ed="#P" n="40"/>sities sit quam tenuissima, fac in eius me¬
             <!--66.xml-->
-            <pb ed="#P" n="47"/>
-         <lb ed="#P" n="41"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/491,873,320,416/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">B A B A</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375425-r5</seg>
-            </ab>
-            <figDesc/>
-         </figure>
-         <!--67.xml-->
+            <!--67.xml-->
          <pb ed="#P" n="48"/>
          <lb ed="#P" n="1"/>ditullio foramen exiguum egregiè levigatum, tum filo serico non contorto
             <lb ed="#P" n="2"/>per foramen traiecto suspendito, &amp; regulam ex foramine exactissimè libra,
@@ -3344,7 +3345,17 @@
             <lb ed="#P" n="13"/>ille.
         </p>
       <p>
-         <lb ed="#P" n="14"/>Quibus ego duo addam ad
+         <lb ed="#P" n="43" type="fixed=49"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/406,332,394,560/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">C F E B C F E B</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375428-r6</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+         <lb ed="#P" n="14" type="fixed=49"/>Quibus ego duo addam ad
             <lb ed="#P" n="15"/>experimentum facilius haben¬
             <lb ed="#P" n="16"/>dum, quod ego meo malo di¬
             <lb ed="#P" n="17"/>dici, dum in hoc laboro. Pri¬
@@ -3374,17 +3385,7 @@
             <lb ed="#P" n="41"/>tactum contraria ratione factum, &amp; videbis partem E, quae sursum eleva¬
             <lb ed="#P" n="42"/>batur, deprimi, &amp; partem quae deprimebatur, erigi eandemque servare obli¬
             <!--68.xml-->
-            <pb ed="#P" n="49"/>
-         <lb ed="#P" n="43"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/406,332,394,560/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">C F E B C F E B</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375428-r6</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+            
          <!--69.xml-->
          <pb ed="#P" n="50"/>
          <lb ed="#P" n="1"/>quitatem, atque hac ratione virtutem immutando iterum, ac tertio specta,
@@ -3415,7 +3416,17 @@
             <lb ed="#P" n="24"/>possit.
         </p>
       <p>
-         <lb ed="#P" n="25"/>His positis experimentis
+         <lb ed="#P" n="43" type="fixed=50"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/497,763,450,410/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">H F A L T G E D C R N Q P S H F A L T G E D C R N Q P S</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375430-r5</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+         <lb ed="#P" n="25" type="fixed=50"/>His positis experimentis
             <lb ed="#P" n="26"/>dico evidens esse terminos
             <lb ed="#P" n="27"/>magnetici motus, ad quos
             <lb ed="#P" n="28"/>magnetica diriguntur, non
@@ -3434,17 +3445,7 @@
             <lb ed="#P" n="41"/>caderet acute ad horizontem; cum haec sit magneticorum regula, immo
             <lb ed="#P" n="42"/>omnium mobilium, ut ad terminos, ad quos moventur, proximè accedant,
             <!--69.xml-->
-            <pb ed="#P" n="50"/>
-         <lb ed="#P" n="43"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/497,763,450,410/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">H F A L T G E D C R N Q P S H F A L T G E D C R N Q P S</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375430-r5</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--70.xml-->
          <pb ed="#P" n="51"/>
          <lb ed="#P" n="1"/>&amp; recta illos respiciant. Cum igitur non elevetur pars septentrionalis, sed
@@ -3455,7 +3456,17 @@
             <lb ed="#P" n="6"/>ut N. R.
         </p>
       <p>
-         <lb ed="#P" n="7"/>Hoc idem sic clarius adhuc o¬
+         <lb ed="#P" n="41" type="fixed=51"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/418,309,415,462/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">C A D B F E C A D B F E</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375431-r6</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+         <lb ed="#P" n="7" type="fixed=51"/>Hoc idem sic clarius adhuc o¬
             <lb ed="#P" n="8"/>stendo. Sumatur sphęricus ma¬
             <lb ed="#P" n="9"/>gnes A. B. C. D. in quo sint A.
             <lb ed="#P" n="10"/>B. poli, quoties ponentur ferra¬
@@ -3500,17 +3511,7 @@
          <lb ed="#P" n="39"/>Alij putarunt magnetica punctum determinatum in terra respicere. non
             <lb ed="#P" n="40"/>placet igitur, imò nec videtur ulla ratione posse defendi istorum sententia,
             <!--70.xml-->
-            <pb ed="#P" n="51"/>
-         <lb ed="#P" n="41"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/418,309,415,462/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">C A D B F E C A D B F E</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375431-r6</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+           
          <!--71.xml-->
          <pb ed="#P" n="52"/>
          <lb ed="#P" n="1"/>qui ponunt imaginarios, ac confictos montes magneticos; qui si non tra¬
@@ -3528,7 +3529,17 @@
             <lb ed="#P" n="13"/>motus.
         </p>
       <p>
-         <lb ed="#P" n="14"/>Vel enim fingunt huiusmodi terminum mobilem, vel immobilem: non
+         <lb ed="#P" n="43" type="fixed=52"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/473,840,454,442/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">C A D B M E I N H G F C A D B M E I N H G F</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375433-r5</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+            <lb ed="#P" n="14" type="fixed=52"/>Vel enim fingunt huiusmodi terminum mobilem, vel immobilem: non
             <lb ed="#P" n="15"/>potest dici esse mobilem, quia illa sequerentur incommoda, de quibus ini¬
             <lb ed="#P" n="16"/>tio capitis praecedentis dicebam; videremus enim stante pyxide in eodem
             <lb ed="#P" n="17"/>loco immobiliter, variari versorium, variaque esset eodem die perpetuo ma¬
@@ -3558,17 +3569,7 @@
             <lb ed="#P" n="41"/>num, &amp; in omnibus punctis
             <lb ed="#P" n="42"/>intermedijs ad G. declina¬
             <!--71.xml-->
-            <pb ed="#P" n="52"/>
-         <lb ed="#P" n="43"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/473,840,454,442/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">C A D B M E I N H G F C A D B M E I N H G F</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375433-r5</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+            
          <!--72.xml-->
          <pb ed="#P" n="53"/>
          <lb ed="#P" n="1"/>ret ad ortum, &amp; ab H. I. versus declinaret ad occasum; at vero in F. loco sci¬
@@ -3595,7 +3596,17 @@
             <lb ed="#P" n="20"/>ista sequuntur.
         </p>
       <p>
-         <lb ed="#P" n="21"/>Quod ne alicui fortasse gratis dictum videatur; quamvis res sit satis cla¬
+         <lb ed="#P" n="43" type="fixed=53"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/492,808,338,337/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">A B D C E A B D C E</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375434-r6</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+         <lb ed="#P" n="21" type="fixed=53"/>Quod ne alicui fortasse gratis dictum videatur; quamvis res sit satis cla¬
             <lb ed="#P" n="22"/>ra, tamen sic illam ostendo. Sit circulus meridianus A. B. C. D. ille in quo
             <lb ed="#P" n="23"/>versorium dicitur inclinare gradus 35. &amp; punctum A. sit locus in quo talis
             <lb ed="#P" n="24"/>deprehenditur declinatio per punctum A. ducatur arcus A. E. qui sit portio
@@ -3618,17 +3629,7 @@
             <lb ed="#P" n="41"/>Azoricum, patet haec consequentia in mathematicis exercitatis, vel medio¬
             <lb ed="#P" n="42"/>criter: si enim punctum A. ponitur punctum verticale, in quo maxima de¬
             <!--72.xml-->
-            <pb ed="#P" n="53"/>
-         <lb ed="#P" n="43"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/492,808,338,337/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A B D C E A B D C E</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375434-r6</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+            
          <!--73.xml-->
          <pb ed="#P" n="54"/>
          <lb ed="#P" n="1"/>prehenditur declinatio; si punctum respectus ad quod se convertendo de¬
@@ -3650,7 +3651,17 @@
             <lb ed="#P" n="17"/>erat propositum, &amp; tamen hoc est falsum.
         </p>
       <p>
-         <lb ed="#P" n="18"/>Deinde, quando ista non haberent vim, quam tamen habent maximam,
+         <lb ed="#P" n="43" type="fixed=54"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/521,831,420,420/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">A C B D E F G H I K M N A C B D E F G H I K M N</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375436-r5</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+         <lb ed="#P" n="18" type="fixed=54"/>Deinde, quando ista non haberent vim, quam tamen habent maximam,
             <lb ed="#P" n="19"/>aliud ex hac hypothesi sequeretur, quod experientijs repugnat: videremus
             <lb ed="#P" n="20"/>enim versoria in declinatione à vera meridiana linea regulam certam, for¬
             <lb ed="#P" n="21"/>mamque servare, ut perpetuo in eodem parallelo per unam circuli medieta¬
@@ -3676,17 +3687,7 @@
             <lb ed="#P" n="41"/>poli verò terrae sint A. B. congruit
             <lb ed="#P" n="42"/>ergo in illo meridiano bene ver¬
             <!--73.xml-->
-            <pb ed="#P" n="54"/>
-         <lb ed="#P" n="43"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/521,831,420,420/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C B D E F G H I K M N A C B D E F G H I K M N</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375436-r5</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+            
          <!--74.xml-->
          <pb ed="#P" n="55"/>
          <lb ed="#P" n="1"/>sorium, etsi in ortum tendas ad ortum deflectit, si ad occasum vergas, se¬
@@ -3856,14 +3857,7 @@
             <lb ed="#P" n="17"/>terrestris sequantur, &amp; in polis quasi committantur.
         </p>
       <p>
-         <lb ed="#P" n="18"/>Sit mons aliquis A. B. C. D. qui praecisus sit, vel ab aquis corrosus, vel alia
-            <lb ed="#P" n="19"/>ratione in D. C. B. ita ut haec facies corrosa D. C. B. respiciat ortum, vel occa¬
-            <lb ed="#P" n="20"/>sum, quam partem respicere debet talis sectio, ad hoc, ut cernatur, quod di¬
-            <lb ed="#P" n="21"/>to, ita ut sit haec sectio in plano meridiano, tunc videbis omnes terrae venas,
-            <lb ed="#P" n="22"/>quibus Mons conflatur, accedere ab E. ad F. in nostris hisce regionibus, qui
-            <!--77.xml-->
-            <pb ed="#P" n="58"/>
-         <lb ed="#P" n="23"/>
+         <lb ed="#P" n="23" type="fixed=58"/>
          <figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/226,763,665,526/full/0/default.jpg"/>
             <ab type="figure-details">
@@ -3873,6 +3867,13 @@
             </ab>
             <figDesc/>
          </figure>
+         <lb ed="#P" n="18" type="fixed=58"/>Sit mons aliquis A. B. C. D. qui praecisus sit, vel ab aquis corrosus, vel alia
+            <lb ed="#P" n="19"/>ratione in D. C. B. ita ut haec facies corrosa D. C. B. respiciat ortum, vel occa¬
+            <lb ed="#P" n="20"/>sum, quam partem respicere debet talis sectio, ad hoc, ut cernatur, quod di¬
+            <lb ed="#P" n="21"/>to, ita ut sit haec sectio in plano meridiano, tunc videbis omnes terrae venas,
+            <lb ed="#P" n="22"/>quibus Mons conflatur, accedere ab E. ad F. in nostris hisce regionibus, qui
+            <!--77.xml-->
+            
          <!--78.xml-->
          <pb ed="#P" n="59"/>
          <lb ed="#P" n="1"/>polum elevatum habemus in F. ita ut tales venae cum plano horizontis fa¬
@@ -4093,7 +4094,17 @@
             <lb ed="#P" n="20"/>sus rubigine sint faedata, &amp; confecta, qua valde vis magnetica debilitatur.
         </p>
       <p>
-         <lb ed="#P" n="21"/>Tertio quod magis adhuc mirere, nec hactenus, quod sciam, notatum
+         <lb ed="#P" n="43" type="fixed=63"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/421,1062,434,194/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">A C B D A C B D</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375449-r6</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+         <lb ed="#P" n="21" type="fixed=63"/>Tertio quod magis adhuc mirere, nec hactenus, quod sciam, notatum
             <lb ed="#P" n="22"/>fuit, licet nescio quid Gilberius subindicet, lateres illi, qui nimia ignis ve¬
             <lb ed="#P" n="23"/>hementia in fornacibus saepè numero ferreum cum duritie induunt colo¬
             <lb ed="#P" n="24"/>rem, unde etiam ferrei consueverunt à nostratibus appellari, magneticum
@@ -4116,17 +4127,7 @@
             <lb ed="#P" n="41"/>na, tunc certius, &amp; patenter ma¬
             <lb ed="#P" n="42"/>gis magneticum ostentabit vigo¬
             <!--82.xml-->
-            <pb ed="#P" n="63"/>
-         <lb ed="#P" n="43"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/421,1062,434,194/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C B D A C B D</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375449-r6</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--83.xml-->
          <pb ed="#P" n="64"/>
          <lb ed="#P" n="1"/>rem; si vero pars A. C. sursum erecta steterit B. D. deorsum, adhuc maiorem
@@ -4192,9 +4193,19 @@
             <lb ed="#P" n="11"/>semper enim pars tangens
             <lb ed="#P" n="12"/>librato obelo convertetur
             <lb ed="#P" n="13"/>ad A.
+         <lb ed="#P" n="43" type="fixed=65"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/366,132,445,463/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">L I M A C B D G O L I M A C B D G O</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375452-r6</seg>
+            </ab>
+            <figDesc/>
+         </figure>
         </p>
       <p>
-         <lb ed="#P" n="14"/>Sit ergo iam A. C. B. D.
+         <lb ed="#P" n="14" type="fixed=65"/>Sit ergo iam A. C. B. D.
             <lb ed="#P" n="15"/>globus terrae, ferramenta
             <lb ed="#P" n="16"/>tangentia ipsam terram in
             <lb ed="#P" n="17"/>nostro hemisphęrio septem¬
@@ -4228,17 +4239,7 @@
       <p>
          <lb ed="#P" n="42"/>Aliud est etiam mirabile, &amp; maximè novum experimentum, quo hoc idem
             <!--84.xml-->
-            <pb ed="#P" n="65"/>
-         <lb ed="#P" n="43"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/366,132,445,463/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">L I M A C B D G O L I M A C B D G O</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375452-r6</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--85.xml-->
          <pb ed="#P" n="66"/>
          <lb ed="#P" n="1"/>demonstratur in terra magneticum inesse vigorem, &amp; est huiusmodi. Si su¬
@@ -4350,9 +4351,19 @@
             <lb ed="#P" n="9"/>prio loco, cum terrae locus sit habere suum centrum gravitatis in centro
             <lb ed="#P" n="10"/>universi. ergo quoties movetur aliquod vel minimum corpus in superficie
             <lb ed="#P" n="11"/>terrae, tota terra movetur, &amp; nutat.
+         <lb ed="#P" n="43" type="fixed=68"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/535,658,349,374/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">B A D C B A D C</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375457-r5</seg>
+            </ab>
+            <figDesc/>
+         </figure>
         </p>
       <p>
-         <lb ed="#P" n="12"/>Hoc argumento videntur sibi portentosum terrae motum demonstrare,
+         <lb ed="#P" n="12" type="fixed=68"/>Hoc argumento videntur sibi portentosum terrae motum demonstrare,
             <lb ed="#P" n="13"/>&amp; perpetuam quandam, vel ad unius aviculae motum, terrae fluctuationem
             <lb ed="#P" n="14"/>inducere: minor enim suam habet in argumento confirmationem; maior
             <lb ed="#P" n="15"/>vero sic evidenter roboratur. Centrum gravitatis in quolibet corpore sphae¬
@@ -4384,17 +4395,7 @@
             <lb ed="#P" n="41"/>pluribus examinare, cum solum ex occasione hoc tractem. Dico solum pa¬
             <lb ed="#P" n="42"/>tere optimè solutionem illius ex discursu supra facto: non enim praecisè ideo
             <!--87.xml-->
-            <pb ed="#P" n="68"/>
-         <lb ed="#P" n="43"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/535,658,349,374/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">B A D C B A D C</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375457-r5</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--88.xml-->
          <pb ed="#P" n="69"/>
          <lb ed="#P" n="1"/>terra conquiescit in medio, quia quasi gravissimum corpus centro suae gra¬
@@ -4884,11 +4885,8 @@
             <lb ed="#P" n="10"/>liebri crine; ex imo autem naviculae foramine dimitte pariter crine appen¬
             <lb ed="#P" n="11"/>diculum, quod ad mediam usque descendat scutellam, ita tamen, ut libere
             <lb ed="#P" n="12"/>fluctuet; ex quo appendiculo poteris cognoscere quandonam bene, &amp; per¬
-            <lb ed="#P" n="13"/>pendiculariter collocatum sit instrumentum; Dum enim appendiculum
-            <lb ed="#P" n="14"/>imminebit prorsus supta imum scutellae medium, benè erit collocatum in¬
-            <!--98.xml-->
-            <pb ed="#P" n="79"/>
-         <lb ed="#P" n="15"/>
+            <lb ed="#P" n="13"/>pendiculariter collocatum sit instrumentum;
+         <lb ed="#P" n="15" type="fixed=79"/>
          <figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/75,140,742,772/full/0/default.jpg"/>
             <ab type="figure-details">
@@ -4898,6 +4896,12 @@
             </ab>
             <figDesc/>
          </figure>
+      </p>
+      <p>
+        Dum enim appendiculum
+         <lb ed="#P" n="14" type="fixed=79"/>imminebit prorsus supta imum scutellae medium, benè erit collocatum in¬
+            <!--98.xml-->
+           
          <!--99.xml-->
          <pb ed="#P" n="80"/>
          <lb ed="#P" n="1"/>strumentum, poteris autem in scutella designare meridianum, in quo no¬
@@ -4969,7 +4973,17 @@
             <lb ed="#P" n="19"/>dere.
         </p>
       <p>
-         <lb ed="#P" n="20"/>Immo illud summopere cuperem scire, an in sua vena magnes alterum po¬
+         <lb ed="#P" n="43" type="fixed=81"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/412,908,389,346/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">C A D B C A D B</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375477-r4</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+         <lb ed="#P" n="20" type="fixed=81"/>Immo illud summopere cuperem scire, an in sua vena magnes alterum po¬
             <lb ed="#P" n="21"/>lorum habeat infra horizontem, pro locorum ratione, &amp; latitudine. Putat
             <lb ed="#P" n="22"/>enim Gilbertus libro tertio, capite secundo, in nostro hemisphaerio septen¬
             <lb ed="#P" n="23"/>trionali septentrionalem polum descendere infra horizontem, &amp; ita etiam
@@ -4993,17 +5007,7 @@
             <lb ed="#P" n="41"/>cum pars D. sit producta à natura
             <lb ed="#P" n="42"/>coniuncta parti A. &amp; tamen facta se¬
             <!--100.xml-->
-            <pb ed="#P" n="81"/>
-         <lb ed="#P" n="43"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/412,908,389,346/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">C A D B C A D B</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375477-r4</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--101.xml-->
          <pb ed="#P" n="82"/>
          <lb ed="#P" n="1"/>paratione illam partem refugiat, &amp; sequatur oppositam, possemus etiam di¬
@@ -5086,8 +5090,21 @@
             <lb ed="#P" n="27"/>omnes arcus, quibus haec directio mensuratur. describuntur autem arcus
             <lb ed="#P" n="28"/>isti facto centro in gradu illo arcus C. A. cuius est altitudo poli illius regio¬
             <lb ed="#P" n="29"/>nis, cuius directionem quaerimus intervallo facto semper usque ad polum
-            <lb ed="#P" n="30"/>oppositum L. &amp; terminato usque ad arcum B. M. N. Verbi gratia, vult quis
-            <lb ed="#P" n="31"/>scire quam inclinationem capiant magnetica in puncto l. facit centrum in
+            <lb ed="#P" n="30"/>oppositum L. &amp; terminato usque ad arcum B. M. N.
+         <lb ed="#P" n="43" type="fixed=83"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/315,169,490,498/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">L A C D G O I P E H F B R M S N L A C D G O I P E H F B R M S N</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375480-r5</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+      </p>
+      <p>
+         Verbi gratia, vult quis
+         <lb ed="#P" n="31" type="fixed=83"/>scire quam inclinationem capiant magnetica in puncto l. facit centrum in
             <lb ed="#P" n="32"/>I. &amp; dilatat circinum, donec pertingat ad alterum polum L. &amp; ex L. usque
             <lb ed="#P" n="33"/>ad M. describit arcum L. D. M. Sic si vellet inquirere, quam inelinationem
             <lb ed="#P" n="34"/>capiat versorium in O. vel in P. facto centro in O. vel P. posito uno pede in
@@ -5100,17 +5117,7 @@
             <lb ed="#P" n="41"/>tio inquiritur, &amp; totidem sumit partes in arcu ex illo loco desciipto inci¬
             <lb ed="#P" n="42"/>piendo à puncto terminato ad arcum B. M. N. &amp; ex puncto cognomine, ad
             <!--102.xml-->
-            <pb ed="#P" n="83"/>
-         <lb ed="#P" n="43"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/315,169,490,498/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">L A C D G O I P E H F B R M S N L A C D G O I P E H F B R M S N</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375480-r5</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--103.xml-->
          <pb ed="#P" n="84"/>
          <lb ed="#P" n="1"/>locum inclinationis ducit lineam, quae priorem arcum quadrantis mensu¬
@@ -5159,6 +5166,7 @@
             <lb ed="#P" n="42"/>ducendos, vel non semper in 90. pertes describendos, sed certam quandam
             <!--104.xml-->
             <pb ed="#P" n="85"/>
+         <!--Table included in original but not in XML-->
          <lb ed="#P" n="1"/>numerorum seriem ordinatam servantem rationem mihi perscribam, quo¬
             <lb ed="#P" n="2"/>modo redarguet? Si habuisset Gilbertus observationes iam factas, &amp; sciret
             <lb ed="#P" n="3"/>ex experientia quantum in quaque poli altitudine descendant magnetica,
@@ -5227,11 +5235,7 @@
             <lb ed="#P" n="16"/>tum inclinationis: statim enim versorium sua inclinatione, &amp; directione
             <lb ed="#P" n="17"/>ostendet, quae sit loci latitudo, designando aliquem ex notatis punctis, ex
             <lb ed="#P" n="18"/>cuius numero habebis altitudinem poli.
-        </p>
-      <p>
-            <!--105.xml-->
-         <pb ed="#P" n="86"/>
-         <lb ed="#P" n="19"/>
+         <lb ed="#P" n="19" type="fixed=86"/>
          <figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/252,316,622,601/full/0/default.jpg"/>
             <ab type="figure-details">
@@ -5241,7 +5245,9 @@
             </ab>
             <figDesc/>
          </figure>
-      </p>
+        </p>
+            <!--105.xml-->
+<!--no text on this page after this figure. No type-fixed needed hence?-->
       <!--106.xml-->
       <pb ed="#P" n="87"/>
    </div>
@@ -5266,10 +5272,7 @@
             <lb ed="#P" n="14"/>scendunt infra horizontem.
         </p>
       <p>
-         <lb ed="#P" n="15"/>Sume igitur globum magneticum convenientis magnitudinis: immo
-            <!--106.xml-->
-            <pb ed="#P" n="87"/>
-         <lb ed="#P" n="16"/>
+         <lb ed="#P" n="16" type="fixed=87"/>
          <figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/174,601,578,658/full/0/default.jpg"/>
             <ab type="figure-details">
@@ -5279,6 +5282,8 @@
             </ab>
             <figDesc/>
          </figure>
+         <lb ed="#P" n="15" type="fixed=87"/>Sume igitur globum magneticum convenientis magnitudinis: immo
+           
          <!--107.xml-->
          <pb ed="#P" n="88"/>
          <lb ed="#P" n="1"/>quò magnitudo erit maior, eo cognoscere poteris rem, quam quaeris, accu¬
@@ -5358,9 +5363,19 @@
             <lb ed="#P" n="27"/>enim necessario aliquid mirabile delitescere, sed nunquam magnetem com¬
             <lb ed="#P" n="28"/>petentis magnitudinis perfectè homogeneum, ut optassem, habui, ut dice¬
             <lb ed="#P" n="29"/>bam, &amp; pugnix eius durities saepe etiam imperium detrectavit.
+         <lb ed="#P" n="43" type="fixed=89"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/399,437,383,371/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">D C I A B H E G D C I A B H E G</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375490-r6</seg>
+            </ab>
+            <figDesc/>
+         </figure>
         </p>
       <p>
-         <lb ed="#P" n="30"/>Illud saltem optandum esset, quod etiam optavit Odoardus in paraeneti¬
+         <lb ed="#P" n="30" type="fixed=89"/>Illud saltem optandum esset, quod etiam optavit Odoardus in paraeneti¬
             <lb ed="#P" n="31"/>ca citata, multos dari navos, &amp; industrios, qui in longissimis navigationi¬
             <lb ed="#P" n="32"/>bus Indicis, dum ferè totum peragrant Orbem, observent quantum in una¬
             <lb ed="#P" n="33"/>quaque poli elevatione inclinent magnetica, &amp; adnotent etiam, si qua est
@@ -5374,17 +5389,7 @@
             <lb ed="#P" n="41"/>Gilbertus in aequinoctio mansisse versorium horizonti parallelum, ultra ae¬
             <lb ed="#P" n="42"/>quatorem descendisse partem, quae vergit ad austrum, semper magis, &amp; ma¬
             <!--108.xml-->
-            <pb ed="#P" n="89"/>
-         <lb ed="#P" n="43"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/399,437,383,371/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">D C I A B H E G D C I A B H E G</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375490-r6</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--109.xml-->
          <pb ed="#P" n="90"/>
          <lb ed="#P" n="1"/>gis, dum pergerent ad Caput Bonae Spei, quae inclinatio minuebatur rever¬
@@ -5542,7 +5547,17 @@
             <lb ed="#P" n="6"/>cam in eminenti parte, quam in imis visceribus, ex rationibus positis.
         </p>
       <p>
-         <lb ed="#P" n="7"/>Altera ratio est à posteriori, &amp; quidem efficacissima, si ulla est; quia de fa¬
+         <lb ed="#P" n="22" type="fixed=93"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/27,759,871,478/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">Nova Zebla EUROPA AMERICA Galia Germa¬ nia Tartari Asia mi: Hispa¬ nia ASIA Mexicum Mare Medite Persia China Arabia India M: Rubrum Mare del Sur. AFRICA Oceanus Indicus Moluche Peruvium Brasilis C. bene spei TERRA AUSTRALIS INCOGNITA Nova Zebla EUROPA AMERICA Galia Germa¬ nia Tartari Asia mi: Hispa¬ nia ASIA Mexicum Mare Medite Persia China Arabia India M: Rubrum Mare del Sur. AFRICA Oceanus Indicus Moluche Peruvium Brasilis C. bene spei TERRA AUSTRALIS INCOGNITA</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375496-r5</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+         <lb ed="#P" n="7" type="fixed=93"/>Altera ratio est à posteriori, &amp; quidem efficacissima, si ulla est; quia de fa¬
             <lb ed="#P" n="8"/>cto videmus irregularem hanc magneticam declinationem, ita se ad hanc
             <lb ed="#P" n="9"/>rationem conformare, &amp; ita hanc sequi hypothesim, ut pertinaciae prope¬
             <lb ed="#P" n="10"/>modum sit, huius effectus hanc causam non agnoscere, &amp; hanc variationem
@@ -5558,17 +5573,7 @@
             <lb ed="#P" n="20"/>terras sane magnas, at vero ad Orientem longè maximas, ut vides: ac proin¬
             <lb ed="#P" n="21"/>de, quia maior est terrae portio ad illam partem, hinc non praecisè in septen¬
             <!--112.xml-->
-            <pb ed="#P" n="93"/>
-         <lb ed="#P" n="22"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/27,759,871,478/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">Nova Zebla EUROPA AMERICA Galia Germa¬ nia Tartari Asia mi: Hispa¬ nia ASIA Mexicum Mare Medite Persia China Arabia India M: Rubrum Mare del Sur. AFRICA Oceanus Indicus Moluche Peruvium Brasilis C. bene spei TERRA AUSTRALIS INCOGNITA Nova Zebla EUROPA AMERICA Galia Germa¬ nia Tartari Asia mi: Hispa¬ nia ASIA Mexicum Mare Medite Persia China Arabia India M: Rubrum Mare del Sur. AFRICA Oceanus Indicus Moluche Peruvium Brasilis C. bene spei TERRA AUSTRALIS INCOGNITA</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375496-r5</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--113.xml-->
          <pb ed="#P" n="94"/>
          <lb ed="#P" n="1"/>trionem versorium apud nos collimat, sed ab illa maiori vi ad orientem non
@@ -5686,12 +5691,8 @@
             <lb ed="#P" n="17"/>terra procedat, eandemque habeat virtutem, ideo, si adsit, illud corpus infra
             <lb ed="#P" n="18"/>orbem huius virtutis, quod iam habet illam verticitatem, nihilominus haec
             <lb ed="#P" n="19"/>virtus agit in illud corpus, &amp; producere tentat suam verticitatem ea ratio¬
-            <lb ed="#P" n="20"/>ne, qua agere solet. Quod si contingat illud corpus esse in situ, in quo vir¬
-            <lb ed="#P" n="21"/>tus, quam habet in se, sit contraria, ratione posita, atque illa, quae producitur
-            <lb ed="#P" n="22"/>à terra; quia sic patitur contrario modo atque postulet virtus, quam habet
-            <!--115.xml-->
-            <pb ed="#P" n="96"/>
-         <lb ed="#P" n="23"/>
+            <lb ed="#P" n="20"/>ne, qua agere solet.
+         <lb ed="#P" n="23" type="fixed=96"/>
          <figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/356,821,442,437/full/0/default.jpg"/>
             <ab type="figure-details">
@@ -5701,6 +5702,13 @@
             </ab>
             <figDesc/>
          </figure>
+      </p>
+      <p>
+         Quod si contingat illud corpus esse in situ, in quo vir¬
+         <lb ed="#P" n="21" type="fixed=96"/>tus, quam habet in se, sit contraria, ratione posita, atque illa, quae producitur
+            <lb ed="#P" n="22"/>à terra; quia sic patitur contrario modo atque postulet virtus, quam habet
+            <!--115.xml-->
+
          <!--116.xml-->
          <pb ed="#P" n="97"/>
          <lb ed="#P" n="1"/>in se, ideo se convertit, ne talem patiatur violentiam. Exemplo res erit cla¬
@@ -6275,7 +6283,17 @@
             <lb ed="#P" n="27"/>suadet.
         </p>
       <p>
-         <lb ed="#P" n="28"/>Sit magnes lapis A. B. in
+         <lb ed="#P" n="42" type="fixed=109"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/334,951,478,354/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">A C D G B A C D G B</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375521-r6</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+         <lb ed="#P" n="28" type="fixed=109"/>Sit magnes lapis A. B. in
             <lb ed="#P" n="29"/>quo A. sit pars septentrio¬
             <lb ed="#P" n="30"/>nalis B. meridionalis: divi¬
             <lb ed="#P" n="31"/>latur'que utcunque in C. D.
@@ -6290,17 +6308,7 @@
             <lb ed="#P" n="40"/>facies F. erit pariter meri¬
             <lb ed="#P" n="41"/>dionalis. Suae item cymbu¬
             <!--128.xml-->
-            <pb ed="#P" n="109"/>
-         <lb ed="#P" n="42"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/334,951,478,354/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C D G B A C D G B</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375521-r6</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--129.xml-->
          <pb ed="#P" n="110"/>
          <lb ed="#P" n="1"/>lae nauclerus constituatur alte¬
@@ -6322,9 +6330,30 @@
             <lb ed="#P" n="17"/>gentur, sic enim etiam fieret unus lapis, &amp; unum agens totum ex G. B. A. F.
             <lb ed="#P" n="18"/>atque à G. ad F. tota esset facies septentrionalis, &amp; ab F. ad G. tota meridio¬
             <lb ed="#P" n="19"/>nalis, altera opposita esset septentrionalis.
+         <lb ed="#P" n="43" type="fixed=110"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/527,171,429,238/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">A C D B A C D B</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375522-r5</seg>
+            </ab>
+            <figDesc/>
+         </figure>
         </p>
       <p>
-         <lb ed="#P" n="20"/>Quod si aliter natantes
+         <lb ed="#P" n="44" type="fixed=110"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/505,683,459,369/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">A C G D B A C G D B</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375522-r6</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+         <!--Two figures after each other ... type-fixed needed?-->
+         <lb ed="#P" n="20" type="fixed=110"/>Quod si aliter natantes
             <lb ed="#P" n="21"/>illi lapides iungerentur, vel
             <lb ed="#P" n="22"/>in munuos confluerent ne¬
             <lb ed="#P" n="23"/>xus, haec unitas agentis, &amp;
@@ -6348,29 +6377,9 @@
             <lb ed="#P" n="41"/>tota ab A. ad G. debet meridionizare, idest disponere se ad meridiem, si est
             <lb ed="#P" n="42"/>unicum agens: at vero in tota mole A. F. B. G. pars A. F. septentrionizat B. G.
             <!--129.xml-->
-            <pb ed="#P" n="110"/>
-         <lb ed="#P" n="43"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/527,171,429,238/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C D B A C D B</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375522-r5</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--129.xml-->
-         <pb ed="#P" n="110"/>
-         <lb ed="#P" n="44"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/505,683,459,369/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C G D B A C G D B</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375522-r6</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--130.xml-->
          <pb ed="#P" n="111"/>
          <lb ed="#P" n="1"/>meridionizat. non ergo potest totum corpus A. F. B. G. ad unum aliquem
@@ -6422,22 +6431,8 @@
             <!--131.xml-->
             <pb ed="#P" n="112"/>
          <lb ed="#P" n="1"/>quod meridionalem abigat. argumento sit, quod non recta linea repellit,
-            <lb ed="#P" n="2"/>aut retroagit, sed circulariter convertit. Si enim lapidi natanti A. B. cuius
-            <!--131.xml-->
-            <pb ed="#P" n="112"/>
-         <lb ed="#P" n="3"/>A. sit pars septentrionalis B. meridionalis, admoveas lapidem C. D. cuius
-            <lb ed="#P" n="4"/>C. sit meridionalis D. septentrionalis, facies lapidis natantis B. non recta à
-            <lb ed="#P" n="5"/>C. recedet, sed in gyrum agetur lapis, ut faciem A. ipsi C. obvertat. ergo C.
-            <lb ed="#P" n="6"/>non fugat B suo ingenio, sed adducit A. ad quod sequitur B. locum cedere:
-            <lb ed="#P" n="7"/>alioquin recta recederet, si tales gererent inimicitias. Ingeniosum sane pa¬
-            <lb ed="#P" n="8"/>trocinium. quid, si recta recedere demonstro, non ne litem obtineo? At osten¬
-            <lb ed="#P" n="9"/>do C. non repellere B. ut adducat A. sed quia verè non aequos gerit animos,
-            <lb ed="#P" n="10"/>sed veras alit discordias.
-        </p>
-      <p>
-            <!--131.xml-->
-         <pb ed="#P" n="112"/>
-         <lb ed="#P" n="11"/>
+            <lb ed="#P" n="2"/>aut retroagit, sed circulariter convertit.
+         <lb ed="#P" n="11" type="fixed=112"/>
          <figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/201,238,747,419/full/0/default.jpg"/>
             <ab type="figure-details">
@@ -6447,9 +6442,20 @@
             </ab>
             <figDesc/>
          </figure>
+      </p>
+      <p>
+         Si enim lapidi natanti A. B. cuius
+            <!--131.xml-->
+         <lb ed="#P" n="3" type="fixed=112"/>A. sit pars septentrionalis B. meridionalis, admoveas lapidem C. D. cuius
+            <lb ed="#P" n="4"/>C. sit meridionalis D. septentrionalis, facies lapidis natantis B. non recta à
+            <lb ed="#P" n="5"/>C. recedet, sed in gyrum agetur lapis, ut faciem A. ipsi C. obvertat. ergo C.
+            <lb ed="#P" n="6"/>non fugat B suo ingenio, sed adducit A. ad quod sequitur B. locum cedere:
+            <lb ed="#P" n="7"/>alioquin recta recederet, si tales gererent inimicitias. Ingeniosum sane pa¬
+            <lb ed="#P" n="8"/>trocinium. quid, si recta recedere demonstro, non ne litem obtineo? At osten¬
+            <lb ed="#P" n="9"/>do C. non repellere B. ut adducat A. sed quia verè non aequos gerit animos,
+            <lb ed="#P" n="10"/>sed veras alit discordias.
          <!--131.xml-->
-         <pb ed="#P" n="112"/>
-         <lb ed="#P" n="12"/>
+         <lb ed="#P" n="12" type="fixed=112"/>
          <figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/204,891,744,457/full/0/default.jpg"/>
             <ab type="figure-details">
@@ -6459,6 +6465,11 @@
             </ab>
             <figDesc/>
          </figure>
+        </p>
+      <p>
+            <!--131.xml-->
+         
+        
          <!--132.xml-->
          <pb ed="#P" n="113"/>
          <lb ed="#P" n="1"/>Sume lapidem A. B. &amp; in vasculo ita dispone, ut pars illa lapidis in qua
@@ -6477,7 +6488,17 @@
             <lb ed="#P" n="14"/>dictum.
         </p>
       <p>
-         <lb ed="#P" n="15"/>Alterum experimentum, quo ostenditur Peregrinum adhuc in hac phi¬
+         <lb ed="#P" n="43" type="fixed=113"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/432,714,398,347/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">D A C B D A C B</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375527-r6</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+            <lb ed="#P" n="15" type="fixed=113"/>Alterum experimentum, quo ostenditur Peregrinum adhuc in hac phi¬
             <lb ed="#P" n="16"/>losophia peregrinari, &amp; unum magnetem alterum, non advocare, nec ma¬
             <lb ed="#P" n="17"/>gnetica corpora concurrere praecisè, ut ex illis pluribus unum quid tertium
             <lb ed="#P" n="18"/>componatur, quod totum unicam habeat qualitatem, unica ratione excur¬
@@ -6506,17 +6527,7 @@
             <lb ed="#P" n="41"/>A. B. attrahere deberet partem C. D. nec alia via sibi coniungere, quam ea,
             <lb ed="#P" n="42"/>qua prius à natura lapidi A. B. coniuncta fuerat. quo enim pacto magis unum
             <!--132.xml-->
-            <pb ed="#P" n="113"/>
-         <lb ed="#P" n="43"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/432,714,398,347/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">D A C B D A C B</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375527-r6</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--133.xml-->
          <pb ed="#P" n="114"/>
          <lb ed="#P" n="1"/>fieret ex illis partibus, &amp; qua ratione melius conflaretur una qualitas, quam
@@ -6554,18 +6565,7 @@
             <lb ed="#P" n="33"/>te, atque inspirante sic manebat. Si vero C. adhaereat ad partes B. &amp; D. ad
             <lb ed="#P" n="34"/>A. tenaci vinculo simul ligantur, ut verso etiam lapide, nisi nimio pondere
             <lb ed="#P" n="35"/>fatiscat, adhaereat, ut poterit probari experientia.
-        </p>
-      <p>
-         <lb ed="#P" n="36"/>Alia est ergo quaerenda causa, cur à magnete magneticum attrahatur,
-            <lb ed="#P" n="37"/>quam amor constituendi unum robustissimum agens, cuius totius virtus
-            <lb ed="#P" n="38"/>excurrat uno modo, saltem haec non erit ratio universalis. Alias ommitto
-            <lb ed="#P" n="39"/>impugnationes Peregrini, quae possent deduci ex obliqua conformatione
-            <lb ed="#P" n="40"/>obeli; siquis ponat parvum obelum supra rotundum magnetem: non enim
-            <lb ed="#P" n="41"/>in omnibus partibus ita conformatur obelus ille, ut ex magnete, &amp; ex obe¬
-            <lb ed="#P" n="42"/>lo illo tanquam ex uno conflato magnetico fiat unum corpus, cuius tota
-            <!--133.xml-->
-            <pb ed="#P" n="114"/>
-         <lb ed="#P" n="43"/>
+         <lb ed="#P" n="43" type="fixed=114"/>
          <figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/553,276,407,362/full/0/default.jpg"/>
             <ab type="figure-details">
@@ -6575,6 +6575,17 @@
             </ab>
             <figDesc/>
          </figure>
+        </p>
+      <p>
+         <lb ed="#P" n="36" type="fixed=114"/>Alia est ergo quaerenda causa, cur à magnete magneticum attrahatur,
+            <lb ed="#P" n="37"/>quam amor constituendi unum robustissimum agens, cuius totius virtus
+            <lb ed="#P" n="38"/>excurrat uno modo, saltem haec non erit ratio universalis. Alias ommitto
+            <lb ed="#P" n="39"/>impugnationes Peregrini, quae possent deduci ex obliqua conformatione
+            <lb ed="#P" n="40"/>obeli; siquis ponat parvum obelum supra rotundum magnetem: non enim
+            <lb ed="#P" n="41"/>in omnibus partibus ita conformatur obelus ille, ut ex magnete, &amp; ex obe¬
+            <lb ed="#P" n="42"/>lo illo tanquam ex uno conflato magnetico fiat unum corpus, cuius tota
+            <!--133.xml-->
+
          <!--134.xml-->
          <pb ed="#P" n="115"/>
          <lb ed="#P" n="1"/>virtus excurrat ab uno extremo septentrionalis, ab altero meridionalis: sae¬
@@ -7071,11 +7082,20 @@
          <lb ed="#P" n="1"/>neque diaphaneitatem, aut similem qualitatem requirit in corpore, ut sit
             <lb ed="#P" n="2"/>pervium actioni magnetis, sicut requirit luminosum; sed eadem facilitate
             <lb ed="#P" n="3"/>medio durissimo corpore agit, qua ageret medio aëre.
+         <lb ed="#P" n="31" type="fixed=125"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/72,258,728,307/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">B A I C D B A I C D</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375545-r7</seg>
+            </ab>
+            <figDesc/>
+         </figure>
         </p>
       <p>
             <!--144.xml-->
-         <pb ed="#P" n="125"/>
-         <lb ed="#P" n="4"/>Quod, ut experiaris, sume versorium A. B. cuius A. sit pars meridionalis
+         <lb ed="#P" n="4" type="fixed=125"/>Quod, ut experiaris, sume versorium A. B. cuius A. sit pars meridionalis
             <lb ed="#P" n="5"/>B. septentrionalis. sume magnetem C. D. cuius C. in septentrionem diriga¬
             <lb ed="#P" n="6"/>tur D. in meridiem in distantia verbi gratia unius palmi C. magnetis con¬
             <lb ed="#P" n="7"/>uertet ad se A. versorij. Quo observato, simul etiam observa eadem facili¬
@@ -7103,17 +7123,7 @@
             <lb ed="#P" n="29"/>magnetica, quae per medium est diffus, dum discedis à magnetico: eadem
             <lb ed="#P" n="30"/>enim ratione de utroque, ac de utriusque sphaera philosophandum est: in
             <!--144.xml-->
-            <pb ed="#P" n="125"/>
-         <lb ed="#P" n="31"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/72,258,728,307/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">B A I C D B A I C D</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375545-r7</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--145.xml-->
          <pb ed="#P" n="126"/>
          <lb ed="#P" n="1"/>utraque enim pari passu proceditur. Illud unum plus habes in hac magne¬
@@ -7425,7 +7435,17 @@
             <lb ed="#P" n="11"/>factam mentionem, nisi fabulose.
         </p>
       <p>
-         <lb ed="#P" n="12"/>Verum ego novissimè in aliud corpus incidi, ut dixi alibi, &amp; ostendi quo¬
+         <lb ed="#P" n="29" type="fixed=132"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/228,807,702,246/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">B A D C B A D C</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375556-r6</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+         <lb ed="#P" n="12" type="fixed=132"/>Verum ego novissimè in aliud corpus incidi, ut dixi alibi, &amp; ostendi quo¬
             <lb ed="#P" n="13"/>modo videatur praesensisse Gilbertus, quod &amp; versorium magneticè excitum
             <lb ed="#P" n="14"/>provocat ad sese, cum facierum distinctione ex legibus magneticis, &amp; qua¬
             <lb ed="#P" n="15"/>litatem duarum facierum acquirit ex magnetis contactu: lateres nimirum
@@ -7445,17 +7465,7 @@
             <lb ed="#P" n="27"/>tale frustum admoveas versorio C. trahet partem australem versorij, D. sep¬
             <lb ed="#P" n="28"/>tentrionalem, &amp; ut appateat talem vim lateres huiusmodi à magnete con¬
             <!--151.xml-->
-            <pb ed="#P" n="132"/>
-         <lb ed="#P" n="29"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/228,807,702,246/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">B A D C B A D C</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375556-r6</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--152.xml-->
          <pb ed="#P" n="133"/>
          <lb ed="#P" n="1"/>cipere, frustum lateris C. D. iterum ad magnetem admoveas contraria ra¬
@@ -7480,7 +7490,17 @@
             <lb ed="#P" n="18"/>dere licuit.
         </p>
       <p>
-         <lb ed="#P" n="19"/>Alia praeterea nonnulla requiruntur, ut haec qualitas in ferrea huiusmodi
+         <lb ed="#P" n="31" type="fixed=133"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/121,924,692,275/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">A B C D A B C D</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375558-r7</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+         <lb ed="#P" n="19" type="fixed=133"/>Alia praeterea nonnulla requiruntur, ut haec qualitas in ferrea huiusmodi
             <lb ed="#P" n="20"/>corpora commode inducatur. Ac primo requiritur, ut non sit nimis ma¬
             <lb ed="#P" n="21"/>gnum, &amp; ferè agentis magnitudinem non excedat; alioquin fere insensibi¬
             <lb ed="#P" n="22"/>lis erit qualitas contracta per contactum magnetis. Obest tamen praesertim
@@ -7495,17 +7515,7 @@
          <lb ed="#P" n="29"/>septentrionalis; &amp; apponas magnetem C. D. cuius C. septentrionalem par¬
             <lb ed="#P" n="30"/>tem apponas ipsi B. si magnes, &amp; mole sit exiguus prae ferro, &amp; virtute non
             <!--152.xml-->
-            <pb ed="#P" n="133"/>
-         <lb ed="#P" n="31"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/121,924,692,275/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A B C D A B C D</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375558-r7</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--153.xml-->
          <pb ed="#P" n="134"/>
          <lb ed="#P" n="1"/>nobilis, non induces ita facilè novam qualitatem in ferrum A. B. quando¬
@@ -7585,7 +7595,17 @@
             <lb ed="#P" n="18"/>quin insolubiles videantur.
         </p>
       <p>
-         <lb ed="#P" n="19"/>Primum igitur assero, ut certas statuam hac de re propositiones, quas etiam
+         <lb ed="#P" n="31" type="fixed=135"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/74,1041,751,214/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">C Septentrionalis Qualitas in medio Australis. A Septentrionalis Qualitas in magnete Australis. B Septentrionalis Qualitas in medio Australis. D C Septentrionalis Qualitas in medio Australis. A Septentrionalis Qualitas in magnete Australis. B Septentrionalis Qualitas in medio Australis. D</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375561-r6</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+         <lb ed="#P" n="19" type="fixed=135"/>Primum igitur assero, ut certas statuam hac de re propositiones, quas etiam
             <lb ed="#P" n="20"/>pro subiecta materia confirmare evidenter tentabo; cum per orbem virtu¬
             <lb ed="#P" n="21"/>tis qualitas duarum facierum in circumiecta corpora diffunditur ntentio¬
             <lb ed="#P" n="22"/>naliter (utar hac loquendi forma saepe) ea ratione diffundi, simili'que pacto
@@ -7598,17 +7618,7 @@
             <lb ed="#P" n="29"/>qualitatem, quae est in ipso magnete; Et quidem sumendo qualitatem, quę
             <lb ed="#P" n="30"/>in medio propagatur directè è regione polorum, quia haec facilins explica¬
             <!--154.xml-->
-            <pb ed="#P" n="135"/>
-         <lb ed="#P" n="31"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/74,1041,751,214/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">C Septentrionalis Qualitas in medio Australis. A Septentrionalis Qualitas in magnete Australis. B Septentrionalis Qualitas in medio Australis. D C Septentrionalis Qualitas in medio Australis. A Septentrionalis Qualitas in magnete Australis. B Septentrionalis Qualitas in medio Australis. D</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375561-r6</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--155.xml-->
          <pb ed="#P" n="136"/>
          <lb ed="#P" n="1"/>tur, sicuti in magnete ab A. ad B. per totum lapidem ita excurrit virtus, ut
@@ -7646,20 +7656,7 @@
             <lb ed="#P" n="31"/>E. F iuvare F. G. &amp; tandem omnes partes ultra C. D. roborare ipsum B. at
             <lb ed="#P" n="32"/>vero ex altera parte I O. iuvat vicinas partes O. P. &amp; alias deinceps positas
             <lb ed="#P" n="33"/>ad A. nihil vero confert B. versus.
-        </p>
-      <p>
-         <lb ed="#P" n="34"/>Verum hoc non est unam qualitatem duplicem obtinentem potentiam
-            <lb ed="#P" n="35"/>in uno lapide, sed duas qualitates confingere; quod tamen falsum esse sic
-            <lb ed="#P" n="36"/>ostendo. Vel pars lapidis C. B. D. habet vim agendi ad A. &amp; producendi
-            <lb ed="#P" n="37"/>qualitatem quae habeat vim, si consideretur ad unam positionis differentiam,
-            <lb ed="#P" n="38"/>dirgendi ad septentrionem, vel non: si non habet, ergo neque si tota terrel¬
-            <lb ed="#P" n="39"/>la A C. B. D. bifariam per C. D. dividatur, pars C. B. D. poterit in puncto R.
-            <lb ed="#P" n="40"/>agere septentrionaliter; &amp; tamen per ipsum Gilbertum hoc est falsum, &amp;
-            <lb ed="#P" n="41"/>quando hoc ipse pernegaret, evidenter experimento convinceretur. ergo
-            <lb ed="#P" n="42"/>pars R. V. non solum habet vim conferendi qualitatem ad B. sed etiam ha¬
-            <!--155.xml-->
-            <pb ed="#P" n="136"/>
-         <lb ed="#P" n="43"/>
+         <lb ed="#P" n="43" type="fixed=136"/>
          <figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/496,442,464,436/full/0/default.jpg"/>
             <ab type="figure-details">
@@ -7669,6 +7666,19 @@
             </ab>
             <figDesc/>
          </figure>
+        </p>
+      <p>
+         <lb ed="#P" n="34" type="fixed=136"/>Verum hoc non est unam qualitatem duplicem obtinentem potentiam
+            <lb ed="#P" n="35"/>in uno lapide, sed duas qualitates confingere; quod tamen falsum esse sic
+            <lb ed="#P" n="36"/>ostendo. Vel pars lapidis C. B. D. habet vim agendi ad A. &amp; producendi
+            <lb ed="#P" n="37"/>qualitatem quae habeat vim, si consideretur ad unam positionis differentiam,
+            <lb ed="#P" n="38"/>dirgendi ad septentrionem, vel non: si non habet, ergo neque si tota terrel¬
+            <lb ed="#P" n="39"/>la A C. B. D. bifariam per C. D. dividatur, pars C. B. D. poterit in puncto R.
+            <lb ed="#P" n="40"/>agere septentrionaliter; &amp; tamen per ipsum Gilbertum hoc est falsum, &amp;
+            <lb ed="#P" n="41"/>quando hoc ipse pernegaret, evidenter experimento convinceretur. ergo
+            <lb ed="#P" n="42"/>pars R. V. non solum habet vim conferendi qualitatem ad B. sed etiam ha¬
+            <!--155.xml-->
+
          <!--156.xml-->
          <pb ed="#P" n="137"/>
          <lb ed="#P" n="1"/>bet vim agendi A. versus, si enim dividamus lapidem, videbimus R. produ¬
@@ -7790,9 +7800,19 @@
          <lb ed="#P" n="14"/>erat illa virtus, &amp; talem obtinebat situm qualitas illa in medio. Quod au¬
             <lb ed="#P" n="15"/>tem talis producta sit vis in ferro, sic habebis. si obelum E. F. filo suspendas:
             <lb ed="#P" n="16"/>semper enim pars E. ad septentrionem verget F. ad meridiem.
+         <lb ed="#P" n="32" type="fixed=139"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/74,262,742,268/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">D F E B A D F E B A</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375567-r6</seg>
+            </ab>
+            <figDesc/>
+         </figure>
         </p>
       <p>
-         <lb ed="#P" n="17"/>Secundum sit pronuntiatum. sicut virtus in magnete ita posita est, ut de¬
+         <lb ed="#P" n="17" type="fixed=139"/>Secundum sit pronuntiatum. sicut virtus in magnete ita posita est, ut de¬
             <lb ed="#P" n="18"/>terminatum habeat situm, ita pariter in medio circumquaque peculiarem
             <lb ed="#P" n="19"/>habere agendi vim, &amp; quodam determinato situ, ac positione; non vagè, &amp;
             <lb ed="#P" n="20"/>inconstanter sibi ferrum disponere. Sensere hoc idem omnes, qui de ma¬
@@ -7810,17 +7830,7 @@
             <lb ed="#P" n="30"/>mus se à philosophorum vulgo, ut profitetur, extulerit per hoc, ita huius rei
             <lb ed="#P" n="31"/>rationem, ut redderet, desiderassem; praesertim cum statim in operis vesti¬
             <!--158.xml-->
-            <pb ed="#P" n="139"/>
-         <lb ed="#P" n="32"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/74,262,742,268/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">D F E B A D F E B A</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375567-r6</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--159.xml-->
          <pb ed="#P" n="140"/>
          <lb ed="#P" n="1"/>bulo, specioso titulo se omnia demonstraturum polliceatur; at tandem sensi
@@ -7843,9 +7853,19 @@
             <lb ed="#P" n="18"/>plebeis philosophis, ut vo
             <lb ed="#P" n="19"/>cat ipse, voluit consentire. quod tamen si fecisset, &amp; postea promissis stetis¬
             <lb ed="#P" n="20"/>set, se à plebe philosophantium exemisset.
+         <lb ed="#P" n="43" type="fixed=140"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/477,214,452,411/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">B C A D N M I. I F G H B C A D N M I. I F G H</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375569-r5</seg>
+            </ab>
+            <figDesc/>
+         </figure>
         </p>
       <p>
-         <lb ed="#P" n="21"/>Tentavit sane lib. 2. cap. 14. aliquam huiusce rei rationem reddere his
+         <lb ed="#P" n="21" type="fixed=140"/>Tentavit sane lib. 2. cap. 14. aliquam huiusce rei rationem reddere his
             <lb ed="#P" n="22"/>verbis: Nam cum attractio coitio sit ad corpus, magnetica vero converti¬
             <lb ed="#P" n="23"/>bili natura confluant, fit ut in diametro à polo ad polum ducta directè cor¬
             <lb ed="#P" n="24"/>pus appellat, in alijs verò locis minus; ita, quo minus ad corpus convertitur,
@@ -7870,17 +7890,7 @@
             <lb ed="#P" n="41"/>deat, &amp; ita quaerimus cur sua directione chordam illam brevem designet,
             <lb ed="#P" n="42"/>inquirimus ergo rationem brevitatis huius chordae. Si enim obliquatur,
             <!--159.xml-->
-            <pb ed="#P" n="140"/>
-         <lb ed="#P" n="43"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/477,214,452,411/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">B C A D N M I. I F G H B C A D N M I. I F G H</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375569-r5</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--160.xml-->
          <pb ed="#P" n="141"/>
          <lb ed="#P" n="1"/>quia infirmiter trahitur, &amp; infirmiter trahitur, quia brevis designatur chor¬
@@ -7964,9 +7974,19 @@
             <lb ed="#P" n="31"/>ita ut tandem in aequinoctiali circulo enervatae sint, &amp; aevanidae. Verum
             <lb ed="#P" n="32"/>de hoc iterum erit sermo: puto enim potius firmius coire in aequinoctio.
             <lb ed="#P" n="33"/>quam in polo, si convenienter obelus apponatur.
+         <lb ed="#P" n="44" type="fixed=142"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/478,376,458,420/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">B C A D N M I I F G H B C A D N M I I F G H</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375572-r5</seg>
+            </ab>
+            <figDesc/>
+         </figure>
         </p>
       <p>
-         <lb ed="#P" n="34"/>Hoc igitur omisso, de quo alia est controversia, ostendo illam obliqui¬
+         <lb ed="#P" n="34" type="fixed=142"/>Hoc igitur omisso, de quo alia est controversia, ostendo illam obliqui¬
             <lb ed="#P" n="35"/>tatem non ex eo provenire quod infirmius in F. trahatur obelus, ac proin¬
             <lb ed="#P" n="36"/>de non possit quasi extolli, &amp; dirigi ad centrum. sume terrellam, seù lapi¬
             <lb ed="#P" n="37"/>dem supra positum, &amp; verte ita, ut axis polorum A. B. maneat parallelus
@@ -7977,17 +7997,7 @@
             <lb ed="#P" n="42"/>tellam invertas, semper retinebit eandem directionem obelus in puncto F.
             <lb ed="#P" n="43"/>non ergo obliquitas obeli in F. oritur ex imbecilla attractione, lapis sic con
             <!--161.xml-->
-            <pb ed="#P" n="142"/>
-         <lb ed="#P" n="44"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/478,376,458,420/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">B C A D N M I I F G H B C A D N M I I F G H</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375572-r5</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--162.xml-->
          <pb ed="#P" n="143"/>
          <lb ed="#P" n="1"/>stitutus polo deorsum verso non erigeret obelum sursum C. versus sed gra¬
@@ -8086,14 +8096,7 @@
             <lb ed="#P" n="36"/>bertus; quod dicat centrum virtutis magneticae esse in polo: contendit
             <lb ed="#P" n="37"/>enim ipse Gilb. potius ex centro lapidis, quam ex polo diffundi virtutis
             <lb ed="#P" n="38"/>radios.
-        </p>
-      <p>
-         <lb ed="#P" n="39"/>Hoc non ideo dico, quia putem vim agendi in magnete solos obtinere
-            <lb ed="#P" n="40"/>polos, &amp; indivisibilia quaedam puncta, de quibus ambigas, an dentur, ne¬
-            <lb ed="#P" n="41"/>dum an vim agendi obtineant (quod si sibi voluit Porta, falsus est) sed quod
-            <!--163.xml-->
-            <pb ed="#P" n="144"/>
-         <lb ed="#P" n="42"/>
+         <lb ed="#P" n="42" type="fixed=144"/>
          <figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/497,605,477,307/full/0/default.jpg"/>
             <ab type="figure-details">
@@ -8103,6 +8106,13 @@
             </ab>
             <figDesc/>
          </figure>
+        </p>
+      <p>
+         <lb ed="#P" n="39" type="fixed=144"/>Hoc non ideo dico, quia putem vim agendi in magnete solos obtinere
+            <lb ed="#P" n="40"/>polos, &amp; indivisibilia quaedam puncta, de quibus ambigas, an dentur, ne¬
+            <lb ed="#P" n="41"/>dum an vim agendi obtineant (quod si sibi voluit Porta, falsus est) sed quod
+            <!--163.xml-->
+
          <!--164.xml-->
          <pb ed="#P" n="145"/>
          <lb ed="#P" n="1"/>totus dum agit lapis, ex istis quasi punctis prodeat vis activa. Sicut enim
@@ -8181,7 +8191,17 @@
             <lb ed="#P" n="22"/>quia utraque pars est aequalis, utraque suam habet actionem.
         </p>
       <p>
-         <lb ed="#P" n="23"/>Rem hanc, quae fortasse sub obscura videatur, fere sic explicat Garzo¬
+         <lb ed="#P" n="43" type="fixed=146"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/570,798,399,279/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">A C E G B H F D A C E G B H F D</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375578-r5</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+         <lb ed="#P" n="23" type="fixed=146"/>Rem hanc, quae fortasse sub obscura videatur, fere sic explicat Garzo¬
             <lb ed="#P" n="24"/>nius. Sit magnes A. B. cuius A. polus
             <lb ed="#P" n="25"/>sit septentrionalis B. australis; à pun
             <lb ed="#P" n="26"/>cto A. ad anteriora diffunditur qua¬
@@ -8202,17 +8222,7 @@
             <lb ed="#P" n="41"/>dispositae omnes illae rectae lineae, quae ex C. ducentur, sicuti omnes erant
             <lb ed="#P" n="42"/>eodem modo dispositae, quae ex A. ducebantur ad interiora lapidis: si enim
             <!--165.xml-->
-            <pb ed="#P" n="146"/>
-         <lb ed="#P" n="43"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/570,798,399,279/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C E G B H F D A C E G B H F D</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375578-r5</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--166.xml-->
          <pb ed="#P" n="147"/>
          <lb ed="#P" n="1"/>ducatur à C. ad A. excurret haec in septentrionem procedendo A. versus, &amp;
@@ -8285,9 +8295,19 @@
             <lb ed="#P" n="16"/>seù radiorum actione, quae in diversis punctis esse intelligitur. quod ut osten
             <lb ed="#P" n="17"/>dam, &amp; per hoc confirmem modum propagationis virtutis magneticae sup¬
             <lb ed="#P" n="18"/>positum evidenter ex signo à posteriori,
+         <lb ed="#P" n="43" type="fixed=148"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/497,258,470,298/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">A M C E D B M S S S S S M S M S M M M M M S M S S S S S A M C E D B M S S S S S M S M S M M M M M S M S S S S S</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375581-r5</seg>
+            </ab>
+            <figDesc/>
+         </figure>
         </p>
       <p>
-         <lb ed="#P" n="19"/>Sit magnes supra positus A. B. dixi ex puncto A. polari prodire radios
+         <lb ed="#P" n="19" type="fixed=148"/>Sit magnes supra positus A. B. dixi ex puncto A. polari prodire radios
             <lb ed="#P" n="20"/>virtutis quaqua versum, non solum ad anteriora magnetis, sed etiam, quasi
             <lb ed="#P" n="21"/>reflexos, ad interiora ipsius, qui radij antrorsum in sui fronte deferrunt fa¬
             <lb ed="#P" n="22"/>ciem septentrionalem, ac perinde notatur S. similiter ex B. prodeunt radij
@@ -8314,17 +8334,7 @@
             <lb ed="#P" n="41"/>exit radius B. C. M. qui in contactu lapidis habet faciem septentrionalem,
             <lb ed="#P" n="42"/>proiectam antrorsum australem: si ergo obelus positus in C. conformaretur
             <!--167.xml-->
-            <pb ed="#P" n="148"/>
-         <lb ed="#P" n="43"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/497,258,470,298/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A M C E D B M S S S S S M S M S M M M M M S M S S S S S A M C E D B M S S S S S M S M S M M M M M S M S S S S S</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375581-r5</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--168.xml-->
          <pb ed="#P" n="149"/>
          <lb ed="#P" n="1"/>primo radio, aequireret virtutem illius, si secundo, ex eius etiam positione
@@ -8387,7 +8397,17 @@
             <lb ed="#P" n="8"/>magneticorum; &amp; hoc pacto suam diffundunt sphaeram activitatis.
         </p>
       <p>
-         <lb ed="#P" n="9"/>Ex his iam apparet solutio difficultatis suprapositae, quam hactenus om¬
+         <lb ed="#P" n="43" type="fixed=150"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/561,446,404,428/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">B C E F A H D T R Q N O S M B C E F A H D T R Q N O S M</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375584-r5</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+         <lb ed="#P" n="9" type="fixed=150"/>Ex his iam apparet solutio difficultatis suprapositae, quam hactenus om¬
             <lb ed="#P" n="10"/>nes intentatam reliquerunt, &amp; apparebit ratio illius, quod dicebam in prae¬
             <lb ed="#P" n="11"/>cedenti libro, cur in globo ma¬
             <lb ed="#P" n="12"/>gnetico A. C. B. D. obelus in A. di¬
@@ -8422,17 +8442,7 @@
             <lb ed="#P" n="41"/>titate partium, ita ut, sicut se habet portio sphaerae E. A. H. ad portionem
             <lb ed="#P" n="42"/>sphęrę E. B. H; ita se habeat inversa proportione deviatio obeli à radio C. M.
             <!--169.xml-->
-            <pb ed="#P" n="150"/>
-         <lb ed="#P" n="43"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/561,446,404,428/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">B C E F A H D T R Q N O S M B C E F A H D T R Q N O S M</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375584-r5</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--170.xml-->
          <pb ed="#P" n="151"/>
          <lb ed="#P" n="1"/>ad deviationem à radio E. O. at quia magnetica, ut alibi demonstrabo, non
@@ -8563,17 +8573,7 @@
             <lb ed="#P" n="24"/>nata altitudine, ut dictum est.
         </p>
       <p>
-         <lb ed="#P" n="25"/>Hoc iam habito ad cognoscendam in numeris magnitudinem harum
-            <lb ed="#P" n="26"/>portionum sphaerae, investigetur proportio horum conorum; &amp; quoniam
-            <!--172.xml-->
-            <pb ed="#P" n="153"/>
-         <lb ed="#P" n="27"/>nota est tota linea R. D. &amp; similiter cognoscitur linea E. H. 35208. in par¬
-            <lb ed="#P" n="28"/>tibus sinuum; quia E. R. 76604. dimidia ipsius E. A. est sinus arcus E. A.
-            <lb ed="#P" n="29"/>grad. 50. nota erit diameter basis horum conorum; nota etiam erit in numeris
-            <lb ed="#P" n="30"/>tota basis cognita diametro ex Archimede, de dimensionibus circuli. ha¬
-            <!--172.xml-->
-            <pb ed="#P" n="153"/>
-         <lb ed="#P" n="31"/>
+         <lb ed="#P" n="31" type="fixed=153"/>
          <figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/70,849,711,293/full/0/default.jpg"/>
             <ab type="figure-details">
@@ -8583,6 +8583,16 @@
             </ab>
             <figDesc/>
          </figure>
+         <lb ed="#P" n="25" type="fixed=153"/>Hoc iam habito ad cognoscendam in numeris magnitudinem harum
+            <lb ed="#P" n="26"/>portionum sphaerae, investigetur proportio horum conorum; &amp; quoniam
+            <!--172.xml-->
+            <pb ed="#P" n="153"/>
+         <lb ed="#P" n="27"/>nota est tota linea R. D. &amp; similiter cognoscitur linea E. H. 35208. in par¬
+            <lb ed="#P" n="28"/>tibus sinuum; quia E. R. 76604. dimidia ipsius E. A. est sinus arcus E. A.
+            <lb ed="#P" n="29"/>grad. 50. nota erit diameter basis horum conorum; nota etiam erit in numeris
+            <lb ed="#P" n="30"/>tota basis cognita diametro ex Archimede, de dimensionibus circuli. ha¬
+            <!--172.xml-->
+
          <!--173.xml-->
          <pb ed="#P" n="154"/>
          <lb ed="#P" n="1"/>bet enim circulus ille ad quadratum diametri. E. H. notę magnitudinis pro¬
@@ -8900,7 +8910,17 @@
             <lb ed="#P" n="22"/>positam.
         </p>
       <p>
-         <lb ed="#P" n="23"/>Ut si sit versorium A. B. &amp; sumas
+         <lb ed="#P" n="40" type="fixed=160"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/591,741,341,431/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text"/>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375599-r5</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+         <lb ed="#P" n="23" type="fixed=160"/>Ut si sit versorium A. B. &amp; sumas
             <lb ed="#P" n="24"/>gladium C. D. totum ferreum etiam
             <lb ed="#P" n="25"/>in manubrio, nunquam tamen ma¬
             <lb ed="#P" n="26"/>gnetice excitatum, &amp; applices gla¬
@@ -8920,17 +8940,7 @@
         </p>
       <p>
         <!--179.xml-->
-         <pb ed="#P" n="160"/>
-         <lb ed="#P" n="40"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/591,741,341,431/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text"/>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375599-r5</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
       </p>
    </div>
    <div alias="l2c14">
@@ -9108,9 +9118,19 @@
             <lb ed="#P" n="24"/>sive refractus ad aliquam partem, excurrat continuato tractu, &amp; in extremo
             <lb ed="#P" n="25"/>habeat A. sic etiam parvi magnetes disponunt suam partem australem ex¬
             <lb ed="#P" n="26"/>tremum versus radij, septentrionalem ad polum A.
+         <lb ed="#P" n="43" type="fixed=164"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/537,179,402,288/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">S A 3 2 1 4 S A 3 2 1 4</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375606-r5</seg>
+            </ab>
+            <figDesc/>
+         </figure>
         </p>
       <p>
-         <lb ed="#P" n="27"/>Ex hoc iam vides rationem illius, quod supra desiderabam in aliorum
+         <lb ed="#P" n="27" type="fixed=164"/>Ex hoc iam vides rationem illius, quod supra desiderabam in aliorum
             <lb ed="#P" n="28"/>sententijs; cur scilicet magnes magnetem trahat determinata solum ratio¬
             <lb ed="#P" n="29"/>ne, &amp; quidem in polo directè ad axem, in alijs partibus oblique disponatur,
             <lb ed="#P" n="30"/>in aequatore prorsus adiaceat, sicut dicebam etiam de obelis: Non tam enim
@@ -9127,17 +9147,7 @@
             <lb ed="#P" n="41"/>senti videtur mihi magneticus iste concursus explicatus; cum praesertim ite¬
             <lb ed="#P" n="42"/>rum de illo futurus sit sermo: Si enim exactè contempleris rationem, qua
             <!--183.xml-->
-            <pb ed="#P" n="164"/>
-         <lb ed="#P" n="43"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/537,179,402,288/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">S A 3 2 1 4 S A 3 2 1 4</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375606-r5</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--184.xml-->
          <pb ed="#P" n="165"/>
          <lb ed="#P" n="1"/>magnes circumquaque agit determinata ratione virtutem effundendo, &amp;
@@ -9365,7 +9375,17 @@
             <lb ed="#P" n="27"/>tatem realem, quam iam ferrum in se habet intensiorem.
         </p>
       <p>
-         <lb ed="#P" n="28"/>Quod si illa qualitas intentionalis ad ferrum, ita appellat, ut afficiat illud
+         <lb ed="#P" n="44" type="fixed=169"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/316,1162,467,134/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">B A D C B A D C</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375613-r6</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+         <lb ed="#P" n="28" type="fixed=169"/>Quod si illa qualitas intentionalis ad ferrum, ita appellat, ut afficiat illud
             <lb ed="#P" n="29"/>in contrario situ, ac positione, atque sit qualitas illa duarum facierum, quam
             <lb ed="#P" n="30"/>iam ferrum acquisivit ex primo concursu cum magnete, seu occursu, &amp; à
             <lb ed="#P" n="31"/>qua fuit quasi donatum magnetica natura, si qualitas, inquam, intentiona¬
@@ -9382,17 +9402,7 @@
             <lb ed="#P" n="42"/>tione, &amp; situ, ut scilicet
             <lb ed="#P" n="43"/>à D. ad C. respiciat sep¬
             <!--188.xml-->
-            <pb ed="#P" n="169"/>
-         <lb ed="#P" n="44"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/316,1162,467,134/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">B A D C B A D C</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375613-r6</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--189.xml-->
          <pb ed="#P" n="170"/>
          <lb ed="#P" n="1"/>tentrionem, &amp; à C. ad D. respiciat austrum, si eadem facies septentrionalis
@@ -9528,16 +9538,7 @@
             <lb ed="#P" n="35"/>tentionales sint agentia necessaria, non poterunt non emergere quattuor
             <lb ed="#P" n="36"/>qualitates duarum facierum secunda existendi forma, quae sibi sint è regio¬
             <lb ed="#P" n="37"/>ne oppositae, &amp; in contrario situ.
-        </p>
-      <p>
-         <lb ed="#P" n="38"/>Haec difficultas non mediocris alicui videbitur; re tamen vera nihil con¬
-            <lb ed="#P" n="39"/>cludit. Admitto igitur in eodem medio posse plures existere qualitates dua¬
-            <lb ed="#P" n="40"/>rum facierum tertia existendi forma, nimirum intentionaliter, quae etiam
-            <lb ed="#P" n="41"/>oppositum habeat situm, &amp; tot posse esse distinctas qualitates in eodem me¬
-            <lb ed="#P" n="42"/>dio numero diversas, quot possunt distincta in illud medium conspirare a¬
-            <!--191.xml-->
-            <pb ed="#P" n="172"/>
-         <lb ed="#P" n="43"/>
+         <lb ed="#P" n="43" type="fixed=172"/>
          <figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/554,576,345,348/full/0/default.jpg"/>
             <ab type="figure-details">
@@ -9547,6 +9548,15 @@
             </ab>
             <figDesc/>
          </figure>
+        </p>
+      <p>
+         <lb ed="#P" n="38" type="fixed=172"/>Haec difficultas non mediocris alicui videbitur; re tamen vera nihil con¬
+            <lb ed="#P" n="39"/>cludit. Admitto igitur in eodem medio posse plures existere qualitates dua¬
+            <lb ed="#P" n="40"/>rum facierum tertia existendi forma, nimirum intentionaliter, quae etiam
+            <lb ed="#P" n="41"/>oppositum habeat situm, &amp; tot posse esse distinctas qualitates in eodem me¬
+            <lb ed="#P" n="42"/>dio numero diversas, quot possunt distincta in illud medium conspirare a¬
+            <!--191.xml-->
+
          <!--192.xml-->
          <pb ed="#P" n="173"/>
          <lb ed="#P" n="1"/>gentia. sicut etiam puto magis physicum esse, si plura constituantur distin¬
@@ -9708,7 +9718,19 @@
             <lb ed="#P" n="5"/>tentrionem; &amp; hoc, quia sic se conformat qualitati intentionali, quae per me
             <lb ed="#P" n="6"/>dium effunditur in tali loco à magnete A. B. ergo qualitas intentionalis ibi
             <lb ed="#P" n="7"/>per medium effusa sic est disposita. ergo sic illam imbibit obelus in E. positus.
-            <lb ed="#P" n="8"/>Tertio, quia si ponatur in polo B. obelus naturali directione componetur,
+         <lb ed="#P" n="29" type="fixed=176"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/304,176,503,367/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">A B C D E F A B C D E F</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375623-r5</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+      </p>
+      <p>
+         <lb ed="#P" n="8" type="fixed=176"/>Tertio, quia si ponatur in polo B. obelus naturali directione componetur,
             <lb ed="#P" n="9"/>ut vides, in quo casu ex tota qualitate duarum facierum, quae excurrit ab A.
             <lb ed="#P" n="10"/>ad D. una extremitas A. dirigitur in septentrionem, altera extremitas D. diri¬
             <lb ed="#P" n="11"/>getur in austrum. ergo virtus, quae est in obelo à D. ad C. respicit septentrio¬
@@ -9734,17 +9756,7 @@
         </p>
       <p>
             <!--195.xml-->
-         <pb ed="#P" n="176"/>
-         <lb ed="#P" n="29"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/304,176,503,367/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A B C D E F A B C D E F</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375623-r5</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--196.xml-->
          <pb ed="#P" n="177"/>
          <lb ed="#P" n="1"/>Nihilominus quia, ut mox dicam, nunquam potest eximi extra vires tellu¬
@@ -10176,7 +10188,17 @@
             <lb ed="#P" n="24"/>aere quam illo effluvio.
         </p>
       <p>
-         <lb ed="#P" n="25"/>Videtur autem Gilbertus velle humida ad se confluere in sensu omni¬
+         <lb ed="#P" n="43" type="fixed=185"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/328,953,440,203/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">C F H E C F H E</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375637-r6</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+         <lb ed="#P" n="25" type="fixed=185"/>Videtur autem Gilbertus velle humida ad se confluere in sensu omni¬
             <lb ed="#P" n="26"/>no, quem reprobavi, ut ex humiditate, qua madeat, non solum firmius se fer
             <lb ed="#P" n="27"/>ruminandi, sed etiam ad se invicem confluendi vim habeant; ut etiam, dum
             <lb ed="#P" n="28"/>non nihil distant, in mutuos ruant amplexus. Probat hoc ipse tripliciter.
@@ -10195,17 +10217,7 @@
             <lb ed="#P" n="41"/>unam ad aliam appellere, &amp; eò velocius, quo proximiores sunt. Tertio pro¬
             <lb ed="#P" n="42"/>bat, quia eminentia in superficie aquarum, si propè fuerit, concurrunt, &amp; u¬
             <!--204.xml-->
-            <pb ed="#P" n="185"/>
-         <lb ed="#P" n="43"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/328,953,440,203/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">C F H E C F H E</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375637-r6</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--205.xml-->
          <pb ed="#P" n="186"/>
          <lb ed="#P" n="1"/>niuntur: attollitur enim aquae superficies circa uda, sicca vero ad humida
@@ -10229,9 +10241,19 @@
             <lb ed="#P" n="19"/>mediante humido; ita propter humorem omnia mutuo conveniunt; fluvi¬
             <lb ed="#P" n="20"/>da quidem, &amp; aquea, in superficie aquarum, concreta vero, soluta si fuerint,
             <lb ed="#P" n="21"/>in aere.
+         <lb ed="#P" n="43" type="fixed=186"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/546,311,397,212/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">A D C F E B A D C F E B</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375639-r5</seg>
+            </ab>
+            <figDesc/>
+         </figure>
         </p>
       <p>
-         <lb ed="#P" n="22"/>Verum hae rationes non solum non mihi efficaces videntur ad conficien¬
+         <lb ed="#P" n="22" type="fixed=186"/>Verum hae rationes non solum non mihi efficaces videntur ad conficien¬
             <lb ed="#P" n="23"/>dum humida, si in proximo fuerint, se prolectare, &amp; ad unionem contende¬
             <lb ed="#P" n="24"/>re, sed etiam valde in aequivoco laborare videbitur auctor: concursus enim
             <lb ed="#P" n="25"/>illi sunt motus elementares gravium, &amp; levium, non vero ullum attractio¬
@@ -10255,17 +10277,7 @@
             <lb ed="#P" n="41"/>posui, e vellem notari; quia, ut verum fatear, diu fui in hac cogitatione, plus
             <lb ed="#P" n="42"/>ne gravitaret res in summitate montis, an in ima valle, nec occurrebat, qua
             <!--205.xml-->
-            <pb ed="#P" n="186"/>
-         <lb ed="#P" n="43"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/546,311,397,212/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A D C F E B A D C F E B</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375639-r5</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--206.xml-->
          <pb ed="#P" n="187"/>
          <lb ed="#P" n="1"/>ratione id possem experiri, propter rationem positam; quia etiam notum il¬
@@ -10332,7 +10344,19 @@
             <lb ed="#P" n="13"/>inquam, ut vitet, quantum potest, aqua, ne adhaereat illi corpori; &amp; ideo fit
             <lb ed="#P" n="14"/>circa corpus in extrema superficie aquae; dum illud sua gravitate descende¬
             <lb ed="#P" n="15"/>re tentat, veluti quaedam fossa, ut sensu ipso iudice cognoscere quivis potest.
-            <lb ed="#P" n="16"/>Turbatur igitur ex hoc illa sphaerica superficies aquae: &amp; quia maior est
+      </p>
+      <p>
+         <lb ed="#P" n="43" type="fixed=188"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/477,800,413,213/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">C F H E C F H E</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375642-r5</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+         <lb ed="#P" n="16" type="fixed=188"/>Turbatur igitur ex hoc illa sphaerica superficies aquae: &amp; quia maior est
             <lb ed="#P" n="17"/>conatus, quo aqua refugit coniungi cum corpore sibi immisso, quam gra¬
             <lb ed="#P" n="18"/>vitas illius exiguae aquae, quae deberet accurrere ad replendam illam parvam
             <lb ed="#P" n="19"/>fossam, ideo ille praevalet, &amp; durat illa innaturalis figura aquae, similiter,
@@ -10360,17 +10384,7 @@
             <lb ed="#P" n="41"/>ut videas tertio aquam resistere motui simpliciter. Si ergo ex illis duabus
             <lb ed="#P" n="42"/>extuberationibus fieret unica extuberatio aequalis altitudinis, minor quan¬
             <!--207.xml-->
-            <pb ed="#P" n="188"/>
-         <lb ed="#P" n="43"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/477,800,413,213/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">C F H E C F H E</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375642-r5</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--208.xml-->
          <pb ed="#P" n="189"/>
          <lb ed="#P" n="1"/>titas aquae sic esset in statu violento. dum ergo appropinquant extremita¬
@@ -10815,9 +10829,19 @@
             <lb ed="#P" n="21"/>ne, conquiescet, semper, quoties
             <lb ed="#P" n="22"/>intra orbem virtutis huius lapidis constituetur acus, toties se, quantum fieri
             <lb ed="#P" n="23"/>poterit, ad istam longitudinem conformabit.
+         <lb ed="#P" n="42" type="fixed=199"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/365,253,412,470/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">A B A B</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375658-r5</seg>
+            </ab>
+            <figDesc/>
+         </figure>
         </p>
       <p>
-         <lb ed="#P" n="24"/>Deinde haec eadem longitudo solo lapide comprobatur: si enim libretur
+         <lb ed="#P" n="24" type="fixed=199"/>Deinde haec eadem longitudo solo lapide comprobatur: si enim libretur
             <lb ed="#P" n="25"/>ex filo lapis, ac cymbula impositus expediatur gravitatis compedibus, &amp;
             <lb ed="#P" n="26"/>naturae auram libero excipere velorum sinu permittatur, semper, si conve¬
             <lb ed="#P" n="27"/>nienti ratione collocetur in cymbula, longitudinem A. B. in meridiano ma
@@ -10838,17 +10862,7 @@
             <lb ed="#P" n="40"/>est, et iam inculcabitur, &amp; magneti consimillimas habeat operationes, hinc
             <lb ed="#P" n="41"/>fit, ut natura ipsa dirigente velit peculiari semper ratione ad tellurem ma¬
             <!--218.xml-->
-            <pb ed="#P" n="199"/>
-         <lb ed="#P" n="42"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/365,253,412,470/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A B A B</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375658-r5</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--219.xml-->
          <pb ed="#P" n="200"/>
          <lb ed="#P" n="1"/>gnes conformare se, ut ab illa semper eodem modo afficiatur, &amp; notas trahat
@@ -10968,12 +10982,22 @@
             <lb ed="#P" n="17"/>tibus; ut videas quam facilè sit in experimentis labi. Unica ergo in toto la¬
             <lb ed="#P" n="18"/>pide est directionis virtus, quod ab initio propositum fuerat, &amp; cuius ratio
             <lb ed="#P" n="19"/>inquirebatur.
+         <lb ed="#P" n="41" type="fixed=202"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/500,329,415,217/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">A C B D A C B D</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375663-r5</seg>
+            </ab>
+            <figDesc/>
+         </figure>
         </p>
    </div>
    <div alias="l3c3">
       <head>Caput 3</head>
       <p>
-         <lb ed="#P" n="20"/>Non dirigitur magnes suis polis ad polos Coeli, nec ad aliquod astrum, sed ad
+         <lb ed="#P" n="20" type="fixed=202"/>Non dirigitur magnes suis polis ad polos Coeli, nec ad aliquod astrum, sed ad
             <lb ed="#P" n="21"/>polos Terrae. Cap. III.
         </p>
       <p>
@@ -10995,24 +11019,7 @@
             <lb ed="#P" n="37"/>sistat; sive sit in nostro hemisphaerio, sive in alio; sive sit citra aequatorem
             <lb ed="#P" n="38"/>sive ultra: semper enim A. ad polum Septentrionalem vertetur B. ad Au¬
             <lb ed="#P" n="39"/>stralem.
-        </p>
-      <p>
-         <lb ed="#P" n="40"/>Hujus rei luculentam alibi fecimus fidem certissimis experimentis, &amp;
-            <!--221.xml-->
-            <pb ed="#P" n="202"/>
-         <lb ed="#P" n="41"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/500,329,415,217/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C B D A C B D</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375663-r5</seg>
-            </ab>
-            <figDesc/>
-         </figure>
-         <!--221.xml-->
-         <pb ed="#P" n="202"/>
-         <lb ed="#P" n="42"/>
+         <lb ed="#P" n="42" type="fixed=202"/>
          <figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/510,873,432,227/full/0/default.jpg"/>
             <ab type="figure-details">
@@ -11022,6 +11029,13 @@
             </ab>
             <figDesc/>
          </figure>
+        </p>
+      <p>
+         <lb ed="#P" n="40" type="fixed=202"/>Hujus rei luculentam alibi fecimus fidem certissimis experimentis, &amp;
+            <!--221.xml-->
+
+         <!--221.xml-->
+
          <!--222.xml-->
          <pb ed="#P" n="203"/>
          <lb ed="#P" n="1"/>praecipuè magnetica inclinatione: si enim suspendas arte exquisita aequili¬
@@ -11052,7 +11066,17 @@
             <lb ed="#P" n="24"/>te terra noster lapis se convertat, &amp; dirigat ex lege magnetica.
         </p>
       <p>
-         <lb ed="#P" n="25"/>Sicut enim si sumas duo corpora magnetica; ut magnetem A. B. cuius¬
+         <lb ed="#P" n="44" type="fixed=203"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/405,826,396,474/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">C D A B C D A B</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375664-r5</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+         <lb ed="#P" n="25" type="fixed=203"/>Sicut enim si sumas duo corpora magnetica; ut magnetem A. B. cuius¬
             <lb ed="#P" n="26"/>cunque figurae, &amp; super po¬
             <lb ed="#P" n="27"/>nas ferrum magneticè exci¬
             <lb ed="#P" n="28"/>tum; quia virtus magnetis
@@ -11072,17 +11096,7 @@
             <lb ed="#P" n="42"/>fingas animo A. B. globum esse
             <lb ed="#P" n="43"/>telluris, quia magneticam
             <!--222.xml-->
-            <pb ed="#P" n="203"/>
-         <lb ed="#P" n="44"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/405,826,396,474/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">C D A B C D A B</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375664-r5</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--223.xml-->
          <pb ed="#P" n="204"/>
          <lb ed="#P" n="1"/>virtutem tellus circumquaque diffundit secundum longitudinem à polo
@@ -11115,7 +11129,17 @@
             <lb ed="#P" n="23"/>faciem Orientalem, aut occidentalem. Cap. IV.
         </p>
       <p>
-         <lb ed="#P" n="24"/>Sit magnetis globus A. B. C. D. impossibile quidem est ut di¬
+         <lb ed="#P" n="41" type="fixed=204"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/596,902,333,321/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">A B C D E F A B C D E F</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375666-r5</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+         <lb ed="#P" n="24" type="fixed=204"/>Sit magnetis globus A. B. C. D. impossibile quidem est ut di¬
             <lb ed="#P" n="25"/>rigatur A. &amp; B. ad polos telluris. Quin etiam pari ratione
             <lb ed="#P" n="26"/>alia duo posita puncta,
             <lb ed="#P" n="27"/>ut C. &amp; D. orientem, &amp; oc
@@ -11133,17 +11157,7 @@
             <lb ed="#P" n="39"/>in magnete duo puncta, quae ad Coeli polos se converterent, ita etiam reliqua
             <lb ed="#P" n="40"/>huius certa in Cęlo puncta sibi designare, quae libenter respicerent. imo exi¬
             <!--223.xml-->
-            <pb ed="#P" n="204"/>
-         <lb ed="#P" n="41"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/596,902,333,321/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A B C D E F A B C D E F</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375666-r5</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--224.xml-->
          <pb ed="#P" n="205"/>
          <lb ed="#P" n="1"/>stimavit, si semel contingere posset, ut simul omnia suis subijcerentur pun¬
@@ -11266,9 +11280,18 @@
             <lb ed="#P" n="15"/>habeto.
         </p>
       <p>
-         <lb ed="#P" n="16"/>Contendunt versorium nonnulli optimè fieri, &amp; expeditissimę directio¬
+         <lb ed="#P" n="29" type="fixed=207"/>
+         <figure>
+            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/109,645,646,284/full/0/default.jpg"/>
+            <ab type="figure-details">
+               <seg type="figure-text">F G E H B C A D F G E H B C A D</seg>
+               <seg type="figure-ideas"/>
+               <seg type="transkribus-id">900522-34375671-r7</seg>
+            </ab>
+            <figDesc/>
+         </figure>
+         <lb ed="#P" n="16" type="fixed=207"/>Contendunt versorium nonnulli optimè fieri, &amp; expeditissimę directio¬
             <!--226.xml-->
-            <pb ed="#P" n="207"/>
          <lb ed="#P" n="17"/>nis, si componatur ex duplici obelo A. B. C. D. qui se in centro intersecent ad
             <lb ed="#P" n="18"/>angulos rectos, quod versorium sic debet, inquiunt, excitari magnete, E. F.
             <lb ed="#P" n="19"/>G. H. ut puncto F. tangatur punctum versorij A. &amp; puncto E. punctum B.
@@ -11282,17 +11305,7 @@
             <lb ed="#P" n="27"/>detrimento. Et primo, hoc tu te tibi suadeas experimento, interim ego ra¬
             <lb ed="#P" n="28"/>tione ostendo: &amp; primo, Quod inutiliter fiat sic suadeo. Non habet ma¬
             <!--226.xml-->
-            <pb ed="#P" n="207"/>
-         <lb ed="#P" n="29"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/109,645,646,284/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">F G E H B C A D F G E H B C A D</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375671-r7</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+
          <!--227.xml-->
          <pb ed="#P" n="208"/>
          <lb ed="#P" n="1"/>gnes in se aliquas partes, quibus determinatè ad alias mundi plagas se con¬
@@ -11342,9 +11355,8 @@
             <lb ed="#P" n="41"/>riori tuo versorio partes magnetis medias tangis, vel methaphisicè, seu ma¬
             <lb ed="#P" n="42"/>thematicè loquendo, tangis magnetem in parte, quae prorsus aequaliter di¬
             <!--227.xml-->
-            <pb ed="#P" n="208"/>
-         <lb ed="#P" n="43"/>
-         <figure>
+            <lb ed="#P" n="43" type="fixed=208"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/668,861,265,235/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A C B D E A C B D E</seg>
@@ -11456,9 +11468,8 @@
         </p>
       <p>
             <!--229.xml-->
-         <pb ed="#P" n="210"/>
-         <lb ed="#P" n="41"/>
-         <figure>
+         <lb ed="#P" n="41" type="fixed=210"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/651,326,274,339/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text"/>
@@ -11514,9 +11525,8 @@
             <lb ed="#P" n="41"/>ergo ista verticitas proprietas sit, quae manat ab essentia magnetis, semper
             <lb ed="#P" n="42"/>quodlibet magnetis frustum altera sui facie in alterum, opposita in opposi¬
             <!--230.xml-->
-            <pb ed="#P" n="211"/>
-         <lb ed="#P" n="43"/>
-         <figure>
+            <lb ed="#P" n="43" type="fixed=211"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/335,229,442,220/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A B A B</seg>
@@ -11575,9 +11585,8 @@
             <lb ed="#P" n="39"/>at vero ex parte opposita confluerent ad G. ut constabit experimento. ergo
             <lb ed="#P" n="40"/>factus est novus polus ex tali divisione; qui tamen apparebit in eodem axe
             <!--231.xml-->
-            <pb ed="#P" n="212"/>
-         <lb ed="#P" n="41"/>
-         <figure>
+            <lb ed="#P" n="41" type="fixed=212"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/602,636,347,286/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A C E D B F G A C E D B F G</seg>
@@ -11682,9 +11691,8 @@
             <lb ed="#P" n="40"/>quod remota e ablata parte A. C. facies D. respiciat Septentrionem; collo¬
             <lb ed="#P" n="41"/>cat enim se pars B. D. quae remanet, in eodem situ, in quo prius se colloca¬
             <!--233.xml-->
-            <pb ed="#P" n="214"/>
-         <lb ed="#P" n="42"/>
-         <figure>
+            <lb ed="#P" n="42" type="fixed=214"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/506,350,416,241/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A C D B A C D B</seg>
@@ -11794,9 +11802,8 @@
             <lb ed="#P" n="39"/>gnete prompto experimento demonstrari: potest tamen in alijs magneticis
             <lb ed="#P" n="40"/>corporibus, ex quibus ad ipsum magnetem argumenta transferimus, non
             <!--235.xml-->
-            <pb ed="#P" n="216"/>
-         <lb ed="#P" n="41"/>
-         <figure>
+            <lb ed="#P" n="41" type="fixed=216"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/493,890,409,210/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A B A B</seg>
@@ -11976,9 +11983,8 @@
             <lb ed="#P" n="17"/>litano discedit, qua parte Septentrionem spectat, ad Orientem per aliquot
             <lb ed="#P" n="18"/>gradus; at vero in eodem meridiano ultra aequatorem prope caput Bonae
             <!--239.xml-->
-            <pb ed="#P" n="220"/>
-         <lb ed="#P" n="19"/>
-         <figure>
+            <lb ed="#P" n="19" type="fixed=220"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/149,604,839,443/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">AMERICA Mexicum Mare del Sun Peruvium Bra Nova Zebla EUROPA Galia Germa¬ nia Italia Hispa¬ nia Mare Medite Sing ASIA Asia mi Tartari China Moluche India Persia Arabia AFRICA M: Rubrum Island Oceanus Indicus C. bone spei TERRA AUSTRALIS INCOGNITA AMERICA Mexicum Mare del Sun Peruvium Bra Nova Zebla EUROPA Galia Germa¬ nia Italia Hispa¬ nia Mare Medite Sing ASIA Asia mi Tartari China Moluche India Persia Arabia AFRICA M: Rubrum Island Oceanus Indicus C. bone spei TERRA AUSTRALIS INCOGNITA</seg>
@@ -12136,9 +12142,8 @@
             <lb ed="#P" n="41"/>nigatissimis apicibus, quos inforaminibus arte exquisita efformatis insere¬
             <lb ed="#P" n="42"/>tem; sic enim versorium poterat, ut ipse putabam, facillimè circumagere
             <!--242.xml-->
-            <pb ed="#P" n="223"/>
-         <lb ed="#P" n="43"/>
-         <figure>
+            <lb ed="#P" n="43" type="fixed=223"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/411,190,372,362/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">D A F E C B D A F E C B</seg>
@@ -12242,9 +12247,8 @@
         </p>
       <p>
             <!--244.xml-->
-         <pb ed="#P" n="225"/>
-         <lb ed="#P" n="43"/>
-         <figure>
+         <lb ed="#P" n="43" type="fixed=225"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/325,199,442,397/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A C B D A C B D</seg>
@@ -12298,9 +12302,8 @@
             <lb ed="#P" n="41"/>physicam sibi contrariam patiatur actionem ex illa in naturali collocatio¬
             <lb ed="#P" n="42"/>ne, non repugnabunt avocantia magnetica, vel certè parum repugnabunt.
             <!--245.xml-->
-            <pb ed="#P" n="226"/>
-         <lb ed="#P" n="43"/>
-         <figure>
+            <lb ed="#P" n="43" type="fixed=226"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/538,519,405,263/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">B A H G I F C E D B A B A H G I F C E D B A</seg>
@@ -12408,9 +12411,8 @@
       <p>
          <lb ed="#P" n="42"/>Altera ratio sit, quia, partes Terrae polares in aequali magnitudine maio¬
             <!--247.xml-->
-            <pb ed="#P" n="228"/>
-         <lb ed="#P" n="43"/>
-         <figure>
+            <lb ed="#P" n="43" type="fixed=228"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/583,762,328,107/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">E B C D A E B C D A</seg>
@@ -12466,9 +12468,8 @@
             <lb ed="#P" n="41"/>inclinaret se quidem acus ex illa parte, quae propius ad lapidem accedit, non
             <lb ed="#P" n="42"/>vero se à perpendiculo dimoveret, neque, ut ita dicam, se urgeret ad illam
             <!--248.xml-->
-            <pb ed="#P" n="229"/>
-         <lb ed="#P" n="43"/>
-         <figure>
+            <lb ed="#P" n="43" type="fixed=229"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/312,644,467,461/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A B C D A B C D</seg>
@@ -12782,9 +12783,8 @@
             <lb ed="#P" n="41"/>sic dum extra polum est versorium, ad polum anhelat, tenditque velis, ut
             <lb ed="#P" n="42"/>aiunt temisque, &amp; in solo poli respectu conquiescit; ubi vero ad polum de¬
             <!--254.xml-->
-            <pb ed="#P" n="235"/>
-         <lb ed="#P" n="43"/>
-         <figure>
+            <lb ed="#P" n="43" type="fixed=235"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/380,660,424,392/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A D C B A D C B</seg>
@@ -12896,9 +12896,8 @@
             <lb ed="#P" n="39"/>nis; &amp; ita dum movetur à
             <lb ed="#P" n="40"/>C. ad A. pręcedit cuspis an¬
             <!--256.xml-->
-            <pb ed="#P" n="237"/>
-         <lb ed="#P" n="41"/>
-         <figure>
+            <lb ed="#P" n="41" type="fixed=237"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/264,421,512,134/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A C E D F G B A C E D F G B</seg>
@@ -12908,9 +12907,8 @@
             <figDesc/>
          </figure>
          <!--256.xml-->
-         <pb ed="#P" n="237"/>
-         <lb ed="#P" n="42"/>
-         <figure>
+         <lb ed="#P" n="42" type="fixed=237"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/375,830,414,434/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A C B G A C B G</seg>
@@ -13164,9 +13162,8 @@
          <lb ed="#P" n="41"/>Dicendum igitur est magnetem ita ex polo, seu potius ex toto lapide per
             <lb ed="#P" n="42"/>polum virtutem suam circunquaque diffundere, ut ex puncto polari tanquam
             <!--261.xml-->
-            <pb ed="#P" n="242"/>
-         <lb ed="#P" n="43"/>
-         <figure>
+            <lb ed="#P" n="43" type="fixed=242"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/479,208,435,256/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A C B D A C B D</seg>
@@ -13176,9 +13173,8 @@
             <figDesc/>
          </figure>
          <!--261.xml-->
-         <pb ed="#P" n="242"/>
-         <lb ed="#P" n="44"/>
-         <figure>
+         <lb ed="#P" n="44" type="fixed=242"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/547,595,367,324/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A B A B</seg>
@@ -13234,9 +13230,8 @@
             <lb ed="#P" n="41"/>dium, à quo excitatur. Ratio igitur cur ferrum semper sua maiori longitu¬
             <lb ed="#P" n="42"/>dine verticitatem concipiat ex contactu magnetici corporis, oritur ex ratio¬
             <!--262.xml-->
-            <pb ed="#P" n="243"/>
-         <lb ed="#P" n="43"/>
-         <figure>
+            <lb ed="#P" n="43" type="fixed=243"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/300,233,448,294/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A C D E B F A C D E B F</seg>
@@ -13297,9 +13292,8 @@
         </p>
       <p>
             <!--263.xml--> 
-         <pb ed="#P" n="244"/>
-         <lb ed="#P" n="44"/>
-         <figure>
+         <lb ed="#P" n="44" type="fixed=244"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/568,380,347,139/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">C B D E A C B D E A</seg>
@@ -13555,9 +13549,8 @@
             <lb ed="#P" n="41"/>las, aut illis informaretur: tantummodo effunduntur formae, &amp; realiter subsistunt, cum
             <lb ed="#P" n="42"/>fuerint ibi magnetica, nec per omne medium procedit, &amp; ut in corpore continuo existit
             <!--268.xml-->
-            <pb ed="#P" n="249"/>
-         <lb ed="#P" n="43"/>
-         <figure>
+            <lb ed="#P" n="43" type="fixed=249"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/284,190,479,473/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A C B D G I H E M F N O P A C B D G I H E M F N O P</seg>
@@ -13666,9 +13659,8 @@
             <lb ed="#P" n="39"/>rium habere situm: semper tamen ita se habet, ut accedendo ad magnetem
             <lb ed="#P" n="40"/>respiciat contrariam universi partem, atque respiciat pars illa magnetis, ad
             <!--270.xml-->
-            <pb ed="#P" n="251"/>
-         <lb ed="#P" n="41"/>
-         <figure>
+            <lb ed="#P" n="41" type="fixed=251"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/395,398,419,299/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A C B A C B</seg>
@@ -13731,9 +13723,8 @@
             <lb ed="#P" n="39"/>medio disposita virtus, nec enim potest aliter illam acquirere; sed ita virtus
             <lb ed="#P" n="40"/>ab A. dispergitur per medium, ut virtus ipsius A, hoc est se convertendi ad
             <!--271.xml-->
-            <pb ed="#P" n="252"/>
-         <lb ed="#P" n="41"/>
-         <figure>
+            <lb ed="#P" n="41" type="fixed=252"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/493,539,456,158/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A B A B</seg>
@@ -13843,9 +13834,8 @@
             <lb ed="#P" n="41"/>tinuat virturem magneticam, prout est in ipso A. B. Ea porrò ratione, qua
             <lb ed="#P" n="42"/>isti radij sunt in medio eadem imbibuntur, ut ita dicam in corpore ad ma¬
             <!--273.xml-->
-            <pb ed="#P" n="254"/>
-         <lb ed="#P" n="43"/>
-         <figure>
+            <lb ed="#P" n="43" type="fixed=254"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/462,196,453,252/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A C B D A C B D</seg>
@@ -13901,9 +13891,8 @@
             <lb ed="#P" n="41"/>ad extremum, altera scilicet parte contra alteram praevalente, vel certè sibi
             <lb ed="#P" n="42"/>invicem vires ita retundent lungo illo tempore, ut iam vix ullum vestigium
             <!--274.xml-->
-            <pb ed="#P" n="255"/>
-         <lb ed="#P" n="43"/>
-         <figure>
+            <lb ed="#P" n="43" type="fixed=255"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/309,188,447,297/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">G B A H G B A H</seg>
@@ -14012,9 +14001,8 @@
             <lb ed="#P" n="41"/>per se aufert, sed depellit introducendo suam, quae, quia priori contraria est,
             <lb ed="#P" n="42"/>quod ad directionem, seu contrariam, obtinet positionem, cum illa stare non
             <!--276.xml-->
-            <pb ed="#P" n="257"/>
-         <lb ed="#P" n="43"/>
-         <figure>
+            <lb ed="#P" n="43" type="fixed=257"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/309,686,449,197/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A B C D A B C D</seg>
@@ -14309,9 +14297,8 @@
       <p>
          <lb ed="#P" n="29"/>Gilbertus lib. 2. cap. 16. id ex eo provenire putat, quod lamella verficita¬
             <!--282.xml-->
-            <pb ed="#P" n="263"/>
-         <lb ed="#P" n="30"/>
-         <figure>
+            <lb ed="#P" n="30" type="fixed=263"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/71,686,707,243/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">B A B A</seg>
@@ -14466,9 +14453,8 @@
             <lb ed="#P" n="41"/>dietatem huius partis ad partem oppositam ipsi A. iam in ista parte eadem
             <lb ed="#P" n="42"/>puncta E. F. communicabunt eandem faciem, quam in toto integio lapide
             <!--285.xml-->
-            <pb ed="#P" n="266"/>
-         <lb ed="#P" n="43"/>
-         <figure>
+            <lb ed="#P" n="43" type="fixed=266"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/474,196,444,229/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A E F C D B A E F C D B</seg>
@@ -14717,9 +14703,8 @@
             <lb ed="#P" n="29"/>est magnes, remanebuntque ita vnita, nulla pugna; at verò si
             <lb ed="#P" n="30"/>remoueatur magnes immotis versorijs, non amplius con¬
             <!--290.xml-->
-            <pb ed="#P" n="271"/>
-         <lb ed="#P" n="31"/>
-         <figure>
+            <lb ed="#P" n="31" type="fixed=271"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/86,1012,712,226/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">D D C A B D D C A B</seg>
@@ -15067,9 +15052,8 @@
             <lb ed="#P" n="41"/>illa qualitate, licet exigua, quae per medium circumquaque dffunditur à to¬
             <lb ed="#P" n="42"/>ta tellure, &amp; illam convenienti ratione excipiat, iuveturque potius ab illa, quam
             <!--297.xml-->
-            <pb ed="#P" n="278"/>
-         <lb ed="#P" n="43"/>
-         <figure>
+            <lb ed="#P" n="43" type="fixed=278"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/605,210,338,489/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A B A B</seg>
@@ -15376,9 +15360,8 @@
         </p>
       <p>
             <!--303.xml-->
-         <pb ed="#P" n="284"/>
-         <lb ed="#P" n="40"/>
-         <figure>
+         <lb ed="#P" n="40" type="fixed=284"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/542,203,341,385/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">C E A D B C E A D B</seg>
@@ -15479,9 +15462,8 @@
             <lb ed="#P" n="39"/>ergo magnes A. B. ita ex B. disseminat virtutem magneticam per suae activi¬
             <lb ed="#P" n="40"/>tatis sphaeram, ut proportionali ratione exeat ab ipso magnete, qua est in
             <!--305.xml-->
-            <pb ed="#P" n="286"/>
-         <lb ed="#P" n="41"/>
-         <figure>
+            <lb ed="#P" n="41" type="fixed=286"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/448,495,483,188/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">D C B A D C B A</seg>
@@ -15639,9 +15621,8 @@
             <lb ed="#P" n="39"/>lae dirigebantur ad eundem polum puta ad Austrum, &amp; singulae partes acce¬
             <lb ed="#P" n="40"/>ptae contraria ratione à B. ad A. vim habebant dirigendi se ad Septen¬
             <!--308.xml-->
-            <pb ed="#P" n="289"/>
-         <lb ed="#P" n="41"/>
-         <figure>
+            <lb ed="#P" n="41" type="fixed=289"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/362,190,420,360/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">C A D B C A D B</seg>
@@ -15779,9 +15760,8 @@
             <lb ed="#P" n="22"/>ita videbitur contrarium occupare situm, si versorium collocetur supra, at¬
             <lb ed="#P" n="23"/>que collocetur ad alterum extremorum magnetis. Res tamen eadem est, ab
             <!--311.xml-->
-            <pb ed="#P" n="292"/>
-         <lb ed="#P" n="24"/>
-         <figure>
+            <lb ed="#P" n="24" type="fixed=292"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/238,787,683,394/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A B A B</seg>
@@ -15842,9 +15822,8 @@
             <lb ed="#P" n="39"/>tis solae facies oppositae simul confluant, ideo C. libenter copulatur cum D.
             <lb ed="#P" n="40"/>quoniam autem A, &amp; B. sunt facies oppositae, eadem facilitate, &amp; ijs naturae
             <!--312.xml-->
-            <pb ed="#P" n="293"/>
-         <lb ed="#P" n="41"/>
-         <figure>
+            <lb ed="#P" n="41" type="fixed=293"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/336,749,437,254/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A C D B A C D B</seg>
@@ -15949,9 +15928,8 @@
             <lb ed="#P" n="41"/>aliqua tamen est, &amp; ab illa, si sibi adversetur timet: &amp; in illo casu durat ra¬
             <lb ed="#P" n="42"/>tio superius posita, prout ibi est exposita; nam pariter licet non aequali vi B.
             <!--314.xml-->
-            <pb ed="#P" n="295"/>
-         <lb ed="#P" n="43"/>
-         <figure>
+            <lb ed="#P" n="43" type="fixed=295"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/494,178,347,187/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">G E A B C D H F G E A B C D H F</seg>
@@ -16006,9 +15984,8 @@
             <lb ed="#P" n="40"/>situ, uti supra explicatum est, nec facies similes ad eandem partem dirigen¬
             <lb ed="#P" n="41"/>tur. at vero versoria, quia habent centrum immobile, &amp; solum moveri pos¬
             <!--315.xml-->
-            <pb ed="#P" n="296"/>
-         <lb ed="#P" n="42"/>
-         <figure>
+            <lb ed="#P" n="42" type="fixed=296"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/654,187,279,138/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A B C D A B C D</seg>
@@ -16070,9 +16047,8 @@
         </p>
       <p>
             <!--316.xml-->
-         <pb ed="#P" n="297"/>
-         <lb ed="#P" n="40"/>
-         <figure>
+         <lb ed="#P" n="40" type="fixed=297"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/516,571,271,166/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text"/>
@@ -16122,9 +16098,8 @@
             <lb ed="#P" n="26"/>ubi propius esse incęperit; &amp; quidem quam brevissima poterit via. Quia au¬
             <lb ed="#P" n="27"/>tem brevior longè est via procedendo deorsum versum ad H. existente polo
             <!--317.xml-->
-            <pb ed="#P" n="298"/>
-         <lb ed="#P" n="28"/>
-         <figure>
+            <lb ed="#P" n="28" type="fixed=298"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/261,431,605,329/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A H B C F D I E A H B C F D I E</seg>
@@ -16180,9 +16155,8 @@
             <lb ed="#P" n="41"/>E. B. retinendo in eodem semper situ illam in ordine ad polos universi, &amp; iam
             <lb ed="#P" n="42"/>statim crux descendere incipiet ad polum B. sibi amicum, &amp; paulatim, dum
             <!--318.xml-->
-            <pb ed="#P" n="299"/>
-         <lb ed="#P" n="43"/>
-         <figure>
+            <lb ed="#P" n="43" type="fixed=299"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/320,740,451,262/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">D C D C B E A F D C D C D C B E A F D C</seg>
@@ -16341,9 +16315,8 @@
             <lb ed="#P" n="41"/>tum scribere, qui est inclusus carcere, satis futurum sit, si accepta pyxide diri¬
             <lb ed="#P" n="42"/>gat cuspidem ad singulas literas, quibus verba illa efformantur, quibus ami¬
             <!--321.xml-->
-            <pb ed="#P" n="302"/>
-         <lb ed="#P" n="43"/>
-         <figure>
+            <lb ed="#P" n="43" type="fixed=302"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/563,215,371,364/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text"/>
@@ -16588,9 +16561,8 @@
             <lb ed="#P" n="41"/>&amp; quidem tantum praecisè, quantum remitteretur de virtute ab adventitio
             <lb ed="#P" n="42"/>magnete diffusa. Retinetur enim quodammodo, si sic loqui liceret, contra
             <!--326.xml-->
-            <pb ed="#P" n="307"/>
-         <lb ed="#P" n="43"/>
-         <figure>
+            <lb ed="#P" n="43" type="fixed=307"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/298,437,481,181/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">C B A C B A</seg>
@@ -16692,9 +16664,8 @@
             <lb ed="#P" n="41"/>sorij in determinatis locis constet non solum magnetem per medium vir¬
             <lb ed="#P" n="42"/>tutem propagare, sed propagare etiam recta via ubique, &amp; per rectos radios,
             <!--328.xml-->
-            <pb ed="#P" n="309"/>
-         <lb ed="#P" n="43"/>
-         <figure>
+            <lb ed="#P" n="43" type="fixed=309"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/341,527,464,511/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">B A F D O G C B A F D O G C</seg>
@@ -17038,9 +17009,8 @@
       <p>
          <lb ed="#P" n="31"/>Ratio igitur cur sic efformetur pulvis, illa est, quia postquam iam prima
             <!--335.xml-->
-            <pb ed="#P" n="316"/>
-         <lb ed="#P" n="32"/>
-         <figure>
+            <lb ed="#P" n="32" type="fixed=316"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/256,240,600,213/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">D C A B D C A B</seg>
@@ -17147,9 +17117,8 @@
             <lb ed="#P" n="39"/>enim partem D. impel¬
             <lb ed="#P" n="40"/>las C. versus, etiam si so¬
             <!--337.xml-->
-            <pb ed="#P" n="318"/>
-         <lb ed="#P" n="41"/>
-         <figure>
+            <lb ed="#P" n="41" type="fixed=318"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/467,1067,481,248/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">B A C D B A C D</seg>
@@ -17256,9 +17225,8 @@
             <lb ed="#P" n="38"/>rum non excitet, ne dum ulla, quae auferat collatam virtutem: multo minus
             <lb ed="#P" n="39"/>eodem magnetis extremo ex sola diversa ferri super illud ductatione potest,
             <!--339.xml-->
-            <pb ed="#P" n="320"/>
-         <lb ed="#P" n="40"/>
-         <figure>
+            <lb ed="#P" n="40" type="fixed=320"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/575,175,332,581/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text"/>
@@ -17314,9 +17282,8 @@
             <lb ed="#P" n="41"/>tum ducitur, &amp; reducitur gladius: non ergo per istos duos contactus potuit
             <lb ed="#P" n="42"/>verticitas mmutari. ergo, cum non suspendat amplius, quod prius suspen¬
             <!--340.xml-->
-            <pb ed="#P" n="321"/>
-         <lb ed="#P" n="43"/>
-         <figure>
+            <lb ed="#P" n="43" type="fixed=321"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/386,174,392,457/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">D C A B D C A B</seg>
@@ -17326,9 +17293,8 @@
             <figDesc/>
          </figure>
          <!--340.xml-->
-         <pb ed="#P" n="321"/>
-         <lb ed="#P" n="44"/>
-         <figure>
+         <lb ed="#P" n="44" type="fixed=321"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/459,711,301,231/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">C D B A C D B A</seg>
@@ -17368,9 +17334,8 @@
         </p>
       <p>
             <!--341.xml-->
-         <pb ed="#P" n="322"/>
-         <lb ed="#P" n="25"/>
-         <figure>
+         <lb ed="#P" n="25" type="fixed=322"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/181,311,761,484/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">E D C A D C F E D C A D C F</seg>
@@ -17422,9 +17387,8 @@
             <lb ed="#P" n="30"/>gnete. Quod si quis obijciat universam philosophiam reclamare. Primo .n.
             <lb ed="#P" n="31"/>sphera activitatis procedit uniformiter difformiter ergo impossibile est, quod
             <!--342.xml-->
-            <pb ed="#P" n="323"/>
-         <lb ed="#P" n="32"/>
-         <figure>
+            <lb ed="#P" n="32" type="fixed=323"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/136,692,602,242/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">E C A B E C A B</seg>
@@ -17658,9 +17622,8 @@
             <lb ed="#P" n="29"/>inferatur illa consequentia, nam verum quidem est excitari obelum C. à po¬
             <lb ed="#P" n="30"/>lo E. non solum in parte tacta, sed etiam in aversa: excitatur tamen minus,
             <!--347.xml-->
-            <pb ed="#P" n="328"/>
-         <lb ed="#P" n="31"/>
-         <figure>
+            <lb ed="#P" n="31" type="fixed=328"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/350,823,518,313/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A E C D B A E C D B</seg>
@@ -17755,9 +17718,8 @@
       <p>
          <lb ed="#P" n="31"/>His suppositis revertor ad magnetica, &amp; suppono tam magnetem A. quam
             <!--349.xml-->
-            <pb ed="#P" n="330"/>
-         <lb ed="#P" n="32"/>
-         <figure>
+            <lb ed="#P" n="32" type="fixed=330"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/224,238,665,222/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">D M N C I L G H A E B F D M N C I L G H A E B F</seg>
@@ -17801,9 +17763,8 @@
             <lb ed="#P" n="29"/>cum sit maior, potest in eadem distantia roborare alterum ut duo, in qua di¬
             <lb ed="#P" n="30"/>stantia ipse ab altero non roboratur, nisi ut unum. Ergo praecisè ex parte ma
             <!--350.xml-->
-            <pb ed="#P" n="331"/>
-         <lb ed="#P" n="31"/>
-         <figure>
+            <lb ed="#P" n="31" type="fixed=331"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/212,182,533,302/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A E C D B L A E C D B L</seg>
@@ -17849,9 +17810,8 @@
             <lb ed="#P" n="29"/>men maius, quod ab utroque actu dependet, quamvis non dicatur intensius,
             <lb ed="#P" n="30"/>quia illuminatio est quędam actio, quę non solum pendet pręcisè ab agen¬
             <!--351.xml-->
-            <pb ed="#P" n="332"/>
-         <lb ed="#P" n="31"/>
-         <figure>
+            <lb ed="#P" n="31" type="fixed=332"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/335,224,517,311/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A E C D B A E C D B</seg>
@@ -18003,9 +17963,8 @@
         </p>
       <p>
             <!--354.xml-->
-         <pb ed="#P" n="335"/>
-         <lb ed="#P" n="38"/>
-         <figure>
+         <lb ed="#P" n="38" type="fixed=335"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/575,390,201,565/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text"/>
@@ -18166,9 +18125,8 @@
             <lb ed="#P" n="40"/>tatur in locum pristinum, ex quo loco primo incępit motus magneticus.
             <lb ed="#P" n="41"/>Quomodocunque tandem res disponantur, sive in gyrum, sive alia quapiam rationem,
             <!--357.xml-->
-            <pb ed="#P" n="338"/>
-         <lb ed="#P" n="42"/>
-         <figure>
+            <lb ed="#P" n="42" type="fixed=338"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/653,218,284,476/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">C B D C B D</seg>
@@ -18261,9 +18219,8 @@
             <lb ed="#P" n="27"/>ponit non habere vim ductandi, nisi per planum. decidet ergo, &amp; per lineam curvam
             <lb ed="#P" n="28"/>subie¬
             <!--359.xml-->
-            <pb ed="#P" n="340"/>
-         <lb ed="#P" n="29"/>
-         <figure>
+            <lb ed="#P" n="29" type="fixed=340"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/268,241,631,322/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">N E O K H L M P G F S R E I T B A C D Q N E O K H L M P G F S R E I T B A C D Q</seg>
@@ -18310,9 +18267,8 @@
             <lb ed="#P" n="28"/>di. Hic solum meam potius ingenij tarditatem palam faciam, ut aliquis scru
             <lb ed="#P" n="29"/>pulum eximat, quam demonstrationem condemnabo. Omissa igitur Geo¬
             <!--360.xml-->
-            <pb ed="#P" n="341"/>
-         <lb ed="#P" n="30"/>
-         <figure>
+            <lb ed="#P" n="30" type="fixed=341"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/49,213,747,328/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">S P M R K B A S P M R K B A</seg>
@@ -18357,9 +18313,8 @@
             <lb ed="#P" n="28"/>requiretur ergo tunc vis infinita ad sustinendum E. quod est impossibile, vel
             <lb ed="#P" n="29"/>cartè minor requiretur vis ad sustinendum pondus E. in plano perpendicu¬
             <!--361.xml-->
-            <pb ed="#P" n="342"/>
-         <lb ed="#P" n="30"/>
-         <figure>
+            <lb ed="#P" n="30" type="fixed=342"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/278,189,644,323/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">N E M L H K P C R F S E I T B A C D Q N E M L H K P C R F S E I T B A C D Q</seg>
@@ -18447,9 +18402,8 @@
             <lb ed="#P" n="27"/>partem perpendiculariter, &amp; sit V. haec addatur ipsi T. quae intelligi poterit ap
             <lb ed="#P" n="28"/>plicata ad centrum gravitatis illius partis; dico hanc totam esse potentiam,
             <!--363.xml-->
-            <pb ed="#P" n="344"/>
-         <lb ed="#P" n="29"/>
-         <figure>
+            <lb ed="#P" n="29" type="fixed=344"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/252,214,639,322/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">N E M L H K G P F R S E I T B A C D Q V N E M L H K G P F R S E I T B A C D Q V</seg>
@@ -18494,9 +18448,8 @@
             <lb ed="#P" n="28"/>volvi globus ferreus, sed fricari per planum sursum, dum à sua gravitate ro¬
             <lb ed="#P" n="29"/>tatur deorsum: sphaera activitatis magnetis ita crescit, dum acceditur ad ma¬
             <!--364.xml-->
-            <pb ed="#P" n="345"/>
-         <lb ed="#P" n="30"/>
-         <figure>
+            <lb ed="#P" n="30" type="fixed=345"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/70,349,741,347/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">S P M R K B A S P M R K B A</seg>
@@ -19481,9 +19434,8 @@
             <lb ed="#P" n="39"/>non violenter connectatur, sed sponte confluat ex qualitate, quam habet
             <lb ed="#P" n="40"/>in se, &amp; propterea connectatur, ut illam qualitatem firmius, &amp; constantius
             <!--384.xml-->
-            <pb ed="#P" n="365"/>
-         <lb ed="#P" n="41"/>
-         <figure>
+            <lb ed="#P" n="41" type="fixed=365"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/379,567,425,278/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">B D E D G E A B D E D G E A</seg>
@@ -19585,9 +19537,8 @@
             <lb ed="#P" n="41"/>B, ut robustissime haereat A, infirmissimè B, medio modo se habeat C, stando
             <lb ed="#P" n="42"/>praecisè in vi, qua obelus ad magnetem nititur in suum bonum: atque ita illa vis, quae
             <!--386.xml-->
-            <pb ed="#P" n="367"/>
-         <lb ed="#P" n="43"/>
-         <figure>
+            <lb ed="#P" n="43" type="fixed=367"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/507,702,301,348/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A C B F D H E A C B F D H E</seg>
@@ -19641,9 +19592,8 @@
             <lb ed="#P" n="41"/>quia D tangit magnetem, etiam si tangat in puncto aequinoctiali, quod in
             <lb ed="#P" n="42"/>C. procul est, &amp; uterque polus ad illud punctum suam dirigit actionem: ergo
             <!--387.xml-->
-            <pb ed="#P" n="368"/>
-         <lb ed="#P" n="43"/>
-         <figure>
+            <lb ed="#P" n="43" type="fixed=368"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/596,701,313,352/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A C B F D H E A C B F D H E</seg>
@@ -19701,9 +19651,8 @@
         </p>
       <p>
             <!--388.xml-->
-         <pb ed="#P" n="369"/>
-         <lb ed="#P" n="43"/>
-         <figure>
+         <lb ed="#P" n="43" type="fixed=369"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/489,259,291,348/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A C B F D H E A C B F D H E</seg>
@@ -19839,9 +19788,8 @@
         </p>
       <p>
             <!--391.xml-->
-         <pb ed="#P" n="372"/>
-         <lb ed="#P" n="24"/>
-         <figure>
+         <lb ed="#P" n="24" type="fixed=372"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/199,155,700,292/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">B A D D B A D D</seg>
@@ -19946,9 +19894,8 @@
          <lb ed="#P" n="29"/>partem ferri Iatiorem, &amp; crassiorem ut in B. quam si applicetur pars gracilis
             <lb ed="#P" n="30"/>&amp; acuta, ut in A. Res per experientiam vera apparebit. Quod .n. ferrum non ita
             <!--393.xml-->
-            <pb ed="#P" n="374"/>
-         <lb ed="#P" n="31"/>
-         <figure>
+            <lb ed="#P" n="31" type="fixed=374"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/199,930,717,263/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A C C B A C C B</seg>
@@ -20244,9 +20191,8 @@
             <lb ed="#P" n="41"/>versorij utrique polo magnetis convenienter applicari, ut unumquodque
             <lb ed="#P" n="42"/>versorij extremum suum tangat magnetis polum, illud scilicet extremum
             <!--399.xml-->
-            <pb ed="#P" n="380"/>
-         <lb ed="#P" n="43"/>
-         <figure>
+            <lb ed="#P" n="43" type="fixed=380"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/596,293,291,474/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">B C A B C A</seg>
@@ -20383,9 +20329,8 @@
             <lb ed="#P" n="29"/>bus in magnerico corpore saltem usque ad determinatam longitudinem ve
             <lb ed="#P" n="30"/>hementiorem habet; quod tamen dico de bombarda, sit ad exemplum: scio
             <!--402.xml-->
-            <pb ed="#P" n="383"/>
-         <lb ed="#P" n="31"/>
-         <figure>
+            <lb ed="#P" n="31" type="fixed=383"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/91,519,704,290/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A C D B C D A A C D B C D A</seg>
@@ -20538,9 +20483,8 @@
         </p>
       <p>
             <!--405.xml-->
-         <pb ed="#P" n="386"/>
-         <lb ed="#P" n="42"/>
-         <figure>
+         <lb ed="#P" n="42" type="fixed=386"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/625,764,236,587/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">D C E B D C E B</seg>
@@ -20598,9 +20542,8 @@
             <lb ed="#P" n="41"/>sa erat qualitas ibi, quam quando ab altero etiam magnete C. D. in eodem
             <lb ed="#P" n="42"/>medio secundum eandem dimensionem, &amp; situm producetur qualitas. De¬
             <!--406.xml-->
-            <pb ed="#P" n="387"/>
-         <lb ed="#P" n="43"/>
-         <figure>
+            <lb ed="#P" n="43" type="fixed=387"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/397,631,367,269/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A B E C D A B E C D</seg>
@@ -20657,9 +20600,8 @@
             <lb ed="#P" n="42"/>alteri adhaereat. Et si alia res tibi in proximum charitatem non explicat, qua
             <lb ed="#P" n="43"/>homines propter Deum diligimus, vel ex hoc ipso discas; per illam ipsam
             <!--407.xml-->
-            <pb ed="#P" n="388"/>
-         <lb ed="#P" n="44"/>
-         <figure>
+            <lb ed="#P" n="44" type="fixed=388"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/655,675,199,494/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A B E C D A B E C D</seg>
@@ -20758,9 +20700,8 @@
             <lb ed="#P" n="39"/>adventu inferioris magnetis quasi contorqueretur, &amp; veluti contrario actus
             <lb ed="#P" n="40"/>vento sursum pelleretur: At vero si sit ferrum, quod non possit attolli, sed
             <!--409.xml-->
-            <pb ed="#P" n="390"/>
-         <lb ed="#P" n="41"/>
-         <figure>
+            <lb ed="#P" n="41" type="fixed=390"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/461,659,311,538/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A E B C D A E B C D</seg>
@@ -20817,9 +20758,8 @@
             <lb ed="#P" n="40"/>quae facilis est. Cum enim se¬
             <lb ed="#P" n="41"/>cundus magnes agat in medium
             <!--410.xml-->
-            <pb ed="#P" n="391"/>
-         <lb ed="#P" n="42"/>
-         <figure>
+            <lb ed="#P" n="42" type="fixed=391"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/419,888,395,286/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A B E D C A B E D C</seg>
@@ -21015,9 +20955,8 @@
             <lb ed="#P" n="30"/>C. si amoveretur magnes A. B. sed statim decidere: signum ergo est maiorem
             <lb ed="#P" n="31"/>illam virturem, quae inest ferro C. ad sustinendum ferrum E. oriri ex praesen¬
             <!--414.xml-->
-            <pb ed="#P" n="395"/>
-         <lb ed="#P" n="32"/>
-         <figure>
+            <lb ed="#P" n="32" type="fixed=395"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/428,167,311,572/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A C D E F B G A C D E F B G</seg>
@@ -21027,9 +20966,8 @@
             <figDesc/>
          </figure>
          <!--414.xml-->
-         <pb ed="#P" n="395"/>
-         <lb ed="#P" n="33"/>
-         <figure>
+         <lb ed="#P" n="33" type="fixed=395"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/87,972,377,231/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A B A B</seg>
@@ -21039,9 +20977,8 @@
             <figDesc/>
          </figure>
          <!--414.xml-->
-         <pb ed="#P" n="395"/>
-         <lb ed="#P" n="34"/>
-         <figure>
+         <lb ed="#P" n="34" type="fixed=395"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/464,972,357,231/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">E C E C</seg>
@@ -21091,9 +21028,8 @@
         </p>
       <p>
             <!--415.xml-->
-         <pb ed="#P" n="396"/>
-         <lb ed="#P" n="33"/>
-         <figure>
+         <lb ed="#P" n="33" type="fixed=396"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/248,298,639,256/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">C B A C B A</seg>
@@ -21200,9 +21136,8 @@
             <lb ed="#P" n="41"/>lam qualitatem à tellure receptam versorium iuxta leges magneticas trahit.
             <lb ed="#P" n="42"/>Quare effectus iste, quamvis videatur effectus ferri habentis istam differen¬
             <!--417.xml-->
-            <pb ed="#P" n="398"/>
-         <lb ed="#P" n="43"/>
-         <figure>
+            <lb ed="#P" n="43" type="fixed=398"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/616,273,336,273/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">B A B A</seg>
@@ -21240,9 +21175,8 @@
             <lb ed="#P" n="21"/>siti habet virtutem terrae, seu diffusam à terra, ut in Austrum ex lege magne¬
             <lb ed="#P" n="22"/>tica dirigatur, debet trahere partem versorij, quae dirigitur in Septentrio¬
             <!--418.xml-->
-            <pb ed="#P" n="399"/>
-         <lb ed="#P" n="23"/>
-         <figure>
+            <lb ed="#P" n="23" type="fixed=399"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/69,273,763,520/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">D E C C F D A B B A D E C C F D A B B A</seg>
@@ -21397,9 +21331,8 @@
             <lb ed="#P" n="41"/>si instes, esto quod, dum versorium ponitur supra ferrum erectum, dispona¬
             <lb ed="#P" n="42"/>tur ad imperium ferri, nam tunc ferrum est magis, pɹoximum telluri, &amp; con¬
             <!--421.xml-->
-            <pb ed="#P" n="402"/>
-         <lb ed="#P" n="43"/>
-         <figure>
+            <lb ed="#P" n="43" type="fixed=402"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/509,219,401,487/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">C D A B C D A B</seg>
@@ -21516,9 +21449,8 @@
             <lb ed="#P" n="39"/>incredibile enim est quantum augeantur vires sic galeato capite: nam quam¬
             <lb ed="#P" n="40"/>vis non adeo exaggeratum invenerim incrementum, ut crescat in quadru¬
             <!--423.xml-->
-            <pb ed="#P" n="404"/>
-         <lb ed="#P" n="41"/>
-         <figure>
+            <lb ed="#P" n="41" type="fixed=404"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/620,482,293,635/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">D A B D C D D A B D C D</seg>
@@ -21576,9 +21508,8 @@
             <lb ed="#P" n="41"/>lo contactu virtutem acquirit, eam excipiat omnino conformiter ad magne¬
             <lb ed="#P" n="42"/>tem, cui coniungitur quia cum illam ferro inspiret magnes, inspirabit omni¬
             <!--424.xml-->
-            <pb ed="#P" n="405"/>
-         <lb ed="#P" n="43"/>
-         <figure>
+            <lb ed="#P" n="43" type="fixed=405"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/590,251,177,332/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text"/>
@@ -21685,9 +21616,8 @@
             <lb ed="#P" n="39"/>ne incrementum virtutis inve¬
             <lb ed="#P" n="40"/>nio. Sit ergo magnes A. B. cu¬
             <!--426.xml-->
-            <pb ed="#P" n="407"/>
-         <lb ed="#P" n="41"/>
-         <figure>
+            <lb ed="#P" n="41" type="fixed=407"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/400,1027,439,218/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">B A B A</seg>
@@ -21786,9 +21716,8 @@
             <lb ed="#P" n="28"/>ri, etiam dum est intra orbem virtutis magnetis, quam ad virtutem ipsius met
             <lb ed="#P" n="29"/>magnetis, in cuius orbe est, à quo vim concipit ferrum; praesertim si magnes
             <!--428.xml-->
-            <pb ed="#P" n="409"/>
-         <lb ed="#P" n="30"/>
-         <figure>
+            <lb ed="#P" n="30" type="fixed=409"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/227,374,517,253/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A B A B</seg>
@@ -21844,9 +21773,8 @@
             <lb ed="#P" n="41"/>ponitur lamella, illa verticitatem acquiret, ex illo contactu, &amp; si magnes sit
             <lb ed="#P" n="42"/>infirmus exiguę que virtutis, magis se se prodent effectus magnetici in la¬
             <!--429.xml-->
-            <pb ed="#P" n="410"/>
-         <lb ed="#P" n="43"/>
-         <figure>
+            <lb ed="#P" n="43" type="fixed=410"/>
+<figure>
             <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/502,235,411,539/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">D E C C F D A B D E C C F D A B</seg>
