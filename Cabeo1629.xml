@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div>
-   <div>
-      <p><!--4.xml-->
+   <!--<div>
+      <p><!-\-4.xml-\->
          <pb ed="#P" n="f4"/>
          <lb ed="#P" n="1"/>PHILOSOPHIA
         </p>
@@ -53,7 +53,7 @@
             <lb ed="#P" n="18"/>Ferrarię apud Franciscum Succium superiorum pisclsus ibaque
         </p>
       <p>
-            <!--6.xml-->
+            <!-\-6.xml-\->
          <pb ed="#P" n="f6"/>
          <lb ed="#P" n="1"/>REX CHRISTIANISSIME
             <lb ed="#P" n="2"/>MAGNETICAE Philosophiae haud magnum opus
@@ -86,7 +86,7 @@
             <lb ed="#P" n="29"/>Calumnia. At rerum abs te gestarum egregiam hic seriem stylo prose¬
             <lb ed="#P" n="30"/>qui non est animus: satis rupes ipsas victricibus acclamationibus anima¬
             <lb ed="#P" n="31"/>tas reciprocato laudes tuas referre sono; &amp; numerosiore, quam quo Olym¬
-            <!--7.xml-->
+            <!-\-7.xml-\->
             <pb ed="#P" n="f7"/>
          <lb ed="#P" n="1"/>piae quondam porticus congeminare plausu; &amp; mutas cautes bellicis re¬
             <lb ed="#P" n="2"/>spondere clancoribus, atque victorias ore promittere fatidico docuisti. Plu¬
@@ -123,7 +123,7 @@
          <lb ed="#P" n="27"/>Nicolaus Cabeus Soc. Ias v.
         </p>
       <p>
-            <!--8.xml-->
+            <!-\-8.xml-\->
          <pb ed="#P" n="f8"/>
          <lb ed="#P" n="1"/>FACULTAS R. P. PROVINTIALIS
         </p>
@@ -173,7 +173,7 @@
             <lb ed="#P" n="24"/>Inquisit. Ferrariae.
         </p>
       <p>
-            <!--9.xml-->
+            <!-\-9.xml-\->
          <pb ed="#P" n="f9"/>
          <lb ed="#P" n="1"/>INDEX CAPITUM.
         </p>
@@ -235,7 +235,7 @@
             <lb ed="#P" n="54"/>90
             <lb ed="#P" n="55"/>De causa huius magneticae directionis in polos telluris. cap. 24.
             <lb ed="#P" n="56"/>95
-            <!--10.xml-->
+            <!-\-10.xml-\->
             <pb ed="#P" n="f10"/>
          <lb ed="#P" n="1"/>LIBER SECUNDUS De Magnetica directione.
             <lb ed="#P" n="2"/>Ferrum, &amp; magnes se se re ipsa attrahere ostenditur. cap. 1.
@@ -302,7 +302,7 @@
             <lb ed="#P" n="63"/>204
             <lb ed="#P" n="64"/>faciem orientalem, aut occidentalem. cap. 4.
             <lb ed="#P" n="65"/>Non solum inutiliter, sed omnino pernitiosè fit versorium in formam crucis. cap. 5. 207
-            <!--11.xml-->
+            <!-\-11.xml-\->
             <pb ed="#P" n="f11"/>
          <lb ed="#P" n="1"/>Polare facies nunquam per se in magnete mutantur, cap. 6.
             <lb ed="#P" n="2"/>210
@@ -372,7 +372,7 @@
             <lb ed="#P" n="66"/>258
             <lb ed="#P" n="67"/>Versorium accurrit ad lamellae centrum, dum illa centro magnetis polum tangit, &amp; refu¬
             <lb ed="#P" n="68"/>git ab eodem lamellae centro, dum procul removetur magnes, &amp; tamen lamella non mu¬
-            <!--12.xml-->
+            <!-\-12.xml-\->
             <pb ed="#P" n="f12"/>
          <lb ed="#P" n="1"/>tat verticitatem. cap. 27.
             <lb ed="#P" n="2"/>263
@@ -430,7 +430,7 @@
             <lb ed="#P" n="54"/>rum polorum magnetis. cap. 5.
             <lb ed="#P" n="55"/>291
             <lb ed="#P" n="56"/>Si lapis rumpatur in parallelo, &amp; eodem modo, quo prius erant coniunctae partes, libratae
-            <!--13.xml-->
+            <!-\-13.xml-\->
             <pb ed="#P" n="f13"/>
          <lb ed="#P" n="1"/>293
             <lb ed="#P" n="2"/>confluunt, &amp; contraria etiam ratione copulantur, cap. 6.
@@ -499,7 +499,7 @@
             <lb ed="#P" n="65"/>350
             <lb ed="#P" n="66"/>iterum illam acquirere potest, magnes non item, cap 23.
             <lb ed="#P" n="67"/>Vena ferri imbecillis; &amp; iners post longam ignitionem verticitatem concipit etiam nullum
-            <!--14.xml-->
+            <!-\-14.xml-\->
             <pb ed="#P" n="f14"/>
          <lb ed="#P" n="1"/>tangendo magnetem cap. 24.
             <lb ed="#P" n="2"/>354
@@ -569,7 +569,7 @@
             <lb ed="#P" n="66"/>403
             <lb ed="#P" n="67"/>ter, sive in parallelo, trahet diversam versorij extremitatem cap. 42.
             <lb ed="#P" n="68"/>Magnes iuvatur maxime ad suspendendum ferrum ex coniunctione cum ferro, magis etiam
-            <!--15.xml-->
+            <!-\-15.xml-\->
             <pb ed="#P" n="f15"/>
          <lb ed="#P" n="1"/>404
             <lb ed="#P" n="2"/>quàm ex coniunctione cum altero magnete. cap. 43.
@@ -586,7 +586,9 @@
             <lb ed="#P" n="13"/>Indicis Capitum Finis.
         </p>
    </div>
-   <div>
+   -->
+  <div alias="praefatio">
+    <head>Praefatio</head>
       <p>
             <!--16.xml-->
          <pb ed="#P" n="f16"/>
@@ -1047,9 +1049,9 @@
             <lb ed="#P" n="20"/>mum sibi relictus erit, redibit ad antiquum locum.
             <lb ed="#P" n="44" type="fixed=6"/>
             <figure>
-              <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/923,140,-410,436/full/0/default.jpg"/>
+              <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869749/1300,355,1039,1105/full/0/default.jpg"/>
               <ab type="figure-details">
-                <seg type="figure-text">A F C B E D A F C B E D</seg>
+                <seg type="figure-text">A F C B E D</seg>
                 <seg type="figure-ideas"/>
                 <seg type="transkribus-id">900522-34375363-r5</seg>
               </ab>
@@ -1078,9 +1080,9 @@
             <lb ed="#P" n="39"/>cere vult, altera Austrum.
             <lb ed="#P" n="45" type="fixed=6"/>
          <figure>
-              <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/934,833,-402,430/full/0/default.jpg"/>
-              <ab type="figure-details">
-                <seg type="figure-text">A C D B A C D B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869749/1348,2111,1019,1089/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A C D B</seg>
                 <seg type="figure-ideas"/>
                 <seg type="transkribus-id">900522-34375363-r6</seg>
               </ab>
@@ -1136,9 +1138,9 @@
             <lb ed="#P" n="38"/>tibus licebit inferre.
             <lb ed="#P" n="43" type="fixed=7"/>
             <figure>
-              <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/418,633,432,267/full/0/default.jpg"/>
+              <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869750/1059,1604,1095,677/full/0/default.jpg"/>
               <ab type="figure-details">
-                <seg type="figure-text">B A C D F E B A C D F E</seg>
+                <seg type="figure-text">B A C D F E</seg>
                 <seg type="figure-ideas"/>
                 <seg type="transkribus-id">900522-34375364-r5</seg>
               </ab>
@@ -1232,21 +1234,20 @@
             <lb ed="#P" n="26"/>protracti, qua primum à natura fuerunt dispositi in toto ligno; ita in qua¬
             <lb ed="#P" n="27"/>libet quantumcumque exigua magnetis particula sunt istae facies, sed ea
             <lb ed="#P" n="28"/>ratione fitùque dispositae, quem primum à natura obtinuerunt in isto lapide.
-        <lb ed="#P" n="29"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/116,724,232,328/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">C D C D</seg>
+        <!-- doesn't need type fixed because it is in order -->
+        <lb ed="#P" n="29"/><figure>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869752/294,1835,588,831/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">C D</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375367-r6</seg>
             </ab>
             <figDesc/>
          </figure>
-         <lb ed="#P" n="30"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/408,772,435,238/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C B A C B</seg>
+         <lb ed="#P" n="30"/><figure>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869752/1034,1956,1102,603/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A C B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375367-r7</seg>
             </ab>
@@ -1313,20 +1314,20 @@
             <lb ed="#P" n="9"/>magnete, per quam natura ipsa vires extendit.
         <lb ed="#P" n="23" type="fixed=11"/>
         <figure>
-           <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/97,304,424,254/full/0/default.jpg"/>
-           <ab type="figure-details">
-              <seg type="figure-text">B S D A B S D A</seg>
+          <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869754/246,770,1074,644/full/0/default.jpg"/>
+          <ab type="figure-details">
+            <seg type="figure-text">B S D A</seg>
               <seg type="figure-ideas"/>
               <seg type="transkribus-id">900522-34375370-r5</seg>
            </ab>
            <figDesc/>
         </figure>
-        <!--30.xml-->        
+        <!--30.xml-->
         <lb ed="#P" n="24" type="fixed=11"/>
         <figure>
-           <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/569,174,292,476/full/0/default.jpg"/>
-           <ab type="figure-details">
-              <seg type="figure-text">I P O R Q M I P O R Q M</seg>
+          <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869754/1442,441,740,1206/full/0/default.jpg"/>
+          <ab type="figure-details">
+            <seg type="figure-text">I P O R Q M</seg>
               <seg type="figure-ideas"/>
               <seg type="transkribus-id">900522-34375370-r6</seg>
            </ab>
@@ -1380,9 +1381,9 @@
             <lb ed="#P" n="20"/>virtutem excurrere per A. B.
          <lb ed="#P" n="43" type="fixed=12"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/459,686,471,546/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A M C H B G D F A M C H B G D F</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869755/1163,1738,1194,1384/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A M C H B G D F</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375372-r5</seg>
             </ab>
@@ -1476,9 +1477,9 @@
             <lb ed="#P" n="11"/>cendis suo loco.
          <lb ed="#P" n="43" type="fixed=14"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/512,447,420,624/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">M A B K H L I E F D G M A B K H L I E F D G</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869757/1297,1133,1065,1581/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">M A B K H L I E F D G</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375375-r5</seg>
             </ab>
@@ -1546,9 +1547,9 @@
             <lb ed="#P" n="22"/>polaria magnetica.
          <lb ed="#P" n="43" type="fixed=15"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/440,699,386,418/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">G D F E A C G D F E A C</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869758/1115,1771,978,1059/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">G D F E A C</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375376-r6</seg>
             </ab>
@@ -1621,9 +1622,9 @@
             <lb ed="#P" n="36"/>tis magneticae.
          <lb ed="#P" n="43" type="fixed=16"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/526,458,421,535/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">O S B A O S B A</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869759/1333,1161,1067,1355/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">O S B A</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375378-r5</seg>
             </ab>
@@ -1674,9 +1675,9 @@
             <lb ed="#P" n="28"/>biacet in septentrionem vertetur D. in austrum collimabit.
             <lb ed="#P" n="45" type="fixed=17"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/428,211,417,493/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">F A D C E B F A D C E B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869760/1085,535,1056,1249/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">F A D C E B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375379-r6</seg>
             </ab>
@@ -1692,9 +1693,9 @@
             <lb ed="#P" n="33"/>gat.
          <lb ed="#P" n="46" type="fixed=17"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/406,843,425,381/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text"/>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869760/1029,2136,1077,966/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text"/>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375379-region_1630484260871_1598</seg>
             </ab>
@@ -1737,9 +1738,9 @@
             <lb ed="#P" n="19"/>satis expedita via est ad polos inveniendos.
          <lb ed="#P" n="43" type="fixed=18"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/495,354,430,200/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">B A B A</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869761/1254,897,1090,507/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">B A</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375381-r4</seg>
             </ab>
@@ -1756,9 +1757,9 @@
       <p>
          <lb ed="#P" n="44" type="fixed=18"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/490,814,390,437/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A B G C E F A B G C E F</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869761/1242,2063,988,1107/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A B G C E F</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375381-r5</seg>
             </ab>
@@ -2136,9 +2137,9 @@
       <p>
          <lb ed="#P" n="43" type="fixed=25"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/561,1045,269,232/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">C A D B C A D B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869768/1422,2648,681,588/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">C A D B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375392-r6</seg>
             </ab>
@@ -2577,9 +2578,9 @@
       <p>
          <lb ed="#P" n="43" type="fixed=34"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/558,672,346,593/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text"/>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869777/1414,1703,877,1503/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text"/>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375405-region_1630484346204_1673</seg>
             </ab>
@@ -3123,11 +3124,11 @@
             <lb ed="#P" n="14"/>aliqua in obelo sit facta interna mutatio; cum nunc ad contrarias se con¬
             <lb ed="#P" n="15"/>vertat partes, atque antea. Sed non pluribus pugno, quia nullus, ut arbi¬
             <lb ed="#P" n="16"/>tror, repugnabit.
-         <lb ed="#P" n="44" type="fixed=11"/>
+         <lb ed="#P" n="44" type="fixed=44"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/488,147,324,227/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A B A B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869787/1237,372,821,576/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375422-r5</seg>
             </ab>
@@ -3135,7 +3136,7 @@
          </figure>
         </p>
       <p>
-         <lb ed="#P" n="17" type="fixed=11"/>Verum adhuc subdo hanc mutationem ex eo ortam esse, quod vim acti¬
+         <lb ed="#P" n="17" type="fixed=44"/>Verum adhuc subdo hanc mutationem ex eo ortam esse, quod vim acti¬
             <lb ed="#P" n="18"/>vam receperit ad motum, non autem ex eo tantum, quod dispositionem
             <lb ed="#P" n="19"/>passivam ad hoc habuerit. nullus illorum repugnabit, qui magneticam tra¬
             <lb ed="#P" n="20"/>ctarunt philosophiam, nec alius, nisi fortasse sciolus aliquis, qui res inge¬
@@ -3251,10 +3252,10 @@
         </p>
       <p>
          <lb ed="#P" n="41" type="fixed=47"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/491,873,320,416/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">B A B A</seg>
+        <figure>
+          <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869790/1244,2212,811,1054/full/0/default.jpg"/>
+          <ab type="figure-details">
+            <seg type="figure-text">B A</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375425-r5</seg>
             </ab>
@@ -3346,10 +3347,10 @@
         </p>
       <p>
          <lb ed="#P" n="43" type="fixed=49"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/406,332,394,560/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">C F E B C F E B</seg>
+        <figure>
+        <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869792/1029,841,998,1419/full/0/default.jpg"/>
+        <ab type="figure-details">
+          <seg type="figure-text">C F E B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375428-r6</seg>
             </ab>
@@ -3418,9 +3419,9 @@
       <p>
          <lb ed="#P" n="43" type="fixed=50"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/497,763,450,410/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">H F A L T G E D C R N Q P S H F A L T G E D C R N Q P S</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869793/1259,1933,1141,1039/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">H F A L T G E D C R N Q P S</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375430-r5</seg>
             </ab>
@@ -3458,9 +3459,9 @@
       <p>
          <lb ed="#P" n="41" type="fixed=51"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/418,309,415,462/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">C A D B F E C A D B F E</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869794/1059,783,1052,1171/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">C A D B F E</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375431-r6</seg>
             </ab>
@@ -3531,9 +3532,9 @@
       <p>
          <lb ed="#P" n="43" type="fixed=52"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/473,840,454,442/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">C A D B M E I N H G F C A D B M E I N H G F</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869795/1199,2129,1150,1120/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">C A D B M E I N H G F</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375433-r5</seg>
             </ab>
@@ -3598,9 +3599,9 @@
       <p>
          <lb ed="#P" n="43" type="fixed=53"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/492,808,338,337/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A B D C E A B D C E</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869796/1247,2047,856,854/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A B D C E</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375434-r6</seg>
             </ab>
@@ -3653,9 +3654,9 @@
       <p>
          <lb ed="#P" n="43" type="fixed=54"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/521,831,420,420/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C B D E F G H I K M N A C B D E F G H I K M N</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869797/1320,2106,1064,1064/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A C B D E F G H I K M N</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375436-r5</seg>
             </ab>
@@ -3859,9 +3860,9 @@
       <p>
          <lb ed="#P" n="23" type="fixed=58"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/226,763,665,526/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">Septentrio Oriens Meridies Oci C E D A F B F C F E E D A F E B Septentrio Oriens Meridies Oci C E D A F B F C F E E D A F E B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869801/573,1933,1685,1333/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">Septentrio Oriens Meridies Oci C E D A F B F C F E E D A F E B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375442-r5</seg>
             </ab>
@@ -4096,9 +4097,9 @@
       <p>
          <lb ed="#P" n="43" type="fixed=63"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/421,1062,434,194/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C B D A C B D</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869806/1067,2691,1100,492/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A C B D</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375449-r6</seg>
             </ab>
@@ -4195,9 +4196,9 @@
             <lb ed="#P" n="13"/>ad A.
          <lb ed="#P" n="43" type="fixed=65"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/366,132,445,463/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">L I M A C B D G O L I M A C B D G O</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869808/927,334,1128,1174/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">L I M A C B D G O</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375452-r6</seg>
             </ab>
@@ -4353,9 +4354,9 @@
             <lb ed="#P" n="11"/>terrae, tota terra movetur, &amp; nutat.
          <lb ed="#P" n="43" type="fixed=68"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/535,658,349,374/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">B A D C B A D C</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869811/1356,1667,884,948/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">B A D C</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375457-r5</seg>
             </ab>
@@ -4888,9 +4889,9 @@
             <lb ed="#P" n="13"/>pendiculariter collocatum sit instrumentum;
          <lb ed="#P" n="15" type="fixed=79"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/75,140,742,772/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">B A B A</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869822/190,355,1880,1956/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">B A</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375474-r5</seg>
             </ab>
@@ -4975,9 +4976,9 @@
       <p>
          <lb ed="#P" n="43" type="fixed=81"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/412,908,389,346/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">C A D B C A D B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869824/1044,2301,986,877/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">C A D B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375477-r4</seg>
             </ab>
@@ -5092,10 +5093,10 @@
             <lb ed="#P" n="29"/>nis, cuius directionem quaerimus intervallo facto semper usque ad polum
             <lb ed="#P" n="30"/>oppositum L. &amp; terminato usque ad arcum B. M. N.
          <lb ed="#P" n="43" type="fixed=83"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/315,169,490,498/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">L A C D G O I P E H F B R M S N L A C D G O I P E H F B R M S N</seg>
+        <figure>
+          <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869826/798,428,1242,1262/full/0/default.jpg"/>
+          <ab type="figure-details">
+            <seg type="figure-text">L A C D G O I P E H F B R M S N</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375480-r5</seg>
             </ab>
@@ -5237,9 +5238,9 @@
             <lb ed="#P" n="18"/>cuius numero habebis altitudinem poli.
          <lb ed="#P" n="19" type="fixed=86"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/252,316,622,601/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">C A B D C A B D</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869829/639,801,1576,1523/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">C A B D</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375486-r6</seg>
             </ab>
@@ -5274,16 +5275,15 @@
       <p>
          <lb ed="#P" n="16" type="fixed=87"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/174,601,578,658/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">B G F M B G F M</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869830/441,1523,1465,1667/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">B G F M</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375487-r6</seg>
             </ab>
             <figDesc/>
          </figure>
          <lb ed="#P" n="15" type="fixed=87"/>Sume igitur globum magneticum convenientis magnitudinis: immo
-           
          <!--107.xml-->
          <pb ed="#P" n="88"/>
          <lb ed="#P" n="1"/>quò magnitudo erit maior, eo cognoscere poteris rem, quam quaeris, accu¬
@@ -5365,9 +5365,9 @@
             <lb ed="#P" n="29"/>bam, &amp; pugnix eius durities saepe etiam imperium detrectavit.
          <lb ed="#P" n="43" type="fixed=89"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/399,437,383,371/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">D C I A B H E G D C I A B H E G</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869832/1011,1107,971,940/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">D C I A B H E G</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375490-r6</seg>
             </ab>
@@ -5549,9 +5549,9 @@
       <p>
          <lb ed="#P" n="22" type="fixed=93"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/27,759,871,478/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">Nova Zebla EUROPA AMERICA Galia Germa¬ nia Tartari Asia mi: Hispa¬ nia ASIA Mexicum Mare Medite Persia China Arabia India M: Rubrum Mare del Sur. AFRICA Oceanus Indicus Moluche Peruvium Brasilis C. bene spei TERRA AUSTRALIS INCOGNITA Nova Zebla EUROPA AMERICA Galia Germa¬ nia Tartari Asia mi: Hispa¬ nia ASIA Mexicum Mare Medite Persia China Arabia India M: Rubrum Mare del Sur. AFRICA Oceanus Indicus Moluche Peruvium Brasilis C. bene spei TERRA AUSTRALIS INCOGNITA</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869836/68,1923,2208,1212/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">Nova Zebla EUROPA AMERICA Galia Germa<!--break-->nia Tartari Asia mi: Hispa¬ nia ASIA Mexicum Mare Medite Persia China Arabia India M: Rubrum Mare del Sur. AFRICA Oceanus Indicus Moluche Peruvium Brasilis C. bene spei TERRA AUSTRALIS INCOGNITA</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375496-r5</seg>
             </ab>
@@ -5694,9 +5694,9 @@
             <lb ed="#P" n="20"/>ne, qua agere solet.
          <lb ed="#P" n="23" type="fixed=96"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/356,821,442,437/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">C E A F B D C E A F B D</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869839/902,2080,1120,1108/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">C E A F B D</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375501-r5</seg>
             </ab>
@@ -6283,11 +6283,10 @@
             <lb ed="#P" n="27"/>suadet.
         </p>
       <p>
-         <lb ed="#P" n="42" type="fixed=109"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/334,951,478,354/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C D G B A C D G B</seg>
+         <lb ed="#P" n="42" type="fixed=109"/><figure>
+        <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869852/846,2410,1212,897/full/0/default.jpg"/>
+        <ab type="figure-details">
+          <seg type="figure-text">A C D G B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375521-r6</seg>
             </ab>
@@ -6332,9 +6331,9 @@
             <lb ed="#P" n="19"/>nalis, altera opposita esset septentrionalis.
          <lb ed="#P" n="43" type="fixed=110"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/527,171,429,238/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C D B A C D B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869853/1335,433,1088,603/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A C D B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375522-r5</seg>
             </ab>
@@ -6344,9 +6343,9 @@
       <p>
          <lb ed="#P" n="44" type="fixed=110"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/505,683,459,369/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C G D B A C G D B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869853/1280,1731,1163,935/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A C G D B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375522-r6</seg>
             </ab>
@@ -6434,9 +6433,9 @@
             <lb ed="#P" n="2"/>aut retroagit, sed circulariter convertit.
          <lb ed="#P" n="11" type="fixed=112"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/201,238,747,419/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">D A C B D A C B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869855/509,603,1893,1062/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">D A C B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375525-r6</seg>
             </ab>
@@ -6457,9 +6456,9 @@
          <!--131.xml-->
          <lb ed="#P" n="12" type="fixed=112"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/204,891,744,457/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">B A C D B A C D</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869855/517,2258,1885,1158/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">B A C D</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375525-r7</seg>
             </ab>
@@ -6467,9 +6466,6 @@
          </figure>
         </p>
       <p>
-            <!--131.xml-->
-         
-        
          <!--132.xml-->
          <pb ed="#P" n="113"/>
          <lb ed="#P" n="1"/>Sume lapidem A. B. &amp; in vasculo ita dispone, ut pars illa lapidis in qua
@@ -6490,9 +6486,9 @@
       <p>
          <lb ed="#P" n="43" type="fixed=113"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/432,714,398,347/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">D A C B D A C B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869856/1095,1809,1008,880/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">D A C B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375527-r6</seg>
             </ab>
@@ -6567,9 +6563,9 @@
             <lb ed="#P" n="35"/>fatiscat, adhaereat, ut poterit probari experientia.
          <lb ed="#P" n="43" type="fixed=114"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/553,276,407,362/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">D A C B D A C B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869857/1401,699,1032,918/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">D A C B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375528-r5</seg>
             </ab>
@@ -7084,9 +7080,9 @@
             <lb ed="#P" n="3"/>medio durissimo corpore agit, qua ageret medio aëre.
          <lb ed="#P" n="31" type="fixed=125"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/72,258,728,307/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">B A I C D B A I C D</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869868/182,654,1845,778/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">B A I C D</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375545-r7</seg>
             </ab>
@@ -7437,9 +7433,9 @@
       <p>
          <lb ed="#P" n="29" type="fixed=132"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/228,807,702,246/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">B A D C B A D C</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869875/578,2045,1779,623/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">B A D C</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375556-r6</seg>
             </ab>
@@ -7492,9 +7488,9 @@
       <p>
          <lb ed="#P" n="31" type="fixed=133"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/121,924,692,275/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A B C D A B C D</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869876/307,2341,1753,697/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A B C D</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375558-r7</seg>
             </ab>
@@ -7597,9 +7593,9 @@
       <p>
          <lb ed="#P" n="31" type="fixed=135"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/74,1041,751,214/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">C Septentrionalis Qualitas in medio Australis. A Septentrionalis Qualitas in magnete Australis. B Septentrionalis Qualitas in medio Australis. D C Septentrionalis Qualitas in medio Australis. A Septentrionalis Qualitas in magnete Australis. B Septentrionalis Qualitas in medio Australis. D</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869878/188,2638,1903,542/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">C Septentrionalis Qualitas in medio Australis. A Septentrionalis Qualitas in magnete Australis. B Septentrionalis Qualitas in medio Australis. D</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375561-r6</seg>
             </ab>
@@ -7658,9 +7654,9 @@
             <lb ed="#P" n="33"/>ad A. nihil vero confert B. versus.
          <lb ed="#P" n="43" type="fixed=136"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/496,442,464,436/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">4 A B C N M R L I D P O E F G V 4 A B C N M R L I D P O E F G V</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869879/1257,1120,1176,1105/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">4 A B C N M R L I D P O E F G V</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375562-r5</seg>
             </ab>
@@ -7802,9 +7798,9 @@
             <lb ed="#P" n="16"/>semper enim pars E. ad septentrionem verget F. ad meridiem.
          <lb ed="#P" n="32" type="fixed=139"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/74,262,742,268/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">D F E B A D F E B A</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869882/188,664,1880,679/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">D F E B A</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375567-r6</seg>
             </ab>
@@ -7855,9 +7851,9 @@
             <lb ed="#P" n="20"/>set, se à plebe philosophantium exemisset.
          <lb ed="#P" n="43" type="fixed=140"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/477,214,452,411/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">B C A D N M I. I F G H B C A D N M I. I F G H</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869883/1209,542,1145,1042/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">B C A D N M I. I F G H</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375569-r5</seg>
             </ab>
@@ -7976,9 +7972,9 @@
             <lb ed="#P" n="33"/>quam in polo, si convenienter obelus apponatur.
          <lb ed="#P" n="44" type="fixed=142"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/478,376,458,420/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">B C A D N M I I F G H B C A D N M I I F G H</seg>
+             <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869884/1211,953,1161,1064/full/0/default.jpg"/>
+             <ab type="figure-details">
+               <seg type="figure-text">B C A D N M I I F G H</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375572-r5</seg>
             </ab>
@@ -8098,9 +8094,9 @@
             <lb ed="#P" n="38"/>radios.
          <lb ed="#P" n="42" type="fixed=144"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/497,605,477,307/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A B S S S S S M S M M M M M M S M S S S S S M S M A B S S S S S M S M M M M M M S M S S S S S M S M</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869887/1259,1533,1209,778/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A B S S S S S M S M M M M M M S M S S S S S M S M</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375575-r5</seg>
             </ab>
@@ -8193,9 +8189,9 @@
       <p>
          <lb ed="#P" n="43" type="fixed=146"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/570,798,399,279/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C E G B H F D A C E G B H F D</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869889/1444,2022,1011,707/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A C E G B H F D</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375578-r5</seg>
             </ab>
@@ -8297,9 +8293,9 @@
             <lb ed="#P" n="18"/>positum evidenter ex signo à posteriori,
          <lb ed="#P" n="43" type="fixed=148"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/497,258,470,298/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A M C E D B M S S S S S M S M S M M M M M S M S S S S S A M C E D B M S S S S S M S M S M M M M M S M S S S S S</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869891/1259,654,1191,755/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A M C E D B M S S S S S M S M S M M M M M S M S S S S S</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375581-r5</seg>
             </ab>
@@ -8399,9 +8395,9 @@
       <p>
          <lb ed="#P" n="43" type="fixed=150"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/561,446,404,428/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">B C E F A H D T R Q N O S M B C E F A H D T R Q N O S M</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869893/1422,1130,1023,1085/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">B C E F A H D T R Q N O S M</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375584-r5</seg>
             </ab>
@@ -8575,9 +8571,9 @@
       <p>
          <lb ed="#P" n="31" type="fixed=153"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/70,849,711,293/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">C A E R H T B D C A E R H T B D</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869896/177,2151,1802,743/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">C A E R H T B D</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375588-r6</seg>
             </ab>
@@ -8912,9 +8908,9 @@
       <p>
          <lb ed="#P" n="40" type="fixed=160"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/591,741,341,431/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text"/>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869903/1498,1878,864,1092/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text"/>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375599-r5</seg>
             </ab>
@@ -9120,9 +9116,9 @@
             <lb ed="#P" n="26"/>tremum versus radij, septentrionalem ad polum A.
          <lb ed="#P" n="43" type="fixed=164"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/537,179,402,288/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">S A 3 2 1 4 S A 3 2 1 4</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869907/1361,454,1018,729/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">S A 3 2 1 4</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375606-r5</seg>
             </ab>
@@ -9377,9 +9373,9 @@
       <p>
          <lb ed="#P" n="44" type="fixed=169"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/316,1162,467,134/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">B A D C B A D C</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869912/801,2945,1183,339/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">B A D C</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375613-r6</seg>
             </ab>
@@ -9540,9 +9536,9 @@
             <lb ed="#P" n="37"/>ne oppositae, &amp; in contrario situ.
          <lb ed="#P" n="43" type="fixed=172"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/554,576,345,348/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">M N O F A E B P M N O F A E B P</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869915/1404,1460,874,881/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">M N O F A E B P</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375618-r4</seg>
             </ab>
@@ -9719,10 +9715,10 @@
             <lb ed="#P" n="6"/>dium effunditur in tali loco à magnete A. B. ergo qualitas intentionalis ibi
             <lb ed="#P" n="7"/>per medium effusa sic est disposita. ergo sic illam imbibit obelus in E. positus.
          <lb ed="#P" n="29" type="fixed=176"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/304,176,503,367/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A B C D E F A B C D E F</seg>
+        <figure>
+          <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869919/770,446,1275,930/full/0/default.jpg"/>
+          <ab type="figure-details">
+            <seg type="figure-text">A B C D E F</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375623-r5</seg>
             </ab>
@@ -10190,15 +10186,15 @@
       <p>
          <lb ed="#P" n="43" type="fixed=185"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/328,953,440,203/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">C F H E C F H E</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869928/831,2415,1115,514/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">C F H E</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375637-r6</seg>
             </ab>
             <figDesc/>
          </figure>
-         <lb ed="#P" n="25" type="fixed=185"/>Videtur autem Gilbertus velle humida ad se confluere in sensu omni¬
+         <lb ed="#P" n="25" type="fixed=185"/>Videtur autem <name>Gilbertus</name> velle humida ad se confluere in sensu omni¬
             <lb ed="#P" n="26"/>no, quem reprobavi, ut ex humiditate, qua madeat, non solum firmius se fer
             <lb ed="#P" n="27"/>ruminandi, sed etiam ad se invicem confluendi vim habeant; ut etiam, dum
             <lb ed="#P" n="28"/>non nihil distant, in mutuos ruant amplexus. Probat hoc ipse tripliciter.
@@ -10243,9 +10239,9 @@
             <lb ed="#P" n="21"/>in aere.
          <lb ed="#P" n="43" type="fixed=186"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/546,311,397,212/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A D C F E B A D C F E B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869929/1384,788,1006,537/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A D C F E B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375639-r5</seg>
             </ab>
@@ -10347,10 +10343,10 @@
       </p>
       <p>
          <lb ed="#P" n="43" type="fixed=188"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/477,800,413,213/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">C F H E C F H E</seg>
+        <figure>
+          <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869931/1209,2027,1046,540/full/0/default.jpg"/>
+          <ab type="figure-details">
+            <seg type="figure-text">C F H E</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375642-r5</seg>
             </ab>
@@ -10830,10 +10826,10 @@
             <lb ed="#P" n="22"/>intra orbem virtutis huius lapidis constituetur acus, toties se, quantum fieri
             <lb ed="#P" n="23"/>poterit, ad istam longitudinem conformabit.
          <lb ed="#P" n="42" type="fixed=199"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/365,253,412,470/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A B A B</seg>
+        <figure>
+          <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869942/925,641,1044,1191/full/0/default.jpg"/>
+          <ab type="figure-details">
+            <seg type="figure-text">A B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375658-r5</seg>
             </ab>
@@ -10984,9 +10980,9 @@
             <lb ed="#P" n="19"/>inquirebatur.
          <lb ed="#P" n="41" type="fixed=202"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/500,329,415,217/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C B D A C B D</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869945/1267,834,1052,550/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A C B D</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375663-r5</seg>
             </ab>
@@ -11021,9 +11017,9 @@
             <lb ed="#P" n="39"/>stralem.
          <lb ed="#P" n="42" type="fixed=202"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/510,873,432,227/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">B A B A</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869945/1292,2212,1095,575/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">B A</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375663-r6</seg>
             </ab>
@@ -11067,10 +11063,10 @@
         </p>
       <p>
          <lb ed="#P" n="44" type="fixed=203"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/405,826,396,474/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">C D A B C D A B</seg>
+        <figure>
+          <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869946/1026,2093,1004,1201/full/0/default.jpg"/>
+          <ab type="figure-details">
+            <seg type="figure-text">C D A B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375664-r5</seg>
             </ab>
@@ -11131,9 +11127,9 @@
       <p>
          <lb ed="#P" n="41" type="fixed=204"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/596,902,333,321/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A B C D E F A B C D E F</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869947/1510,2286,844,813/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A B C D E F</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375666-r5</seg>
             </ab>
@@ -11282,9 +11278,9 @@
       <p>
          <lb ed="#P" n="29" type="fixed=207"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/109,645,646,284/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">F G E H B C A D F G E H B C A D</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869950/276,1634,1637,720/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">F G E H B C A D</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375671-r7</seg>
             </ab>
@@ -11350,9 +11346,9 @@
             <lb ed="#P" n="38"/>to comprobare; sin minus locum expecta, &amp; demonstrata ostendam.
          <lb ed="#P" n="43" type="fixed=208"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/668,861,265,235/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C B D E A C B D E</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869951/1693,2182,671,595/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A C B D E</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375672-r5</seg>
             </ab>
@@ -11440,9 +11436,9 @@
             <lb ed="#P" n="21"/>magnete solum sunt polares.
          <lb ed="#P" n="41" type="fixed=210"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/651,326,274,339/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text"/>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869953/1650,826,694,859/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text"/>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375675-region_1630485757064_2526</seg>
             </ab>
@@ -11510,9 +11506,9 @@
             <lb ed="#P" n="26"/>tum diamedraliter sint poli.
          <lb ed="#P" n="43" type="fixed=211"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/335,229,442,220/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A B A B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869954/849,580,1120,558/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375677-r5</seg>
             </ab>
@@ -11562,9 +11558,9 @@
       <p>
          <lb ed="#P" n="41" type="fixed=212"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/602,636,347,286/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C E D B F G A C E D B F G</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869955/1525,1612,880,724/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A C E D B F G</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375678-r5</seg>
             </ab>
@@ -11683,7 +11679,7 @@
             <lb ed="#P" n="30"/>ut alibi factum est.
          <lb ed="#P" n="42" type="fixed=214"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/506,350,416,241/full/0/default.jpg"/>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869957/506,350,416,241/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">A C D B A C D B</seg>
                <seg type="figure-ideas"/>
@@ -11791,9 +11787,9 @@
       <p>
          <lb ed="#P" n="41" type="fixed=216"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/493,890,409,210/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A B A B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869959/1249,2255,1037,532/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375685-r5</seg>
             </ab>
@@ -11982,9 +11978,9 @@
       <p>
          <lb ed="#P" n="19" type="fixed=220"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/149,604,839,443/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">AMERICA Mexicum Mare del Sun Peruvium Bra Nova Zebla EUROPA Galia Germa¬ nia Italia Hispa¬ nia Mare Medite Sing ASIA Asia mi Tartari China Moluche India Persia Arabia AFRICA M: Rubrum Island Oceanus Indicus C. bone spei TERRA AUSTRALIS INCOGNITA AMERICA Mexicum Mare del Sun Peruvium Bra Nova Zebla EUROPA Galia Germa¬ nia Italia Hispa¬ nia Mare Medite Sing ASIA Asia mi Tartari China Moluche India Persia Arabia AFRICA M: Rubrum Island Oceanus Indicus C. bone spei TERRA AUSTRALIS INCOGNITA</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869963/378,1531,2126,1122/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">AMERICA Mexicum Mare del Sun Peruvium Bra Nova Zebla EUROPA Galia Germania Italia Hispania Mare Medite Sing ASIA Asia mi Tartari China Moluche India Persia Arabia AFRICA M: Rubrum Island Oceanus Indicus C. bone spei TERRA AUSTRALIS INCOGNITA</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375692-r6</seg>
             </ab>
@@ -12120,9 +12116,9 @@
             <lb ed="#P" n="18"/>phiae penetralibus indicat. ea autem duplex mihi videtur esse.
          <lb ed="#P" n="43" type="fixed=223"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/411,190,372,362/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">D A F E C B D A F E C B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869966/1041,481,943,918/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">D A F E C B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375696-r5</seg>
             </ab>
@@ -12236,9 +12232,9 @@
             <lb ed="#P" n="28"/>descendunt.
          <lb ed="#P" n="43" type="fixed=225"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/325,199,442,397/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C B D A C B D</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869968/824,504,1120,1006/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A C B D</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375699-r5</seg>
             </ab>
@@ -12268,9 +12264,9 @@
          <pb ed="#P" n="226"/>
          <lb ed="#P" n="43" type="fixed=226"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/538,519,405,263/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">B A H G I F C E D B A B A H G I F C E D B A</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869969/1363,1315,1027,667/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">B A H G I F C E D B A</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375701-r5</seg>
             </ab>
@@ -12407,15 +12403,15 @@
             <lb ed="#P" n="33"/>est maior distantia A. E. quam A. C. ut demonstratur de vecte, atque hoc
             <lb ed="#P" n="34"/>hic contendo.
          <lb ed="#P" n="43" type="fixed=228"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/583,762,328,107/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">E B C D A E B C D A</seg>
-               <seg type="figure-ideas"/>
-               <seg type="transkribus-id">900522-34375704-r5</seg>
-            </ab>
-            <figDesc/>
-         </figure>
+        <figure>
+          <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869971/1477,1931,831,271/full/0/default.jpg"/>
+          <ab type="figure-details">
+            <seg type="figure-text">E B C D A</seg>
+            <seg type="figure-ideas"/>
+            <seg type="transkribus-id">900522-34375704-r5</seg>
+          </ab>
+          <figDesc/>
+        </figure>
         </p>
       <p>
          <lb ed="#P" n="35" type="fixed=228"/>Hactenus primam posuimus rationem, cur caeteris paribus declinatio¬
@@ -12452,9 +12448,9 @@
       <p>
          <lb ed="#P" n="43" type="fixed=229"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/312,644,467,461/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A B C D A B C D</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869972/791,1632,1183,1168/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A B C D</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375705-r6</seg>
             </ab>
@@ -12762,9 +12758,9 @@
       <p>
          <lb ed="#P" n="43" type="fixed=235"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/380,660,424,392/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A D C B A D C B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869978/963,1672,1074,994/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A D C B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375715-r5</seg>
             </ab>
@@ -12889,9 +12885,9 @@
             <lb ed="#P" n="23"/>no procedenti ad B.
          <lb ed="#P" n="41" type="fixed=237"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/264,421,512,134/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C E D F G B A C E D F G B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869980/669,1067,1297,339/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A C E D F G B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375718-r5</seg>
             </ab>
@@ -12901,9 +12897,9 @@
       <p>
          <lb ed="#P" n="42" type="fixed=237"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/375,830,414,434/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C B G A C B G</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869980/950,2103,1049,1100/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A C B G</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375718-r6</seg>
             </ab>
@@ -13144,9 +13140,9 @@
             <lb ed="#P" n="14"/>tandem ratione ferrum ad magnetem appulerit.
          <lb ed="#P" n="43" type="fixed=242"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/479,208,435,256/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C B D A C B D</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869985/1214,527,1102,649/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A C B D</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375725-r5</seg>
             </ab>
@@ -13184,9 +13180,9 @@
             <lb ed="#P" n="40"/>quae certè vix possent explicari.
          <lb ed="#P" n="44" type="fixed=242"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/547,595,367,324/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A B A B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869985/1386,1508,930,821/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375725-r6</seg>
             </ab>
@@ -13231,9 +13227,9 @@
             <lb ed="#P" n="28"/>scilicet lapidis medietatem velint excedere.
          <lb ed="#P" n="43" type="fixed=243"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/300,233,448,294/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C D E B F A C D E B F</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869986/760,590,1135,745/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A C D E B F</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375727-r6</seg>
             </ab>
@@ -13288,9 +13284,9 @@
             <lb ed="#P" n="25"/>dat per maiorem eius longitudinem.
          <lb ed="#P" n="44" type="fixed=244"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/568,380,347,139/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">C B D E A C B D E A</seg>
+             <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869987/1439,963,880,352/full/0/default.jpg"/>
+             <ab type="figure-details">
+               <seg type="figure-text">C B D E A</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375728-r5</seg>
             </ab>
@@ -13552,9 +13548,9 @@
             <lb ed="#P" n="28"/>quidquid sibi velit Gilbertus, si contra hoc dixisset lib. 5. cap. 11.
          <lb ed="#P" n="43" type="fixed=249"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/284,190,479,473/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C B D G I H E M F N O P A C B D G I H E M F N O P</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869992/720,481,1213,1199/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A C B D G I H E M F N O P</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375736-r5</seg>
             </ab>
@@ -13665,9 +13661,9 @@
             <lb ed="#P" n="28"/>dirigere partem magnetis tactam, &amp; partem obeli, quae tetigit.
          <lb ed="#P" n="41" type="fixed=251"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/395,398,419,299/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C B A C B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869994/1001,1009,1062,757/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A C B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375739-r5</seg>
             </ab>
@@ -13721,9 +13717,9 @@
             <lb ed="#P" n="21"/>que extremum magnetis tangat, sive altero tantum, alterum.
          <lb ed="#P" n="41" type="fixed=252"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/493,539,456,158/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A B A B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869995/1249,1366,1156,400/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375740-r5</seg>
             </ab>
@@ -13845,9 +13841,9 @@
             <lb ed="#P" n="33"/>traxit virtutem magneticam obelùs ex illo contactu.
          <lb ed="#P" n="43" type="fixed=254"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/462,196,453,252/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C B D A C B D</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869997/1171,497,1148,638/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A C B D</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375743-r5</seg>
             </ab>
@@ -13901,9 +13897,9 @@
             <lb ed="#P" n="31"/>tibus opposita, nihilque legibus magneticis repugnare.
          <lb ed="#P" n="43" type="fixed=255"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/309,188,447,297/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">G B A H G B A H</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12869998/783,476,1133,753/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">G B A H</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375745-r3</seg>
             </ab>
@@ -14002,9 +13998,9 @@
       <p>
          <lb ed="#P" n="43" type="fixed=257"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/309,686,449,197/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A B C D A B C D</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870000/783,1738,1138,500/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A B C D</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375748-r6</seg>
             </ab>
@@ -14319,9 +14315,9 @@
             <lb ed="#P" n="28"/>gat, &amp; contrariam sibi conciliet.
          <lb ed="#P" n="30" type="fixed=263"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/71,686,707,243/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">B A B A</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870006/180,1738,1791,616/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">B A</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375757-r7</seg>
             </ab>
@@ -14460,9 +14456,9 @@
             <lb ed="#P" n="25"/>strum.
          <lb ed="#P" n="43" type="fixed=266"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/474,196,444,229/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A E F C D B A E F C D B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870008/1201,497,1125,580/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A E F C D B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375762-r5</seg>
             </ab>
@@ -14725,9 +14721,9 @@
       <p>
          <lb ed="#P" n="31" type="fixed=271"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/86,1012,712,226/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">D D C A B D D C A B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870014/218,2564,1804,573/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">D D C A B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375770-r5</seg>
             </ab>
@@ -15054,9 +15050,9 @@
             <lb ed="#P" n="20"/>sicut &amp; ille parvus magnetis globus.
          <lb ed="#P" n="43" type="fixed=278"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/605,210,338,489/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A B A B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870021/1533,532,857,1239/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375782-r5</seg>
             </ab>
@@ -15357,9 +15353,9 @@
             <lb ed="#P" n="13"/>boret.
          <lb ed="#P" n="40" type="fixed=284"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/542,203,341,385/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">C E A D B C E A D B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870027/1373,514,865,976/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">C E A D B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375791-r5</seg>
             </ab>
@@ -15484,9 +15480,9 @@
             <lb ed="#P" n="34"/>avide copulari.
          <lb ed="#P" n="41" type="fixed=286"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/448,495,483,188/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">D C B A D C B A</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870029/1135,1254,1224,477/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">D C B A</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375794-r5</seg>
             </ab>
@@ -15619,9 +15615,9 @@
             <lb ed="#P" n="16"/>ut melius intelligatur subdo.
          <lb ed="#P" n="41" type="fixed=289"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/362,190,420,360/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">C A D B C A D B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870032/917,481,1065,913/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">C A D B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375798-r6</seg>
             </ab>
@@ -15782,9 +15778,9 @@
       <p>
          <lb ed="#P" n="24" type="fixed=292"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/238,787,683,394/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A B A B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870035/603,1994,1731,999/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375804-r6</seg>
             </ab>
@@ -15847,9 +15843,9 @@
             <lb ed="#P" n="32"/>ita ut A, coniungatur cum B. &amp; D. C. opponantur.
          <lb ed="#P" n="41" type="fixed=293"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/336,749,437,254/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C D B A C D B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870036/851,1898,1108,644/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A C D B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375805-r6</seg>
             </ab>
@@ -15951,9 +15947,9 @@
             <lb ed="#P" n="31"/>sunt in illo statu parallelo.
          <lb ed="#P" n="43" type="fixed=295"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/494,178,347,187/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">G E A B C D H F G E A B C D H F</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870038/1252,451,879,474/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">G E A B C D H F</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375809-r5</seg>
             </ab>
@@ -16012,9 +16008,9 @@
             <lb ed="#P" n="34"/>quod erat demonstrandum.
          <lb ed="#P" n="42" type="fixed=296"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/654,187,279,138/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A B C D A B C D</seg>
+             <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870039/1657,474,707,350/full/0/default.jpg"/>
+             <ab type="figure-details">
+               <seg type="figure-text">A B C D</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375810-r5</seg>
             </ab>
@@ -16064,9 +16060,9 @@
             <lb ed="#P" n="22"/>tum, ac proinde non laboro in probatione.
          <lb ed="#P" n="40" type="fixed=297"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/516,571,271,166/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text"/>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870040/1308,1447,686,421/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text"/>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375812-r4</seg>
             </ab>
@@ -16114,9 +16110,9 @@
       <p>
          <lb ed="#P" n="28" type="fixed=298"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/261,431,605,329/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A H B C F D I E A H B C F D I E</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870041/661,1092,1533,834/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A H B C F D I E</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375813-r6</seg>
             </ab>
@@ -16166,9 +16162,9 @@
       <p>
          <lb ed="#P" n="43" type="fixed=299"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/320,740,451,262/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">D C D C B E A F D C D C D C B E A F D C</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870042/811,1875,1143,664/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">D C D C B E A F D C</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375815-r5</seg>
             </ab>
@@ -16336,10 +16332,10 @@
             <lb ed="#P" n="26"/>rint in aliquo ad perfectum experimentum, neque adduci posse, ut de rei
             <lb ed="#P" n="27"/>veritate dubitent.
          <lb ed="#P" n="43" type="fixed=302"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/563,215,371,364/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text"/>
+        <figure>
+          <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870045/1427,545,940,922/full/0/default.jpg"/>
+          <ab type="figure-details">
+            <seg type="figure-text"/>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375819-r5</seg>
             </ab>
@@ -16577,10 +16573,10 @@
             <lb ed="#P" n="18"/>ut tamen expedite
             <lb ed="#P" n="19"/>illud lapis dirigat.
          <lb ed="#P" n="43" type="fixed=307"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/298,437,481,181/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">C B A C B A</seg>
+        <figure>
+          <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870050/755,1107,1219,459/full/0/default.jpg"/>
+          <ab type="figure-details">
+            <seg type="figure-text">C B A</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375826-r5</seg>
             </ab>
@@ -16676,10 +16672,10 @@
         </p>
       <p>
          <lb ed="#P" n="43" type="fixed=309"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/341,527,464,511/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">B A F D O G C B A F D O G C</seg>
+        <figure>
+          <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870052/864,1335,1176,1295/full/0/default.jpg"/>
+          <ab type="figure-details">
+            <seg type="figure-text">B A F D O G C</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375829-r5</seg>
             </ab>
@@ -17021,10 +17017,10 @@
             <lb ed="#P" n="3"/>depelli, à contraria vero facie adduci: quod non tam verum esse ostendendum
             <lb ed="#P" n="4"/>est, quam ratio facilis, &amp; expedita depromenda.
          <lb ed="#P" n="32" type="fixed=316"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/256,240,600,213/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">D C A B D C A B</seg>
+        <figure>
+          <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870059/649,608,1520,540/full/0/default.jpg"/>
+          <ab type="figure-details">
+            <seg type="figure-text">D C A B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375840-r6</seg>
             </ab>
@@ -17151,9 +17147,9 @@
       <p>
          <lb ed="#P" n="41" type="fixed=318"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/467,1067,481,248/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">B A C D B A C D</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870061/1183,2704,1219,628/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">B A C D</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375843-r5</seg>
             </ab>
@@ -17266,9 +17262,9 @@
             <lb ed="#P" n="36"/>erroris viae.
          <lb ed="#P" n="40" type="fixed=320"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/575,175,332,581/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text"/>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870063/1457,443,841,1473/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text"/>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375846-r4</seg>
             </ab>
@@ -17322,9 +17318,9 @@
             <lb ed="#P" n="37"/>ticitas.
          <lb ed="#P" n="43" type="fixed=321"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/386,174,392,457/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">D C A B D C A B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870064/978,441,993,1158/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">D C A B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375847-r5</seg>
             </ab>
@@ -17332,9 +17328,9 @@
          </figure>
          <lb ed="#P" n="44" type="fixed=321"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/459,711,301,231/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">C D B A C D B A</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870064/1163,1802,763,585/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">C D B A</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375847-r6</seg>
             </ab>
@@ -17347,10 +17343,6 @@
             <lb ed="#P" n="40"/>stralem, iam tangat Septentrionalem; hic vero supra eundem magnetis po
             <lb ed="#P" n="41"/>tum ducitur, &amp; reducitur gladius: non ergo per istos duos contactus potuit
             <lb ed="#P" n="42"/>verticitas mmutari. ergo, cum non suspendat amplius, quod prius suspen¬
-            <!--340.xml-->
-
-         <!--340.xml-->
-
          <!--341.xml-->
          <pb ed="#P" n="322"/>
          <lb ed="#P" n="1"/>debat, rectè potest inferri verticitatem esse ablatam. Respondeo ferrum, ut
@@ -17381,9 +17373,9 @@
             <lb ed="#P" n="24"/>immutatur. quod erat demonstrandum.
          <lb ed="#P" n="25" type="fixed=322"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/181,311,761,484/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">E D C A D C F E D C A D C F</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870065/459,788,1928,1227/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">E D C A D C F</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375849-r6</seg>
             </ab>
@@ -17433,9 +17425,9 @@
             <lb ed="#P" n="27"/>faceret.
          <lb ed="#P" n="32" type="fixed=323"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/136,692,602,242/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">E C A B E C A B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870066/345,1754,1525,613/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">E C A B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375850-r6</seg>
             </ab>
@@ -17649,9 +17641,9 @@
       <p>
          <lb ed="#P" n="31" type="fixed=328"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/350,823,518,313/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A E C D B A E C D B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870071/887,2085,1313,794/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A E C D B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375858-r6</seg>
             </ab>
@@ -17769,9 +17761,9 @@
             <lb ed="#P" n="30"/>dem in proximo producere E. quod totum patet ex triangulis positis.
          <lb ed="#P" n="32" type="fixed=330"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/224,238,665,222/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">D M N C I L G H A E B F D M N C I L G H A E B F</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870073/568,603,1685,563/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">D M N C I L G H A E B F</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375861-r6</seg>
             </ab>
@@ -17800,9 +17792,9 @@
             <lb ed="#P" n="12"/>ad illam extremitatem.
          <lb ed="#P" n="31" type="fixed=331"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/212,182,533,302/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A E C D B L A E C D B L</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870074/537,461,1351,765/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A E C D B L</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375863-r6</seg>
             </ab>
@@ -17840,9 +17832,9 @@
       <p>
          <lb ed="#P" n="31" type="fixed=332"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/335,224,517,311/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A E C D B A E C D B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870075/849,568,1310,788/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A E C D B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375864-r6</seg>
             </ab>
@@ -18018,10 +18010,10 @@
             <lb ed="#P" n="36"/>magnetem includas in capsella, vel alia simili theca, &amp; tunc videberis acum
             <lb ed="#P" n="37"/>suspendere filo deorsum alligato magico artificio, cum causa delitescat.
          <lb ed="#P" n="38" type="fixed=335"/>
-         <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/575,390,201,565/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text"/>
+        <figure>
+          <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870078/1457,988,509,1432/full/0/default.jpg"/>
+          <ab type="figure-details">
+            <seg type="figure-text"/>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375869-r4</seg>
             </ab>
@@ -18146,9 +18138,9 @@
             <lb ed="#P" n="16"/>dat. quod erat demonstrandum.
          <lb ed="#P" n="42" type="fixed=338"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/653,218,284,476/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">C B D C B D</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870081/1655,552,719,1207/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">C B D</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375873-r5</seg>
             </ab>
@@ -18263,9 +18255,9 @@
             <lb ed="#P" n="18"/>A. ita se habet D. ad movendum, &amp; haec erit quaesita potentia.
          <lb ed="#P" n="29" type="fixed=340"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/268,241,631,322/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">N E O K H L M P G F S R E I T B A C D Q N E O K H L M P G F S R E I T B A C D Q</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870083/679,611,1599,816/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">N E O K H L M P G F S R E I T B A C D Q</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375876-r6</seg>
             </ab>
@@ -18299,9 +18291,9 @@
             <lb ed="#P" n="8"/>praesertim non inclinatissimum, quale suppono esse planum K. M.
          <lb ed="#P" n="30" type="fixed=341"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/49,213,747,328/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">S P M R K B A S P M R K B A</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870084/124,540,1893,831/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">S P M R K B A</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375878-r7</seg>
             </ab>
@@ -18360,9 +18352,9 @@
             <lb ed="#P" n="20"/>so mihi dubia redditur vis illius demonstrationis.
          <lb ed="#P" n="30" type="fixed=342"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/278,189,644,323/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">N E M L H K P C R F S E I T B A C D Q N E M L H K P C R F S E I T B A C D Q</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870085/704,479,1632,818/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">N E M L H K P C R F S E I T B A C D Q</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375879-r6</seg>
             </ab>
@@ -18457,9 +18449,9 @@
             <lb ed="#P" n="24"/>habet aequilibrationem.
          <lb ed="#P" n="29" type="fixed=344"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/252,214,639,322/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">N E M L H K G P F R S E I T B A C D Q V N E M L H K G P F R S E I T B A C D Q V</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870087/177,884,1878,880/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">S P M R K B A</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375882-r6</seg>
             </ab>
@@ -18485,7 +18477,7 @@
             <lb ed="#P" n="7"/>tia motiva illius E. quod erat propositum, sed haec alias fortasse uberius.
          <lb ed="#P" n="30" type="fixed=345"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/70,349,741,347/full/0/default.jpg"/>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870088/70,349,741,347/full/0/default.jpg"/>
             <ab type="figure-details">
                <seg type="figure-text">S P M R K B A S P M R K B A</seg>
                <seg type="figure-ideas"/>
@@ -19481,9 +19473,9 @@
             <lb ed="#P" n="27"/>longitudinem.
          <lb ed="#P" n="41" type="fixed=365"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/379,567,425,278/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">B D E D G E A B D E D G E A</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870108/960,1437,1077,704/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">B D E D G E A</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375915-r6</seg>
             </ab>
@@ -19578,9 +19570,9 @@
       <p>
          <lb ed="#P" n="43" type="fixed=367"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/507,702,301,348/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C B F D H E A C B F D H E</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870110/1285,1779,762,882/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A C B F D H E</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375918-r5</seg>
             </ab>
@@ -19665,9 +19657,9 @@
             <lb ed="#P" n="3"/>ctiali, etiam si magnes sit rotundus, quam si uno extremo tangat polum.
          <lb ed="#P" n="43" type="fixed=368"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/596,701,313,352/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C B F D H E A C B F D H E</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870111/1510,1776,793,892/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A C B F D H E</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375920-r5</seg>
             </ab>
@@ -19700,9 +19692,9 @@
             <lb ed="#P" n="26"/>aliam partem, quae distantia esset longè remotior ab H. &amp; à parte illius.
          <lb ed="#P" n="43" type="fixed=369"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/489,259,291,348/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C B F D H E A C B F D H E</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870112/1239,656,738,882/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A C B F D H E</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375921-r5</seg>
             </ab>
@@ -19851,9 +19843,9 @@
             <lb ed="#P" n="20"/>sa dirigitur, &amp; disponitur in medio, cui se ferrum accomodat.
          <lb ed="#P" n="24" type="fixed=372"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/199,155,700,292/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">B A D D B A D D</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870115/504,393,1774,740/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">B A D D</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375926-r5</seg>
             </ab>
@@ -19972,9 +19964,9 @@
             <lb ed="#P" n="3"/>ibi decidat, hic non, manifesto constat, quod hic firmius, quam ibi copuletur.
          <lb ed="#P" n="31" type="fixed=374"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/199,930,717,263/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C C B A C C B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870117/504,2357,1817,666/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A C C B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375929-r6</seg>
             </ab>
@@ -20248,9 +20240,9 @@
             <lb ed="#P" n="27"/>ticam, necessario variationes efficiet valdè sensibiles in directione.
          <lb ed="#P" n="43" type="fixed=380"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/596,293,291,474/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">B C A B C A</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870123/1510,742,738,1202/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">B C A</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375939-r5</seg>
             </ab>
@@ -20385,9 +20377,9 @@
             <lb ed="#P" n="13"/>&amp; propagatur per medium, minori refractione.
          <lb ed="#P" n="31" type="fixed=383"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/91,519,704,290/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C D B C D A A C D B C D A</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870126/231,1315,1784,735/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A C D B C D A</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375943-r6</seg>
             </ab>
@@ -20558,9 +20550,9 @@
             <lb ed="#P" n="41"/>senties firmius adhaerere.
          <lb ed="#P" n="42" type="fixed=386"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/625,764,236,587/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">D C E B D C E B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870129/1584,1936,598,1487/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">D C E B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375948-r5</seg>
             </ab>
@@ -20609,9 +20601,9 @@
             <lb ed="#P" n="33"/>ex tali coniunctione posse apparebit, ut constat experientia.
          <lb ed="#P" n="43" type="fixed=387"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/397,631,367,269/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A B E C D A B E C D</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870130/1006,1599,930,682/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A B E C D</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375950-r6</seg>
             </ab>
@@ -20690,9 +20682,9 @@
             <lb ed="#P" n="7"/>teri inhaereat, &amp; quasi à se prepellit contra alterum.
          <lb ed="#P" n="44" type="fixed=388"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/655,675,199,494/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A B E C D A B E C D</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870131/1660,1710,504,1252/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A B E C D</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375951-r5</seg>
             </ab>
@@ -20773,9 +20765,9 @@
             <lb ed="#P" n="33"/>debat.
          <lb ed="#P" n="41" type="fixed=390"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/461,659,311,538/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A E B C D A E B C D</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870133/1168,1670,788,1363/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A E B C D</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375955-r5</seg>
             </ab>
@@ -20826,9 +20818,9 @@
       <p>
          <lb ed="#P" n="42" type="fixed=391"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/419,888,395,286/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A B E D C A B E D C</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870134/1062,2250,1001,725/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A B E D C</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375956-r5</seg>
             </ab>
@@ -21046,9 +21038,9 @@
             <lb ed="#P" n="2"/>in ligno ęri, &amp;c. V.
          <lb ed="#P" n="32" type="fixed=395"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/428,167,311,572/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A C D E F B G A C D E F B G</seg>
+             <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870138/1085,423,788,1450/full/0/default.jpg"/>
+             <ab type="figure-details">
+               <seg type="figure-text">A C D E F B G</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375963-r6</seg>
             </ab>
@@ -21057,9 +21049,9 @@
          <!--414.xml-->
          <lb ed="#P" n="33" type="fixed=395"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/87,972,377,231/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A B A B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870138/220,2463,956,585/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375963-r7</seg>
             </ab>
@@ -21068,9 +21060,9 @@
          <!--414.xml-->
          <lb ed="#P" n="34" type="fixed=395"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/464,972,357,231/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">E C E C</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870138/1176,2463,904,585/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">E C</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375963-r8</seg>
             </ab>
@@ -21112,9 +21104,9 @@
             <lb ed="#P" n="32"/>unicum agens, idest magis extensam, &amp; esse in pari distantia magis intensam.
          <lb ed="#P" n="33" type="fixed=396"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/248,298,639,256/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">C B A C B A</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870139/628,755,1620,649/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">C B A</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375964-r6</seg>
             </ab>
@@ -21205,9 +21197,9 @@
             <lb ed="#P" n="26"/>do, &amp; ex sequenti propositione.
          <lb ed="#P" n="43" type="fixed=398"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/616,273,336,273/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">B A B A</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870141/1561,692,851,692/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">B A</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375967-r5</seg>
             </ab>
@@ -21231,8 +21223,6 @@
             <lb ed="#P" n="40"/>ticam totius telluris per convenientem ad tellurem positionem, &amp; per il¬
             <lb ed="#P" n="41"/>lam qualitatem à tellure receptam versorium iuxta leges magneticas trahit.
             <lb ed="#P" n="42"/>Quare effectus iste, quamvis videatur effectus ferri habentis istam differen¬
-            <!--417.xml-->
-
          <!--418.xml-->
          <pb ed="#P" n="399"/>
          <lb ed="#P" n="1"/>tiam situs: re tamen vera non oritur ex aliqua qualitate, quae sit innata in¬
@@ -21243,9 +21233,9 @@
       <p>
          <lb ed="#P" n="23" type="fixed=399"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/69,273,763,520/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">D E C C F D A B B A D E C C F D A B B A</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870142/175,692,1933,1317/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">D E C C F D A B B A</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375969-r7</seg>
             </ab>
@@ -21399,9 +21389,9 @@
             <lb ed="#P" n="25"/>pra, trahet cuspidem, quia diversam induit ferri rationem.
          <lb ed="#P" n="43" type="fixed=402"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/509,219,401,487/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">C D A B C D A B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870145/1290,555,1016,1234/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">C D A B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375974-r5</seg>
             </ab>
@@ -21530,9 +21520,9 @@
             <lb ed="#P" n="35"/>illi adiungatur, sive ponatur supra, sive infra.
          <lb ed="#P" n="41" type="fixed=404"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/620,482,293,635/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">D A B D C D D A B D C D</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870147/1571,1221,743,1609/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">D A B D C D</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375977-r5</seg>
             </ab>
@@ -21572,9 +21562,9 @@
             <lb ed="#P" n="21"/>parebit qui statis infirmus est, &amp; ignobilis.
          <lb ed="#P" n="43" type="fixed=405"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/590,251,177,332/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text"/>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870148/1495,636,449,841/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text"/>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375978-r3</seg>
             </ab>
@@ -21696,9 +21686,9 @@
       <p>
          <lb ed="#P" n="41" type="fixed=407"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/400,1027,439,218/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">B A B A</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870150/1014,2602,1112,553/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">B A</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375981-r4</seg>
             </ab>
@@ -21785,9 +21775,9 @@
             <lb ed="#P" n="11"/>admissoque effectu, causam inquiro.
          <lb ed="#P" n="30" type="fixed=409"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/227,374,517,253/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">A B A B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870152/575,948,1310,641/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">A B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375984-r7</seg>
             </ab>
@@ -21795,7 +21785,7 @@
          </figure>
         </p>
       <p>
-         <lb ed="#P" n="12" type="fixed=409"/>Gilbertus loco citato suam sic exponit sententiam. Fusus enim per ex¬
+         <lb ed="#P" n="12" type="fixed=409"/><name>Gilbertus</name> loco citato suam sic exponit sententiam. Fusus enim per ex¬
             <lb ed="#P" n="13"/>tremitates vigor magnetis imbecillioris, per medium minus permeat: Haec
             <lb ed="#P" n="14"/>ille. contendit ergo impediri propagationem virtutis ab illa lamellae inter¬
             <lb ed="#P" n="15"/>positione, ac proinde vult amplius versorium in polum cuspidem non diri¬
@@ -21851,9 +21841,9 @@
             <lb ed="#P" n="30"/>vis obeli est etiam ipsius telluris, ut explicatum est.
          <lb ed="#P" n="43" type="fixed=410"/>
          <figure>
-            <graphic url="https://www.e-rara.ch/zut/i3f/v20/[canvasshortid]/502,235,411,539/full/0/default.jpg"/>
-            <ab type="figure-details">
-               <seg type="figure-text">D E C C F D A B D E C C F D A B</seg>
+           <graphic url="https://www.e-rara.ch/zut/i3f/v20/12870153/1272,595,1042,1366/full/0/default.jpg"/>
+           <ab type="figure-details">
+             <seg type="figure-text">D E C C F D A B</seg>
                <seg type="figure-ideas"/>
                <seg type="transkribus-id">900522-34375986-r5</seg>
             </ab>
