@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <div>
 
-<pb/>
+<pb n="3" />
+
 PRIMA SECUNDAE
 SUMMA THEOLOGIAE
 ANGELICI DOCTORIS
@@ -93,7 +94,7 @@ secundum modum suae naturae. Id autem ad
 quod virtus ordinatur, est actus bonus, ut ex su-
 pradictis patet.
 
-<pb/>
+<pb n="4"/>
 <cb/>
   
 Secundum hoc igitur tria inveniuntur opponi
@@ -228,7 +229,7 @@ SED CONTRA EST quod <name>Augustinus</name> dicit, in III
 <title>de Lib. Arb.</title>: <quote>Omne vitium, eo ipso quod vitium
 est, contra naturam est.</quote>
 
-<pb/>
+<pb n="5"/>
 <cb/>
   
 RESPONDEO DICENDUM quod, sicut dictum est,
@@ -506,7 +507,7 @@ tem: unde non potest esse simul cum forma na-
 turali actus formae contrariae; sicut non potest
 esse cum calore actus infrigidationis, neque simul
 cum levitate motus descensionis, nisi forte ex vio-
-<pb/>
+<pb n="7"/>
 <cb/>
 lentia exterioris moventis. Sed habitus in anima
 non ex necessitate producit suam operationem,
@@ -633,7 +634,7 @@ aliquis actus: ipsum enim. non facere quod quis
 facere tenetur, peccatum est.
 
 Utraque autem opinio secundum. aliquid veri-
-<pb/>
+<pb n="8"/>
 <cb/>  
 tatem habet. Si enim intelligatur in peccato omis-
 sionis illud. solum quod per se pertinet ad ra-
@@ -752,7 +753,7 @@ quam, neglectis rebus aeternis, temporalia sectari:
 et in libro Octoginta trium Quaest., dicit quod
 omnis humana perversitas est uti fruendis et frui
 ulendis. Sed in praemissa definitione nulla fit
-<pb/>
+<pb n="9"/>
 <cb/>
 mentio de aversione a debito fine. Ergo insuffi-
 cienter definitur peccatum.
@@ -765,46 +766,19 @@ definitione peccati debuit poni quod sit contra
 legem Dei.
 
 5. PRAETEREA, peccatum significat malum ho-
-
-negatio reducuntur ad idem genus: sicut in di--
-vinis genitum et ingenitum ad relationem, ut Au-
-gustinus dicit, in V de Z7rin. Et ideo pro eodem
-est accipiendum dictum et non dictum, factum
-
-"et non factum.
-
-Ap SECUNDUM DICENDUM quod prima causa pec-
-cati est in voluntate, quae imperat omnes actus
-voluntarios, in quibus solum invenitur peccatum:
-et ideo Augustinus quandoque per solam volun-
-
-:Amgiqs minis actum, ut ex dictis patet. Sed malum ho-
+inis actum, ut ex dictis patet. Sed malum ho-
 minis est conira rationem esse, ut Dionysius dicit,
 S.T.ec.xxw. py cap. de Div. Nom. Ergo potius debuit dici
 quod peccatum sit contra rationem, quam quod
 peccatum sit contra legem aeternam.
+
 IN CONTRARIUM sufficit auctoritas Augustini.
 
-tatem definit peccatum. Sed quia etiam ipsi ex-
-teriores actus pertinent ad substantiam peccati,
-cum sint secundum se mali, ut dictum est; ne-
-cesse fuit quod in definitione peccati poneretur
-etiam aliquid pertinens ad exteriores actus.
-
-AD TERTIUM DICENDUM quod lex aeterna primo
-
- Qu. xx, art. 1,
-2,
-
-iue 9^ ^ — RESPONDEO DICENDUM quod, sicut ex dictis pa- | et principaliter ordinat hominem ad finem, con-
-Kf tet, peccatum nihil aliud est quam actus humanus | sequenter autem facit hominem ? bene se habere 8
-malus. Quod autem aliquis actus sit humanus, | circa ea quae sunt ad finem. Et ideo in hoc quod r
-/C D. 842. habet ex hoc quod est voluntarius, sicut ex | dicit conira legem aeternam, tangit aversionem a
-
-fine, et omnes alias inordinationes.
-
- Qurat i supradictis patet: sive sit voluntarius quasi a
-
+RESPONDEO DICENDUM quod, sicut ex dictis pa- 
+tet, peccatum nihil aliud est quam actus humanus
+malus. Quod autem aliquis actus sit humanus,
+habet ex hoc quod est voluntarius, sicut ex
+supradictis patet: sive sit voluntarius quasi a
 voluntate elicitus, ut ipsum velle et eligere; sive
 quasi a voluntate imperatus, ut exteriores actus
 vel locutionis vel operationis. Habet autem actus
@@ -825,6 +799,29 @@ mali, quod est quasi formale in peccato, cum
 dixit, contra legem aeternam.
 
 AD PRIMUM ERGO DICENDUM quod affirmatio et
+<cb/>
+negatio reducuntur ad idem genus: sicut in di-
+vinis genitum et ingenitum ad relationem, ut Au-
+gustinus dicit, in V de Z7rin. Et ideo pro eodem
+est accipiendum dictum et non dictum, factum
+et non factum.
+
+AD SECUNDUM DICENDUM quod prima causa pec-
+cati est in voluntate, quae imperat omnes actus
+voluntarios, in quibus solum invenitur peccatum:
+et ideo Augustinus quandoque per solam volun-
+tatem definit peccatum. Sed quia etiam ipsi ex-
+teriores actus pertinent ad substantiam peccati,
+cum sint secundum se mali, ut dictum est; ne-
+cesse fuit quod in definitione peccati poneretur
+etiam aliquid pertinens ad exteriores actus.
+
+AD TERTIUM DICENDUM quod lex aeterna primo
+et principaliter ordinat hominem ad finem, con-
+sequenter autem facit hominem ? bene se habere
+circa ea quae sunt ad finem. Et ideo in hoc quod
+dicit conira legem aeternam, tangit aversionem a
+fine, et omnes alias inordinationes.
 
 AD QUARTUM DICENDUM quod, cum dicitur quod
 non omne peccatum ideo est malum quia est
@@ -836,7 +833,7 @@ humanae, tunc omne peccatum est malum quia
 prohibitum: ex hoc enim ipso quod est inordi-
 natum, iuri naturali repugnat.
 
-AD QUINTUM DICENDUM quod a theologis ? consi-
+AD QUINTUM DICENDUM quod a theologis consi-
 deratur peccatum praecipue secundum quod est
 offensa contra Deum: a philosopho autem mo-
 rali, secundum quod contrariatur rationi. Et ideo
@@ -844,21 +841,18 @@ Augustinus convenientius definit peccatum ex hoc
 quod est contra legem aeternam, quam ex hoc
 quod est contra rationem: praecipue cum per le-
 gem aeternam regulemur in multis quae exce-
-
 dunt rationem humanam, sicut in his quae sunt
 fidei.
 
-4) definitur. — definit EF.
-&amp;) hominem. — Om. Pa.
-
-q) in hoc. — hoc EF. 
-9) theologis. — catholicis EF.
-
+<cb/>
+  
 Commentaria Cardinalis Caietani
 
-N articulo sexto dubium occurrit ex Gregorio de Arimino,
+<cb/>
+  
+IN articulo sexto dubium occurrit ex Gregorio de Arimino,
 in II Sent., dist. xxxiv, volente quod peccatum proprie,
-' quo quis dicitur formaliter peccans, non est actus, nec est
+quo quis dicitur formaliter peccans, non est actus, nec est
 aliquid incomplexe significabile. Et hoc probatur dupliciter.
 Primo, quia peccatum consistit in hoc quod aliquis agit
 contra rectam rationem: sed hoc non est nisi complexe si-
@@ -868,16 +862,25 @@ ut patet. Sed in his sola complexe enuntiabilia iubentur
 aut prohibentur: quia cum praecipitur, Non moechaberis,
 nec vir nec mulier nec actus prohibetur, sed facere actum
 commixtionis; quod sola oratione est enuntiabile, forma-
+liter vel aequivalenter.
 
-liter vel aequivalenter.;
 II. Sed haec Gregorii phantasia a divo Thoma, post
+Augustinum et Aristotelem, excluditur, dicente hic quod
+peccatum nil aliud est quam actus humanus malus. Con-
+stat namque quod actus humanus malus est quid incom-
+plexe significabile: significatur namque infinitis nominibus
+incomplexis, ut fornicationis, blasphemiae, et aliis huius-
+modi nominibus. Peccatum namque, cum voluntarium sit
+in actu secundo consistens secundum veritatem, aut sumi-
+tur materialiter, aut formaliter, aut pro toto composito. Et 
+<cb/>
 
 si quidem sumitur materialiter, constat quod actus secun-
 dus est, quidquid sit illud: et potest et nominaliter et ver-
 baliter significari; verbaliter quidem per modum actus, no-
 minaliter autem per modum substantiae. Si vero sumitur
 formaliter, constat quod est privatio, quae eodem modo
-est significabilis. Et similiter totum compositum. - Sed quod
+est significabilpis. Et similiter totum compositum. - Sed quod
 forte decipit, est quia non discernitur inter peccatum in
 actu exercito et in actu signato, et peccatum in re, idest
 secundum se, ut praevenit significabilitatem utramque. In
@@ -887,68 +890,23 @@ sophorum de re est, ut abstrahit ab his significandi modis.
 
 Et per haec patet responsio ad obiecta. Falsum namque
 utrobique assumitur, nisi in actu exercito, cum dicitur quod
-
-e
-
- Physic. lib. I, Augustinum et Aristotelem, excluditur, dicente hic quod
-
-cap. vri, n. 8.
-
 agere contra rationem, quod moechari, etc., non sint in-
-S. Th. lec; xi, Peccatum nil aliud est quam actus humanus malus. Con-
-
 complexe significabilia. - Male quoque exponitur Augusti-
-
-stat namque quod actus humanus malus est quid incom-
-plexe significabile: significatur namque infinitis nominibus
-incomplexis, ut fornicationis, blasphemiae, et aliis huius-
-modi nominibus. Peccatum namque, cum voluntarium sit
-in actu secundo consistens secundum veritatem, aut sumi-
-
 nus in definitione ista, Peccatum est dictum, factum, nisi
 verificetur quod peccatum est dictio, factio, concupiscentia,
 volitio. contra. legem Dei.
 
 III. In eodem articulo, pro quanto hic tractatur quid est
 peccatum in moralibus, et dicitur quod est actus volunta-
-
-tur materialiter, aut formaliter, aut pro toto composito. Et | rius malus, scito, vir docte, quod, ut ex supra dictis in
-
-SuuMAE 'Turor. D. Tngowax T. IV. 2
-
-iud
-
-erem
-
- Art. 5, Comm.
-num. il.
-
- in peccato u-
-iroque et P et
-ed. 1514.
-
- Cf. num. praec.
-
- Cf. num. vi.
-
- In editionibus
-nonnulla verba
-desiderantur,
-forte haec vel si-
-milia: Zmpuram
-qualitatem signi-
-ficat,
-
-10
-
-qu. xvi habes, malum aequivoce dicitur de malo abso-
+rius malus, scito, vir docte, quod, ut ex supra dictis in
+<pb n="10"/>
+<cb/>
+qu. xviii habes, malum aequivoce dicitur de malo abso-
 lute, et de malo morali: quoniam malum absolute est for-
 maliter nullius naturae, sed privatio et nihil; malum autem
 morale est multarum naturarum, sicut color et alia genera.
 Vitium enim intemperantiae formaliter est una species in
-
 rerum natura; et similiter actus intemperantiae formaliter:
-
 est operatio in certa specie positiva; idem enim iudicium
 est de intemperantia habituali et actuali, quoad hoc. Et
 quoniam illa vitium, haec peccatum est, ideo cave, in tra-
@@ -1022,10 +980,9 @@ trarie sumendo ly impuram qualitatem. Igitur et sic oppo-
 sitas habemus determinationes de genere et speciebus: quod
 est ridiculum afferre inter viros doctos.
 
-QUAESTIO LXXI, ARTICULUS VI
-
-De ipsa ergo re quam peccatum dicimus, quocumque -
-
+<cb/>
+  
+De ipsa ergo re quam peccatum dicimus, quocumque
 nomine vocetur, quaestio est. Et Scotus, in II Sent., dist.
 xxxv, tenet quod inordinatio privativa, seu aversio, est ma-
 gis de ratione peccati: quia est ipsa essentialis ratio pec-
@@ -1104,30 +1061,8 @@ citer: inordinatio autem contrarie, et conversio, pertinet
 ad peccatum inquantum habet rationem mali moralis et
 voluntarii. Et quotiam inordinatio privative est ultimum
 superveniens peccato, ideo forte in littera dicitur quod est
-
- Alleg. a Scoto
-ibid.
-
- In resp. ad 1.
-
- Cf. num. v.
-
- Num. praeced,
-
- Num, v, vt.
-CP RETO
-
-4
-^
-
-"WAP TM EE UM MEN S RR RENE ENIMS
-
-Vr PME E aq ow c
-
- Comment. n. 1.
-
-QUAESTIO LXXI, ARTICULUS VI
-
+<pb n="11"/>
+<cb/>
 quasi formale in peccato, et non dixit absolute quod est
 formale: et eadem ratione, actus denominatus ab illa dicitur
 quod est quasi materiale in peccato. - Utrum autem pec-
@@ -1152,9 +1087,7 @@ Constat autem quod contrarium vel privatio entis partici-
 pati, non est contrarium nec privatio entis per essentiam.
 Peccatum igitur ex hoc quod est contra rationem humanam,
 non est offensivum Dei. - Nec sufficit ad evadendum hoc,
-
-- dicere quod, quia ratio humana derivatur a divina, quod est
-
+dicere quod, quia ratio humana derivatur a divina, quod est
 contra rationem humanam, est contra divinam. Tum quia
 cognitio sensitiva derivatur etiam a divina cognitione: non
 tamen contrarium cognitioni sensitivae, est contrarium co-
@@ -1163,13 +1096,10 @@ quod peccatum est contra rationem divinam inquantum
 participata est in ratione humana, quod nihil aliud est
 quam esse contra effectum Dei: et quaestio est de esse
 contra ipsum Deum, ut offensivum eius, non suorum effe-
-
 ctuum.
 
-— Praeterea, si peccatum, ut sic, esset offensivum Dei et
-
--aversivum ab eo, posset hoc cognosci naturali ratione, et
-
+Praeterea, si peccatum, ut sic, esset offensivum Dei et
+aversivum ab eo, posset hoc cognosci naturali ratione, et
 a philosophis deberet tractari. Quorum neutrum apparet.
 
 In oppositum est, quia odium Dei et blasphemia Dei
@@ -1186,9 +1116,7 @@ superius. Ad cuius evidentiam, sciendum est quod finis
 ultimus creaturae rationalis, ut sic, est Deus dupliciter:
 primo, ut obiectum beatitudinis possibilis naturaliter; se-
 cundo, ut obiectum beatitudinis revelatae. Nec Deus sic et
-
 sic sese habet ut duo disparati fines ultimi: sed quoniam.
-
 gratia praesupponit et perficit naturam, Deus ut finis natu-
 ralis, est finis ultimus quasi in genere, et quasi subordi-
 natur sibi ipsi ut finis est beatitudinis revelatae, tanquam
@@ -1207,9 +1135,7 @@ in exequendo: - nam inchoando a fine, et ex eo accipiendo
 rationem operis, ad bonum rationis devenitur, tanquam
 a principio ad conclusionem necessariam; et similiter in-
 choando ab exequendo bono rationis, proceditur ad Deum
-
-11
-
+<cb/>
 ultimum finem: manifeste enim constat quod ex summo
 bono mentis non deducitur malum rationis, sed bonum;
 et quod ad summum mentis bonum non ducit malum ra-
@@ -1243,9 +1169,7 @@ lam, est contra bonum rationis tanquam proximum finem,
 et contra bonum divinum tanquam ultimum finem, ex hoc
 ipso quod est peccatum: et inordinatio eius est privatio
 formalis rectitudinis actus, ferens aversionem ab incommu-
-
 tabili bono, et offensam illius. Et quoniam beatitudo su-
-
 pernaturalis supponit naturalem, ex consequenti, quantum
 est ex se, est contra Deum ut obiectum beatitudinis super-
 naturalis, et aversivum ab eo, et offensivum eius. — Suppo-
@@ -1286,55 +1210,31 @@ raliter cognosci et dici a philosophis, ut manifeste patet de
 odio Dei: quamvis, negantes divinam providentiam circa
 humanos actus, de his non fuerint solliciti.
 
-——
-
- Art. 5.
-
- Vers. 19.
-
- Art. 6.
-
- Cf. num. vii.
- Cf. qu. Lxxi,
-
-Introd.
-
-«: es xvi, art.
-
- Qu. xxi, art. 1;
-qu. Lxxi, art. I.
-
- Cap. xxii, al.
-xvii; in vet. XIX.
-
- Aug. Contra
-Fausi.,lib. XXII,
-cap. xXvil.
-
- Qa. xvi, art.
-Part. I, qu.
-Lixxvi, art. 3.
-
-$ Qu. rxxi, art.
-
-12
-
-QUAESTIO LXXII, ARTICULUS I
-
+<pb n="12"/>
+<cb/>
+  
 QUAESTIO SEPTUAGESIMASECUNDA
 DE DISTINCTIONE PECCATORUM
-
 IN NOVEM ARTICULOS DIVISA
 
-EINDE considerandum est de distinctione pec-
-Deere vel vitiorum.
+<cb/>
+
+DEINDE considerandum est de distinctione pec-
+catorum vel vitiorum.
+
 Et circa hoc quaeruntur novem.
+
 Primo: utrum peccata distinguantur specie se-
 cundum obiecta.
+
 Secundo: de distinctione peccatorum spiritua-
 lium et carnalium.
+
 Tertio: utrum secundum causas.
+
 Quarto: utrum secundum eos in quos peccatur.
+
+<cb/>
 
 Quinto: utrum secundum diversitatem reatus.
 
@@ -1350,18 +1250,14 @@ fectum.
 Nono: utrum secundum diversas circumstan-
 tias.
 
+<cb/>
+  
 ARTICULUS PRIMUS.
-
 UTRUM PECCATA DIFFERANT SPECIE SECUNDUM OBIECTA
 
-Infra, art. 3, 8; De Malo, qu n,art, 6; qu. xiv, art. 3.
+<cb/>
 
-ZA
-Sb
-V aq
-
-VC
-
+AD PRIMUM SIC PROCEDITUR. Videtur quod 
 peccata non differant specie secundum
 obiecta. Actus enim humani praecipue
 dicuntur boni vel mali per comparatio-
@@ -1387,12 +1283,11 @@ Gregorius dicit, in libro XXXIV oral.; avaritia
 etiam est circa diversa genera rerum. Ergo pec-
 cata non distinguuntur specie secundum obiecta.
 
-SED coNTRA EsT quod peccatum est dictum
+SED CONTRA EST quod peccatum est dictum
 vel factum vel concupitum contra legem Dei.
 Sed dicta vel facta. vel concupita distinguuntur
 specie secundum diversa obiecta: quia actus per
 obiecta distinguuntur, ut supra dictum est. Ergo
-
 etiam peccata secundum obiecta specie distin-
 guuntur.
 
@@ -1402,8 +1297,8 @@ voluntarius; et inordinatio eius, quae est per re-
 cessum a lege Dei. Horum autem duorum unum
 per se comparatur ad peccantem, qui intendit ta-
 lem actum voluntarium exercere in tali materia:
-
-D PRIMUM SIC PROCEDITUR. Videtur quod | aliud autem, scilicet inordinatio actus, per acci-
+<cb/>
+aliud autem, scilicet inordinatio actus, per acci-
 
 dens se habet ad intentionem peccantis; nullus
 enim zn£endens ad malum operatur, ut Dionysius
@@ -1424,7 +1319,7 @@ ut in superioribus ostensum est. Unde sequitur
 quod peccata proprie distinguantur specie secun-
 dum obiecta.
 
-Ap PRIMUM ERGO DICENDUM quod finis principa-
+AD PRIMUM ERGO DICENDUM quod finis principa-
 liter habet rationem boni: et ideo comparatur
 ad actum voluntatis, qui est primordialis in omni
 peccato, sicut obiectum. Unde in idem redit quod
