@@ -3,71 +3,9 @@
      xmlns:transk="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
      xmlns:ns3="http://www.loc.gov/METS/"
      xmlns:ns2="http://www.w3.org/1999/xlink">
-   <p><!--0.xml-->
-      <pb ed="#P" n="0"/>
-      <cb ed="#P" n=""/>
-      <lb ed="#P" n="1"/>
-      <lb ed="#P" n="2"/>
-      <lb ed="#P" n="3"/>
-      <lb ed="#P" n="4"/>
-      <!--1.xml-->
-      <pb ed="#P" n="1"/>
-      <cb ed="#P" n="a"/>
-      <lb ed="#P" n="1"/>
-      <lb ed="#P" n="2"/>
-      <lb ed="#P" n="3"/>
-      <lb ed="#P" n="4"/>
-      <lb ed="#P" n="5"/>
-      <!--1.xml-->
-      <cb ed="#P" n="b"/>
-      <lb ed="#P" n="6"/>
-      <lb ed="#P" n="7"/>
-      <lb ed="#P" n="8"/>
-      <lb ed="#P" n="9"/>
-      <lb ed="#P" n="10"/>
-      <!--1.xml-->
-      <pb ed="#P" n="1"/>
-      <cb ed="#P" n="c"/>
-      <lb ed="#P" n="11"/>
-      <!--4.xml-->
-      <pb ed="#P" n="4"/>
-      <cb ed="#P" n=""/>
-      <lb ed="#P" n="1"/>
-      <lb ed="#P" n="2"/>
-      <lb ed="#P" n="3"/>
-      <lb ed="#P" n="4"/>
-      <lb ed="#P" n="5"/>
-      <lb ed="#P" n="6"/>
-      <lb ed="#P" n="7"/>
-      <!--5.xml-->
-      <pb ed="#P" n="5"/>
-      <cb ed="#P" n="a"/>
-      <lb ed="#P" n="1"/>
-      <!--5.xml-->
-      <cb ed="#P" n="b"/>
-      <lb ed="#P" n="2"/>
-      <!--5.xml-->
-      <pb ed="#P" n="5"/>
-      <cb ed="#P" n="c"/>
-      <lb ed="#P" n="3"/>
-      <!--5.xml-->
-      <pb ed="#P" n="5"/>
-      <cb ed="#P" n="a"/>
-      <lb ed="#P" n="4"/>
-      <lb ed="#P" n="5"/>
-      <lb ed="#P" n="6"/>
-      <lb ed="#P" n="7"/>
-      <lb ed="#P" n="8"/>
-      <lb ed="#P" n="9"/>
-      <!--5.xml-->
-      <pb ed="#P" n="5"/>
-      <cb ed="#P" n="a"/>
-      <lb ed="#P" n="10"/>
-      <lb ed="#P" n="11"/>
-      <!--6.xml-->
-      <pb ed="#P" n="6"/>
-      <cb ed="#P" n="a"/>
-      </p>
+
+     <div>
+    <head>Prologus</head> 
     <p>
       <lb ed="#P" n="1"/>¶ In nomine patris et 
       <lb ed="#P" n="2"/>filii et spiritus sancti Amen. Ad  
@@ -120,10 +58,15 @@
       <lb ed="#P" n="46"/>ris et charitatis gratia vt nunquam excidat: sed in per¬ 
       <lb ed="#P" n="47"/>petuum maneat in statu patrie. vbi videbimus de¬ 
       <lb ed="#P" n="48"/>um et amabimus: amabimus et tenebimus tene¬ 
-      <lb ed="#P" n="49"/>bimus et laudabimus sine fine Amen. 
+      <lb ed="#P" n="49"/>bimus et laudabimus sine fine Amen.
+      </p>
+      </div> 
       <!--6.xml-->
+      <div>
+      <head>Abba</head>
+      <p>
       <cb ed="#P" n="b"/>
-      <lb ed="#P" n="50"/>Bba id est pater. 
+      <lb ed="#P" n="50"/>Abba id est pater. 
       <lb ed="#P" n="51"/>De hoc Apostolus Rho. viii. dicit 
       <lb ed="#P" n="52"/>Accepistis inquit spiritum adoptio¬ 
       <lb ed="#P" n="53"/>nis filiorum in quo clamamus Ab¬ 
@@ -409,8 +352,14 @@
       </p>
     <p>
       <lb ed="#P" n="56"/>¶ Ad premissa plura vide vbi 
-      <lb ed="#P" n="57"/>amor. 
+      <lb ed="#P" n="57"/>amor.
+    </p>
+    </div>
       <!--8.xml-->
+      <!--Abraam begins-->
+      <div>
+      <head>Abraam</head>
+      <p>
       <cb ed="#P" n="b"/>
       <lb ed="#P" n="58"/>Abraam nota quod 
       <lb ed="#P" n="59"/>grande exemplum vel spectaculum cha¬ 
@@ -911,7 +860,13 @@
       <lb ed="#P" n="75"/>corporalium augmentum. Malach. iii xvi. q. i. decime 
       <lb ed="#P" n="76"/>Tertio vt ex charitate obediendo praeceptis iuris na¬ 
       <lb ed="#P" n="77"/>turalis et moralis et ecclesie mereamur eternam glo¬ 
-      <lb ed="#P" n="78"/>riam. Ecce amor dei. 
+      <lb ed="#P" n="78"/>riam. Ecce amor dei.
+    </p>
+    </div>
+    <!--Abraam ends & Adam begins-->
+    <div>
+    <head>Adam</head>
+    <p> 
       <lb ed="#P" n="79"/>Adam Quod deus pre¬ 
       <lb ed="#P" n="80"/>dilexit genus Adam
      </p>
@@ -1601,14 +1556,28 @@
       <lb ed="#P" n="11"/>ex seipso fecit medicinam etc. 
       </p>
     <p>
-      <lb ed="#P" n="12"/>¶ Ad praemissa plura vbi Incarnatio. 
-      <lb ed="#P" n="13"/>Aoptio. De hac 
-      <lb ed="#P" n="14"/>vide vbi Filius. 
-      <lb ed="#P" n="15"/>Aoratio. He hac 
-      <lb ed="#P" n="16"/>a  habetur vbi Latria. 
-      </p>
+      <lb ed="#P" n="12"/>¶ Ad praemissa plura vbi Incarnatio.
+    </p>
+    </div>
+<!--end of Abraam beginning of Adoptio 1-->
+    <div>
+    <head>Adoptio</head>
     <p>
-      <lb ed="#P" n="17"/>¶ Quetus dei. E 
+      <lb ed="#P" n="13"/>Adoptio. De hac 
+      <lb ed="#P" n="14"/>vide vbi Filius.
+    </p>
+    </div>
+    <div>
+    <head>Adoratio</head>
+    <p> 
+      <lb ed="#P" n="15"/>Adoratio. De hac 
+      <lb ed="#P" n="16"/>a habetur vbi Latria. 
+    </p>
+    </div>
+    <div>
+    <head>Adventus dei</head>
+    <p>
+      <lb ed="#P" n="17"/>¶ Aduetus dei. E 
       <lb ed="#P" n="18"/>mira claret dei charitas in ipsius ad¬ 
       <lb ed="#P" n="19"/>uentum ad nos 
       </p>
@@ -2837,10 +2806,14 @@
       <lb ed="#P" n="28"/>qui te sic amauit. 
       </p>
     <p>
-      <lb ed="#P" n="29"/>¶ De aduentum christi plura vbi supr 
+      <lb ed="#P" n="29"/>¶ De aduentum christi plura vbi super 
       </p>
+    </div>
+    <!--end of Adventus dei-->
+    <div>
+    <head>Amicicia christi</head>
     <p>
-      <lb ed="#P" n="30"/>¶ Nicicia christus 
+      <lb ed="#P" n="30"/>¶ Amicicia christus 
       <lb ed="#P" n="31"/>Charitas quamira claret in amiciciem 
       <lb ed="#P" n="32"/>christi ad nos. Ctri. c. setd 
       </p>
@@ -3812,6 +3785,8 @@
       <lb ed="#P" n="9"/>bils est charitas christi ad suos amicos: quis extima 
       <lb ed="#P" n="10"/>re sufficit etc. 
       </p>
+      </div>
+      <!--amor dei ad creaturas LEFT OFF HERE-->
     <p>
       <lb ed="#P" n="11"/>¶ Aor dei ad crea¬ 
       <lb ed="#P" n="12"/>turas. Quod eminentur amor sit in deo etc. 
