@@ -46382,9 +46382,10 @@
       <lb ed="#P" n="16"/>ritas erga nos homines.
     </p>
     </div>
-    <!--Left off here pg 314 HERE-->
+    <div>
+    <head>Temperantia</head>
     <p> 
-      <lb ed="#P" n="17"/>Rmperantia secundum 
+      <lb ed="#P" n="17"/>Temperantia secundum 
       <lb ed="#P" n="18"/>Ioan. Ianuen. in catholicon est domi 
       <lb ed="#P" n="19"/>nium rationis in libidinem et in alios animi 
       <lb ed="#P" n="20"/>motus: vel virtus animi refrenandi motus in not 
@@ -46710,8 +46711,11 @@
       <lb ed="#P" n="37"/>¶ Hic valde apparet excelsi dei 
       <lb ed="#P" n="38"/>maxima charitas in nos. 
       </p>
+    </div>
+    <div>
+    <head>Timor</head>
     <p>
-      <lb ed="#P" n="39"/>¶ Imor secundum Na¬ 
+      <lb ed="#P" n="39"/>¶ Timor secundum Na¬ 
       <lb ed="#P" n="40"/>mascenum est expectatio futuri mali. 
       <lb ed="#P" n="41"/>Ubi secundum Guill. in. iii. di. xxxiiii. tangum 
       <lb ed="#P" n="42"/>tur tria. Primo genus: dum dicitur expe¬ 
@@ -47185,8 +47189,11 @@
       <lb ed="#P" n="53"/>¶ Ubi valde relucet immensa cha¬ 
       <lb ed="#P" n="54"/>ritas dei erga homines. 
       </p>
+    </div>
+    <div>
+    <head>Virtus cardinalis</head>
     <p>
-      <lb ed="#P" n="55"/>¶ Irtus cardinalis 
+      <lb ed="#P" n="55"/>¶ Virtus cardinalis 
       <lb ed="#P" n="56"/>Dicit enim magister in. iii. dis. xxxiii. quod de 
       <!--318.xml-->
       <cb ed="#P" n="b"/>
@@ -48001,11 +48008,14 @@
       <lb ed="#P" n="9"/>excludit charitatem. et ideo non est simile hinc et inde¬ 
       <lb ed="#P" n="10"/>ergo vicia non sunt connexa: ideo necesse est quod vnun¬ 
       <lb ed="#P" n="11"/>quodque expellatur per virtutem contrariam. 
-      <lb ed="#P" n="12"/>Hhic manifestissime relucet dei 
+      <lb ed="#P" n="12"/>Hic manifestissime relucet dei 
       <lb ed="#P" n="13"/>l altissimi charitas erga nos. 
       </p>
+      </div>
+    <head>Vita.I. scilicet contemplatiua</head>
+    <div>
     <p>
-      <lb ed="#P" n="14"/>¶ Ita primo conti¬ 
+      <lb ed="#P" n="14"/>¶ Uita primo conti¬ 
       <lb ed="#P" n="15"/>platiua per quam intuetur deus quae ad donum 
       <lb ed="#P" n="16"/>apientie videtur pertinere Triplex enim vita re 
       <lb ed="#P" n="17"/>peritur in scriptura. Prima vegetatiua: de qua dicit Philosopus 
@@ -48691,7 +48701,12 @@
       </p>
     <p>
       <lb ed="#P" n="100"/>¶ Hic valde relucet altissimi dei 
-      <lb ed="#P" n="101"/>magna charitas in homines. 
+      <lb ed="#P" n="101"/>magna charitas in homines.
+    </p>
+    </div>
+    <div>
+    <head>Vita.II.scilicet activa</head>
+    <p> 
       <lb ed="#P" n="102"/>Ita secundo acti¬ 
       <lb ed="#P" n="103"/>ua prout distinguitur a contemplatiua Unde est 
       <lb ed="#P" n="104"/>obi sciendum vltra quod vita est tripleux scilicet Na¬ 
@@ -49000,6 +49015,11 @@
     <p>
       <lb ed="#P" n="108"/>¶ Hic vltimo relucet eminenter 
       <lb ed="#P" n="109"/>dei grata charitas erga homines 
+    </p>
+    </div>
+    <div>
+    <head>Zelus</head>
+    <p>
       <lb ed="#P" n="110"/>Zelus proprie est 
       <lb ed="#P" n="111"/>motio animi siue in bonum siue in 
       <lb ed="#P" n="112"/>malum. Ideo alio modo diffinitur 
@@ -49107,7 +49127,12 @@
       <lb ed="#P" n="83"/>rie: necnon ad honorem seraphici patris nostri Francisci 
       <lb ed="#P" n="84"/>et omnium beatorum celestis curie. Laudetur ergo deusper infi¬ 
       <lb ed="#P" n="85"/>nita seculorum secula Amen. 
-      <lb ed="#P" n="86"/>Iosaris theologice sa¬ 
+    </p>
+    </div>
+    <div>
+    <head>Rosarii theologice</head>
+    <p>
+      <lb ed="#P" n="86"/>Rosaris theologice sa¬ 
       <lb ed="#P" n="87"/>pientie aurei Tertius liber pro elucidatione Senten¬ 
       <lb ed="#P" n="88"/>tiarum libri tert ii per religionis zelo deditissimum pa¬ 
       <lb ed="#P" n="89"/>trem: sacre pagine professorem eximium: fratrem Pelbar¬ 
@@ -49119,5 +49144,6 @@
       <lb ed="#P" n="95"/>virginei partus. No. secnda die mesis Augusti finit 
       <lb ed="#P" n="96"/>itt. 
       </p>
+    </div>
 </div>
 </div>
