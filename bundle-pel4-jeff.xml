@@ -39299,8 +39299,11 @@
     </p>
   </div>
   </div>
-  <head> 1 </head>
   <div>
+    <head>Matrimonium</head>
+
+  <div>
+    <head> 1 </head>
     <p>
       <lb ed="#P" n="83"/>Matrimonium primo 
       <lb ed="#P" n="84"/>quidem sciendum quod aliud est sacramentum ma 
@@ -43942,7 +43945,9 @@
       <lb ed="#P" n="10"/>Ioan. an. xxx. q. iii per adoptionem. quod non dirimat ma¬ 
       <lb ed="#P" n="11"/>trimonium: quamuis impediat. 
     </p>
+
     </div>
+
     <div>
     <head> 57 </head>
     <p>
@@ -44011,8 +44016,9 @@
     </div>
     </div>
     <div>
-    <!-- I don't know what this error is.-->
+    
     <head>Missa</head>
+      <!-- I don't know what this error is.-->
     <div>
     <head> 1 </head>
     <p>
@@ -46012,7 +46018,7 @@
   <div>
     <head>Ordo</head>
     <div>
-    <head> 1 </head.
+    <head> 1 </head>
     <p>
       <lb ed="#P" n="90"/>Ordo primo ac¬ 
       <lb ed="#P" n="91"/>cipitur multipliciter. Primo pro rerum di¬ 
@@ -50695,7 +50701,10 @@
       <lb ed="#P" n="51"/>Infamatus autem iniuste dignus est fama: ideo si 
       <lb ed="#P" n="52"/>seri debet reddi secundum iusticiam. 
     </p>
+    </div>
   </div>
+    <div>
+    <!-- Sacramentum 2 -->
     <p>
       <lb ed="#P" n="53"/>SAcramentum secundum 
       <lb ed="#P" n="54"/>Hugonem de sancto Uic. liro vi. de sacramentis. 
@@ -51079,10 +51088,9 @@
       <lb ed="#P" n="1"/>iiii. Si nulla. Et ve presbpyto non baptizato c. veniens.
     </p>
   </div>
-  </div>
-  <div>
-    <head>Satisfactio</head>
-    <div> 
+    <div>
+      <head>Satisfactio</head>
+      <div>
     <head> 1 </head>
     <p>
       <lb ed="#P" n="2"/>SAtisfactio dicitur du¬ 
@@ -51433,7 +51441,7 @@
       <lb ed="#P" n="47"/>mlacio siutni. 
     </p>
   </div>
-  </div>
+  
   <div>
     <head>Scandalum</head>
     <div>
