@@ -3,71 +3,9 @@
      xmlns:transk="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
      xmlns:ns3="http://www.loc.gov/METS/"
      xmlns:ns2="http://www.w3.org/1999/xlink">
-   <p><!--0.xml-->
-      <pb ed="#P" n="0"/>
-      <cb ed="#P" n=""/>
-      <lb ed="#P" n="1"/>
-      <lb ed="#P" n="2"/>
-      <lb ed="#P" n="3"/>
-      <lb ed="#P" n="4"/>
-      <!--1.xml-->
-      <pb ed="#P" n="1"/>
-      <cb ed="#P" n="a"/>
-      <lb ed="#P" n="1"/>
-      <lb ed="#P" n="2"/>
-      <lb ed="#P" n="3"/>
-      <lb ed="#P" n="4"/>
-      <lb ed="#P" n="5"/>
-      <!--1.xml-->
-      <cb ed="#P" n="b"/>
-      <lb ed="#P" n="6"/>
-      <lb ed="#P" n="7"/>
-      <lb ed="#P" n="8"/>
-      <lb ed="#P" n="9"/>
-      <lb ed="#P" n="10"/>
-      <!--1.xml-->
-      <pb ed="#P" n="1"/>
-      <cb ed="#P" n="c"/>
-      <lb ed="#P" n="11"/>
-      <!--4.xml-->
-      <pb ed="#P" n="4"/>
-      <cb ed="#P" n=""/>
-      <lb ed="#P" n="1"/>
-      <lb ed="#P" n="2"/>
-      <lb ed="#P" n="3"/>
-      <lb ed="#P" n="4"/>
-      <lb ed="#P" n="5"/>
-      <lb ed="#P" n="6"/>
-      <lb ed="#P" n="7"/>
-      <!--5.xml-->
-      <pb ed="#P" n="5"/>
-      <cb ed="#P" n="a"/>
-      <lb ed="#P" n="1"/>
-      <!--5.xml-->
-      <cb ed="#P" n="b"/>
-      <lb ed="#P" n="2"/>
-      <!--5.xml-->
-      <pb ed="#P" n="5"/>
-      <cb ed="#P" n="c"/>
-      <lb ed="#P" n="3"/>
-      <!--5.xml-->
-      <pb ed="#P" n="5"/>
-      <cb ed="#P" n="a"/>
-      <lb ed="#P" n="4"/>
-      <lb ed="#P" n="5"/>
-      <lb ed="#P" n="6"/>
-      <lb ed="#P" n="7"/>
-      <lb ed="#P" n="8"/>
-      <lb ed="#P" n="9"/>
-      <!--5.xml-->
-      <pb ed="#P" n="5"/>
-      <cb ed="#P" n="a"/>
-      <lb ed="#P" n="10"/>
-      <lb ed="#P" n="11"/>
-      <!--6.xml-->
-      <pb ed="#P" n="6"/>
-      <cb ed="#P" n="a"/>
-      </p>
+
+     <div>
+      <head>Prologus</head> 
     <p>
       <lb ed="#P" n="1"/>¶ In nomine patris et 
       <lb ed="#P" n="2"/>filii et spiritus sancti Amen. Ad  
@@ -120,10 +58,18 @@
       <lb ed="#P" n="46"/>ris et charitatis gratia vt nunquam excidat: sed in per¬ 
       <lb ed="#P" n="47"/>petuum maneat in statu patrie. vbi videbimus de¬ 
       <lb ed="#P" n="48"/>um et amabimus: amabimus et tenebimus tene¬ 
-      <lb ed="#P" n="49"/>bimus et laudabimus sine fine Amen. 
+      <lb ed="#P" n="49"/>bimus et laudabimus sine fine Amen.
+      </p>
+      </div> 
       <!--6.xml-->
+      <div>
+      <head>Abba</head>
+      
+      <div>
+        <head>1</head>
+      <p>
       <cb ed="#P" n="b"/>
-      <lb ed="#P" n="50"/>Bba id est pater. 
+      <lb ed="#P" n="50"/>Abba id est pater. 
       <lb ed="#P" n="51"/>De hoc Apostolus Rho. viii. dicit 
       <lb ed="#P" n="52"/>Accepistis inquit spiritum adoptio¬ 
       <lb ed="#P" n="53"/>nis filiorum in quo clamamus Ab¬ 
@@ -140,6 +86,9 @@
       <lb ed="#P" n="64"/>Ipse enim spiritus sanctus testimonium reddit spiritui nostro 
       <lb ed="#P" n="65"/>quod sumus filii dei. 
       </p>
+      </div>
+      <div>
+      <head>2</head>
     <p>
       <lb ed="#P" n="66"/>¶ Itaque maxima dei charitas er¬ 
       <lb ed="#P" n="67"/>ga creaturas: presertim rationales claret in hoc 
@@ -201,6 +150,9 @@
       <lb ed="#P" n="5"/>autem omnia consecuti sumus ex charitate dei liberalissi¬ 
       <lb ed="#P" n="6"/>ma. ergo tenemur eum reamare etc. 
       </p>
+      </div>
+      <div>
+      <head>3</head>
     <p>
       <lb ed="#P" n="7"/>¶ Quare deus amorosus volu¬ 
       <lb ed="#P" n="8"/>it vocari a nobis abba vel pater magis quam dominus vel  
@@ -262,6 +214,9 @@
       <lb ed="#P" n="52"/>suum amorem praetulit: ibidem subdens. Etsi illa oblita 
       <lb ed="#P" n="53"/>fuerit: ego tamen non obliuiscar. ergo etc 
       </p>
+      </div>
+      <div>
+      <head>4</head>
     <p>
       <lb ed="#P" n="54"/>¶ Qualiter probatur quod deus pater¬ 
       <lb ed="#P" n="55"/>no amore maximo diligit creaturas ineffabiliter 
@@ -330,6 +285,9 @@
       <lb ed="#P" n="105"/>est maximus. Sed propter minorem huius ra¬ 
       <lb ed="#P" n="106"/>tionis Queritur 
       </p>
+      </div>
+      <div>
+      <head>5</head>
     <p>
       <lb ed="#P" n="107"/>¶ Quid est illud bonum maximum 
       <lb ed="#P" n="108"/>quod deus vult creaturis paterno amore? Respon¬ 
@@ -409,8 +367,16 @@
       </p>
     <p>
       <lb ed="#P" n="56"/>¶ Ad premissa plura vide vbi 
-      <lb ed="#P" n="57"/>amor. 
+      <lb ed="#P" n="57"/>amor.
+    </p>
+    </div>
+    </div>
       <!--8.xml-->
+      <div>
+      <head>Abraam</head>
+      <div>
+      <head>1</head>
+      <p>
       <cb ed="#P" n="b"/>
       <lb ed="#P" n="58"/>Abraam nota quod 
       <lb ed="#P" n="59"/>grande exemplum vel spectaculum cha¬ 
@@ -467,6 +433,9 @@
       <lb ed="#P" n="94"/>fra patebit. Et quia hec omnia fecit ex charitate 
       <lb ed="#P" n="95"/>ad homines. ergo etc. 
       </p>
+      </div>
+      <div>
+      <head>2</head>
     <p>
       <lb ed="#P" n="96"/>¶ Secundo insuper maiorem chari¬ 
       <lb ed="#P" n="97"/>tatem deus proposuit nobis in filii oblatione. 
@@ -624,6 +593,9 @@
       <lb ed="#P" n="96"/>post tergum arietem herentem cornibus quem obtulit pro 
       <lb ed="#P" n="97"/>filio. Et de hoc in. §. immediate subsequenti. 
       </p>
+      </div>
+      <div>
+      <head>3</head>
     <p>
       <lb ed="#P" n="98"/>¶ Qualiter per arietem immo¬ 
       <lb ed="#P" n="99"/>latum ab Abraam pro filio figuratur charitas: Re¬ 
@@ -692,6 +664,9 @@
       <lb ed="#P" n="30"/>tis proposuit deus in christi ex Abraam genera¬ 
       <lb ed="#P" n="31"/>tione. 
       </p>
+      </div>
+      <div>
+      <head>4</head>
     <p>
       <lb ed="#P" n="32"/>¶ Quare in genealogia christi pri¬ 
       <lb ed="#P" n="33"/>mo dicitur. christus filius Dauid et postea Abra¬ 
@@ -747,6 +722,9 @@
       <lb ed="#P" n="69"/>deus ex nimia sua charitate fecit pro salute generis 
       <lb ed="#P" n="70"/>humani. ergo patet mira charitas dei. 
       </p>
+      </div>
+      <div>
+      <head>5</head>
     <p>
       <lb ed="#P" n="71"/>¶ Utrum ergo in Abraam christus 
       <lb ed="#P" n="72"/>fuerit decimatus sicut ex illo progenitus et in patribus pri¬ 
@@ -850,6 +828,9 @@
       <lb ed="#P" n="30"/>decimatus. Ex dictis patet dei charitas qua praefigu¬ 
       <lb ed="#P" n="31"/>rauit per christum nos liberandos etc. 
       </p>
+      </div>
+      <div>
+      <head>6</head>
     <p>
       <lb ed="#P" n="32"/>¶ Sed quare deus voluit deci¬ 
       <lb ed="#P" n="33"/>mas dari etiam in tempore noue legis: cum tamen deci¬ 
@@ -911,7 +892,13 @@
       <lb ed="#P" n="75"/>corporalium augmentum. Malach. iii xvi. q. i. decime 
       <lb ed="#P" n="76"/>Tertio vt ex charitate obediendo praeceptis iuris na¬ 
       <lb ed="#P" n="77"/>turalis et moralis et ecclesie mereamur eternam glo¬ 
-      <lb ed="#P" n="78"/>riam. Ecce amor dei. 
+      <lb ed="#P" n="78"/>riam. Ecce amor dei.
+    </p>
+    </div>
+    </div>
+    <div>
+    <head>Adam</head>
+    <p> 
       <lb ed="#P" n="79"/>Adam Quod deus pre¬ 
       <lb ed="#P" n="80"/>dilexit genus Adam
      </p>
@@ -919,6 +906,8 @@
       ¶ Primo sibi 
       <lb ed="#P" n="81"/>vnire preeligendo. 
       </p>
+      <div>
+      <head>1</head>
     <p>
       <lb ed="#P" n="82"/>¶ Queritur ergo Utrum natura 
       <lb ed="#P" n="83"/>humana generis Ade sit prae aliis deo vnibilis: Ad hoc 
@@ -1040,6 +1029,9 @@
       <lb ed="#P" n="52"/>ris deum diligere pro tanta charitate pre angelis 
       <lb ed="#P" n="53"/>quibus praetulit te. 
       </p>
+      </div>
+      <div>
+      <head>2</head>
     <p>
       <lb ed="#P" n="54"/>¶ Sed vtrum eque sicut homo irra¬ 
       <lb ed="#P" n="55"/>tionalis natura potuit vniri deo: De hoc Bona¬ 
@@ -1121,6 +1113,9 @@
       <lb ed="#P" n="110"/>ram. quia omnis natura est in potentia obedientiali eque 
       <lb ed="#P" n="111"/>sicut rationalis. 
       </p>
+      </div>
+      <div>
+      <head>3</head>
     <p>
       <lb ed="#P" n="112"/>¶ Sed adhuc difficultas restat: 
       <lb ed="#P" n="113"/>Quia alia natura praeter rationalem non est capax 
@@ -1284,6 +1279,9 @@
       <lb ed="#P" n="2"/>Adam non aliunde quam de ipso Adam peccatore 
       <lb ed="#P" n="3"/>humanando. 
       </p>
+      </div>
+      <div>
+      <head>5</head>
     <p>
       <lb ed="#P" n="4"/>¶ Utrum deus potuit humana¬ 
       <lb ed="#P" n="5"/>ri aliunde quam de genere Ade peccato obligantis ge¬ 
@@ -1408,6 +1406,9 @@
       <lb ed="#P" n="95"/>Quarto deus dilexit genus Adam 
       <lb ed="#P" n="96"/>ex eo vnicam singularem humanitatem sibi vniendo. 
       </p>
+      </div>
+      <div>
+      <head>6</head>
     <p>
       <lb ed="#P" n="97"/>¶ Quare congruit vnicam singula¬ 
       <lb ed="#P" n="98"/>rem humanitatem ex Adam genere deo vniri: cum omnes 
@@ -1484,6 +1485,9 @@
       <lb ed="#P" n="34"/>ergo non conceditur ne videatur personam assumpsisse 
       <lb ed="#P" n="35"/>Ad hoc vbi assumptio. §. xxii. 
       </p>
+      </div>
+      <div>
+      <head>7</head>
     <p>
       <lb ed="#P" n="36"/>¶ Sed quare christus non assum 
       <lb ed="#P" n="37"/>psit ipsummet Adam: sed voluit esse secundus Adam 
@@ -1543,6 +1547,9 @@
       <lb ed="#P" n="74"/>do et in limbo patrum. Ecce itaque patet charitas dei 
       <lb ed="#P" n="75"/>in christo ad nos. 
       </p>
+      </div>
+      <div>
+      <head>8</head>
     <p>
       <lb ed="#P" n="76"/>¶ Item difficultas est Cur chri¬ 
       <lb ed="#P" n="77"/>stus cum sit medicina Adam et filiorum eius volu¬ 
@@ -1569,6 +1576,9 @@
       <lb ed="#P" n="98"/>dicina christi est voluntaria et charitatis gratui¬ 
       <lb ed="#P" n="99"/>te. ergo etc. 
       </p>
+      </div>
+      <div>
+      <head>9</head>
     <p>
       <lb ed="#P" n="100"/>¶ Quomodo autem christus sit 
       <lb ed="#P" n="101"/>medicina filiorum Adam Nota secundum e. Guill. quod vt 
@@ -1601,14 +1611,28 @@
       <lb ed="#P" n="11"/>ex seipso fecit medicinam etc. 
       </p>
     <p>
-      <lb ed="#P" n="12"/>¶ Ad praemissa plura vbi Incarnatio. 
-      <lb ed="#P" n="13"/>Aoptio. De hac 
-      <lb ed="#P" n="14"/>vide vbi Filius. 
-      <lb ed="#P" n="15"/>Aoratio. He hac 
-      <lb ed="#P" n="16"/>a  habetur vbi Latria. 
-      </p>
+      <lb ed="#P" n="12"/>¶ Ad praemissa plura vbi Incarnatio.
+    </p>
+    </div>
+    </div>
+    <div>
+    <head>Adoptio</head>
     <p>
-      <lb ed="#P" n="17"/>¶ Quetus dei. E 
+      <lb ed="#P" n="13"/>Adoptio. De hac 
+      <lb ed="#P" n="14"/>vide vbi Filius.
+    </p>
+    </div>
+    <div>
+    <head>Adoratio</head>
+    <p> 
+      <lb ed="#P" n="15"/>Adoratio. De hac 
+      <lb ed="#P" n="16"/>a habetur vbi Latria. 
+    </p>
+    </div>
+    <div>
+    <head>Adventus dei</head>
+    <p>
+      <lb ed="#P" n="17"/>¶ Aduetus dei. E 
       <lb ed="#P" n="18"/>mira claret dei charitas in ipsius ad¬ 
       <lb ed="#P" n="19"/>uentum ad nos 
       </p>
@@ -1619,6 +1643,8 @@
     <p>
       ¶ Nam Questio est 
       </p>
+      <div>
+      <head>1</head>
     <p>
       <lb ed="#P" n="22"/>¶ Quot modis christus deus ad¬ 
       <lb ed="#P" n="23"/>uenit ad nos: Respondetur ex scripturis quod pluries 
@@ -1663,6 +1689,9 @@
       <lb ed="#P" n="47"/>ribilis est: quia iuste damnationis. Electis autenm¬ 
       <lb ed="#P" n="48"/>eterne praemiationis. et ita summe charitatis. 
       </p>
+      </div>
+      <div>
+      <head>2</head>
     <p>
       <lb ed="#P" n="49"/>¶ Sed quomodo deus aduenire in 
       <!--16.xml-->
@@ -1687,6 +1716,9 @@
       <lb ed="#P" n="67"/>Secundo charitas claret aduentus 
       <lb ed="#P" n="68"/>dei in eius praeordinata possibilitate. De qua hoc prosequendo 
       </p>
+      </div>
+      <div>
+      <head>3</head>
     <p>
       <lb ed="#P" n="69"/>¶ Queritur
      </p>
@@ -1756,6 +1788,9 @@
       <lb ed="#P" n="12"/>ipsam. Et hec est icarnatio diuina. patet infra. §. xi 
       <lb ed="#P" n="13"/>clarius. Et hec fecit deus ex charitate. 
       </p>
+      </div>
+      <div>
+      <head>4</head>
     <p>
       <lb ed="#P" n="14"/>¶ Sed quali relatione refertur deus ad 
       <lb ed="#P" n="15"/>humanitatem tali aduentum: cum in deo non possit cade¬ 
@@ -1786,6 +1821,9 @@
       <lb ed="#P" n="37"/>charitas ex quae voluit sibi humanam naturam. sic vni¬ 
       <lb ed="#P" n="38"/>re: vt homo reamaret deum. 
       </p>
+      </div>
+      <div>
+      <head>5</head>
     <p>
       <lb ed="#P" n="39"/>¶ An huius aduentus vnioni repi¬ 
       <lb ed="#P" n="40"/>gnet improportionabilitas: Arguitur nempe. quia omne vnibi 
@@ -1861,6 +1899,9 @@
       <lb ed="#P" n="100"/>num fecisti mortalem: et infinitum fecisti temporalem. Hec 
       <lb ed="#P" n="101"/>omnia fecisti vt corda nostra penetrares. 
       </p>
+      </div>
+      <div>
+      <head>6</head>
     <p>
       <lb ed="#P" n="102"/>¶ Utrum aduentus dei distantis im¬ 
       <lb ed="#P" n="103"/>proportionabiliter a creatura ponat repugnantiam 
@@ -1898,6 +1939,9 @@
       <lb ed="#P" n="20"/>glors dict. Sola charitas christum incarnari fecit. Etsi 
       <lb ed="#P" n="21"/>piget amare: pudeat non reamare 
       </p>
+      </div>
+      <div>
+      <head>7</head>
     <p>
       <lb ed="#P" n="22"/>¶ Sed quid de alis repugnan¬ 
       <lb ed="#P" n="23"/>tiis Aduentus huius diuine incarnationis. Quoniam vt 
@@ -1986,6 +2030,9 @@
       <lb ed="#P" n="93"/>rium maxime charitatis diuine claret in hoc quod ta¬ 
       <lb ed="#P" n="94"/>lem mogum vniendi preordinauit. 
       </p>
+      </div>
+      <div>
+      <head>8</head>
     <p>
       <lb ed="#P" n="95"/>¶ Utrum vnio naturarum in chri¬ 
       <lb ed="#P" n="96"/>sto veniente in carnem sit ratione comprchensibi 
@@ -2019,8 +2066,11 @@
       <lb ed="#P" n="9"/>ritate nobis misericordissime subuenit: quod supra¬ 
       <lb ed="#P" n="10"/>omnem rationem non nisi ab ipso solo deo liberali volun 
       <lb ed="#P" n="11"/>tate exhiberipotuit taminfinite distantium vnio vni¬ 
-      <lb ed="#P" n="12"/>tate nsione. 
+      <lb ed="#P" n="12"/>tate persone. 
       </p>
+      </div>
+      <div>
+      <head>9</head>
     <p>
       <lb ed="#P" n="13"/>¶ Qualiter ergo ostenditer decla¬ 
       <lb ed="#P" n="14"/>ratiue quod sit possibile deum per vnionem aduenisse in 
@@ -2073,6 +2123,9 @@
       <lb ed="#P" n="50"/>positum autem non est idem realiter quod natira super 
       <lb ed="#P" n="51"/>positata. 
       </p>
+      </div>
+      <div>
+      <head>10</head>
     <p>
       <lb ed="#P" n="52"/>¶ Sed dubium occurrit e his. 
       <lb ed="#P" n="53"/>Quid ergo addit suppositum vel persona suprana¬ 
@@ -2128,6 +2181,10 @@
       <lb ed="#P" n="90"/>ctioni nec persone diuine: potest poni in ea. Sed sic 
       <lb ed="#P" n="91"/>est in proposito ergo etc. patet. 
       </p>
+      </div>
+      <div>
+      <head>11</head>
+      <!--Correct up to here-->
     <p>
       <lb ed="#P" n="92"/>¶ Quid nanque est diuina perso¬ 
       <lb ed="#P" n="93"/>nam vniri humane nature: Rich. li. iii. e. dist i. dicit 
@@ -2161,9 +2218,11 @@
       </p>
     <p>
       <lb ed="#P" n="1"/>¶ Tertio principaliter claret cha¬ 
-      <lb ed="#P" n="2"/>ritas dei in aduentum christi ex suppositatione naturi 
+      <lb ed="#P" n="2"/>ritas dei in aduentum christi ex suppositatione nature
       <lb ed="#P" n="3"/>humane. 
       </p>
+      <div>
+      <head>12</head>
     <p>
       <lb ed="#P" n="4"/>¶ Qualiter persona filii dei potu¬ 
       <lb ed="#P" n="5"/>it suppositare humanam naturam: Respondetur secundum 
@@ -2237,6 +2296,9 @@
       <lb ed="#P" n="60"/>¶ Questiones ergo sunt secundum quodruplex tempuscsit 
       <lb ed="#P" n="61"/>Innocentie. Culpe. Gratie et Iusticie etc. 
       </p>
+      </div>
+      <div>
+      <head>13</head>
     <p>
       <lb ed="#P" n="62"/>¶ Utrum coueniens fuit dei filium 
       <lb ed="#P" n="63"/>aduenisse tempore innocentie a principio mundi id est ante pecc¬ 
@@ -2272,6 +2334,9 @@
       <lb ed="#P" n="93"/>quando. sed hoc loquor pro principio modi vel temporis. quod tium scilicet non tam¬ 
       <lb ed="#P" n="94"/>congrucbat peum icarnari scut postea tractum temporis. 
       </p>
+      </div>
+      <div>
+      <head>14</head>
     <p>
       <lb ed="#P" n="95"/>¶ Utrum post peccatum immediate 
       <lb ed="#P" n="96"/>iam tempore culpe commisse debuit christus aduenisse: Re¬ 
@@ -2329,6 +2394,11 @@
       <lb ed="#P" n="23"/>in aliis scilicet reprobis: et misericordiam ac charitatem in ele¬ 
       <lb ed="#P" n="24"/>ts. ego etc. 
       </p>
+      </div>
+      <head></head>
+      </div>
+      <div>
+      <head>15</head>
     <p>
       <lb ed="#P" n="25"/>¶ Utrum christus suum aduentum debu¬ 
       <lb ed="#P" n="26"/>it differre vsque ad tempus extremum iusticie id est iudicii in 
@@ -2360,6 +2430,9 @@
       <lb ed="#P" n="43"/>subti. vt per suum aduentum de plenitudine eius omnes acciperi¬ 
       <lb ed="#P" n="44"/>mus gratiam. Io i. et per consequens fidem et charitatem. 
       </p>
+      </div>
+      <div>
+      <head>16</head>
     <p>
       <lb ed="#P" n="45"/>¶ Sed quaere tempus aduentus ppli dicitur 
       <lb ed="#P" n="46"/>tempus plenitudinis. Iux apostolum Gal. iiii. Cum Augustinus. libr re 
@@ -2400,6 +2473,9 @@
       <lb ed="#P" n="64"/>nitudo glorie in fine modi. Et hec omnia ex dei charitate 
       <lb ed="#P" n="65"/>pro nostre salutis vtilitate etc. 
       </p>
+      </div>
+      <div>
+      <head>17</head>
     <p>
       <lb ed="#P" n="66"/>¶ Item quare dicitur christus in tempore 
       <lb ed="#P" n="67"/>plenitudinis factus ex muliere et sub lege. vt patet supr 
@@ -2476,6 +2552,9 @@
       <lb ed="#P" n="3"/>ueniens virilem sexum in seipo: et femineum sexum in sua 
       <lb ed="#P" n="4"/>matre honore decorauit ex charitate. 
       </p>
+      </div>
+      <div>
+      <head>18</head>
     <p>
       <lb ed="#P" n="5"/>¶ Queritur ergo Utrum christus aduent 
       <lb ed="#P" n="6"/>re debuit in sexu virili: Respondetur secundum e. Guill. li. iii. 
@@ -2547,6 +2626,9 @@
       <lb ed="#P" n="52"/>stus cum sit vir significat nos amare fortiter vsque ad 
       <lb ed="#P" n="53"/>mortem: vt reamaremus eum forti charitate etc. 
       </p>
+      </div> 
+      <div>
+    <head>19</head>
     <p>
       <lb ed="#P" n="54"/>¶ Utrum christus aduenire debuit 
       <lb ed="#P" n="55"/>conuenienter: ex femina nascendo: Ad quod respondetur 
@@ -2636,6 +2718,9 @@
       <lb ed="#P" n="105"/>¶ Sexto charitas dei claret in ad 
       <lb ed="#P" n="106"/>uetu chri supra merita ex mera libalitate. 
       </p>
+      </div>
+      <div>
+      <head>20</head>
     <p>
       <lb ed="#P" n="107"/>¶ Questio ergo est. Utrum sancti pa¬ 
       <lb ed="#P" n="108"/>tres veteris testamenti meruerit vt adueniat in car¬ 
@@ -2663,6 +2748,9 @@
       <lb ed="#P" n="14"/>um enim erat vt deus exaudiret obedientes sibi. et ideo 
       <lb ed="#P" n="15"/>ex mera charitate venit. Ad idem in sequentibus. 
       </p>
+      </div>
+      <div>
+      <head>21</head>
     <p>
       <lb ed="#P" n="16"/>¶ Sed an aliqui sancti patres ali¬ 
       <lb ed="#P" n="17"/>vel simul omnes sancti noui et vete. testa. aduentum meruerit 
@@ -2775,6 +2863,9 @@
       <lb ed="#P" n="90"/>tas erga nos cum tantum et tale beneficium contulit quod omnia 
       <lb ed="#P" n="91"/>merita excedit. 
       </p>
+      </div>
+      <div>
+      <head>22</head>
     <p>
       <lb ed="#P" n="92"/>¶ Utrum beata virgo Maria merum 
       <lb ed="#P" n="93"/>erit aduentum christi et incarnationem: Ratio quaestionis 
@@ -2837,17 +2928,23 @@
       <lb ed="#P" n="28"/>qui te sic amauit. 
       </p>
     <p>
-      <lb ed="#P" n="29"/>¶ De aduentum christi plura vbi supr 
+      <lb ed="#P" n="29"/>¶ De aduentum christi plura vbi super 
       </p>
+    </div>
+    </div>
+    <div>
+    <head>Amicicia christi</head>
     <p>
-      <lb ed="#P" n="30"/>¶ Nicicia christus 
+      <lb ed="#P" n="30"/>¶ Amicicia christus 
       <lb ed="#P" n="31"/>Charitas quamira claret in amiciciem 
-      <lb ed="#P" n="32"/>christi ad nos. Ctri. c. setd 
+      <lb ed="#P" n="32"/>christi ad nos.
       </p>
     <p>
-      <lb ed="#P" n="33"/>¶ Nmo quachrstus deminus Ion eg I 
-      <lb ed="#P" n="34"/>care amicos dignatur 
+      <lb ed="#P" n="33"/>¶ Primo quia christos dominus nos seruos vo-
+      <lb ed="#P" n="34"/>care amicos dignatur. 
       </p>
+      <div>
+      <head>1</head>
     <p>
       <lb ed="#P" n="35"/>¶ Questio ergo est. quare christus dominus su¬ 
       <lb ed="#P" n="36"/>os fideles potius amicos dignatus est vocare quam seruos 
@@ -2895,6 +2992,9 @@
       <lb ed="#P" n="67"/>Ecceergo mira dei charitas qua nos amicos vocati. 
       <lb ed="#P" n="68"/>quia amari vult potius quam timeri. 
       </p>
+      </div>
+      <div>
+      <head>2</head>
     <p>
       <lb ed="#P" n="69"/>¶ Sed quomodo possit vera amicicia 
       <lb ed="#P" n="70"/>esse inter deum et hominem Cum dicat philosophs viii. Ethi. quod ve¬ 
@@ -2950,6 +3050,9 @@
       <lb ed="#P" n="109"/>et econuerso. Beniuolentia quoque aperta per opera et intentio 
       <lb ed="#P" n="110"/>salutis. ecce charitas. 
       </p>
+      </div>
+      <div>
+      <head>3</head>
     <p>
       <lb ed="#P" n="111"/>¶ Secudo charitas in amicicia 
       <!--25.xml-->
@@ -3092,6 +3195,9 @@
       <lb ed="#P" n="96"/>tas claret exvirtuositate. quae omnibus praefertur. Et hoc ostenditur 
       <lb ed="#P" n="97"/>multipliciter ex quaestionibus subscriptis. 
       </p>
+      </div>
+      <div>
+      <head>5</head>
     <p>
       <lb ed="#P" n="98"/>¶ Utrum amicicia sit virtus cuilibus 
       <lb ed="#P" n="99"/>homini necessaria in hac vita: Respondetur secundum Rar¬ 
@@ -3200,6 +3306,9 @@
       <lb ed="#P" n="55"/>te celesti conseruatiua. Tum quia in omni neceitate omnibus stati 
       <lb ed="#P" n="56"/>busque vtilissima. et hec ex chritate diuina. ergo etc. i. 
       </p>
+      </div>
+      <div>
+      <head>6</head>
     <p>
       <lb ed="#P" n="57"/>¶ Utrum dato quod homo sit felix adhuitur 
       <!--26.xml-->
@@ -3260,6 +3369,9 @@
       <lb ed="#P" n="103"/>dei efficit. quam etiam in glorie maiestate. quia coronat 
       <lb ed="#P" n="104"/>i got. 
       </p>
+      </div>
+      <div>
+      <head>7</head>
     <p>
       <lb ed="#P" n="105"/>¶ Utrum amicicia sit melior omni the 
       <lb ed="#P" n="106"/>sauro: Respondetur secundum Rayne. quod sic. Probatur primo rati¬ 
@@ -3299,6 +3411,9 @@
       <lb ed="#P" n="13"/>deserueriur scilicet in morte iste solus te non relinquat: sed in re¬ 
       <lb ed="#P" n="14"/>gionem longinquam ad quam ire debes te perducat. ergo etc. 
       </p>
+      </div>
+      <div>
+      <head>8</head>
     <p>
       <lb ed="#P" n="15"/>¶ Qualis amicicia sit habenda 
       <lb ed="#P" n="16"/>tamquam optima. Notadum est secundum Rayne. in sum. quod ami¬ 
@@ -3389,6 +3504,9 @@
       <lb ed="#P" n="78"/>cum hoc bona summe delectabilia et vtilissima et cum hoc 
       <lb ed="#P" n="79"/>permanentissima. 
       </p>
+      </div>
+      <div>
+      <head>9</head>
     <p>
       <lb ed="#P" n="80"/>¶ Sed ex dictis oritur difficultas 
       <lb ed="#P" n="81"/>Quare non potest esse amicicia vera prauorum cum tamen prae¬ 
@@ -3415,6 +3533,9 @@
       <lb ed="#P" n="102"/>quia simulata sanctitas est duplex iniquitas. teste 
       <lb ed="#P" n="103"/>Hieronymo. 
       </p>
+      </div>
+      <div>
+      <head>10</head>
     <p>
       <lb ed="#P" n="104"/>¶ Item An ergo quando vnus amicorum 
       <lb ed="#P" n="105"/>factus est malus debeat statim solui amicicia eius: 
@@ -3437,8 +3558,11 @@
       ¶ Ad pro¬ 
       <lb ed="#P" n="3"/>positum. Sic facit amorosus christus suos amicos 
       <lb ed="#P" n="4"/>post peccatum ad praestentiam requirendo. et demones qui sunt 
-      <lb ed="#P" n="5"/>insanabiles in malicia relinquendo 
+      <lb ed="#P" n="5"/>insanabiles in malicia relinquendo.
       </p>
+      </div>
+      <div>
+      <head>11</head>
     <p>
       <lb ed="#P" n="6"/>¶ Sed adhuc restat difficultas. 
       <lb ed="#P" n="7"/>Qualiter se debet habere amicus virtuosus et bo¬ 
@@ -3469,6 +3593,9 @@
       <lb ed="#P" n="29"/>mensa. Si vero in obstinatione moriemur tanto durius 
       <lb ed="#P" n="30"/>bamnat: vt hostes. 
       </p>
+      </div>
+      <div>
+      <head>12</head>
     <p>
       <lb ed="#P" n="31"/>¶ Qualia debet quios et siderare in 
       <lb ed="#P" n="32"/>homine quem in amicum sibi vult eliger. Notandum quod secundum 
@@ -3620,6 +3747,9 @@
       <lb ed="#P" n="6"/>iiii. quia in pauca fuisti fidelis: supra mul. te constituam. 
       <lb ed="#P" n="7"/>Secundo per opera in charitate. 
       </p>
+      </div>
+      <div>
+      <head>13</head>
     <p>
       <lb ed="#P" n="8"/>¶ Quarto in amicicia christi chari¬ 
       <lb ed="#P" n="9"/>tas maxima claret ex actibus et signis quibus verificatur 
@@ -3720,6 +3850,9 @@
       <lb ed="#P" n="77"/>tam nature quam gratiae et maxime glore in celo nobis communicat. er¬ 
       <lb ed="#P" n="78"/>go patet charitas. 
       </p>
+      </div>
+      <div>
+      <head>14</head>
     <p>
       <lb ed="#P" n="79"/>¶ Item que suit signa quibus probatur 
       <lb ed="#P" n="80"/>et agnoscitur amicicia fore vera. Nota secundum scripturas 
@@ -3804,6 +3937,7 @@
       <lb ed="#P" n="4"/>facit scire qui te vere dilexit. Sic christus in tempore tribula¬ 
       <lb ed="#P" n="5"/>tionis semper subuenit suis amicis
      </p>
+     </div>
     <p>
       ¶ Tertium signum est 
       <lb ed="#P" n="6"/>perseuerantie perpetuitas. Eccli. vi. Omi tempore diligit 
@@ -3812,8 +3946,13 @@
       <lb ed="#P" n="9"/>bils est charitas christi ad suos amicos: quis extima 
       <lb ed="#P" n="10"/>re sufficit etc. 
       </p>
+      </div>
+    <div>
+    <head>Amor dei ad creaturas</head>
+    <div> 
+    <head>1</head> 
     <p>
-      <lb ed="#P" n="11"/>¶ Aor dei ad crea¬ 
+      <lb ed="#P" n="11"/>¶ Amor dei ad crea¬ 
       <lb ed="#P" n="12"/>turas. Quod eminentur amor sit in deo etc. 
       </p>
     <p>
@@ -3876,6 +4015,9 @@
       <cb ed="#P" n="b"/>
       <lb ed="#P" n="57"/>in dei voluntate etc. 
       </p>
+      </div>
+      <div>
+      <head>2</head>
     <p>
       <lb ed="#P" n="58"/>¶ Quo autem amor in deo ad creatu 
       <lb ed="#P" n="59"/>ras sit praeminetissime: patuit supra. vbi Abba. §. iiii. 
@@ -3952,8 +4094,9 @@
       <lb ed="#P" n="107"/>charitas erga nos est infinita tam a parte ante quam a 
       <lb ed="#P" n="108"/>parte post. vtpote eterna. Quis ergo saltem vel pro 
       <lb ed="#P" n="109"/>parte modica hanc charitatem comprehendere valeat et 
-      <lb ed="#P" n="110"/>ob hoc reamare sufficiat 
+      <lb ed="#P" n="110"/>ob hoc reamare sufficiat.
       </p>
+      </div>
     <p>
       <lb ed="#P" n="111"/>¶ Utrum autem deus amorosus eadem 
       <lb ed="#P" n="112"/>bilectione amet se et creaturam. Require libr i. vbi Ama 
@@ -3968,6 +4111,8 @@
       <lb ed="#P" n="3"/>Secundo deus amat creaturas ge¬ 
       <lb ed="#P" n="4"/>neraliter indicibili charitate: vtpote inumerabiliter 
       </p>
+      <div>
+      <head>3</head>
     <p>
       <lb ed="#P" n="5"/>¶ Utrum deus ament vniuersas cre¬ 
       <lb ed="#P" n="6"/>aturas ex charitate omnes generaliter ac singulas. Ar 
@@ -4052,6 +4197,9 @@
       <lb ed="#P" n="72"/>et sic latissima. Ecce ergo patet innumera multitudo et la¬ 
       <lb ed="#P" n="73"/>titudo ineffabilis diuine charitatis. 
       </p>
+      </div>
+      <div>
+      <head>5</head>
     <p>
       <lb ed="#P" n="74"/>¶ Sed difficultas est: quia BDionyus 
       <lb ed="#P" n="75"/>sus de diui. nominibus. iiii. c. dicit Amor amautem extra se 
@@ -4066,8 +4214,11 @@
       <lb ed="#P" n="84"/>tur in amatum scilicet in ipsum creatum: inquantum bonitatem su¬ 
       <lb ed="#P" n="85"/>am deus communicat creature omni: nil ab eo sibi participam scitui 
       <lb ed="#P" n="86"/>nullius egeat. Ideo Diony. vbi supra dicit quod ipse deus per amo 
-      <lb ed="#P" n="87"/>rem extasim est passus. ergo mira et dei charitas 
+      <lb ed="#P" n="87"/>rem extasim est passus. ergo mira est dei charitas 
       </p>
+      </div>
+      <div>
+      <head>6</head>
     <p>
       <lb ed="#P" n="88"/>¶ Utrum amor quo deus diligit omnia 
       <lb ed="#P" n="89"/>sit amor beniuolentie an amicicie: vel an concupiscen¬ 
@@ -4152,6 +4303,10 @@
       <lb ed="#P" n="38"/>cis indigeret: sed propter suam bonitatem et nostram vtilita 
       <lb ed="#P" n="39"/>tem ex immensa et mera charitate 
       </p>
+      </div>
+      </div>
+    <div>
+      <head>7</head>
     <p>
       <lb ed="#P" n="40"/>¶ Qualis autem ordo sit in amoro 
       <lb ed="#P" n="41"/>dei ad creaturas: Respondetur secundum doctus. subtilem e. dist. 
@@ -4168,6 +4323,9 @@
       <lb ed="#P" n="52"/>maxime deum reamare ex charitate pro tali et tanto 
       <lb ed="#P" n="53"/>dei amore 
       </p>
+      </div>
+      <div>
+      <head>8</head>
     <p>
       <lb ed="#P" n="54"/>¶ Quid ergo de malis in mundo et pri¬ 
       <lb ed="#P" n="55"/>uatiuis: an etiam illa amet deus Et arguitur quod non. re¬ 
@@ -4209,6 +4367,9 @@
       <lb ed="#P" n="84"/>¶ Tertio quod deus amat omnia causa¬ 
       <lb ed="#P" n="85"/>liter et ita eminentii charitate. 
       </p>
+    </div>
+    <div>
+    <head>9</head>
     <p>
       <lb ed="#P" n="86"/>¶ Queritur Utrum amor dei ad nos 
       <lb ed="#P" n="87"/>sit causa amoris nostri ad deum. an econuerso: Et 
@@ -4348,6 +4509,9 @@
       <lb ed="#P" n="68"/>¶ Quarto quod deus amat omnia inequi¬ 
       <lb ed="#P" n="69"/>iter secundum charitatis ordinem 
       </p>
+    </div>
+    <div>
+    <head>10</head>
     <p>
       <lb ed="#P" n="70"/>¶ Utrum deus amet omnia cre 
       <lb ed="#P" n="71"/>ita vnico amore et equali: Respondetur quod distinguen¬ 
@@ -4429,6 +4593,9 @@
       <lb ed="#P" n="8"/>ergo ordinatissima. ergo secundum ordinem bonitatis rerum vnum 
       <lb ed="#P" n="9"/>plus diligit quam aliud 
       </p>
+      </div>
+      <div>
+      <head>11</head>
     <p>
       <lb ed="#P" n="10"/>¶ Sed quomodo potest dici inequaliter 
       <lb ed="#P" n="11"/>amare deus cum equaliter deo est cura de omnibus. Unde 
@@ -4479,6 +4646,9 @@
       <lb ed="#P" n="50"/>gul creaturis secundum suum modum et ordinem dispensat ho¬ 
       <lb ed="#P" n="51"/>na et se communicat vt sint amabilia 
       </p>
+      </div>
+      <div>
+      <head>12</head>
     <p>
       <lb ed="#P" n="52"/>¶ Qualiter iudicatur quis deo ama 
       <lb ed="#P" n="53"/>bilior secundum boni maioritatem: Notandum quod secundum Ray¬ 
@@ -4528,6 +4698,9 @@
       <lb ed="#P" n="76"/>singillatim de specialitate amoris dei querumtur. 
       <lb ed="#P" n="77"/>videlicet 
       </p>
+    </div>
+    <div>
+    <head>13</head>
     <p>
       <lb ed="#P" n="78"/>¶ Utrum deus plus amauit christum 
       <lb ed="#P" n="79"/>quam totum genus humanum et vniuersum totum: 
@@ -4577,6 +4750,9 @@
       <lb ed="#P" n="109"/>emit sed a seipso deus. quia manus misericordie emit a ma¬ 
       <lb ed="#P" n="110"/>nu iusticie ipsius dei etc. 
       </p>
+      </div>
+      <div>
+    <head>14</head>
     <p>
       <lb ed="#P" n="111"/>¶ Utrum deus plus amauit huma 
       <lb ed="#P" n="112"/>nam naturam christi quam totam creaturam vniuersi: 
@@ -4660,6 +4836,9 @@
       <lb ed="#P" n="53"/>vnigenitum ipsum scilicet qua ipsius membra. Unde nos christiani 
       <lb ed="#P" n="54"/>reamemus deum et christum Iesum 
       </p>
+      </div>
+      <div>
+      <head>15</head>
     <p>
       <lb ed="#P" n="55"/>¶ Utrum deus plus dilexit ho¬ 
       <lb ed="#P" n="56"/>mines quam angelos. Aut econuerso amat illos plus 
@@ -4715,6 +4894,9 @@
       <lb ed="#P" n="99"/>amore reamare deum plus quam angeli. alias grauius. 
       <lb ed="#P" n="100"/>punieris. 
       </p>
+      </div>
+      <div>
+      <head>16</head>
     <p>
       <lb ed="#P" n="101"/>¶ Utrum deus magis diligit virginem 
       <lb ed="#P" n="102"/>quam corruptam: Respondetur breuitr secundum docto. communitr. praesertim 
@@ -4730,6 +4912,9 @@
       <lb ed="#P" n="112"/>na qui praeferuntur multis virgibus. vt dicit etiam Bona. Et 
       <lb ed="#P" n="113"/>de his alibi latius. 
       </p>
+      </div>
+      <div>
+      <head>17</head>
     <p>
       <lb ed="#P" n="114"/>¶ Utrum deus magis diligit inno¬ 
       <!--36.xml-->
@@ -4800,6 +4985,9 @@
       <lb ed="#P" n="51"/>tate: quam super xcix. iustis. videlicet minori charitate tepi¬ 
       <lb ed="#P" n="52"/>dis. vt exponit Grego. 
       </p>
+      </div>
+      <div>
+      <head>18</head>
     <p>
       <lb ed="#P" n="53"/>¶ Utrum deus magis amat pecca¬ 
       <lb ed="#P" n="54"/>torem praedestinatum quam iustum praescitum: Respondetur secundum Guill. 
@@ -4813,6 +5001,9 @@
       <lb ed="#P" n="60"/>liter. ergo simpliciter minus diligit iustum prescitum quia ad temn¬ 
       <lb ed="#P" n="61"/>pus. Exemplum de Iuda in apstolatum etc. 
       </p>
+      </div>
+      <div>
+      <head>19</head>
     <p>
       <lb ed="#P" n="62"/>¶ Utrum deus seu christus ma¬ 
       <lb ed="#P" n="63"/>gis dilexerit Petrum quam Ioannem: an econuerso: Re¬ 
@@ -4920,6 +5111,9 @@
       <lb ed="#P" n="22"/>de. licet diuersis respectibus ad diuersa officia ordi¬ 
       <lb ed="#P" n="23"/>nando. vt dicit Guill. 
       </p>
+      </div>
+      <div>
+      <head>20</head>
     <p>
       <lb ed="#P" n="24"/>¶ Sed quem praedictorum simpliciter 
       <lb ed="#P" n="25"/>deus praeamauit tanquam meliorem: et gloriosiorem fecit in ce¬ 
@@ -4935,6 +5129,9 @@
       <lb ed="#P" n="35"/>dicare quis eorum sit simpliciter maior vel nelior apud deum 
       <lb ed="#P" n="36"/>et praedilectus. sed in celis videbimus deo dante etc. 
       </p>
+      </div>
+      <div>
+      <head>21</head>
     <p>
       <lb ed="#P" n="37"/>¶ Utrum in deo sit talis amor et tam 
       <lb ed="#P" n="38"/>tus: vt etiam quando odit diligat nos: Ad hoc Magister cum 
@@ -5006,12 +5203,19 @@
       <lb ed="#P" n="81"/>mittit vel vult deus malum pene alicuius: eliciendo 
       <lb ed="#P" n="82"/>exinde maius bonus scilicet iusticie: vt dicit Aug. O 
       <lb ed="#P" n="83"/>ergo vere mirabilis dei dilectio ad nos qua in omni¬ 
-      <lb ed="#P" n="84"/>hus et ex omnibus eliciter bonum. 
-      <lb ed="#P" n="85"/>Aor Diuinus 
+      <lb ed="#P" n="84"/>bus et ex omnibus elicit bonum.
+    </p>
+    </div>
+    <div>
+    <head>Amor divinus</head>
+    <p> 
+      <lb ed="#P" n="85"/>Amor Diuinus
+    </p>
+      <div>
+      <head>22</head> 
+      <p>
       <lb ed="#P" n="86"/>a
-     </p>
-    <p>
-      ¶ ¶ Quos effectus vel quales 
+      ¶ Quos effectus vel quales 
       <lb ed="#P" n="87"/>habet virtutes et efficacias siue proprie¬ 
       <lb ed="#P" n="88"/>tates quas ex immensa charitate facit deus: Re¬ 
       <lb ed="#P" n="89"/>spondetur secundum Rayne. in sum. Plures sunt. Que¬ 
@@ -5026,6 +5230,9 @@
       <lb ed="#P" n="98"/>tebit prosequendo per conclusiones seu veritates quas pone 
       <lb ed="#P" n="99"/>mus in subsequaentibus ex doctoribus. 
       </p>
+      </div>
+      <div>
+      <head>23</head>
     <p>
       <lb ed="#P" n="100"/>¶ Primo de virtute communicatiua. 
       <lb ed="#P" n="101"/>Quod amor diuinus habet virtutem communicatiuam vel causati 
@@ -5059,6 +5266,9 @@
       <lb ed="#P" n="14"/>resoluere. quia voluntatis dei non est causa: cum sit prima 
       <lb ed="#P" n="15"/>causa omnium ergomnia amori attribuuntur. 
       </p>
+      </div>
+      <div>
+      <head>24</head>
     <p>
       <lb ed="#P" n="16"/>¶ Secundo de virtute motiua con¬ 
       <lb ed="#P" n="17"/>clusio est quod Amor diuinus habet miram virtutem moti 
@@ -5075,6 +5285,9 @@
       <lb ed="#P" n="28"/>Sic enim est quasi causa vniuoca eius propter similitu 
       <lb ed="#P" n="29"/>dinem exemplaris et exemplati. 
       </p>
+      </div>
+      <div>
+      <head>25</head>
     <p>
       <lb ed="#P" n="30"/>¶ Tertio de virtute coordinati¬ 
       <lb ed="#P" n="31"/>ua et conuersiua. Quod amor diuinus habet omnia ordina¬ 
@@ -5105,6 +5318,9 @@
       <lb ed="#P" n="53"/>finis omnium: carens fine etc. Et ita amor diuinus omnia 
       <lb ed="#P" n="54"/>ordinat in deum. 
       </p>
+      </div>
+      <div>
+      <head>26</head>
     <p>
       <lb ed="#P" n="55"/>¶ Quarto de virtute excessiua. 
       <lb ed="#P" n="56"/>Quod amor diuinus excellit omnia amorum aliorum genera 
@@ -5139,6 +5355,9 @@
       <lb ed="#P" n="80"/>tiam et obscuram virtutis: et non habet veritate amo¬ 
       <lb ed="#P" n="81"/>ris virtuosi: secundum e. Dionysium. 
       </p>
+      </div>
+      <div>
+      <head>27</head>
     <p>
       <lb ed="#P" n="82"/>¶ Quinto de virtute eleuatiua. 
       <lb ed="#P" n="83"/>Quod amor diuinus habet eleuare et extasim facere 
@@ -5159,7 +5378,12 @@
       <lb ed="#P" n="98"/>cere: cum deo nil sit superius. Sed intelligendum est sic 
       <lb ed="#P" n="99"/>quod per amorem deus ipse quasi ponit seipsum extra se: diu¬ 
       <lb ed="#P" n="100"/>diffundit se in amatum liberaliter. De Extasi plu¬ 
-      <lb ed="#P" n="101"/>ra li. ii vbi Gratia. §. xlix. et se. 
+      <lb ed="#P" n="101"/>ra li. ii vbi Gratia. §. xlix. et se.
+    </p>
+    </div>
+    <div>
+    <head>28</head>
+    <p> 
       <lb ed="#P" n="102"/>Sexto de virtute transformati 
       <lb ed="#P" n="103"/>ua conclusio Quod amor diuinus habet transformare amantem 
       <lb ed="#P" n="104"/>in amatum Declaratur secundum Rayner. in sum. Quia ille qui¬ 
@@ -5187,7 +5411,12 @@
       <lb ed="#P" n="7"/>rem vt sit talis qualia diligit. sicut dicit Augustinus. super 
       <lb ed="#P" n="8"/>Ioam. et sic homo fit diuinus. Unde et Hugo de ar¬ 
       <lb ed="#P" n="9"/>ra spon. dicit. O anima an nescis quoniam ipsa vi amor 
-      <lb ed="#P" n="10"/>in eius quem diligis similitudinem transformaris etc. 
+      <lb ed="#P" n="10"/>in eius quem diligis similitudinem transformaris etc.
+    </p>
+    </div>
+    <div>
+    <head>29</head>
+    <p>
       <lb ed="#P" n="11"/>Septimo de virtute perfectiua 
       <lb ed="#P" n="12"/>Quod amor diuinus habet perfectionem causare. probatur 
       <lb ed="#P" n="13"/>secundum Tho. i. ii. q. xxviii. quia homo maxime melioratur 
@@ -5212,8 +5441,11 @@
       <lb ed="#P" n="32"/>amore diuino constat omnis perfectio et totalis boni 
       <lb ed="#P" n="33"/>tas hominis ergo patet propositum. 
       </p>
+      </div>
+      <div>
+      <head>30</head>
     <p>
-      <lb ed="#P" n="34"/>¶ Ictauo de virtute vnitiua. Quod 
+      <lb ed="#P" n="34"/>¶ Octauo de virtute vnitiua. Quod 
       <lb ed="#P" n="35"/>amor diuinus habet vnire amantem cum amato id est deo 
       <lb ed="#P" n="36"/>probatur Primo. quia Dionysius. iiii. c. de diui. no. dicit 
       <lb ed="#P" n="37"/>quod amor est virtus vnitiua. vide. §. xli. Augustinus de tris 
@@ -5253,8 +5485,11 @@
       <lb ed="#P" n="63"/>uerso secundum Lyram. ergo etc. Ex dictis patet quod quedam vnio 
       <lb ed="#P" n="64"/>est causa amoris: patet de prima. Et quadam vnio est 
       <lb ed="#P" n="65"/>ipse amor: patet de secunda. Et quaedam effectus amo 
-      <lb ed="#P" n="66"/>ris: patet de tertia 
+      <lb ed="#P" n="66"/>ris: patet de tertia.
       </p>
+      </div>
+      <div>
+      <head>31</head>
     <p>
       <lb ed="#P" n="67"/>¶ Sed quomodo amans dicitur esse 
       <lb ed="#P" n="68"/>in amato et econuerso: Notandum secundum Rayne. in sumn. 
@@ -5274,6 +5509,9 @@
       <lb ed="#P" n="82"/>lius: Qui manet in charitate in deo manet. quid ergo 
       <lb ed="#P" n="83"/>securius: Et deus in eo. quid ergo iocundius: 
       </p>
+      </div>
+      <div>
+      <head>32</head>
     <p>
       <lb ed="#P" n="84"/>¶ Nono de virtute amoris lan¬ 
       <lb ed="#P" n="85"/>guefactiua conclusio seu veritas ponitur Quod amor 
@@ -5328,6 +5566,9 @@
       <lb ed="#P" n="8"/>put sponse significatur mens que vt anime principalis par¬ 
       <lb ed="#P" n="9"/>perficiter gratia et gloria. 
       </p>
+      </div>
+      <div>
+      <head>33</head>
     <p>
       <lb ed="#P" n="10"/>¶ Decimo de amoris diuini vir¬ 
       <lb ed="#P" n="11"/>tute liquefactiua conclusio. Quod amor diuinus habet 
@@ -5379,6 +5620,9 @@
       <lb ed="#P" n="48"/>ris diuini. Psalmus Dirigatur oratio mea sicut incensum 
       <lb ed="#P" n="49"/>in conspectu tuo etc. 
       </p>
+      </div>
+      <div>
+      <head>34</head>
     <p>
       <lb ed="#P" n="50"/>¶ Undecimo de virtute vulne¬ 
       <lb ed="#P" n="51"/>ratiua Quod amor diuinus habet cor vel mentem vul¬ 
@@ -5437,8 +5681,11 @@
       <lb ed="#P" n="96"/>non vulnerat per amorem perfectum sponsum vel sponsam 
       <lb ed="#P" n="97"/>Ideo dicit: in vno crine id est intentione quae est deo grata. 
       </p>
+      </div>
+      <div>
+      <head>35</head>
     <p>
-      <lb ed="#P" n="98"/>¶ Guodecimo de virtute inebri¬ 
+      <lb ed="#P" n="98"/>¶ Duodecimo de virtute inebri¬ 
       <lb ed="#P" n="99"/>atiua. Quod amor diuinus hab et mentem inebriare: 
       <lb ed="#P" n="100"/>probatur Primo similitudine. quia sicut ebrius ex calore vi¬ 
       <lb ed="#P" n="101"/>ni obliuiscitur sui et aliorum omnium adeo vt etiam penas 
@@ -5467,10 +5714,14 @@
       </p>
     <p>
       <lb ed="#P" n="4"/>¶ De amore diuino plura vbi de 
-      <lb ed="#P" n="5"/>cantate. 
+      <lb ed="#P" n="5"/>Charitate. 
       </p>
+    </div>
+    </div>
+    <div>
+    <head>Amoris passio</head>
     <p>
-      <lb ed="#P" n="6"/>¶ Noris passio ge¬ 
+      <lb ed="#P" n="6"/>¶ Amoris passio ge¬ 
       <lb ed="#P" n="7"/>a
      </p>
     <p>
@@ -5478,6 +5729,8 @@
       <lb ed="#P" n="8"/>creaturas sic condere vt appeterent amo¬ 
       <lb ed="#P" n="9"/>re in deum tendere. 
       </p>
+      <div>
+      <head>36</head>
     <p>
       <lb ed="#P" n="10"/>¶ Ad quod queritur Primo de 
       <lb ed="#P" n="11"/>amoris generali diffinitione. videlicet Quid sit amor. 
@@ -5563,6 +5816,9 @@
       <lb ed="#P" n="71"/>us dedit omnibus amorem vt omnia conuertat in seipsum deum 
       <lb ed="#P" n="72"/>eximmensa charitate sua 
       </p>
+      </div>
+      <div>
+      <head>37</head>
     <p>
       <lb ed="#P" n="73"/>¶ Item qualibus gradibus amor 
       <lb ed="#P" n="74"/>habet diuindi vel variari: Respondetur secundum e. Rayne. in 
@@ -5598,8 +5854,11 @@
       <lb ed="#P" n="101"/>uolentie. Uel tertio amore concupiscentie scilicet quando aliquid 
       <lb ed="#P" n="102"/>propter nostram vtilitatem vel delectationem amamus. Ad 
       <lb ed="#P" n="103"/>hec. §. 6. Unde patet dei charitas qua sic creaturas con¬ 
-      <lb ed="#P" n="104"/>didit vt in deum per diuersos amores suos tenderent. et 
+      <lb ed="#P" n="104"/>didit vt in deum per diuersos amores suos tenderent. 
       </p>
+      </div>
+      <div>
+      <head>38</head>
     <p>
       <lb ed="#P" n="105"/>¶ Utrum quelibet actio cuiuslibet 
       <lb ed="#P" n="106"/>creature sit ex amore: Respondet Rich. e. di. xxvii. ar. i 
@@ -5626,6 +5885,9 @@
       <lb ed="#P" n="9"/>ideo facit peccatum ex odio dei: quia amare vult malici 
       <lb ed="#P" n="10"/>am vel peccati delectationem contra deum. 
       </p>
+      </div>
+      <div>
+      <head>39</head>
     <p>
       <lb ed="#P" n="11"/>¶ Utrum ergo amor sit veraciter 
       <lb ed="#P" n="12"/>ca odii: Et videtur quod non: nm sint contraria. Respondetur secundum 
@@ -5697,6 +5959,9 @@
       <lb ed="#P" n="66"/>nes et affectiones et passiones per amorem tenderent in 
       <lb ed="#P" n="67"/>ipsum deum. 
       </p>
+      </div>
+      <div>
+      <head>40</head>
     <p>
       <lb ed="#P" n="68"/>¶ Quomodo amor comparando ad ali¬ 
       <lb ed="#P" n="69"/>as passiones vel affectiones excedit illas.
@@ -5785,9 +6050,12 @@
       <lb ed="#P" n="22"/>bi satius. 
       </p>
     <p>
-      <lb ed="#P" n="23"/>¶ Quo deus ex sua charitate indi¬ 
+      <lb ed="#P" n="23"/>¶ Quod deus ex sua charitate indi¬ 
       <lb ed="#P" n="24"/>dit vnicuique in vniuerso amare seipsum ordinate. 
       </p>
+      </div>
+      <div>
+      <head>41</head>
     <p>
       <lb ed="#P" n="25"/>¶ Queritur circa hoc Prim o. vne 
       <lb ed="#P" n="26"/>de amor sui vel alterius in homine vel creatura dicitur 
@@ -5915,6 +6183,9 @@
       <pb ed="#P" n="44"/>
       <cb ed="#P" n="a"/>
       </p>
+      </div>
+      <div>
+      <head>42</head>
     <p>
       <lb ed="#P" n="1"/>¶ Utrum aliquis non amando seipsum 
       <lb ed="#P" n="2"/>amet vere deum: Respondetur secundum Richar. in. iii. di. xxvi 
@@ -5953,6 +6224,9 @@
       <lb ed="#P" n="27"/>liter: maxime cum ex magno feruore amoris intan¬ 
       <lb ed="#P" n="28"/>tum fertur in deum quod in nullo reflectitur ad se. 
       </p>
+      </div>
+    <div>
+    <head>43</head>
     <p>
       <lb ed="#P" n="29"/>¶ Quibus ex causis radicaliter 
       <lb ed="#P" n="30"/>amor oritur et excrescit: Respondetur secundum Rayne. et alios 
@@ -6013,18 +6287,26 @@
       <lb ed="#P" n="64"/>proximum sit et crescat: Istis praedictis des operam in vir¬ 
       <lb ed="#P" n="65"/>tuosis operibus 
       </p>
+    </div>
+    <div>
+    <head>Angelus</head>
     <p>
-      <lb ed="#P" n="66"/>¶ Ngelus. De ange¬ 
-      <lb ed="#P" n="67"/>lia tractatum est libro. ii. Ideo hoc pertranieo. 
-      <lb ed="#P" n="68"/>p ma. Me Anima 
-      </p>
+      <lb ed="#P" n="66"/>¶ Angelus. De ange¬ 
+      <lb ed="#P" n="67"/>lis tractatum est libro. ii. Ideo hoc pertranieo.
+    </p> 
+    </div>
+    <div>
+    <head>Anima</head>
     <p>
-      <lb ed="#P" n="69"/>¶ clibro. ii actum est. Sed restat hoc agendum det 
-      </p>
+      <lb ed="#P" n="68"/>Anima. De Anima 
+      <lb ed="#P" n="69"/>¶ c.libro. ii actum est. Sed restat hoc agendum de
+    </p>
+    </div>
+    </div>
+    <div>
+    <head>Anima separata.I.</head>
     <p>
-      <lb ed="#P" n="70"/>¶ Nia separata pri¬ 
-      </p>
-    <p>
+      <lb ed="#P" n="70"/>¶ Anima separata pri¬ 
       <lb ed="#P" n="71"/>¶ mo de eius incorruptione. Quod mira dei 
       <lb ed="#P" n="72"/>charitas claret ad animas rationales se¬ 
       <lb ed="#P" n="73"/>paratas: maxime ad bonas.
@@ -6033,6 +6315,8 @@
       ¶ Primo scilicet 
       <lb ed="#P" n="74"/>conseruando in incorruptibilitate vite. 
       </p>
+      <div>
+      <head>1</head>
     <p>
       <lb ed="#P" n="75"/>¶ Queritur ergo Unde probatur animam 
       <lb ed="#P" n="76"/>hominis separatam a corpore incorruptibiliter viuere: Re¬ 
@@ -6080,6 +6364,9 @@
       <pb ed="#P" n="45"/>
       <cb ed="#P" n="a"/>
       </p>
+      </div>
+      <div>
+      <head>2</head>
     <p>
       <lb ed="#P" n="1"/>¶ Sed an anima rationalis separatar 
       <lb ed="#P" n="2"/>a corpore sit persona: De hoc est opinio Magistri sen. lib. 
@@ -6138,8 +6425,14 @@
       <lb ed="#P" n="41"/>titum habet et aptitudinem vt sit pars in compositione 
       <lb ed="#P" n="42"/>hominis communicabilis et non sit per se vnum. Et sic dei chari¬ 
       <lb ed="#P" n="43"/>tas ordinauit vt in se et in corpore per resurrectionem 
-      <lb ed="#P" n="44"/>beatificetur anima perpetuo quietato appetitum corporis. 
-      <lb ed="#P" n="45"/>Nima separata 
+      <lb ed="#P" n="44"/>beatificetur anima perpetuo quietato appetitum corporis.
+    </p>
+    </div>
+    </div>
+    <div>
+    <head>Anima separata.II.</head>
+    <p>
+      <lb ed="#P" n="45"/>Anima separata 
       <lb ed="#P" n="46"/>secundo de eius cognitione. 
       </p>
     <p>
@@ -6147,6 +6440,8 @@
       <lb ed="#P" n="48"/>separatas claret in cognitione. scilicet efferendo noticie 
       <lb ed="#P" n="49"/>luminis. et patet ex questionibus sequentibus. 
       </p>
+      <div>
+      <head>3</head>
     <p>
       <lb ed="#P" n="50"/>¶ Utrum ergo anima separata qua 
       <lb ed="#P" n="51"/>diu manet sine corpore habeat vsum cognitionis po¬ 
@@ -6221,6 +6516,9 @@
       <lb ed="#P" n="104"/>riorum: potest cognoscere sensibilia sine vsu sensuum 
       <lb ed="#P" n="105"/>exteriorum. 
       </p>
+      </div>
+      <div>
+      <head>4</head>
     <p>
       <lb ed="#P" n="106"/>¶ Sed quomodo anima separata cog¬ 
       <lb ed="#P" n="107"/>noscat aliquid sensibiliter solis sensibus internis 
@@ -6254,6 +6552,9 @@
       <lb ed="#P" n="20"/>sicut deus vbique est in semetipso: sic vbicunque anima 
       <lb ed="#P" n="21"/>separata est viuit in seipsa. 
       </p>
+      </div>
+      <div>
+      <head>5</head>
     <p>
       <lb ed="#P" n="22"/>¶ Sed obiicitur de anima separa. 
       <lb ed="#P" n="23"/>ta diuitis epulonis Luc. xvi. vbi describitur habuisse 
@@ -6288,6 +6589,9 @@
       <lb ed="#P" n="49"/>Ex pmissis claret dei charitas dando nobis notici 
       <lb ed="#P" n="50"/>am clariorem post mortem. 
       </p>
+      </div>
+      <div>
+      <head>6</head>
     <p>
       <lb ed="#P" n="51"/>¶ Quali specie: intellectus anime se¬ 
       <lb ed="#P" n="52"/>parate: habeat res cognoscere: De hoc Notandum 
@@ -6398,6 +6702,9 @@
       <lb ed="#P" n="13"/>mam posse in propriam operationem sine influxis spe¬ 
       <lb ed="#P" n="14"/>ciebus: vt patebit. §. 2. 
       </p>
+      </div>
+      <div>
+      <head>7</head>
     <p>
       <lb ed="#P" n="15"/>¶ Sed an sufficienter anima separa¬ 
       <lb ed="#P" n="16"/>ta cognoscat prius ignota sine influxa specie a deo 
@@ -6464,6 +6771,9 @@
       <lb ed="#P" n="63"/>us prohiberet aliquando ex aliqua causa etc. Ad prae¬ 
       <lb ed="#P" n="64"/>dicta vide etiam infra. §. l. euidentius. 
       </p>
+      </div>
+      <div>
+      <head>8</head>
     <p>
       <lb ed="#P" n="65"/>¶ Utrum in memoria anime separate 
       <lb ed="#P" n="66"/>remaneant species quibus recordetur actuum praeteritorum: 
@@ -6525,6 +6835,9 @@
       <cb ed="#P" n="a"/>
       <lb ed="#P" n="1"/>mabus etiam in reprobis ne priuentur operatione intellectus. 
       </p>
+      </div>
+      <div>
+      <head>9</head>
     <p>
       <lb ed="#P" n="2"/>¶ An ergo scientia hic adquisita re¬ 
       <lb ed="#P" n="3"/>maneat in anima separata. et quomodo cumscilicet Corum. xiii. scri¬ 
@@ -6552,7 +6865,7 @@
       <lb ed="#P" n="19"/>habent locum in anima separata. ergo patet propositum.
      </p>
     <p>
-      ¶ Terto 
+      ¶ Tertio 
       <lb ed="#P" n="20"/>quia irrationabile esset in praesenti tantum laborare circa sci 
       <lb ed="#P" n="21"/>entiam adquirendam et virturem si postea totum perderetur in 
       <lb ed="#P" n="22"/>morte. frustra etiam scriptura sacra commendaret sa¬ 
@@ -6572,6 +6885,9 @@
       <lb ed="#P" n="36"/>charitate. Ideo Hiero. ad Pauli. in prolo. Bib. hortatur 
       <lb ed="#P" n="37"/>di. Discamus in terris quorum nobis scientia remanebit in cels. 
       </p>
+      </div>
+      <div>
+      <head>10</head>
     <p>
       <lb ed="#P" n="38"/>¶ Qualiter habent cognitionem se¬ 
       <lb ed="#P" n="39"/>parate anime paruulorum carentes specie hic adquisita: De¬ 
@@ -6649,6 +6965,9 @@
       <lb ed="#P" n="98"/>ta non equatur angelo: sed discordat de specie influxa¬ 
       <lb ed="#P" n="99"/>anime: vt patuit. §. 6. 2.. 
       </p>
+      </div>
+      <div>
+      <head>12</head>
     <p>
       <lb ed="#P" n="100"/>¶ Sed qualiter anima separata iam¬ 
       <lb ed="#P" n="101"/>beata possit cognoscere singula sua peccata recordan¬ 
@@ -6679,6 +6998,9 @@
       <lb ed="#P" n="6"/>gaudium quod absorbet omnem tristiciam contingentem etc. Et 
       <lb ed="#P" n="7"/>quo ad hec patet maxima dei charitas. 
       </p>
+      </div>
+      <div>
+      <head>13</head>
     <p>
       <lb ed="#P" n="8"/>¶ Utrum anime separate eque possint 
       <lb ed="#P" n="9"/>cognoscere loco valde distantes sicut praesentes: Ad hec 
@@ -6721,6 +7043,9 @@
       <lb ed="#P" n="43"/>cessario sequuntur beatitudinem: sed ex decentia magni¬ 
       <lb ed="#P" n="44"/>fice bonitatis dei et charitatis etc. 
       </p>
+      </div>
+      <div>
+      <head>14</head>
     <p>
       <lb ed="#P" n="45"/>¶ Utrum anime separate beate cognoscant 
       <lb ed="#P" n="46"/>se cretas preces cordis nostri naturali cognitione an 
@@ -6766,6 +7091,9 @@
       <lb ed="#P" n="81"/>lectio quia sanctorum merita nostra vult esse suffra¬ 
       <lb ed="#P" n="82"/>gia: vt dicit Augustinus. 
       </p>
+      </div>
+      <div>
+      <head>15</head>
     <p>
       <lb ed="#P" n="83"/>¶ Utrum ergo anime separate beate 
       <lb ed="#P" n="84"/>cognoscentes preces et necessitates charorum vel sibi 
@@ -6844,6 +7172,9 @@
       <lb ed="#P" n="20"/>rio cognoscendi iuxta diuersitatem status receptaculi. 
       <lb ed="#P" n="21"/>vide de singulis. 
       </p>
+      </div>
+    <div>
+      <head>16</head>
     <p>
       <lb ed="#P" n="22"/>¶ Utrum anima separata cognoscat 
       <lb ed="#P" n="23"/>substantias separatas. scilicet angelos et demones atet 
@@ -6939,6 +7270,9 @@
       <lb ed="#P" n="97"/>pebunt cognitionem supernaturalem in verbo ex dei 
       <lb ed="#P" n="98"/>dilectione immensa. 
       </p>
+      </div>
+      <div>
+      <head>17</head>
     <p>
       <lb ed="#P" n="99"/>¶ Sed qualiter anima beata reuni 
       <lb ed="#P" n="100"/>ta corpori glorioso per resurrectionem habebit cognosce¬ 
@@ -6996,6 +7330,9 @@
       <lb ed="#P" n="29"/>et in vita et in statu separationis a corpore atque in statu 
       <lb ed="#P" n="30"/>reunionis per resurrectionem. 
       </p>
+      </div>
+      <div>
+      <head>18</head>
     <p>
       <lb ed="#P" n="31"/>¶ Utrum anima separata nondum beata 
       <lb ed="#P" n="32"/>cognoscere habeat ea quae in hoc mundo aguntur:. Respon¬ 
@@ -7060,6 +7397,9 @@
       <lb ed="#P" n="77"/>ex charitate deus sepe reuelat animabus in purga¬ 
       <lb ed="#P" n="78"/>torio praecipue de suffragiis a nobis exhibitis. 
       </p>
+      </div>
+      <div>
+      <head>19</head>
     <p>
       <lb ed="#P" n="79"/>¶ Qualiter ergo cognoscere ha¬ 
       <lb ed="#P" n="80"/>bent anime nondum beate de his que in hoc mundo 
@@ -7137,8 +7477,12 @@
       <lb ed="#P" n="23"/>bas patet iusticie diuine equitas. Discamus ergo nos 
       <lb ed="#P" n="24"/>deum reamare ne cum malis pereamus. 
       </p>
+    </div>
+    </div>
+    <div>
+    <head>Anima separata.III.</head>
     <p>
-      <lb ed="#P" n="25"/>¶ INia separata ter¬ 
+      <lb ed="#P" n="25"/>¶ Anima separata ter¬ 
       <lb ed="#P" n="26"/>a. tio de eius voluntatis firmatione etc. 
       </p>
     <p>
@@ -7147,6 +7491,8 @@
       <lb ed="#P" n="29"/>firmando in bonitate: et malas in mala dimitten 
       <lb ed="#P" n="30"/>do voluntate. Queritur ergo 
       </p>
+      <div>
+      <head>20</head>
     <p>
       <lb ed="#P" n="31"/>¶ Utrum anime separate quae sunt beate et qua non 
       <lb ed="#P" n="32"/>beate habeant immutabilitatem in voluntate: siue in be¬ 
@@ -7168,8 +7514,11 @@
     <p>
       ¶ Tertio 
       <lb ed="#P" n="45"/>probatur inductiue de omnibus animabus: vt in quaestionibus sub¬ 
-      <lb ed="#P" n="46"/>scri ptis patebit singillatim etc. 
+      <lb ed="#P" n="46"/>scriptis patebit singillatim etc. 
       </p>
+    </div>
+    <div>
+    <head>21</head>
     <p>
       <lb ed="#P" n="47"/>¶ Quare anime separate beate non possunt 
       <lb ed="#P" n="48"/>mutari a bono in voluntate: Respondetur secundum Rayne. in 
@@ -7203,6 +7552,9 @@
       <lb ed="#P" n="65"/>ad eius nutum. alias non esset deo grata: et per consequens nec. 
       <lb ed="#P" n="66"/>beata. ergo etc. Unde patet charitas dei ad illas. 
       </p>
+      </div>
+      <div>
+      <head>22</head>
     <p>
       <lb ed="#P" n="67"/>¶ Sed quid de animabus separatis da¬ 
       <lb ed="#P" n="68"/>mnatis: et similiter de animabus in originali peccato emigratis: t 
@@ -7242,6 +7594,9 @@
       <lb ed="#P" n="91"/>Sed quia nolunt: iusto iudicio dei damnantur. Et hoc ex 
       <lb ed="#P" n="92"/>charitate ad vniuersum vt inde melius eliciatur. 
       </p>
+      </div>
+      <div>
+      <head>23</head>
     <p>
       <lb ed="#P" n="93"/>¶ Item quid de animabus separatis exi¬ 
       <lb ed="#P" n="94"/>stentibus in purgatorio: Dicendum secundum e. Rayne. cum 
@@ -7266,9 +7621,15 @@
       <lb ed="#P" n="105"/>licet iste habeant aliquid purgabile. ergo sicut ille habent volun¬ 
       <lb ed="#P" n="106"/>tatem confirmatam in bono: ita et iste. Patet ergo charitas 
       <lb ed="#P" n="107"/>dei ad animas in purgatorio existentes quia certificauit il¬ 
-      <lb ed="#P" n="108"/>las de gratia. 
-      <lb ed="#P" n="109"/>INima separata 
-      <lb ed="#P" n="110"/>M quaero scilicet de eius receptatione et locali motione 
+      <lb ed="#P" n="108"/>las de gratia.
+     </p>
+     </div>
+    </div>
+    <div>
+    <head>Anima separata.IV.</head>
+     <p> 
+      <lb ed="#P" n="109"/>Anima separata 
+      <lb ed="#P" n="110"/>quaero scilicet de eius receptatione et locali motione 
       </p>
     <p>
       <lb ed="#P" n="111"/>¶ Eo magna dei charitas ad ani¬ 
@@ -7277,6 +7638,8 @@
       <cb ed="#P" n="a"/>
       <lb ed="#P" n="1"/>mam claret deduci faciendo ad receptacula. 
       </p>
+      <div>
+      <head>24</head>
     <p>
       <lb ed="#P" n="2"/>¶ Utrum conuenienter assignentur re¬ 
       <lb ed="#P" n="3"/>ceptacula animarum separatarum Respondetur secundum Guill. in. iiii 
@@ -7331,6 +7694,9 @@
       <lb ed="#P" n="38"/>¶ Utrum anime separate ponantur in aliquo 
       <lb ed="#P" n="39"/>loco extra praedicta receptacula Require alibi. 
       </p>
+      </div>
+      <div>
+      <head>25</head>
     <p>
       <lb ed="#P" n="40"/>¶ Quomodo anima separata dicitur recipi in 
       <lb ed="#P" n="41"/>loco aliquo predictorum cum spiritus non sit in loco de ne¬ 
@@ -7372,6 +7738,9 @@
       <lb ed="#P" n="67"/>corpore transferantur ad recipiendum penam vel gloriam: 
       <lb ed="#P" n="68"/>Uide de hoc alibi. 
       </p>
+      </div>
+      <div>
+      <head>26</head>
     <p>
       <lb ed="#P" n="69"/>¶ Utrum anima separata quando transit ad 
       <lb ed="#P" n="70"/>sua receptacula moueatur per loca successu temporis: Uinde 
@@ -7396,6 +7765,9 @@
       <lb ed="#P" n="89"/>te talem motus celeritatem sicut et ex charitate condidit 
       <lb ed="#P" n="90"/>in esse spirituali illam. 
       </p>
+      </div>
+      <div>
+      <head>27</head>
     <p>
       <lb ed="#P" n="91"/>¶ Utrum anima separata per suam natu¬ 
       <lb ed="#P" n="92"/>ralem virtutem moueat se ad loca sibi deputata: Re¬ 
@@ -7446,6 +7818,9 @@
       <lb ed="#P" n="10"/>propria virtute naturali quam deus ex charitate indidit 
       <lb ed="#P" n="11"/>animem a sua conditione. 
       </p>
+      </div>
+      <div>
+      <head>28</head>
     <p>
       <lb ed="#P" n="12"/>¶ Sed quare ergo anima dicitur por¬ 
       <lb ed="#P" n="13"/>tari ab angelis in caelum vel in sinum Abrae: vt patet 
@@ -7501,6 +7876,9 @@
       <lb ed="#P" n="54"/>bis laudem scilicet deo. Per oppositum erit de reprobis 
       <lb ed="#P" n="55"/>Exgo amemus deum. 
       </p>
+      </div>
+      <div>
+    <head>29</head>
     <p>
       <lb ed="#P" n="56"/>¶ Utrum anima separata possit aliquod 
       <lb ed="#P" n="57"/>corpus mouere de loco ad locum per virtutem suam natura. 
@@ -7570,8 +7948,11 @@
       <lb ed="#P" n="106"/>uersorum corporum vt Pytagorici fabulantur. Unde deus 
       <lb ed="#P" n="107"/>ex charitate talia prohibet fieri: ne homines per huiusmodi et 
       <lb ed="#P" n="108"/>rorem decipiantur et a salute eterna adquirenda impedi¬ 
-      <lb ed="#P" n="109"/>att. 
+      <lb ed="#P" n="109"/>antur. 
       </p>
+      </div>
+      <div>
+      <head>30</head>
     <p>
       <lb ed="#P" n="110"/>¶ Sed quomodo anima separata possit mo¬ 
       <lb ed="#P" n="111"/>uere corpus quod non informat viuificado. Et arguitur 
@@ -7603,12 +7984,20 @@
       <lb ed="#P" n="20"/>gelus mouit transferendo vel portando Abachuch pro¬ 
       <lb ed="#P" n="21"/>phetamin babylonem cincinno capitis apprehenso. et 
       <lb ed="#P" n="22"/>Heliam in paradisum. Ecce ergo in hoc dei charitas patet 
-      <lb ed="#P" n="23"/>quia dedit talem virtutem anime separate 
-      <lb ed="#P" n="24"/>INima separata 
-      <lb ed="#P" n="25"/>ra quin scilicet de eius exitue loco et apperitione. 
+      <lb ed="#P" n="23"/>quia dedit talem virtutem anime separate
+      </p>
+      </div>
+      </div>
+      <div>
+      <head>Anima separata.V.</head>
+      <p> 
+      <lb ed="#P" n="24"/>Anima separata 
+      <lb ed="#P" n="25"/>quinto scilicet de eius exitue loco et apperitione. 
       <lb ed="#P" n="26"/>Quod dei charitas claret ad 
       <lb ed="#P" n="27"/>animam dum vult eam exire et apparere. 
       </p>
+      <div>
+      <head>31</head>
     <p>
       <lb ed="#P" n="28"/>¶ Utrum ergo anime separate aliquando ex 
       <lb ed="#P" n="29"/>cant de suis receptaculis: Respondetur secundum Bona. in. iiii. 
@@ -7647,6 +8036,9 @@
       <!--55.xml-->
       <cb ed="#P" n="b"/>
       </p>
+      </div>
+      <div>
+      <head>32</head>
     <p>
       <lb ed="#P" n="56"/>¶ Utrum anime separate placeat exi¬ 
       <lb ed="#P" n="57"/>re de receptaculo: an in hoc affligatur scilicet quod exit ad ap¬ 
@@ -7708,6 +8100,9 @@
       <lb ed="#P" n="104"/>um velle vt appareant. Unde in omnibus dei cha¬ 
       <lb ed="#P" n="105"/>ritas est commendabilis. 
       </p>
+      </div>
+      <div>
+      <head>33</head>
     <p>
       <lb ed="#P" n="106"/>¶ Utrum quando exeunt anime ad apperendum 
       <lb ed="#P" n="107"/>diminuatur gaudium bone anime vel pena anime 
@@ -7770,6 +8165,9 @@
       <lb ed="#P" n="41"/>prouocat vt conuertamur et deum reamemus ne cum re 
       <lb ed="#P" n="42"/>probis pereamus. 
       </p>
+      </div>
+      <div>
+      <head>34</head>
     <p>
       <lb ed="#P" n="43"/>¶ Utrum animarum separatarum appari¬ 
       <lb ed="#P" n="44"/>tio sit censenda naturalis vel non: Respondetur secundum Ra¬ 
@@ -7846,6 +8244,9 @@
       <lb ed="#P" n="93"/>apperuerit Constantino. Aut simul propter consolationem. sicut beata. 
       <lb ed="#P" n="94"/>Agatha apparui scilicet Lucie. et ita de multis apperitionibus. 
       </p>
+    </div>
+    <div>
+    <head>35</head>
     <p>
       <lb ed="#P" n="95"/>¶ Qualiter appareant anime separa¬ 
       <lb ed="#P" n="96"/>te vt videantur a viuis. Respondetur secundum Antoninum archi 
@@ -7920,6 +8321,9 @@
       <lb ed="#P" n="28"/>nus vel malus sit angelus qui apparet: habetur per tractatum libro 
       <lb ed="#P" n="29"/>ii. vbi apperitio. §. iiii. hoc ergo non repeto amore brevitatis 
       </p>
+    </div>
+    <div>
+    <head>36</head>
     <p>
       <lb ed="#P" n="30"/>¶ Utrum liceat alicui requirere ab 
       <lb ed="#P" n="31"/>aliquo moriente quod sibi reuelet anime sue post mortem 
@@ -7961,20 +8365,23 @@
       <!--57.xml-->
       <cb ed="#P" n="b"/>
       </p>
+      </div>
+      </div>
+    <div>
+    <head>Annunciatio domini</head>
     <p>
-      <lb ed="#P" n="58"/>¶ INnuciatio domi 
-      <lb ed="#P" n="59"/>a
-     </p>
-    <p>
-      ¶ ni primo videlicet de nuncio. 
+      <lb ed="#P" n="58"/>¶ Annuciatio domi-
+      <lb ed="#P" n="59"/>ni primo videlicet de nuncio. 
       </p>
     <p>
       <lb ed="#P" n="60"/>¶ Qo mira et immensa dei charitas 
       <lb ed="#P" n="61"/>commendatur in ipsa annunciatione dominica per Gabrielem 
-      <lb ed="#P" n="62"/>ad Mariam facta per singula vererba. 
+      <lb ed="#P" n="62"/>ad Mariam facta per singula verba. 
       </p>
+      <div>
+    <head>1</head>
     <p>
-      <lb ed="#P" n="63"/>¶ Qualit er autem claret mira des 
+      <lb ed="#P" n="63"/>¶ Qualiter autem claret mira des 
       <lb ed="#P" n="64"/>charitas in annunciatione domini ex euangelio No¬ 
       <lb ed="#P" n="65"/>tandum quod singula verba sacrti euangelii quibus hec sa¬ 
       <lb ed="#P" n="66"/>crosctam incarnationis dominice annunciatio describitur sunt 
@@ -7996,9 +8403,14 @@
       <lb ed="#P" n="80"/>¶ Quod mira dei charitas claret in 
       <lb ed="#P" n="81"/>mittendo nuncium incarnationis ad virginem. 
       </p>
+    </div>
+    <div>
+    <!--ADD A DIV-->
+    <!--Beginning of section 2-->
+    <head>2</head>
     <p>
-      <lb ed="#P" n="82"/>¶ Queritur nempe vtrum debuit mis¬ 
-      <lb ed="#P" n="83"/>ti nluncius aliquis pro christi incarnatione et quare: quia cum deus 
+      <lb ed="#P" n="82"/>¶ Queritur nempe vtrum debuit mit¬ 
+      <lb ed="#P" n="83"/>ti nuncius aliquis pro christi incarnatione et quare: quia cum deus 
       <lb ed="#P" n="84"/>immediate illabatur anime vtpote sibi intimissimus: secundum 
       <lb ed="#P" n="85"/>Aug. Pro dei ergo aduentum non exigitur medium vel ministe 
       <lb ed="#P" n="86"/>rium. Si dicatur quod propter consensum virgis habendum debuit prae¬ 
@@ -8037,154 +8449,133 @@
       <!--58.xml-->
       <pb ed="#P" n="58"/>
       <cb ed="#P" n="a"/>
-      <lb ed="#P" n="1"/>nistrant: hominibus praesideum
-     </p>
-    <p>
-      ¶ Tertia ratio additur ex chari¬ 
-      <lb ed="#P" n="2"/>tate latioris amoris. quia diuina incarnatio fiebat ex 
-      <lb ed="#P" n="3"/>dei charitate non solum ad hominis liberationem vel repara¬ 
-      <lb ed="#P" n="4"/>tionem: sed etiam ad angelice ruine restaurationem. 
-      <lb ed="#P" n="5"/>Ideo decuit quod tam hom scilicet virgo beata quam etiam angelus in 
-      <lb ed="#P" n="6"/>hoc mysterio concurrerent: vt sic latior charitas scilicet ex¬ 
-      <lb ed="#P" n="7"/>hibita vtrisque appareret in facto annunciationis. Pa¬ 
-      <lb ed="#P" n="8"/>tet ergo quod charitas fecit angelum mitti. Unde nec decuit 
-      <lb ed="#P" n="9"/>virum mitti: vel mediante Ioseph nunciari. quia Maria 
-      <lb ed="#P" n="10"/>nquoe fuit sub ptestate viri: nec ex viro concepit. 
+      <lb ed="#P" n="1"/>prexigitur consensus. multo magis in spirituali ma 
+      <lb ed="#P" n="2"/>trimonio: inter deum et naturam humanam amorosus 
+      <lb ed="#P" n="3"/>consensus requiritur quoniam charitas est quae hominem vnit 
+      <lb ed="#P" n="4"/>deo et copulat. vt dicit Aug. Ecce ergo charitas inter
+      <lb ed="#P" n="5"/>deum et hominem. ¶ Tertio vt virginis affectus et actus 
+      <lb ed="#P" n="6"/><sic>charitatiuus</sic> fore approbaretur. atet nobis in exemplum 
+      <lb ed="#P" n="7"/>charitatis daretur. Nam sicut dicit Augustinus. deus non 
+      <lb ed="#P" n="8"/>amat coacta seruitia sed spontanea et charitatiua 
+      <lb ed="#P" n="9"/>vt sint meritoria. Sed quia ba. virgo ad dei seruitium sin 
+      <lb ed="#P" n="10"/>gulariter et excellenter eligebatur ad dei seruitia: vt in vtero 
+      <lb ed="#P" n="11"/>portaret: lacte aleret: balnearet: brachiis baiula¬ 
+      <lb ed="#P" n="12"/>ret deum. etciis huiusmodi. ergo debuit nuncius praemitti de requi¬ 
+      <lb ed="#P" n="13"/>rendo volutario obsequio: ad quod ex charitate se vir¬ 
+      <lb ed="#P" n="14"/>to obtulit di. Ecce ancilla domini. Amplius in hoc vo¬ 
+      <lb ed="#P" n="15"/>luit deus dare exemplum omnibus fidelibus vt charita 
+      <lb ed="#P" n="16"/>tiue sciant se obligatos ad seruitia dei. Unde patet 
+      <lb ed="#P" n="17"/>dei charitas in annunciatione dominica et mirabilis. Tum 
+      <lb ed="#P" n="18"/>quia ex ineffabili charitate. Tum quia ad charitatem vir¬ 
+      <lb ed="#P" n="19"/>ginis requirendam Tum quia in charitate summe gra¬ 
+      <lb ed="#P" n="20"/>tie. denique Tum quia propter charitatem: vt homo pro tanta 
+      <lb ed="#P" n="21"/>gratia reamaret deum ad suam salutem: voluit amoro¬ 
+      <lb ed="#P" n="22"/>sus deus nuncium praemittere et annunciari sicut et ex 
+      <lb ed="#P" n="23"/>charitate per omnem modum exhibenda incarnari.
       </p>
-    <p>
-      <lb ed="#P" n="11"/>¶ Sed quaestio est ex praemissis Quomodo 
-      <lb ed="#P" n="12"/>beata virgo Maria dicitur illustrata vel edocta ab angelo¬ 
-      <lb ed="#P" n="13"/>de diuine incarnationis mysterio: cum ipsa esset superior 
-      <lb ed="#P" n="14"/>angels: vtpote deo amabilior: Et plena fide crede¬ 
-      <lb ed="#P" n="15"/>bat secundum prophetias christi incarnationem fiendam ex virgeie: 
-      <lb ed="#P" n="16"/>iuxta illud Esa. vii. Ecce virgo concipiet et pariet fili¬ 
-      <lb ed="#P" n="17"/>um etc. ergo non decuit nec indiguit ab angelo doceri 
-      <lb ed="#P" n="18"/>Respondetur secundum Guill. et Tho. ac alios supra quod licet beata vir¬ 
-      <lb ed="#P" n="19"/>go quantum ad diuinam praeuisionem et quo ad dignitatem ad 
-      <lb ed="#P" n="20"/>qua eligebatur esset superior angels: tamen quantum ad statum 
-      <lb ed="#P" n="21"/>erat inferior protunc: quia erat in statu viatorum. ange¬ 
-      <lb ed="#P" n="22"/>li autem in statu comprehensorum. Denique nec intelligen¬ 
-      <lb ed="#P" n="23"/>dum est sic quod ipsa beata virgo ab angelo docebatur de hoc 
-      <lb ed="#P" n="24"/>quod diuina incarnatio fieri deberet: cum hoc ex prophe 
-      <lb ed="#P" n="25"/>tiis bene sciret et iam plene crederet fiendam. Sed in¬ 
-      <lb ed="#P" n="26"/>telligendum est quod ab angelo docebatur videlicet de hoc quod in ea 
-      <lb ed="#P" n="27"/>ppleretur hec prophetia. Dum enim actu legeret vt dicitur illud 
-      <lb ed="#P" n="28"/>Esa. Ecce virgo conci. et pa. filium. Cum esset virgo prae aliis 
-      <lb ed="#P" n="29"/>humillima. ex huilitate ergo seipsam omnino indignam iu¬ 
-      <lb ed="#P" n="30"/>dicabat esse filii dei matrem eligendam. nesciebat ergo pro 
-      <lb ed="#P" n="31"/>tunc adhuc quod ipsa foret illa virgo de qua prophete lo¬ 
-      <lb ed="#P" n="32"/>cuti sunt. sed ex deuotione optabat et orabat vt sal¬ 
-      <lb ed="#P" n="33"/>tem mereretur videre illam virginem et ancillam fieri illi 
-      <lb ed="#P" n="34"/>us quae dominum conciperet et pareret. Unde angelus apparens 
-      <lb ed="#P" n="35"/>docuit eam efficiendam fore mox illam virginem matrem christi 
-      <lb ed="#P" n="36"/>et angelorum ac hominum reginam. Unde nec in hoc fidet 
-      <lb ed="#P" n="37"/>meritum in ipsa virgine est euacuatum quae iam credebat 
-      <lb ed="#P" n="38"/>futurum. sed certitudo de seipsa habita est angelo edo¬ 
-      <lb ed="#P" n="39"/>sente: de qua scilicet certitudine indigebat. Mira ergo dei 
-      <lb ed="#P" n="40"/>sapientia et charitas patet 
+      <p> 
+      <lb ed="#P" n="24"/>¶ Quod dei charitas claret mitten¬ 
+      <lb ed="#P" n="25"/>do nucium angelicum: non alium scilicet sanctum prophetam. 
       </p>
-    <p>
-      <lb ed="#P" n="41"/>¶ Ex dei charitas claret mitten¬ 
-      <lb ed="#P" n="42"/>donon alium angelum quam Gabrielem ad annunci¬ 
-      <lb ed="#P" n="43"/>andum. 
-      </p>
-    <p>
-      <lb ed="#P" n="44"/>¶ Unde congruebat non nisi Ga¬ 
-      <lb ed="#P" n="45"/>prielem mitti ad annuciandum christi conceptum. Cum quili¬ 
-      <lb ed="#P" n="46"/>pet angelus eque potuit deo volente hoc annunci¬ 
-      <lb ed="#P" n="47"/>asse beate virgini: Respondetur secundum Alber. mag. super Mis¬ 
-      <lb ed="#P" n="48"/>us est. ca. xvii. Et Tho. ac alios super e. di. iii. li. iii. 
-      <lb ed="#P" n="49"/>quod debuit sic Primo ratione diuine virtutis. quia 
-      <lb ed="#P" n="50"/>secundum Gregorium et Hieronymum vno modo interpre¬ 
-      <lb ed="#P" n="51"/>tatur sic: Gabriel id est virtus nostra deus. Ut 
-      <lb ed="#P" n="52"/>ergo congruentius pateret quod diuina virtute con¬ 
-      <lb ed="#P" n="53"/>ciperet virgo: debuit Gabriel mitti. Secundo ra 
-      <lb ed="#P" n="54"/>tione mire fortitudinis
-     </p>
-    <p>
-      ¶ Nam alio modo Ga¬ 
-      <lb ed="#P" n="55"/>hriel interpretatur fortitudo dei. Ut ergo ostenderetur 
+      </div>
+      <div>
+      <head>3</head>
+      <p>
+      <lb ed="#P" n="26"/>¶ Quare no per alium quod per angelum 
+      <lb ed="#P" n="27"/>debuit annunciari diuine incarnationis mysterium: 
+      <lb ed="#P" n="28"/>Respondetur secundum Guill. lib. iii di. iii. cum Bonauen. com¬ 
+      <lb ed="#P" n="29"/>cor. Tho. et Alb. vbi supra quod pluribus rationibus et quibus po¬ 
+      <lb ed="#P" n="30"/>tiores tantummodo ponemus aliis dimissis ob brevi¬ 
+      <lb ed="#P" n="31"/>tatem ¶ Prima ratio. Ex congruitate prime ten¬ 
+      <lb ed="#P" n="32"/>tationis. Nam in primaria tentatione perditio hominis 
+      <lb ed="#P" n="33"/>sic facta est. quod primo malus angelus allocutus quo 
+      <lb ed="#P" n="34"/>mulierem scilicet Euam que pro tunc fuit adhuc virgo. Se¬ 
+      <lb ed="#P" n="35"/>cundo eam induxit in dubitationem et inde in consen¬ 
+      <lb ed="#P" n="36"/>sum. Tertio ex consensu traxit ad lapsum etc. Ita 
+      <lb ed="#P" n="37"/>congrue debuit vt secundum Bernds. reparatio fieret per si 
+      <lb ed="#P" n="38"/>milia opposito modo. ¶ Primo in nostra reparatione 
+      <lb ed="#P" n="39"/>ergo angelus bonus allocutus est virginem Mariam 
+      <lb ed="#P" n="40"/>salutando. ¶ Secundo induxit ad credendum: et inde¬ 
+      <lb ed="#P" n="41"/>ad consensum. ¶ Tertio ex consensu concepit dei fi¬ 
+      <lb ed="#P" n="42"/>lium. propterea canlt ecclesia. Femina damnauit sic fe¬ 
+      <lb ed="#P" n="43"/>mina saluauit. ¶ Secunda ratio est Ex digni¬ 
+      <lb ed="#P" n="44"/>tate honoris. quia ille annunciabatur qui est rex et ange¬ 
+      <lb ed="#P" n="45"/>lorum et hominum omnium. et quia annunciabatur ei scilicet virgi: quae erat 
+      <lb ed="#P" n="46"/>mundissima ac hominum atque angelorum regina mox 
+      <lb ed="#P" n="47"/>futura. et quia etiam annunciabatur a summa dei maiestate 
+      <lb ed="#P" n="48"/>ad eiusdem honorem: Ideo debuit fieri annunciatio 
+      <lb ed="#P" n="49"/>hec per angelum et non per aliquem prophetam dei aut sanctum 
+      <lb ed="#P" n="50"/>hominem: propter maiorem honorem summi scilicet regis christi. 
+      <lb ed="#P" n="51"/>quoniam sicut angelus maior est hominie. ita honorabi¬ 
+      <lb ed="#P" n="52"/>lius est vt angelus ministret christo quam solus homo 
+      <lb ed="#P" n="53"/>Et etiam propter maiorem honorem regine angelorum ac est 
+      <lb ed="#P" n="54"/>mundicie virginalis. Unde Hiero. in sermone assun¬ 
+      <lb ed="#P" n="55"/>ptionis dicit. Bene angelus ad virginem mittitur. quia 
+      <lb ed="#P" n="56"/>semper angels cognata est virginitas. Et denique etiam propter 
+      <lb ed="#P" n="57"/>maiorem honorem maiestatis diuine cui angeli submi¬ 
       <!--58.xml-->
       <cb ed="#P" n="b"/>
-      <lb ed="#P" n="56"/>prexigitur consensus. multo magis in spirituali ma 
-      <lb ed="#P" n="57"/>trimonio: inter deum et naturam humanam amorosus 
-      <lb ed="#P" n="58"/>consensus requiritur quoniam charitas est quae hominem vnit 
-      <lb ed="#P" n="59"/>deo et copulat. vt dicit Aug. Ecce ergo charitas inter¬ 
-      <lb ed="#P" n="60"/>deum et hominem.
-     </p>
-    <p>
-      ¶ Tertio vt virginis affectus et actus 
-      <lb ed="#P" n="61"/>charitatiuus fore approbaretur. atet nobis in exemplum 
-      <lb ed="#P" n="62"/>charitatis daretur. Nam sicut dicit Augustinus. deus non 
-      <lb ed="#P" n="63"/>amat coacta seruitia sed spontanea et charitatiua 
-      <lb ed="#P" n="64"/>vt sint meritoria. Sed quia ba. virgo ad dei seruitium sin 
-      <lb ed="#P" n="65"/>gulariter et excellenter eligebatur ad dei seruitia: vt in vtero 
-      <lb ed="#P" n="66"/>portaret: lacte aleret: balnearet: brachiis baiula¬ 
-      <lb ed="#P" n="67"/>ret deum. etciis huiusmodi. ergo debuit nuncius praemitti de requi¬ 
-      <lb ed="#P" n="68"/>rendo volutario obsequio: ad quod ex charitate se vir¬ 
-      <lb ed="#P" n="69"/>to obtulit di. Ecce ancilla domini. Amplius in hoc vo¬ 
-      <lb ed="#P" n="70"/>luit deus dare exemplum omnibus fidelibus vt charita 
-      <lb ed="#P" n="71"/>tiue sciant se obligatos ad seruitia dei. Unde patet 
-      <lb ed="#P" n="72"/>dei charitas in annunciatione dominica et mirabilis. Tum 
-      <lb ed="#P" n="73"/>quia ex ineffabili charitate. Tum quia ad charitatem vir¬ 
-      <lb ed="#P" n="74"/>ginis requirendam Tum quia in charitate summe gra¬ 
-      <lb ed="#P" n="75"/>tie. denique Tum quia propter charitatem: vt homo pro tanta 
-      <lb ed="#P" n="76"/>gratia reamaret deum ad suam salutem: voluit amoro¬ 
-      <lb ed="#P" n="77"/>sus deus nuncium praemittere et annunciari sicut et ex 
-      <lb ed="#P" n="78"/>charitate per omnem modum exhibenda incarnari. 
+      <lb ed="#P" n="58"/>nistrant: hominibus praesideum ¶ Tertia ratio additur ex chari¬ 
+      <lb ed="#P" n="59"/>tate latioris amoris. quia diuina incarnatio fiebat ex 
+      <lb ed="#P" n="60"/>dei charitate non solum ad hominis liberationem vel repara¬ 
+      <lb ed="#P" n="61"/>tionem: sed etiam ad angelice ruine restaurationem. 
+      <lb ed="#P" n="62"/>Ideo decuit quod tam hom scilicet virgo beata quam etiam angelus in 
+      <lb ed="#P" n="63"/>hoc mysterio concurrerent: vt sic latior charitas scilicet ex¬ 
+      <lb ed="#P" n="64"/>hibita vtrisque appareret in facto annunciationis. Pa¬ 
+      <lb ed="#P" n="65"/>tet ergo quod charitas fecit angelum mitti. Unde nec decuit 
+      <lb ed="#P" n="66"/>virum mitti: vel mediante Ioseph nunciari. quia Maria 
+      <lb ed="#P" n="67"/>nquoe fuit sub ptestate viri: nec ex viro concepit. 
       </p>
-    <p>
-      <lb ed="#P" n="79"/>¶ Qux dei charitas claret mitten¬ 
-      <lb ed="#P" n="80"/>do nucium angelicum: non alium scilicet sanctum prophetam. 
+      <p>
+      <lb ed="#P" n="68"/>¶ Sed quaestio est ex praemissis Quomodo 
+      <lb ed="#P" n="69"/>beata virgo Maria dicitur illustrata vel edocta ab angelo¬ 
+      <lb ed="#P" n="70"/>de diuine incarnationis mysterio: cum ipsa esset superior 
+      <lb ed="#P" n="71"/>angels: vtpote deo amabilior: Et plena fide crede¬ 
+      <lb ed="#P" n="72"/>bat secundum prophetias christi incarnationem fiendam ex virgeie: 
+      <lb ed="#P" n="73"/>iuxta illud Esa. vii. Ecce virgo concipiet et pariet fili¬ 
+      <lb ed="#P" n="74"/>um etc. ergo non decuit nec indiguit ab angelo doceri 
+      <lb ed="#P" n="75"/>Respondetur secundum Guill. et Tho. ac alios supra quod licet beata vir¬ 
+      <lb ed="#P" n="76"/>go quantum ad diuinam praeuisionem et quo ad dignitatem ad 
+      <lb ed="#P" n="77"/>qua eligebatur esset superior angels: tamen quantum ad statum 
+      <lb ed="#P" n="78"/>erat inferior protunc: quia erat in statu viatorum. ange¬ 
+      <lb ed="#P" n="79"/>li autem in statu comprehensorum. Denique nec intelligen¬ 
+      <lb ed="#P" n="80"/>dum est sic quod ipsa beata virgo ab angelo docebatur de hoc 
+      <lb ed="#P" n="81"/>quod diuina incarnatio fieri deberet: cum hoc ex prophe 
+      <lb ed="#P" n="82"/>tiis bene sciret et iam plene crederet fiendam. Sed in¬ 
+      <lb ed="#P" n="83"/>telligendum est quod ab angelo docebatur videlicet de hoc quod in ea 
+      <lb ed="#P" n="84"/>ppleretur hec prophetia. Dum enim actu legeret vt dicitur illud 
+      <lb ed="#P" n="85"/>Esa. Ecce virgo conci. et pa. filium. Cum esset virgo prae aliis 
+      <lb ed="#P" n="86"/>humillima. ex huilitate ergo seipsam omnino indignam iu¬ 
+      <lb ed="#P" n="87"/>dicabat esse filii dei matrem eligendam. nesciebat ergo pro 
+      <lb ed="#P" n="88"/>tunc adhuc quod ipsa foret illa virgo de qua prophete lo¬ 
+      <lb ed="#P" n="89"/>cuti sunt. sed ex deuotione optabat et orabat vt sal¬ 
+      <lb ed="#P" n="90"/>tem mereretur videre illam virginem et ancillam fieri illi 
+      <lb ed="#P" n="91"/>us quae dominum conciperet et pareret. Unde angelus apparens 
+      <lb ed="#P" n="92"/>docuit eam efficiendam fore mox illam virginem matrem christi 
+      <lb ed="#P" n="93"/>et angelorum ac hominum reginam. Unde nec in hoc fidet 
+      <lb ed="#P" n="94"/>meritum in ipsa virgine est euacuatum quae iam credebat 
+      <lb ed="#P" n="95"/>futurum. sed certitudo de seipsa habita est angelo edo¬ 
+      <lb ed="#P" n="96"/>sente: de qua scilicet certitudine indigebat. Mira ergo dei 
+      <lb ed="#P" n="97"/>sapientia et charitas patet.
       </p>
-    <p>
-      <lb ed="#P" n="81"/>¶ Quare no per alium quod per angelum 
-      <lb ed="#P" n="82"/>debuit annunciari diuine incarnationis mysterium: 
-      <lb ed="#P" n="83"/>Respondetur secundum Guill. lib. iii di. iii. cum Bonauen. com¬ 
-      <lb ed="#P" n="84"/>cor. Tho. et Alb. vbi supra quod pluribus rationibus et quibus po¬ 
-      <lb ed="#P" n="85"/>tiores tantummodo ponemus aliis dimissis ob brevi¬ 
-      <lb ed="#P" n="86"/>tatem
-     </p>
-    <p>
-      ¶ Prima ratio. Ex congruitate prime ten¬ 
-      <lb ed="#P" n="87"/>tationis. Nam in primaria tentatione perditio hominis 
-      <lb ed="#P" n="88"/>sic facta est. quod primo malus angelus allocutus quo 
-      <lb ed="#P" n="89"/>mulierem scilicet Euam que pro tunc fuit adhuc virgo. Se¬ 
-      <lb ed="#P" n="90"/>cundo eam induxit in dubitationem et inde in consen¬ 
-      <lb ed="#P" n="91"/>sum. Tertio ex consensu traxit ad lapsum etc. Ita 
-      <lb ed="#P" n="92"/>congrue debuit vt secundum Bernds. reparatio fieret per si 
-      <lb ed="#P" n="93"/>milia opposito modo.
-     </p>
-    <p>
-      ¶ Primo in nostra reparatione 
-      <lb ed="#P" n="94"/>ergo angelus bonus allocutus est virginem Mariam 
-      <lb ed="#P" n="95"/>salutando.
-     </p>
-    <p>
-      ¶ Secundo induxit ad credendum: et inde¬ 
-      <lb ed="#P" n="96"/>ad consensum.
-     </p>
-    <p>
-      ¶ Tertio ex consensu concepit dei fi¬ 
-      <lb ed="#P" n="97"/>lium. propterea canlt ecclesia. Femina damnauit sic fe¬ 
-      <lb ed="#P" n="98"/>mina saluauit.
-     </p>
-    <p>
-      ¶ Secunda ratio est Ex digni¬ 
-      <lb ed="#P" n="99"/>tate honoris. quia ille annunciabatur qui est rex et ange¬ 
-      <lb ed="#P" n="100"/>lorum et hominum omnium. et quia annunciabatur ei scilicet virgi: quae erat 
-      <lb ed="#P" n="101"/>mundissima ac hominum atque angelorum regina mox 
-      <lb ed="#P" n="102"/>futura. et quia etiam annunciabatur a summa dei maiestate 
-      <lb ed="#P" n="103"/>ad eiusdem honorem: Ideo debuit fieri annunciatio 
-      <lb ed="#P" n="104"/>hec per angelum et non per aliquem prophetam dei aut sanctum 
-      <lb ed="#P" n="105"/>hominem: propter maiorem honorem summi scilicet regis christi. 
-      <lb ed="#P" n="106"/>quoniam sicut angelus maior est hominie. ita honorabi¬ 
-      <lb ed="#P" n="107"/>lius est vt angelus ministret christo quam solus homo 
-      <lb ed="#P" n="108"/>Et etiam propter maiorem honorem regine angelorum ac est 
-      <lb ed="#P" n="109"/>mundicie virginalis. Unde Hiero. in sermone assun¬ 
-      <lb ed="#P" n="110"/>ptionis dicit. Bene angelus ad virginem mittitur. quia 
-      <lb ed="#P" n="111"/>semper angels cognata est virginitas. Et denique etiam propter 
-      <lb ed="#P" n="112"/>maiorem honorem maiestatis diuine cui angeli submi¬ 
+      <p>
+      <lb ed="#P" n="98"/>¶ Ex dei charitas claret mitten¬ 
+      <lb ed="#P" n="99"/>do non alium angelum quam Gabrielem ad annunci¬ 
+      <lb ed="#P" n="100"/>andum.
+      </p> 
+      <p>
+      <lb ed="#P" n="101"/>¶ Unde congruebat non nisi Ga¬ 
+      <lb ed="#P" n="102"/>prielem mitti ad annuciandum christi conceptum. Cum quili¬ 
+      <lb ed="#P" n="103"/>pet angelus eque potuit deo volente hoc annunci¬ 
+      <lb ed="#P" n="104"/>asse beate virgini: Respondetur secundum Alber. mag. super Mis¬ 
+      <lb ed="#P" n="105"/>us est. ca. xvii. Et Tho. ac alios super e. di. iii. li. iii. 
+      <lb ed="#P" n="106"/>quod debuit sic Primo ratione diuine virtutis. quia 
+      <lb ed="#P" n="107"/>secundum Gregorium et Hieronymum vno modo interpre¬ 
+      <lb ed="#P" n="108"/>tatur sic: Gabriel id est virtus nostra deus. Ut 
+      <lb ed="#P" n="109"/>ergo congruentius pateret quod diuina virtute con¬ 
+      <lb ed="#P" n="110"/>ciperet virgo: debuit Gabriel mitti. Secundo ra 
+      <lb ed="#P" n="111"/>tione mire fortitudinis ¶ Nam alio modo Ga¬ 
+      <lb ed="#P" n="112"/>hriel interpretatur fortitudo dei. Ut ergo ostenderetur 
       <!--59.xml-->
       <pb ed="#P" n="59"/>
       <cb ed="#P" n="a"/>
@@ -8196,9 +8587,9 @@
       <lb ed="#P" n="6"/>creatio eo quod deus plus distat a creatura quam distet 
       <lb ed="#P" n="7"/>creatura queque a nihilo. ergo debuit annunciare Ga¬ 
       <lb ed="#P" n="8"/>brielid est fortitudo dei
-     </p>
-    <p>
-      ¶ Tertio ratione fortissime dile 
+       </p>
+       <p>
+       ¶ Tertio ratione fortissime dile 
       <lb ed="#P" n="9"/>ctionis. vt scilicet ostendatur quod tam forti dilectione charita 
       <lb ed="#P" n="10"/>tis deus voluit sibi vnire humanam naturam in vir¬ 
       <lb ed="#P" n="11"/>ginis vtero vt nunquam in perpetuum etiam per mortem pos¬ 
@@ -8281,6 +8672,9 @@
       <lb ed="#P" n="70"/>¶ Ex charitas dei claret mittendo 
       <lb ed="#P" n="71"/>solum Gabrielem: non plures angelos: ad annunciandum 
       </p>
+      </div>
+      <div>
+      <head>7</head>
     <p>
       <lb ed="#P" n="72"/>¶ Cur deus benedictus noluit plures 
       <lb ed="#P" n="73"/>angelos mittere ad annunciandum virgini Marie ob¬ 
@@ -8313,8 +8707,12 @@
       <lb ed="#P" n="92"/>quod prius est multitudini reuelatum et per plures annum¬ 
       <lb ed="#P" n="93"/>ciatum. Nam quod rarum charum vilescit quotidianum. 
       </p>
+    </div>
+    <div>
+    <!--END OF ANNUNCIATIO I-->
+    <head>8</head>
     <p>
-      <lb ed="#P" n="94"/>¶ Nnunciatio do¬ 
+      <lb ed="#P" n="94"/>¶ Annunciatio do¬ 
       <lb ed="#P" n="95"/>mini secundo videlicet de eius loco congruo. 
       </p>
     <p>
@@ -8442,6 +8840,10 @@
       <lb ed="#P" n="76"/>ribus virtuosorum operum necnon in sanctitate vite perfecte 
       <lb ed="#P" n="77"/>ac in deuotione charitatis diuine etc. 
       </p>
+    </div>
+    <div>
+    <head>9</head>
+    <!-- this ia actually prologue material at Adnutio 3 -->
     <p>
       <lb ed="#P" n="78"/>¶ nuciatio domi 
       <lb ed="#P" n="79"/>a
@@ -8456,6 +8858,7 @@
       ¶ eius sponso. 
       <lb ed="#P" n="81"/>ret mittendo nuncium angelicum incarnationis ad virginem. 
       </p>
+      <!-- technically section 9 really start shere -->
     <p>
       <lb ed="#P" n="82"/>¶ Quare christus voluit non nisi 
       <lb ed="#P" n="83"/>ex virgine concipi et ideo virgini annunciari: Re¬ 
@@ -9112,11 +9515,12 @@
       <lb ed="#P" n="34"/>quasi angeli accipiunt corpus christi in eucharistia. 
       <lb ed="#P" n="35"/>Tc ie. 
       </p>
+    </div>
+    <div>
+    <head>Annunciatio domini.IV.</head>
     <p>
-      <lb ed="#P" n="36"/>¶ Nnuciatio domi 
+      <lb ed="#P" n="36"/>¶ Annuciatio domi 
       <lb ed="#P" n="37"/>a
-     </p>
-    <p>
       ¶ ni quarto. videlicet dvisibili et honorabili. 
       <lb ed="#P" n="38"/>modo et tempore electo. 
       <lb ed="#P" n="39"/>Quod charitas dei claret quia volu¬ 
@@ -9650,8 +10054,13 @@
     <p>
       ¶ Quarta quod be¬ 
       <lb ed="#P" n="79"/>ta virgo fuit. lix. etatis anno in celum assumpta. quia. xii. 
-      <lb ed="#P" n="80"/>annis creditur conius superuixisse post christi passionem. 
-      <lb ed="#P" n="81"/>Anuciatio domi 
+      <lb ed="#P" n="80"/>annis creditur conius superuixisse post christi passionem.
+    </p>
+    </div>
+    <div>
+    <head>Annunciatio domini.V.</head>
+    <p>  
+      <lb ed="#P" n="81"/>Annuciatio domi 
       <lb ed="#P" n="82"/>a ni quinto videlicet de salutatione facta. 
       <lb ed="#P" n="83"/>pro preambulo. et 
       </p>
@@ -10342,8 +10751,11 @@
       <pb ed="#P" n="73"/>
       <cb ed="#P" n="a"/>
       </p>
+    </div>
+    <div>
+    <head>Apostolus</head>
     <p>
-      <lb ed="#P" n="1"/>¶ Postolus. Quo ma 
+      <lb ed="#P" n="1"/>¶ Apostolus. Quo ma 
       <lb ed="#P" n="2"/>xima dei charitas claret in apostolis. 
       </p>
     <p>
@@ -10686,7 +11098,12 @@
       <lb ed="#P" n="28"/>los. et sic sub forma proprii idiomantis produceretur ad 
       <lb ed="#P" n="29"/>aures audientium: atque sic intelligeretur. Et singula 
       <lb ed="#P" n="30"/>fec it deus ex charitate pro salute hominum 
-      <lb ed="#P" n="31"/>INus et scientia A 
+    </p>
+    </div>
+    <div>
+    <head>Ars et scientia</head>
+    <p>
+      <lb ed="#P" n="31"/>Ars et scientia A 
       <lb ed="#P" n="32"/>us ex charitate dedit hominibus 
       </p>
     <p>
@@ -11220,11 +11637,22 @@
      </p>
     <p>
       ¶ Item de artibus et 
-      <lb ed="#P" n="51"/>scientiis: hec iuxta intentionem meam sufficiant pro praesenti libro 
-      <lb ed="#P" n="52"/>Icensio christi ad 
-      <lb ed="#P" n="53"/>dexteram dei patris. videm bi Dextera e 
-      <lb ed="#P" n="54"/>Bsumptio natu 
-      <lb ed="#P" n="55"/>re humane abeo Q ex charita 
+      <lb ed="#P" n="51"/>scientiis: hec iuxta intentionem meam sufficiant pro praesenti libro
+    </p>
+    </div>
+    <div>
+    <head>Ascensio christi</head>
+    <p>
+      <lb ed="#P" n="52"/>Ascensio christi ad 
+      <lb ed="#P" n="53"/>dexteram dei patris. videm bi Dextera
+      <!--this is a strange spot because there is a line through 2 words-->
+    </p>
+    </div>
+    <div>
+    <head>Assumptio humane nature a deo</head>
+      <p> 
+      <lb ed="#P" n="54"/>Assumptio natu 
+      <lb ed="#P" n="55"/>re humane a deo quia ex charita
       <lb ed="#P" n="56"/>te deus assumpsit humanam naturam 
       <!--78.xml-->
       <cb ed="#P" n="b"/>
@@ -13028,7 +13456,7 @@
       <lb ed="#P" n="112"/>large accipitur in talibus auctoritatibus compositio pro vni¬ 
       <lb ed="#P" n="113"/>one. quia extendit se ad vnionem modo praedicto scilicet in per¬ 
       <lb ed="#P" n="114"/>sona verbi et ex charitate diuina. Gatras ergo agamus 
-      <lb ed="#P" n="115"/>deo et reamemus pro tali bene ficio. 
+      <lb ed="#P" n="115"/>deo et reamemus pro tali beneficio. 
       <!--90.xml-->
       <pb ed="#P" n="90"/>
       <cb ed="#P" n="a"/>
@@ -13037,20 +13465,33 @@
       <lb ed="#P" n="1"/>¶ De assumptione nature huma¬ 
       <lb ed="#P" n="2"/>ne a verbo diuino plura vbi Incarnatio 
       </p>
+    </div>
+    <div>
+    <head>Aurea et aureola</head>
     <p>
+    <!--I'm not sure what is on line 13089 besides a pilcrow. Maybe a
+     mistake, but I'll leave it for you to look at it-->
       <lb ed="#P" n="3"/>¶
      </p>
     <p>
-      ¶ Area et aureola 
+      ¶ Aurea et aureola 
       <lb ed="#P" n="4"/>Uide alibi 
       </p>
+    </div>
+    <div>
+    <head>Baptismus</head>
     <p>
-      <lb ed="#P" n="5"/>¶ Aptismus. de hoc 
+      <lb ed="#P" n="5"/>¶ Baptismus. de hoc 
       <lb ed="#P" n="6"/>plixe et sufficienter tractatur in summis et 
       <lb ed="#P" n="7"/>doctorum tractatibus super iiii. sententiarum. Ideo hoc 
-      <lb ed="#P" n="8"/>pertranseo amore brevitatis. 
-      <lb ed="#P" n="9"/>Eatitudo primo 
-      <lb ed="#P" n="10"/>b ingenerali.
+      <lb ed="#P" n="8"/>pertranseo amore brevitatis.
+    </p>
+    </div>
+    <div>
+    <head>Beatitudo I</head>
+    <p> 
+      <lb ed="#P" n="9"/>Beatitudo primo 
+      <lb ed="#P" n="10"/>b in generali.
      </p>
     <p>
       ¶ QE dei charitas 
@@ -13372,10 +13813,13 @@
       <lb ed="#P" n="32"/>minum in praesenti sequitur et veneratur. Spces vsque ad ce¬ 
       <lb ed="#P" n="33"/>lum comitatur scilicet per opera bona. Charitas autem hic desi¬ 
       <lb ed="#P" n="34"/>derio feruens tandem in celo perenniter amplexatur. Ecc¬ 
-      <lb ed="#P" n="35"/>dei charitas ad nos 
-      <lb ed="#P" n="36"/>Atatitudo secudo 
+      <lb ed="#P" n="35"/>dei charitas ad nos. 
       </p>
+      </div>
+    <div>
+    <head>Beatitudo II</head>
     <p>
+      <lb ed="#P" n="36"/>Beatitudo secundo 
       <lb ed="#P" n="37"/>¶  Iecepde octo beatitudinibus in peciali do 
       <lb ed="#P" n="38"/>cumento euangelii. 
       </p>
@@ -13896,14 +14340,22 @@
       <lb ed="#P" n="62"/>sericordiam consequentur. et sic de aliis. tamen premia ce¬ 
       <lb ed="#P" n="63"/>lestia variis rationibus pro varietate et congruentia meri¬ 
       <lb ed="#P" n="64"/>torum adaptantur. Et ita dei charitas patet in singu¬ 
-      <lb ed="#P" n="65"/>lis qua nobis tam multimoda et talia bona promittit. 
-      <lb ed="#P" n="66"/>Aatitudo tertio 
+      <lb ed="#P" n="65"/>lis qua nobis tam multimoda et talia bona promittit.
+    </p>
+    </div>
+    <div>
+    <head>Beatitudo III</head>
+    <p>
+      <lb ed="#P" n="66"/>Beatitudo tertio 
       <lb ed="#P" n="67"/>videlicet de beatitudine patrie superexcellen¬ 
       <lb ed="#P" n="68"/>ti hic pertranseo. quia deo bono conceden¬ 
       <lb ed="#P" n="69"/>te de ipsa alibi inuenies latius 
-      </p>
+    </p>
+    </div>
+    <div>
+    <head>Caput ecclesie</head>
     <p>
-      <lb ed="#P" n="70"/>¶ Aput ecclesie. Qu 
+      <lb ed="#P" n="70"/>¶ Caput ecclesie. Qu 
       <lb ed="#P" n="71"/>Deus charitatem ineffabilem mostrauit 
       <lb ed="#P" n="72"/>lin eo quod christum dedit caput supra omnem ec¬ 
       <lb ed="#P" n="73"/>clesiam. vt scribitur. Eph. i. 
@@ -14161,9 +14613,14 @@
       <lb ed="#P" n="56"/>O ergo homuncio disce pro tali et tanta charitate re¬ 
       <!--97.xml-->
       <cb ed="#P" n="b"/>
-      <lb ed="#P" n="57"/>amare deum. alioquin dignus es gehenna et 
-      <lb ed="#P" n="58"/>Haracter Q de 
-      <lb ed="#P" n="59"/>Cus ex charitate immensa impri¬ 
+      <lb ed="#P" n="57"/>amare deum. alioquin dignus es gehenna.
+    </p>
+    </div>
+    <div>
+    <head>Character</head>
+    <p>
+      <lb ed="#P" n="58"/>Character Q de 
+      <lb ed="#P" n="59"/>c us ex charitate immensa impri¬ 
       <lb ed="#P" n="60"/>mit characterem animabus in sacramentis. 
       </p>
     <p>
@@ -14750,8 +15207,13 @@
       <lb ed="#P" n="41"/>mnatis manet ad illorum confusionem non propter dispo¬ 
       <lb ed="#P" n="42"/>nendum ad gratiam etc. Hec omnia facit sic deus secundum 
       <lb ed="#P" n="43"/>e. Guill. propter suam magnificam charitatem qua prom¬ 
-      <lb ed="#P" n="44"/>ptus potius est ad dandum quam anferendum. 
-      <lb ed="#P" n="45"/>Aaritas primo 
+      <lb ed="#P" n="44"/>ptus potius est ad dandum quam auferendum.
+    </p>
+    </div>
+    <div>
+    <head>Charitas.I.</head>
+    <p>
+      <lb ed="#P" n="45"/>Charitas primo 
       <lb ed="#P" n="46"/>c. quo A virtutis et actus rationem 
       <lb ed="#P" n="47"/>Quod deus ex sua immensa cha¬ 
       <lb ed="#P" n="48"/>ritate infundit nobis virtutem charitatis 
@@ -15356,7 +15818,12 @@
       <lb ed="#P" n="67"/>bimus. Sed tenemur implere solum per exclusionem 
       <lb ed="#P" n="68"/>affectus contrari id est peccati mortalis: tam a corde quam mente 
       <lb ed="#P" n="69"/>et anima et corpore. Et sic potest etiam in via impleri cum ad 
-      <lb ed="#P" n="70"/>iutorio dei per charitatem. 
+      <lb ed="#P" n="70"/>iutorio dei per charitatem.
+    </p>
+    </div>
+    <div>
+    <head>Charitas.II.</head>
+    <p>
       <lb ed="#P" n="71"/>Aaritas secudo¬ 
       <lb ed="#P" n="72"/>. 
       <lb ed="#P" n="73"/>c quo ad diuinam acceptationem. 
@@ -15611,12 +16078,17 @@
       <lb ed="#P" n="35"/>quid aliud faciat: nil aliud nisi vt diligatur requirit. 
       <lb ed="#P" n="36"/>Solue tributum amoris et noueris deo satisfactum. 
       <lb ed="#P" n="37"/>Hec Bernardus. 
-      <lb ed="#P" n="38"/>Aaritas tertio. 
+    </p>
+    </div>
+    <div>
+    <head>Charitas.III.</head>
+    <p>
+      <lb ed="#P" n="38"/>Charitas tertio. 
       <lb ed="#P" n="39"/>c qu ad praeminentiam virtualem et perfectionem. 
       <lb ed="#P" n="40"/>Quod ineffabili charitate de¬ 
       <lb ed="#P" n="41"/>us infunditinobis tam excellentissimum donum scilicet cha¬ 
       <lb ed="#P" n="42"/>ritatis. 
-      </p>
+    </p>
     <p>
       <lb ed="#P" n="43"/>¶ Utrum charitas sit virtus praecel¬ 
       <lb ed="#P" n="44"/>lentissima super omnia dona diuina praeoptima et perf¬ 
@@ -15969,7 +16441,12 @@
       <lb ed="#P" n="86"/>consistat: non vt aliquid nobis ex illo proueniat. Item 
       <lb ed="#P" n="87"/>omnes simul praecellit: quia est omnium forma perficies etc. 
       <lb ed="#P" n="88"/>Sed quo ordine perficiat omnes: vide alibi. 
-      <lb ed="#P" n="89"/>AHaritas quarto 
+    </p>
+    </div>
+    <div>
+    <head>Charitas.IV.</head>
+    <p>
+      <lb ed="#P" n="89"/>Charitas quarto 
       <lb ed="#P" n="90"/>quo ad incertam in nobis cognitionem. 
       </p>
     <p>
@@ -16238,8 +16715,13 @@
       <lb ed="#P" n="48"/>stum vel non iustum sit. Tertio modo per sacre scripture regulas 
       <lb ed="#P" n="49"/>per quas bene scimus quod quicunque est in peccato mortali est 
       <lb ed="#P" n="50"/>sine charitate. Hec omnia deus sic ordinauit pro salute¬ 
-      <lb ed="#P" n="51"/>nostra vt recognoscamus nos charitate dei puenti. 
-      <lb ed="#P" n="52"/>Haritas quinto 
+      <lb ed="#P" n="51"/>nostra vt recognoscamus nos charitate dei puenti.
+    </p>
+    </div>
+    <div>
+    <head>Charitas.V.</head>
+    <p>
+      <lb ed="#P" n="52"/>Charitas quinto 
       <lb ed="#P" n="53"/>quo ad diligendorum ordinem id est ordi¬ 
       <lb ed="#P" n="54"/>natum amorem 
       </p>
@@ -17225,8 +17707,13 @@
       <lb ed="#P" n="99"/>xime in priuilegiata bonitate: vt apostolorum: ac fortius 
       <lb ed="#P" n="100"/>christi humanitatis et beate Marie quos maiori affectu quam 
       <lb ed="#P" n="101"/>parentes vel quoscumque diligere debeo ex charitate. Et 
-      <lb ed="#P" n="102"/>sic patet. 
-      <lb ed="#P" n="103"/>Haritas Bexto 
+      <lb ed="#P" n="102"/>sic patet.
+      </p>
+      </div>
+      <div>
+      <head>Charitas.VI.</head>
+      <p> 
+      <lb ed="#P" n="103"/>Charitas Sexto 
       <lb ed="#P" n="104"/>c quo ad inimicorum dilectionem. 
       <lb ed="#P" n="105"/>Quod deus ex charitate mam 
       <lb ed="#P" n="106"/>dauit nobis vt inimicos diligamus 
@@ -17661,8 +18148,13 @@
       <lb ed="#P" n="67"/>propitium non habebis. Si autem inimicum di¬ 
       <lb ed="#P" n="68"/>lexeris: non solum amicus: sed et filius dei appel¬ 
       <lb ed="#P" n="69"/>laberis. Ecte ergo patet dei charitas ad diligentes. 
-      <lb ed="#P" n="70"/>Baritas septimo 
-      <lb ed="#P" n="71"/>t quo ad profectum vel augmentationem. 
+      </p>
+      </div>
+      <div>
+      <head>Charitas.VII.</head>
+      <p>
+      <lb ed="#P" n="70"/>Charitas septimo 
+      <lb ed="#P" n="71"/>c quo ad profectum vel augmentationem. 
       </p>
     <p>
       <lb ed="#P" n="72"/>¶ Quod deus ex charitate vult 
@@ -18314,10 +18806,15 @@
       <lb ed="#P" n="80"/>tenere nec contra eam se obfirmare. vt patet latius in sum 
       <lb ed="#P" n="81"/>mis. Itaque ex omnibus praedictis patet quod deus ex charitati 
       <lb ed="#P" n="82"/>vult in nobis charitatis augmentum propter nostram 
-      <lb ed="#P" n="83"/>nnt. 
-      <lb ed="#P" n="84"/>Paritas octauo¬ 
+      <lb ed="#P" n="83"/>utilitatem.
+    </p>
+    </div>
+    <div>
+    <head>Charitas.VIII.</head>
+    <p>
+      <lb ed="#P" n="84"/>Charitas octauo¬ 
       <lb ed="#P" n="85"/>lc. quo ad diminutionem vel amissionem 
-      <lb ed="#P" n="86"/>imionm. 
+      <lb ed="#P" n="86"/>et recuperationem. 
       </p>
     <p>
       <lb ed="#P" n="87"/>¶ Ex deus ex charitate vult ne in 
@@ -18889,8 +19386,13 @@
     <p>
       <lb ed="#P" n="47"/>¶ De ista materia et vralore talium 
       <lb ed="#P" n="48"/>operum mortificatorum patuit li. ii. vbi Gra. §. xxiii. 
-      <lb ed="#P" n="49"/>Uide ibi pulcra ad hec pertinentia. 
-      <lb ed="#P" n="50"/>Daritas. ¶. quo 
+      <lb ed="#P" n="49"/>Uide ibi pulcra ad hec pertinentia.
+    </p>
+    </div>
+    <div>
+    <head>Charitas.IX.</head>
+    <p> 
+      <lb ed="#P" n="50"/>Charitas.IX. quo 
       <lb ed="#P" n="51"/>ad eius in patria permansionem etc. 
       </p>
     <p>
@@ -19413,8 +19915,13 @@
       <lb ed="#P" n="86"/>¶ Item de charitatis dilectione in 
       <lb ed="#P" n="87"/>deo qua amat creaturas Uide cap. scilicet Abba per to¬ 
       <lb ed="#P" n="88"/>tum. Et capitulo Amor dei. cum aliis subsequentibus capi¬ 
-      <lb ed="#P" n="89"/>tulis de amore. xer totum. 
-      <lb ed="#P" n="90"/>Alum Q deus ex 
+      <lb ed="#P" n="89"/>tulis de amore. xer totum.
+    </p>
+    </div>
+    <div>
+    <head>Celum</head>
+      <p> 
+      <lb ed="#P" n="90"/>Celum Q deus ex 
       <lb ed="#P" n="91"/>t  charitate faciet cessare motus celi in fi¬ 
       <lb ed="#P" n="92"/>ne mundi. 
       </p>
@@ -19545,8 +20052,11 @@
       <lb ed="#P" n="77"/>¶ Utrum in celo empyreo erit laus 
       <lb ed="#P" n="78"/>vocalis. Uide alibi. 
       </p>
+    </div>
+    <div>
+    <head>Cognitio christi</head>
     <p>
-      <lb ed="#P" n="79"/>¶ IQgnitio christi¬ 
+      <lb ed="#P" n="79"/>¶ Cognitio christi¬ 
       <lb ed="#P" n="80"/>.
      </p>
     <p>
@@ -20493,11 +21003,16 @@
       <lb ed="#P" n="111"/>simuls terram. Sed sic quod a deo pecibus posset impetrare quod 
       <lb ed="#P" n="112"/>ipse deus hoc faceret. quia tanta charitate deus diligit suos 
       <lb ed="#P" n="113"/>maxime beatos vt faciat quicquid illi volunt absolu¬ 
-      <lb ed="#P" n="114"/>te fieri etc. 
+      <lb ed="#P" n="114"/>te fieri etc.
+    </p>
+    </div>
+    <div>
+    <head>Communicatio idiomatum</head>
+    <p> 
       <!--139.xml-->
       <pb ed="#P" n="139"/>
       <cb ed="#P" n="a"/>
-      <lb ed="#P" n="1"/>Gmmunicatio 
+      <lb ed="#P" n="1"/>Communicatio i
       <lb ed="#P" n="2"/>diomatum.
      </p>
     <p>
@@ -21001,7 +21516,13 @@
       <lb ed="#P" n="39"/>fuerit hec sanctam vnio quae verbum fecit carnem id est homi¬ 
       <lb ed="#P" n="40"/>nem. et econuerso. Et communicationem idiomatum fieri tam 
       <lb ed="#P" n="41"/>miro modo constituit. 
-      <lb ed="#P" n="42"/>onceptio Darig. 
+    </p>
+    </div>
+    <div>
+    <head>Conceptio</head>
+    <!--I'm having trouble reading what comes after conceptio-->
+    <p>
+      <lb ed="#P" n="42"/>Conceptio Darig. 
       <lb ed="#P" n="43"/>c modis sumitur in scriptura.
      </p>
     <p>
@@ -21043,8 +21564,13 @@
       <lb ed="#P" n="67"/>Sicut conceptio gloriose virginis passiua fuit a sanctis 
       <lb ed="#P" n="68"/>parentibus suis Ioachim et Anna. Conceptio vero 
       <lb ed="#P" n="69"/>cius actiua fuit: quando dei filium in suo sacrato concepit vte¬ 
-      <lb ed="#P" n="70"/>ro. Ubi dei mogna claret charitas erga nos. 
-      <lb ed="#P" n="71"/>Onceptio Dir¬ 
+      <lb ed="#P" n="70"/>ro. Ubi dei mogna claret charitas erga nos.
+    </p>
+    </div>
+    <div>
+    <head>Conceptio virginis gloriose passiua</head>
+    <p> 
+      <lb ed="#P" n="71"/>Conceptio vir¬ 
       <lb ed="#P" n="72"/>ci ginis Marie passiua est eiusdem in 
       <lb ed="#P" n="73"/>vtero materno receptio 
       </p>
@@ -22023,6 +22549,9 @@
       <lb ed="#P" n="73"/>¶ Admirabilis charitas claruit 
       <lb ed="#P" n="74"/>in conceptione filii dei. 
       </p>
+    </div>
+    <div>
+    <head>Conceptio virginis Marie actiua</head>
     <p>
       <lb ed="#P" n="75"/>¶ Conceptio beate 
       <lb ed="#P" n="76"/>Marie actiua in qua concepit dei al¬ 
@@ -22425,8 +22954,11 @@
       <lb ed="#P" n="69"/>ue. Sed augmentum corporis poterat natura perfi¬ 
       <lb ed="#P" n="70"/>cere. ideo illi relictum est. 
       </p>
+      </div>
+    <div>
+    <head>Concilium generale</head>
     <p>
-      <lb ed="#P" n="71"/>¶ ncilium generale¬ 
+      <lb ed="#P" n="71"/>¶ Concilium generale¬ 
       <lb ed="#P" n="72"/>Ubi magna claret dei charitas. Cano¬ 
       <lb ed="#P" n="73"/>nes enim generalium conciliorum vt ait Isid. 
       <lb ed="#P" n="74"/>in vl. Etymols. A temporibus Constantini ceperunt. In prae¬ 
@@ -22528,8 +23060,11 @@
       <lb ed="#P" n="42"/>gore. di. xv. Canones. Hoc ideo dictum est. quia aliqua 
       <lb ed="#P" n="43"/>particularia ante et post fuere concilia. 
       </p>
+      </div>
+    <div>
+    <head>Concupiscentia</head>
     <p>
-      <lb ed="#P" n="44"/>¶ Gncupiscentia. 
+      <lb ed="#P" n="44"/>¶ Concupiscentia. 
       <lb ed="#P" n="45"/>In qua claret charitas dici. quia per 
       <lb ed="#P" n="46"/>eam trahit nos ad se. Nam licet pecca¬ 
       <lb ed="#P" n="47"/>tum originale deleatur in baptismo: tamen remanet con¬ 
@@ -22686,6 +23221,9 @@
       <lb ed="#P" n="56"/>runt tamen in persona. quia alia persona patris: 
       <lb ed="#P" n="57"/>alia filii: 
       </p>
+    </div>
+    <div>
+    <head>Decima</head>
     <p>
       <lb ed="#P" n="58"/>¶ Accima. In qua 
       <lb ed="#P" n="59"/>magna claret dei charitas. ex quo 
@@ -22907,7 +23445,12 @@
       <lb ed="#P" n="6"/>quit decimas dando et terrena et celestia possis pro 
       <lb ed="#P" n="7"/>mereri. pro auaricia duplicem benedictionem fraudas. 
       <lb ed="#P" n="8"/>Hec dicta sunt propter eos qui sic soluunt decimas 
-      <lb ed="#P" n="9"/>di potot. 
+      <lb ed="#P" n="9"/>ac si perderent.
+    </p>
+    </div>
+    <div>
+    <head>Dies.I.</head>
+    <p> 
       <lb ed="#P" n="10"/>Ies primo: In 
       <lb ed="#P" n="11"/>
       <lb ed="#P" n="12"/>qua claret magna dei charitas qui 
@@ -23101,9 +23644,14 @@
       <lb ed="#P" n="37"/>rie non audit mortaliter peccat. Ideo dicitur de conse. 
       <lb ed="#P" n="38"/>di i. omnes. Sacerdote in ecclesia verbum dei faciente 
       <lb ed="#P" n="39"/>qui egressus de oratorio fuerit excommunicetur. Non enim excommuni¬ 
-      <lb ed="#P" n="40"/>catur quis nisi pro mortali. 
-      <lb ed="#P" n="41"/>Ies secudo. ANo¬ 
-      <lb ed="#P" n="42"/>mminica quomodo debeat obseruari: dicitur 
+      <lb ed="#P" n="40"/>catur quis nisi pro mortali.
+    </p>
+    </div>
+    <div>
+    <head>Dies.II.</head>
+    <p> 
+      <lb ed="#P" n="41"/>Dies secudo. Do¬ 
+      <lb ed="#P" n="42"/>minica quomodo debeat obseruari: dicitur 
       <lb ed="#P" n="43"/>extra de feriis. c. i. Omns dies dominicos a 
       <lb ed="#P" n="44"/>vespera in vesperam cum omni veneratione decerni 
       <lb ed="#P" n="45"/>mus obseruari: et ab omni illicito opere abstinere. vt 
@@ -23217,11 +23765,18 @@
       <lb ed="#P" n="26"/>dei et praetermitteret negocia terrena. Cetera require liro. 
       <lb ed="#P" n="27"/>ii. Dies. vbi agitur de creatione rerum 
       </p>
+    </div>
+    <div>
+    <head>Dilectio</head>
+    <!--I'm not sure if I read this correctly pg 159-->
     <p>
       <lb ed="#P" n="28"/>¶ Ilecto dei et pro¬ 
       <lb ed="#P" n="29"/>ximi aut inimici quere supra vbi chari¬ 
       <lb ed="#P" n="30"/>tas per totum. 
       </p>
+    </div>
+    <div>
+    <head>Divinatio.I.</head>
     <p>
       <lb ed="#P" n="31"/>¶ Iuinatio primo 
       <lb ed="#P" n="32"/>generaliter. Queritur: Utrum diuinatio 
@@ -23453,9 +24008,14 @@
       <lb ed="#P" n="100"/>nibus et diuinis qui student in incantationibus suis. sub 
       <lb ed="#P" n="101"/>dit quasi rationem. Nunquid non populus a deo suo requiret vl¬ 
       <lb ed="#P" n="102"/>sione pro viuis et mortuis: Fuerunt tamen etiam in noua¬ 
-      <lb ed="#P" n="103"/>lege aliqui prophetie spiritus habenites qui multa 
+      <lb ed="#P" n="103"/>lege aliqui prophetie spiritus habentes qui multa 
       <lb ed="#P" n="104"/>de futuris euentibus praedixerunt et veraciter eue¬ 
-      <lb ed="#P" n="105"/>lnerunt. 
+      <lb ed="#P" n="105"/>lnerunt.
+    </p>
+    </div>
+    <div>
+    <head>Divinatio.II.</head>
+    <p> 
       <lb ed="#P" n="106"/>Iuinatio secudo 
       <lb ed="#P" n="107"/>pecialiter a Persis dicitur inuenta. vt patet 
       <lb ed="#P" n="108"/>xxvi. q. iii. c. i. Unde diuini dicti sunt quasi 
@@ -23799,6 +24359,11 @@
       <lb ed="#P" n="47"/>bonis vel malis. Ideo dicitur Ecci. xxxiiii. Multos er¬ 
       <lb ed="#P" n="48"/>rare fecerunt somnia et exciderut sperantes in illis. 
       <lb ed="#P" n="49"/>Et Leui. xix. Non obseruabis somnia etc. 
+      </p>
+      </div>
+      <div>
+      <head>Donum spiritus sanctus</head>
+      <p>
       <lb ed="#P" n="50"/>num spiritu an¬ 
       <lb ed="#P" n="51"/>p cti Ubi magna claret charitas dici et 
       <lb ed="#P" n="52"/>ga homines quibus sua dona digna¬ 
@@ -24059,8 +24624,11 @@
       <lb ed="#P" n="12"/>rum. Deinde in cacumine scale apprehedat fructus 
       <lb ed="#P" n="13"/>qui dulces sunt gutturi ascendentis. 
       </p>
+    </div>
+    <div>
+    <head>Dulia</head>
     <p>
-      <lb ed="#P" n="14"/>¶ Ulia In qua ma¬ 
+      <lb ed="#P" n="14"/>¶ Dulia In qua ma¬ 
       <lb ed="#P" n="15"/>gna claret dei charitas qua voluit reue¬ 
       <lb ed="#P" n="16"/>reri sanctos suos. Nam vt dicit sanctus Bona 
       <lb ed="#P" n="17"/>uem. in i. dist. ix. arti. ii. q. iii. Quod nomen dulie tripliciter 
@@ -24083,7 +24651,7 @@
       <lb ed="#P" n="34"/>communem vsum. Ex quo enim dulia quodammodo in 
       <lb ed="#P" n="35"/>cludit latriam. Ideo hic de dulia: hyperdulia et la¬ 
       <lb ed="#P" n="36"/>tria queruntur plura. 
-      </p>
+    </p>
     <p>
       <lb ed="#P" n="37"/>¶ Utrum dulia sit virtus distincta 
       <lb ed="#P" n="38"/>a latria: Et videtur quod non. quia eadem est species qua 
@@ -24731,8 +25299,11 @@
       <lb ed="#P" n="85"/>terminaret: vt ipse solus deus diceretur. quod fuit 
       <lb ed="#P" n="86"/>llititum. ergo illi non exhibendum. 
       </p>
+    </div>
+    <div>
+    <head>Fides.I.</head>
     <p>
-      <lb ed="#P" n="87"/>¶ Ides primo qua 
+      <lb ed="#P" n="87"/>¶ Fides primo qua 
       <lb ed="#P" n="88"/>tum ad acceptionem in qua maxima re¬ 
       <lb ed="#P" n="89"/>ucet dei charitas. secundum Magistrum in 
       <lb ed="#P" n="90"/>liii. dist. xxiii. Accipitur Fides tribus mo¬ 
@@ -25028,8 +25599,12 @@
       <lb ed="#P" n="2"/>quandoque meretur de congruo operationem miraculorum. Ad 
       <lb ed="#P" n="3"/>dictum vero apostoli dicendum Quod fides sine charita¬ 
       <lb ed="#P" n="4"/>te nihil prodest ad vitam. nec meretur bona tempo¬ 
-      <lb ed="#P" n="5"/>ralia de condigno¬ 
-      <lb ed="#P" n="6"/>Ides secundo de 
+      <lb ed="#P" n="5"/>ralia de condigno.
+    </p>
+      <div>
+      <head>Fides.II.</head>
+      <p>
+      <lb ed="#P" n="6"/>Fides secundo de 
       <lb ed="#P" n="7"/>ipsius quiditate quid sit. Cuius quidem 
       <lb ed="#P" n="8"/>varie a sanctis assignantur diffinitiones 
       <lb ed="#P" n="9"/>Sed contra videtur quod fidei debeat esse diffinitio vni¬ 
@@ -25366,8 +25941,11 @@
       <lb ed="#P" n="67"/>Cuius oppositum tenet Scotus in. iii. di. xxiiii. ra¬ 
       <lb ed="#P" n="68"/>tionibus efficacibus. 
       </p>
+      </div>
+      <div>
+      <head>Fides.III.</head>
     <p>
-      <lb ed="#P" n="69"/>¶ Ides tertio qua 
+      <lb ed="#P" n="69"/>¶ Fides tertio qua 
       <lb ed="#P" n="70"/>tu ad ipsius subiectum: In qua videlicet vi 
       <lb ed="#P" n="71"/>anime sit vt in subiecto: Uarie sunt opi 
       <lb ed="#P" n="72"/>niones. Quibusdam videtur quod sit in voluntate. Et pro 
@@ -25612,8 +26190,13 @@
       <lb ed="#P" n="46"/>tas prima secundum quod manifestatur in scriptura sacra et ecclesie¬ 
       <lb ed="#P" n="47"/>poctria. vnde quicumque non inheret sicut infallibili et diuine 
       <lb ed="#P" n="48"/>regule doctrie ecclesie non habet fidei habitum. sed ea quae 
-      <lb ed="#P" n="49"/>sunt fidei tenet aliter quam per fidem. 
-      <lb ed="#P" n="50"/>Ides quarto 
+      <lb ed="#P" n="49"/>sunt fidei tenet aliter quam per fidem.
+    </p>
+    </div>
+    <div>
+    <head>Fides.IV.</head>
+    <p> 
+      <lb ed="#P" n="50"/>Fides quarto 
       <lb ed="#P" n="51"/>ni. 
       <lb ed="#P" n="52"/>adii¬ 
       <lb ed="#P" n="53"/>lius obiectum Circa quod est sciendum. quod du¬ 
@@ -26231,8 +26814,11 @@
       <lb ed="#P" n="82"/>los fidei vel determinationem ecclesie. vt patet extra de 
       <lb ed="#P" n="83"/>summa trinitate et fi. cathol. c. Damnamus. 
       </p>
+      </div>
+      <div>
+      <head>Fides.V.</head>
     <p>
-      <lb ed="#P" n="84"/>¶ Ides quito qua¬ 
+      <lb ed="#P" n="84"/>¶ Fides quinto qua¬ 
       <lb ed="#P" n="85"/>tum ad ipsius actionem Sciendum secundum 
       <lb ed="#P" n="86"/>magnum Alb. in compendio theologice ve¬ 
       <lb ed="#P" n="87"/>ritatis quod fides habet duplicem actum scilicet essentialem 
@@ -26537,7 +27123,12 @@
       <lb ed="#P" n="97"/>fecerat: vt illo praesente: nec arma: nec vllos timerenti 
       <lb ed="#P" n="98"/>hostes. Quid tunc tenendum erit de deo inuictissimo 
       <lb ed="#P" n="99"/>quo praesente per fidem certamus et confortamur dicendo illud 
-      <lb ed="#P" n="100"/>Io. xvi. Confidite: ego enim vici mundum. 
+      <lb ed="#P" n="100"/>Io. xvi. Confidite: ego enim vici mundum.
+    </p>
+    </div>
+    <div>
+    <head>Fides.VI.</head>
+    <p> 
       <lb ed="#P" n="101"/>Ides sexto qua¬ 
       <lb ed="#P" n="102"/>tum ad ipsius quantitatem. Nam vt dicit Hugo 
       <lb ed="#P" n="103"/>de scon Uic. in suis sen. Ex Tria gene¬ 
@@ -26746,7 +27337,12 @@
       <lb ed="#P" n="28"/>a fidei soliditate disiungantur. Unde qui habent ma¬ 
       <lb ed="#P" n="29"/>gnam fidem coram deo sunt magni: qui paruam parui: 
       <lb ed="#P" n="30"/>qu mortuam mortui: qui nullam nulli. teste Psalmus Ad 
-      <lb ed="#P" n="31"/>nihilum deductus est in conspectu eius malignus. 
+      <lb ed="#P" n="31"/>nihilum deductus est in conspectu eius malignus.
+    </p>
+    </div>
+    <div>
+    <head>Fides.VII.</head>
+    <p> 
       <lb ed="#P" n="32"/>Ides Beptimo 
       <lb ed="#P" n="33"/>quantum ad eius necessitatem quae est tamne¬ 
       <lb ed="#P" n="34"/>cessaria vt dicit Damascenus. Quod fidem 
@@ -27004,9 +27600,12 @@
       <lb ed="#P" n="18"/>etate in signo fit etiam varietas in sagittando. quia 
       <lb ed="#P" n="19"/>si signum ponitur sursum: sic sagitta mittitur sursum. 
       <lb ed="#P" n="20"/>si deorsum: deorsum. Sic qui per fidem et bona 
-      <lb ed="#P" n="21"/>opera tendit ad vnum verum fiuem perueniet il¬ 
+      <lb ed="#P" n="21"/>opera tendit ad vnum verum finem perueniet il¬ 
       <lb ed="#P" n="22"/>luc: alias non. 
       </p>
+      </div>
+      <div>
+      <head>Fides.VIII.</head>
     <p>
       <lb ed="#P" n="23"/>¶ Idegs octauo qua 
       <lb ed="#P" n="24"/>tum ad ipsius vnitatem. Unica si quide fides 
@@ -27234,8 +27833,13 @@
       <lb ed="#P" n="90"/>tia species. Si vero attenditur infidelitas secundum errores 
       <lb ed="#P" n="91"/>ad diuersos articulos fidei: sic non sunt determi¬ 
       <lb ed="#P" n="92"/>nate species infidelitatis: cum possint multipli¬ 
-      <lb ed="#P" n="93"/>cari in infinitum. 
-      <lb ed="#P" n="94"/>Ides nono qua¬ 
+      <lb ed="#P" n="93"/>cari in infinitum.
+    </p>
+    </div>
+    <div>
+    <head>Fides.IX.</head>
+    <p>
+      <lb ed="#P" n="94"/>Fides nono qua¬ 
       <lb ed="#P" n="95"/>tum ad eius veritatem. Quod enim Fides 
       <lb ed="#P" n="96"/>christiana sola sit vera probemus testifi¬ 
       <lb ed="#P" n="97"/>tationibus et rationibus. Primo modo veritatem chri¬ 
@@ -27721,8 +28325,11 @@
       <lb ed="#P" n="49"/>pauci valde consentiunt in vnum nisi deo inspirante. 
       <lb ed="#P" n="50"/>Sic est de receptione vere fidei catholice. 
       </p>
+      </div>
+    <div>
+    <head>Fides.X.</head>
     <p>
-      <lb ed="#P" n="51"/>¶ Ides decio qua 
+      <lb ed="#P" n="51"/>¶ Fides decio qua 
       <lb ed="#P" n="52"/>tum ad ipsius nobilitatem. Multum 
       <lb ed="#P" n="53"/>poralde ipsa nobilitat habentem quia filium dicit 
       <lb ed="#P" n="54"/>efficit: secundum quod dicitur Ioan i. Quotquot autem rece¬ 
@@ -28069,11 +28676,14 @@
       <lb ed="#P" n="109"/>veritati et bone operationi. Unde vides quod sermo 
       <lb ed="#P" n="110"/>sapientie et scientie subseruiunt fidei. ergo fides est no¬ 
       <lb ed="#P" n="111"/>bilior. quia nobilior est finis his que sunt ad finem. 
-      <lb ed="#P" n="112"/>ct Rocuat. 
+      <lb ed="#P" n="112"/>Hec Richar. 
       <!--193.xml-->
       <pb ed="#P" n="193"/>
       <cb ed="#P" n="a"/>
       </p>
+    </div>
+    <div>
+    <head>Filiatio</head>
     <p>
       <lb ed="#P" n="1"/>¶ Iliatio In qua 
       <lb ed="#P" n="2"/>claret magna circa nos dei charitas 
@@ -28460,9 +29070,12 @@
       <lb ed="#P" n="65"/>do est principium elicitiuum sicut in temporali: tam 
       <lb ed="#P" n="66"/>ex parte dei patris quam ex parte matris virginis com¬ 
       <lb ed="#P" n="67"/>sensum prebente. 
-      <lb ed="#P" n="68"/>Ilius vbi magna¬ 
-      </p>
+    </p>
+    </div>
+    <div>
+    <head>Filius</head>
     <p>
+      <lb ed="#P" n="68"/>Filius vbi magna¬ 
       <lb ed="#P" n="69"/>¶ Mireiucet diuinitatis amor et charitas er¬ 
       <lb ed="#P" n="70"/>ga homines. Nam filius dicitra philos gre¬ 
       <lb ed="#P" n="71"/>te quod est amsbr latine. quia naturali ordine amor pa¬ 
@@ -29023,6 +29636,9 @@
     <p>
       <lb ed="#P" n="32"/>¶ Fornicatio quare infra luxuria. 
       </p>
+    </div>
+    <div>
+    <head>Fortitudo</head>
     <p>
       <lb ed="#P" n="33"/>¶ Fortitudo in qua 
       <lb ed="#P" n="34"/>relucet diuina charitas qua animum fir¬ 
@@ -29259,7 +29875,12 @@
       <lb ed="#P" n="108"/>inspirationem qua mouetur ad vltro se offerendum 
       <lb ed="#P" n="109"/>ad sustinentiam pene predicte: cum tamen secundum com¬ 
       <lb ed="#P" n="110"/>munem legem non cogatur ad hoc ex legis necel¬ 
-      <lb ed="#P" n="111"/>sitate. 
+      <lb ed="#P" n="111"/>sitate.
+    </p>
+    </div>
+    <div>
+    <head>Furtum.I.</head>
+    <p> 
       <!--201.xml-->
       <pb ed="#P" n="201"/>
       <cb ed="#P" n="a"/>
@@ -29716,8 +30337,11 @@
       <lb ed="#P" n="31"/>intendit nisi animam liberare a peccato et occasionem 
       <lb ed="#P" n="32"/>peccandi infideli subtrahere. 
       </p>
+    </div>
+    <div>
+    <head>Furtum.II.</head>
     <p>
-      <lb ed="#P" n="33"/>¶ Artum Hecudo¬ 
+      <lb ed="#P" n="33"/>¶ Furtum Secundo¬ 
       <lb ed="#P" n="34"/>quantum ad penam furantis. Que quidem 
       <lb ed="#P" n="35"/>est varia secundum quod varie agitur de ipso. Quam¬ 
       <lb ed="#P" n="36"/>doque enim agitur criminaliter id est ad corporis penam 
@@ -29828,8 +30452,13 @@
       <lb ed="#P" n="3"/>cuniam in numero reddere. sed illi similem. In accon¬ 
       <lb ed="#P" n="4"/>modatione vero domus vel equi dominium non trans¬ 
       <lb ed="#P" n="5"/>fertur. sed tenetur eandem domum in numero redde¬ 
-      <lb ed="#P" n="6"/>re: similiter equum vel aliud 
-      <lb ed="#P" n="7"/>INatia rimo sin¬ 
+      <lb ed="#P" n="6"/>re: similiter equum vel aliud
+      </p>
+      </div>
+      <div>
+      <head>Gratia.I.scilicet</head>
+      <p> 
+      <lb ed="#P" n="7"/>Gratia primo sin¬ 
       <lb ed="#P" n="8"/>gularis persone christi In qua claret dei 
       <lb ed="#P" n="9"/>magna charitas. Que quidem gratia secundu scilicet 
       <lb ed="#P" n="10"/>Bonauen. in. iii. dist. xiii. arti. i. q. ii dicitur tripli¬ 
@@ -30324,8 +30953,13 @@
       <lb ed="#P" n="35"/>peti. quod verum est de finito in se. sed de illo quod 
       <lb ed="#P" n="36"/>vnit perfecte bono infinito: non habet veritatem. quia 
       <lb ed="#P" n="37"/>quietare totaliter potest et stabilire ratione eius a quo 
-      <lb ed="#P" n="38"/>et ad quod. 
-      <lb ed="#P" n="39"/>Natia secundo ca¬ 
+      <lb ed="#P" n="38"/>et ad quod.
+    </p>
+    </div>
+    <div>
+    <head>Gratia.II.scilicet Capitis</head>
+    <p>
+      <lb ed="#P" n="39"/>Gratia secundo ca¬ 
       <lb ed="#P" n="40"/>spits In qua relucet magni dei magna 
       <lb ed="#P" n="41"/>charitas erga homines. vt daret eis ca¬ 
       <lb ed="#P" n="42"/>put mysticum scilicet christum per gratiam. Unde dici scilicet Tho. 
@@ -30656,9 +31290,12 @@
       <lb ed="#P" n="61"/>te. Sicut patet in duce cuius vexillum sequuntur mili¬ 
       <lb ed="#P" n="62"/>tes etiam nullo suadente. ergo diabolus merito di¬ 
       <lb ed="#P" n="63"/>citur caput malorum et damnatorum. 
-      <lb ed="#P" n="64"/>Iatia tertio Dni¬ 
-      </p>
+    </p>
+    </div>
+    <div>
+    <head>Gratia.III.scilicet Unionis</head>
     <p>
+      <lb ed="#P" n="64"/>Gratia tertio uni¬ 
       <lb ed="#P" n="65"/>¶ o onis In qua claret super omnibus diuina 
       <lb ed="#P" n="66"/>charitas qua humanam naturam sibi vns 
       <lb ed="#P" n="67"/>uit in vnitate persone. Que quidem gratia in christo 
@@ -30873,6 +31510,11 @@
       <cb ed="#P" n="a"/>
       <lb ed="#P" n="1"/>De merito autem condigni loquendo. sic ipsa non potuit 
       <lb ed="#P" n="2"/>mereri: cum omnem praecellat creaturam 
+    </p>
+    </div>
+    <div>
+    <head>Homicidium.I.</head>
+    <p>
       <lb ed="#P" n="3"/>Imicidium primo 
       <lb ed="#P" n="4"/>In quo magna relucet dei charitas et 
       <lb ed="#P" n="5"/>ga homines: quos prohibuit a peccato 
@@ -31132,8 +31774,13 @@
       <lb ed="#P" n="102"/>ad estimationem litis parti quam leserit nihilominus 
       <lb ed="#P" n="103"/>condemnandus. Hec ibi. Ecce non dicit contra alle¬ 
       <lb ed="#P" n="104"/>gata sed contra conscientiam et per sordea falsorum testium. uro 
-      <lb ed="#P" n="105"/>non est condemnandus iustus. 
-      <lb ed="#P" n="106"/>Pmicidium secundo 
+      <lb ed="#P" n="105"/>non est condemnandus iustus.
+    </p>
+    </div>
+    <div>
+    <head>Homicidium.II.</head>
+    <p> 
+      <lb ed="#P" n="106"/>Homicidium secundo 
       <lb ed="#P" n="107"/>quantum ad illud: quis prohibeatur occidere 
       <lb ed="#P" n="108"/>Et circa hoc queri possunt plura
      </p>
@@ -31413,8 +32060,13 @@
       <lb ed="#P" n="98"/>et Alexandrum tradidit sathane vt discant non blas¬ 
       <lb ed="#P" n="99"/>phemare. ergo in noua lege ministris ecclesie non 
       <lb ed="#P" n="100"/>licet occidere. potest tantum auctoritatem dare principibus 
-      <lb ed="#P" n="101"/>secularibus. sicut facit papa. 
-      <lb ed="#P" n="102"/>Omicidium tertio 
+      <lb ed="#P" n="101"/>secularibus. sicut facit papa.
+    </p>
+    </div>
+    <div>
+    <head>Homicidium.III.</head>
+    <p>
+      <lb ed="#P" n="102"/>Homicidium tertio 
       <lb ed="#P" n="103"/>pirituale: quod fit in occisione ani¬ 
       <lb ed="#P" n="104"/>marum per peccatum quod separat 
       <lb ed="#P" n="105"/>a deo. De quo Augustinus. super psalmus. dicit. 
@@ -31537,8 +32189,11 @@
       <lb ed="#P" n="79"/>dum quod non. imo est speciale de occisione corpo¬ 
       <lb ed="#P" n="80"/>ris. vt patuit etc. 
       </p>
+      </div>
+    <div>
+    <head>Homicidium.IV.</head>
     <p>
-      <lb ed="#P" n="81"/>¶ Omicidium quar¬ 
+      <lb ed="#P" n="81"/>¶ Homicidium quar¬ 
       <lb ed="#P" n="82"/>to quo ad ipsius penam. Prima pe¬ 
       <lb ed="#P" n="83"/>na homicidarum quod efficiuntur irre¬ 
       <lb ed="#P" n="84"/>e gulares omnes qui occidunt post ha¬ 
@@ -31668,8 +32323,11 @@
       <lb ed="#P" n="75"/>proditorie et occulte occisis. Ex quibus patet quamabo¬ 
       <lb ed="#P" n="76"/>minandum peccatum sit homicidium 
       </p>
+      </div>
+    <div>
+      <head>Honor.I.</head>
     <p>
-      <lb ed="#P" n="77"/>¶ nor primo pa¬ 
+      <lb ed="#P" n="77"/>¶ Honor primo pa¬ 
       <lb ed="#P" n="78"/>rentum. In quo claret summa dei cha¬ 
       <lb ed="#P" n="79"/>ritas erga homines. qua precepit vt 
       <lb ed="#P" n="80"/>vnusquisque honoret parentes suos 
@@ -31913,8 +32571,13 @@
       <lb ed="#P" n="46"/>boni domestici malis filiis priponendi sunt. Uerum 
       <lb ed="#P" n="47"/>tamen parentes etiam si sint peccatores et infideles: 
       <lb ed="#P" n="48"/>tamen sunt honorandi ex iure diuino et naturali pro 
-      <lb ed="#P" n="49"/>loco et tempore. 
-      <lb ed="#P" n="50"/>nor parentum 
+      <lb ed="#P" n="49"/>loco et tempore.
+    </p>
+    </div>
+    <div>
+    <head>Honor.II.</head>
+    <p>
+      <lb ed="#P" n="50"/>Honor parentum 
       <lb ed="#P" n="51"/>secundo quantum ad obligationem. In quo 
       <lb ed="#P" n="52"/>claret magni dei magna charitas. E 
       <lb ed="#P" n="53"/>quo tamfortiter hoc praecepto obligauit. vt vsque ad 
@@ -32228,8 +32891,11 @@
       <lb ed="#P" n="61"/>patris vestri vultis facere. Hec ille. Diabolus si qui¬ 
       <lb ed="#P" n="62"/>dem patri omnium inobediens extitit. 
       </p>
+      </div>
+    <div>
+    <head>Incarnatio.I.</head>
     <p>
-      <lb ed="#P" n="63"/>¶ Rcarnatio primo 
+      <lb ed="#P" n="63"/>¶ Incarnatio primo 
       <lb ed="#P" n="64"/>quantum ad necessitatem In qua sum¬ 
       <lb ed="#P" n="65"/>ma dei charitas summe relucet. No¬ 
       <lb ed="#P" n="66"/>tandum tamen quod secundum Guill. in. iii. di¬ 
@@ -32581,8 +33247,11 @@
       <lb ed="#P" n="102"/>quod perfectum a quo sustentetur. Inde est quod omnis puri homini 
       <lb ed="#P" n="103"/>satisfactio efficatiam habet a satisfactione christi 
       </p>
+    </div>
+    <div>
+    <head>Incarnatio.II.</head>
     <p>
-      <lb ed="#P" n="104"/>¶ Icarnatio secu¬ 
+      <lb ed="#P" n="104"/>¶ Incarnatio secu¬ 
       <lb ed="#P" n="105"/>do quantum ad eius conuenientiam. Congruum sid 
       <lb ed="#P" n="106"/>dem fuit vt dei filius incarnaretur secundum Ans. 
       <lb ed="#P" n="107"/>Cur deus ho propter proprietates diuinas manifestandas 
@@ -32844,8 +33513,13 @@
       ¶ Ad secundum dicendum: quod 
       <lb ed="#P" n="75"/>patrem esse innascibilem inquantum est habens diuinam na¬ 
       <lb ed="#P" n="76"/>turam. et ipsum esse nascibilem ratione humane nature quam 
-      <lb ed="#P" n="77"/>posset assumere ex tempore non sunt opposita. 
-      <lb ed="#P" n="78"/>INcarnatio ter¬ 
+      <lb ed="#P" n="77"/>posset assumere ex tempore non sunt opposita.
+    </p>
+    </div>
+    <div>
+    <head>Incarnatio.III.</head>
+    <p>
+      <lb ed="#P" n="78"/>Incarnatio ter¬ 
       <lb ed="#P" n="79"/>tio quantum ad ipsius rationem. In qua reluci 
       <lb ed="#P" n="80"/>inestimabilis dei charitas circa nos. 
       <lb ed="#P" n="81"/>Quare scilicet fuit filius dei incarnatus.
@@ -33093,8 +33767,11 @@
       <lb ed="#P" n="28"/>nius pro peccato originali satisfaceret sensibilem dolorem 
       <lb ed="#P" n="29"/>pati voluit vt mortem et alia in seipso consumeret. 
       </p>
+    </div>
+    <div>
+    <head>Incarnatio.IV.</head>
     <p>
-      <lb ed="#P" n="30"/>¶ Rcarnatio quar¬ 
+      <lb ed="#P" n="30"/>¶ Incarnatio quar¬ 
       <lb ed="#P" n="31"/>to quantum ad subsistentiam. In hoc magna 
       <lb ed="#P" n="32"/>apparet dei erga homines charitas. Cir¬ 
       <lb ed="#P" n="33"/>ta quam quaeruntur plura
@@ -33692,8 +34369,13 @@
       </p>
     <p>
       <lb ed="#P" n="96"/>¶ In qua inestimabilis flagrat ma 
-      <lb ed="#P" n="97"/>gni dei charitas. 
-      <lb ed="#P" n="98"/>INcarnatio quin 
+      <lb ed="#P" n="97"/>gni dei charitas.
+    </p>
+    </div>
+    <div>
+    <head>Incarnatio christi.V.</head>
+    <p>
+      <lb ed="#P" n="98"/>Incarnatio quin 
       <lb ed="#P" n="99"/>to quantum ad ea que vere praedicantur de 
       <lb ed="#P" n="100"/>christo. 
       </p>
@@ -34243,8 +34925,11 @@
       <lb ed="#P" n="78"/>¶ Ubi eminentissime claret immen¬ 
       <lb ed="#P" n="79"/>sa dei charitas. 
       </p>
+    </div>
+    <div>
+    <head>Incarnatio.VI.</head>
     <p>
-      <lb ed="#P" n="80"/>¶ Icarnatio sexto 
+      <lb ed="#P" n="80"/>¶ Incarnatio sexto 
       <lb ed="#P" n="81"/>quantum ad praedestinationem. Nam secundum sanctum 
       <lb ed="#P" n="82"/>Tho. i. iii. parte. q. xxxiiii. Predestinatioe 
       <lb ed="#P" n="83"/>proprie accepta est quaedam diuina praeordinatio ab eterno de 
@@ -34601,7 +35286,12 @@
       <lb ed="#P" n="24"/>fectum scientie et gratiae non important 
       <lb ed="#P" n="25"/>In hoc manifeste relucet diui 
       <lb ed="#P" n="26"/>ne charitatis magnitudo 
-      <lb ed="#P" n="27"/>Icarnatio octa¬ 
+    </p>
+    </div>
+    <div>
+    <head>Incarnatio christi.VIII.</head>
+    <p>
+      <lb ed="#P" n="27"/>Incarnatio octa¬ 
       <lb ed="#P" n="28"/>no. quantum ad defectus susceptos vel non 
       <lb ed="#P" n="29"/>susceptos a christo quie pertinent ad ani¬ 
       <lb ed="#P" n="30"/>mam. Unde queritur 
@@ -35195,9 +35885,14 @@
       <lb ed="#P" n="96"/>ta foret. Hinc psalmus. ait. In lumine tuo videbimus 
       <lb ed="#P" n="97"/>lumen. 
       <lb ed="#P" n="98"/>In hoc claret inestimabilis de ir 
-      <lb ed="#P" n="99"/>charitas circa homines. 
-      <lb ed="#P" n="100"/>E 
-      <lb ed="#P" n="101"/>Tu ramentu primo 
+      <lb ed="#P" n="99"/>charitas circa homines.
+      </p>
+      </div>
+    <div>
+    <head>Iuramentum.I.</head>
+      <p> 
+      <lb ed="#P" n="100"/>
+      <lb ed="#P" n="101"/>Iuramentum primo 
       <lb ed="#P" n="102"/>quantum ad eius prohibitionem. Nam deus altissi¬ 
       <lb ed="#P" n="103"/>mus ipsum prohibuit in secundo praecepto decalo¬ 
       <lb ed="#P" n="104"/>gi di. Non assumes nomen dei tui in vanu. Quod secundum 
@@ -35453,8 +36148,11 @@
       <lb ed="#P" n="85"/>¶ Ubi magna imminet diuine bo¬ 
       <lb ed="#P" n="86"/>nitatis charitas erga homines. 
       </p>
+    </div>
+    <div>
+    <head>Iuramentum.II.</head>
     <p>
-      <lb ed="#P" n="87"/>¶ Cramentum secum 
+      <lb ed="#P" n="87"/>¶ Iuramentum secun
       <lb ed="#P" n="88"/>do. quantum ad ipsius conuenientam scilicet an expe¬ 
       <lb ed="#P" n="89"/>diat homini iurare vel adiurare: Unde quaeritur 
       <lb ed="#P" n="90"/>vtrum liceat creaturas adiurare: Respondet Rich. i. ii 
@@ -35831,7 +36529,12 @@
       </p>
     <p>
       <lb ed="#P" n="26"/>¶ In hoc nobis ostendit deus suam 
-      <lb ed="#P" n="27"/>magnam charitatem: quia dedit legen. 
+      <lb ed="#P" n="27"/>magnam charitatem: quia dedit leget.
+    </p>
+    </div>
+    <div>
+    <head>Lex.I.</head>
+    <p> 
       <lb ed="#P" n="28"/>Ex primo quo ad et 
       <lb ed="#P" n="29"/>sentiam secundum Alexan. de ales in. iii. parte summe 
       <lb ed="#P" n="30"/>est sanctio sancta precipiens honestum prohibens 
@@ -36081,8 +36784,13 @@
       </p>
     <p>
       <lb ed="#P" n="1"/>¶ In quo eminet magis dei cha¬ 
-      <lb ed="#P" n="2"/>is et cnoo. 
-      <lb ed="#P" n="3"/>Ex. 1. quo ad dif¬ 
+      <lb ed="#P" n="2"/>ritas erga nos.
+    </p>
+    </div>
+    <div>
+    <head>Lex.II. quo ad differentiam</head>
+    <p> 
+      <lb ed="#P" n="3"/>Ex.II. quo ad dif¬ 
       <lb ed="#P" n="4"/>ferentiam Quomodo videlicet vel in quo differt lex ve¬ 
       <lb ed="#P" n="5"/>tus a noua. Dicit cnim magister i. iii. di. vl. Di¬ 
       <lb ed="#P" n="6"/>stat inquit euangeli littera a legis littera. quia diuersa sunt promis¬ 
@@ -36466,7 +37174,12 @@
       </p>
     <p>
       <lb ed="#P" n="97"/>¶ Ubi relucet magna magni dei 
-      <lb ed="#P" n="98"/>charitas prohibeum. luxuriam. 
+      <lb ed="#P" n="98"/>charitas prohibeum. luxuriam.
+    </p>
+    </div>
+    <div>
+    <head>Luxuria.I.</head>
+    <p> 
       <lb ed="#P" n="99"/>Luxuria primo quan¬ 
       <lb ed="#P" n="100"/>tum ad eius diffinitionem et specieorum assigna¬ 
       <lb ed="#P" n="101"/>tionem. Nam secundum Isid. li. Etym. Luxuria est 
@@ -36902,8 +37615,11 @@
       <lb ed="#P" n="72"/>Hic pulcre claret altissimi dei 
       <lb ed="#P" n="73"/>magna circa nos charitas. 
       </p>
+      </div>
+    <div>
+    <head>Luxuria.II.</head>
     <p>
-      <lb ed="#P" n="74"/>¶ Uxuria. x. quatum 
+      <lb ed="#P" n="74"/>¶ Luxuria.II. quantum 
       <lb ed="#P" n="75"/>ad ipsius punitionem maximam. Nam pena tam 
       <lb ed="#P" n="76"/>periri quam vxoris adulterantis (secundum glosis. extra de 
       <lb ed="#P" n="77"/>procu. c. tue oli erat pena capitis. vtq. C. de adulteri. 
@@ -37171,8 +37887,13 @@
       </p>
     <p>
       <lb ed="#P" n="51"/>¶ Ubi claret magna magni dei 
-      <lb ed="#P" n="52"/>charitas: erga nos retrahendo a mendacio. 
-      <lb ed="#P" n="53"/>Endacium prohibe. 
+      <lb ed="#P" n="52"/>charitas: erga nos retrahendo a mendacio.
+    </p>
+    </div>
+    <div>
+    <head>Mendacium</head>
+    <p> 
+      <lb ed="#P" n="53"/>Mendacium prohibe 
       <lb ed="#P" n="54"/>tur in quinto praecepto secunde tabule vt dicit ma 
       <lb ed="#P" n="55"/>gister in. iii. disti. xxxvii. Ubi nota quod secundum 
       <lb ed="#P" n="56"/>Alex. de ales in. iii parte summe. In isto praecepto Non lo¬ 
@@ -38483,8 +39204,13 @@
       </p>
     <p>
       <lb ed="#P" n="14"/>¶ Hic claret dei charitas magna 
-      <lb ed="#P" n="15"/>quia animam suam posuit pronobis. 
-      <lb ed="#P" n="16"/>Nret christi dei et 
+      <lb ed="#P" n="15"/>quia animam suam posuit pro nobis.
+    </p>
+    </div>
+    <div>
+    <head>Mors christi.I.</head>
+    <p> 
+      <lb ed="#P" n="16"/>Mors christi dei et 
       <lb ed="#P" n="17"/>hominis non pro sua redemptione qui nunquam in 
       <lb ed="#P" n="18"/>diguit tali redemptione: sed pro nostra et 
       <lb ed="#P" n="19"/>sua magna charitate tradidit in mortem animam su¬ 
@@ -39124,8 +39850,13 @@
       </p>
     <p>
       <lb ed="#P" n="43"/>¶ Ubi magna claret dei altissi¬ 
-      <lb ed="#P" n="44"/>mi charitas erga homines omnes. 
-      <lb ed="#P" n="45"/>Ars Becundo. 
+      <lb ed="#P" n="44"/>mi charitas erga homines omnes.
+    </p>
+    </div>
+    <div>
+    <head>Mors christi.II.</head>
+    <p> 
+      <lb ed="#P" n="45"/>Ars Secundo. 
       <lb ed="#P" n="46"/>quantum ad sequentia ipsam separationem antum 
       </p>
     <p>
@@ -39490,9 +40221,14 @@
       <lb ed="#P" n="108"/>tis ad vnam. Hec Bonauen.
      </p>
     <p>
-      ¶ Pic dei appa¬ 
-      <lb ed="#P" n="109"/>ret magna charitas. 
-      <lb ed="#P" n="110"/>Nrs christi tertio. 
+      ¶ Hic dei appa¬ 
+      <lb ed="#P" n="109"/>ret magna charitas.
+    </p>
+    </div>
+    <div>
+    <head>Mors christi.III.</head>
+    <p> 
+      <lb ed="#P" n="110"/>Mors christi tertio. 
       <lb ed="#P" n="111"/>quantum ad ipsius sepulturam. Nam 
       <lb ed="#P" n="112"/>prout euangelica tradit historia Ioseph 
       <lb ed="#P" n="113"/>ab Arimathia et Nicodemus legis doctor debi¬ 
@@ -39838,7 +40574,12 @@
       </p>
     <p>
       <lb ed="#P" n="38"/>¶ Hie magna et admiratione di¬ 
-      <lb ed="#P" n="39"/>gna apparet dei charitas. 
+      <lb ed="#P" n="39"/>gna apparet dei charitas.
+    </p>
+    </div>
+    <div>
+    <head>Mors christi.IV.</head>
+    <p> 
       <lb ed="#P" n="40"/>Ars quarto qua 
       <lb ed="#P" n="41"/>tum ad anime christi descensione ad in¬ 
       <lb ed="#P" n="42"/>Cferos. Notandum tamen est secundum Guil 
@@ -40140,8 +40881,13 @@
       </p>
     <p>
       <lb ed="#P" n="37"/>¶ Hie magna manifestata est cha¬ 
-      <lb ed="#P" n="38"/>ritas dei erga homines. 
-      <lb ed="#P" n="39"/>Fmen primo ge¬ 
+      <lb ed="#P" n="38"/>ritas dei erga homines.
+    </p>
+    </div>
+    <div>
+    <head>Nomen.I. generaliter</head>
+    <p> 
+      <lb ed="#P" n="39"/>Nomen primo ge¬ 
       <lb ed="#P" n="40"/>neraliter. Nam secundum Bonauen. in i. di. xxii. 
       <lb ed="#P" n="41"/>. q. ii. Nomen dicit tria scilicet Primo vocem. 
       <lb ed="#P" n="42"/>Secundo significatum. Tertio rationem inotescendi.
@@ -40190,8 +40936,11 @@
       <lb ed="#P" n="75"/>¶ Ubi appareat dei immensa chari 
       <lb ed="#P" n="76"/>tas erga homines. 
       </p>
+    </div>
+    <div>
+    <head>Nomen.II. singulariter</head>
     <p>
-      <lb ed="#P" n="77"/>¶ Nme secundo singu¬ 
+      <lb ed="#P" n="77"/>¶ Nomen secundo singu¬ 
       <lb ed="#P" n="78"/>lariter Iesus christus. Nam Iesus secundum tria¬ 
       <lb ed="#P" n="79"/>idiomata principalia tria habet nomina secundum 
       <lb ed="#P" n="80"/>Isid. li. vii. etynm. In greco dicitur soter. In hebreo Ie¬ 
@@ -40324,8 +41073,13 @@
       </p>
     <p>
       <lb ed="#P" n="72"/>¶ Ubi maxima manifestatur diui¬ 
-      <lb ed="#P" n="73"/>na charitas erga homines. 
-      <lb ed="#P" n="74"/>Dtio. 
+      <lb ed="#P" n="73"/>na charitas erga homines.
+    </p>
+    </div>
+    <div>
+    <head>Oratio christi</head>
+    <p> 
+      <lb ed="#P" n="74"/>Oratio. 
       <lb ed="#P" n="75"/>INatlo christl enionia 
       <lb ed="#P" n="76"/>sest ratio. Que quidem secundum Guiller. dicitur tri¬ 
       <lb ed="#P" n="77"/>pliciter. Primo apud logicum dicitur oratio 
@@ -40895,8 +41649,13 @@
       </p>
     <p>
       <lb ed="#P" n="32"/>¶ Hic ineffabiliter praeminet ma¬ 
-      <lb ed="#P" n="33"/>gneri dei magna erga nos charitas. 
-      <lb ed="#P" n="34"/>Asio christi Dri¬ 
+      <lb ed="#P" n="33"/>gneri dei magna erga nos charitas.
+    </p>
+    </div>
+    <div>
+    <head>Passio christi.I.</head>
+    <p> 
+      <lb ed="#P" n="34"/>Passio christi Pri¬ 
       <lb ed="#P" n="35"/>mo quantum ad ipsius congruentiam
      </p>
     <p>
@@ -41335,6 +42094,11 @@
     <p>
       <lb ed="#P" n="21"/>¶ Ubi magna dei manifestatur cha¬ 
       <lb ed="#P" n="22"/>ritas erga omnes homines. 
+    </p>
+    </div>
+    <div>
+    <head>Passio christi.II.</head>
+    <p>
       <lb ed="#P" n="23"/>A
      </p>
     <p>
@@ -41588,8 +42352,11 @@
       <lb ed="#P" n="107"/>¶ INic maxime apparet christi cha¬ 
       <lb ed="#P" n="108"/>ritas magna erga homines. 
       </p>
+    </div>
+    <div>
+    <head>Passio christi.III.</head>
     <p>
-      <lb ed="#P" n="109"/>¶ Ussio christi ter¬ 
+      <lb ed="#P" n="109"/>¶ Passio christi ter¬ 
       <lb ed="#P" n="110"/>tio quantum ad animam in qua patiebatur ma¬ 
       <lb ed="#P" n="111"/>gnum dolorem. Nam secunum scilicet Tho. i. iii. dis. 
       <lb ed="#P" n="112"/>xv. Dolor incipit in lesione et erminat in perceptione sensua 
@@ -41853,7 +42620,12 @@
     <p>
       <lb ed="#P" n="84"/>¶ Ubi magna clarm christi domi 
       <lb ed="#P" n="85"/>ni charitas erga nos homines 
-      <lb ed="#P" n="86"/>Ai sio chriiti. N. 
+    </p>
+    </div>
+    <div>
+    <head>Passio christi.IV.</head>
+    <p>
+      <lb ed="#P" n="86"/>Passio christi. IIII. 
       <lb ed="#P" n="87"/>quantum ad ipsius temporalitatem. Nam tempus mor¬ 
       <lb ed="#P" n="88"/>ctis sue praelegit idoneum. quia sciuit repro¬ 
       <lb ed="#P" n="89"/>bare malum et eligere bonum. Ideo passioni sue de omnitempore 
@@ -42077,8 +42849,13 @@
       </p>
     <p>
       <lb ed="#P" n="41"/>¶ Hic christi magna valde apparet 
-      <lb ed="#P" n="42"/>charitas erga homines omnes nos. 
-      <lb ed="#P" n="43"/>Isio christi quin 
+      <lb ed="#P" n="42"/>charitas erga homines omnes nos.
+    </p>
+    </div>
+    <div>
+    <head>Passio christi.V.</head>
+    <p>
+      <lb ed="#P" n="43"/>Passio christi quin 
       <lb ed="#P" n="44"/>to quantum ad locum: qui mortuus est 
       <lb ed="#P" n="45"/>extra ciuitatem hierum salem. licet sit illu¬ 
       <lb ed="#P" n="46"/>sus: flagellatus et spinis coronatus in ea
@@ -42510,7 +43287,12 @@
     <p>
       <lb ed="#P" n="8"/>¶ Ubi magna et manifesta appa¬ 
       <lb ed="#P" n="9"/>ret altissimi dei charitas erga nos 
-      <lb ed="#P" n="10"/>Ieceptum decalo¬ 
+    </p>
+    </div>
+    <div>
+    <head>Preceptum decalogi</head>
+    <p>
+      <lb ed="#P" n="10"/>Receptum decalo¬ 
       <lb ed="#P" n="11"/>gi est imperium vel iussio aliquid faciendi vel non 
       <lb ed="#P" n="12"/>raciendi
      </p>
@@ -43177,8 +43959,11 @@
       <lb ed="#P" n="60"/>bic magna claret dei erga nos 
       <lb ed="#P" n="61"/>charitas. 
       </p>
+    </div>
+    <div>
+    <head>Prudentia</head>
     <p>
-      <lb ed="#P" n="62"/>¶ Iudentia secundum phi¬ 
+      <lb ed="#P" n="62"/>¶ Prudentia secundum phi¬ 
       <lb ed="#P" n="63"/>losophum. vi. Eth. est ratio rerum a nobis agi¬ 
       <lb ed="#P" n="64"/>bilium. Ubi tangit tria. Primo genus dum 
       <lb ed="#P" n="65"/>dicit ratio. Ratio enim communis est habitibus praecticis et spe¬ 
@@ -43564,8 +44349,13 @@
       </p>
     <p>
       <lb ed="#P" n="28"/>¶ Hic relucet altissimi dei ma¬ 
-      <lb ed="#P" n="29"/>gna charitas erga homines. 
-      <lb ed="#P" n="30"/>Esurrectio chri¬ 
+      <lb ed="#P" n="29"/>gna charitas erga homines.
+    </p>
+    </div>
+    <div>
+    <head>Resurrectio christi</head>
+    <p>
+      <lb ed="#P" n="30"/>Resurrectio chri¬ 
       <lb ed="#P" n="31"/>sti quasi iterata surrectio Unde fresurrectom 
       <lb ed="#P" n="32"/>(sic potest diffiniri. Resurrectio est cor¬ 
       <lb ed="#P" n="33"/>poris facti incorruptibilis ad animam iterata vnie 
@@ -44452,16 +45242,24 @@
       <lb ed="#P" n="2"/>corpus eius. Sed quemadmodum radius solis agens in 
       <lb ed="#P" n="3"/>aquam grossam conuertit in naturam non sui sed in va¬ 
       <lb ed="#P" n="4"/>porem. potuit tantu ille cibus a christo sumptus conuerti in 
-      <lb ed="#P" n="5"/>materia preiacentem. 
+      <lb ed="#P" n="5"/>materiam preiacentem. 
       </p>
+    </div>
+    <div>
+    <head>Sapientia</head>
     <p>
-      <lb ed="#P" n="6"/>¶ Apientia quasi sa¬ 
+      <lb ed="#P" n="6"/>¶ Sapientia quasi sa¬ 
       <lb ed="#P" n="7"/>pida scientia. De qua quere infra Uita 
       </p>
     <p>
       <lb ed="#P" n="8"/>¶ Hic magna eminet dei chari¬ 
-      <lb ed="#P" n="9"/>tas erga nos homines. 
-      <lb ed="#P" n="10"/>Ussio Mhristi ad 
+      <lb ed="#P" n="9"/>tas erga nos homines.
+    </p>
+    </div>
+    <div>
+    <head>Sessio christi</head>
+    <p> 
+      <lb ed="#P" n="10"/>Sessio Christi ad 
       <lb ed="#P" n="11"/>dexteram patris. Nam secundum Guiller. 
       <lb ed="#P" n="12"/>ista tria differunt Esse a dextris pa¬ 
       <lb ed="#P" n="13"/>tris. Astare a dextris patris. Et sede¬ 
@@ -45072,8 +45870,11 @@
       <lb ed="#P" n="22"/>Hic inestimabilis praelucet dei 
       <lb ed="#P" n="23"/>altissimi charitas erga homines. 
       </p>
+      </div>
+    <div>
+    <head>Spes</head>
     <p>
-      <lb ed="#P" n="24"/>¶ Des multiplici¬ 
+      <lb ed="#P" n="24"/>¶ Spes multiplici¬ 
       <lb ed="#P" n="25"/>ter accipitur.
      </p>
     <p>
@@ -45962,8 +46763,13 @@
       </p>
     <p>
       <lb ed="#P" n="15"/>¶ Hic maxime relucet diuina cha¬ 
-      <lb ed="#P" n="16"/>ritas erga nos homines. 
-      <lb ed="#P" n="17"/>Rmperantia secundum 
+      <lb ed="#P" n="16"/>ritas erga nos homines.
+    </p>
+    </div>
+    <div>
+    <head>Temperantia</head>
+    <p> 
+      <lb ed="#P" n="17"/>Temperantia secundum 
       <lb ed="#P" n="18"/>Ioan. Ianuen. in catholicon est domi 
       <lb ed="#P" n="19"/>nium rationis in libidinem et in alios animi 
       <lb ed="#P" n="20"/>motus: vel virtus animi refrenandi motus in not 
@@ -46289,8 +47095,11 @@
       <lb ed="#P" n="37"/>¶ Hic valde apparet excelsi dei 
       <lb ed="#P" n="38"/>maxima charitas in nos. 
       </p>
+    </div>
+    <div>
+    <head>Timor</head>
     <p>
-      <lb ed="#P" n="39"/>¶ Imor secundum Na¬ 
+      <lb ed="#P" n="39"/>¶ Timor secundum Na¬ 
       <lb ed="#P" n="40"/>mascenum est expectatio futuri mali. 
       <lb ed="#P" n="41"/>Ubi secundum Guill. in. iii. di. xxxiiii. tangum 
       <lb ed="#P" n="42"/>tur tria. Primo genus: dum dicitur expe¬ 
@@ -46764,8 +47573,11 @@
       <lb ed="#P" n="53"/>¶ Ubi valde relucet immensa cha¬ 
       <lb ed="#P" n="54"/>ritas dei erga homines. 
       </p>
+    </div>
+    <div>
+    <head>Virtus cardinalis</head>
     <p>
-      <lb ed="#P" n="55"/>¶ Irtus cardinalis 
+      <lb ed="#P" n="55"/>¶ Virtus cardinalis 
       <lb ed="#P" n="56"/>Dicit enim magister in. iii. dis. xxxiii. quod de 
       <!--318.xml-->
       <cb ed="#P" n="b"/>
@@ -47580,11 +48392,14 @@
       <lb ed="#P" n="9"/>excludit charitatem. et ideo non est simile hinc et inde¬ 
       <lb ed="#P" n="10"/>ergo vicia non sunt connexa: ideo necesse est quod vnun¬ 
       <lb ed="#P" n="11"/>quodque expellatur per virtutem contrariam. 
-      <lb ed="#P" n="12"/>Hhic manifestissime relucet dei 
+      <lb ed="#P" n="12"/>Hic manifestissime relucet dei 
       <lb ed="#P" n="13"/>l altissimi charitas erga nos. 
       </p>
+      </div>
+    <head>Vita.I. scilicet contemplatiua</head>
+    <div>
     <p>
-      <lb ed="#P" n="14"/>¶ Ita primo conti¬ 
+      <lb ed="#P" n="14"/>¶ Uita primo conti¬ 
       <lb ed="#P" n="15"/>platiua per quam intuetur deus quae ad donum 
       <lb ed="#P" n="16"/>apientie videtur pertinere Triplex enim vita re 
       <lb ed="#P" n="17"/>peritur in scriptura. Prima vegetatiua: de qua dicit Philosopus 
@@ -48270,7 +49085,12 @@
       </p>
     <p>
       <lb ed="#P" n="100"/>¶ Hic valde relucet altissimi dei 
-      <lb ed="#P" n="101"/>magna charitas in homines. 
+      <lb ed="#P" n="101"/>magna charitas in homines.
+    </p>
+    </div>
+    <div>
+    <head>Vita.II.scilicet activa</head>
+    <p> 
       <lb ed="#P" n="102"/>Ita secundo acti¬ 
       <lb ed="#P" n="103"/>ua prout distinguitur a contemplatiua Unde est 
       <lb ed="#P" n="104"/>obi sciendum vltra quod vita est tripleux scilicet Na¬ 
@@ -48579,6 +49399,11 @@
     <p>
       <lb ed="#P" n="108"/>¶ Hic vltimo relucet eminenter 
       <lb ed="#P" n="109"/>dei grata charitas erga homines 
+    </p>
+    </div>
+    <div>
+    <head>Zelus</head>
+    <p>
       <lb ed="#P" n="110"/>Zelus proprie est 
       <lb ed="#P" n="111"/>motio animi siue in bonum siue in 
       <lb ed="#P" n="112"/>malum. Ideo alio modo diffinitur 
@@ -48686,7 +49511,12 @@
       <lb ed="#P" n="83"/>rie: necnon ad honorem seraphici patris nostri Francisci 
       <lb ed="#P" n="84"/>et omnium beatorum celestis curie. Laudetur ergo deusper infi¬ 
       <lb ed="#P" n="85"/>nita seculorum secula Amen. 
-      <lb ed="#P" n="86"/>Iosaris theologice sa¬ 
+    </p>
+    </div>
+    <div>
+    <head>Rosarii theologice</head>
+    <p>
+      <lb ed="#P" n="86"/>Rosaris theologice sa¬ 
       <lb ed="#P" n="87"/>pientie aurei Tertius liber pro elucidatione Senten¬ 
       <lb ed="#P" n="88"/>tiarum libri tert ii per religionis zelo deditissimum pa¬ 
       <lb ed="#P" n="89"/>trem: sacre pagine professorem eximium: fratrem Pelbar¬ 
@@ -48696,6 +49526,8 @@
       <lb ed="#P" n="93"/>Oringam: in officina indusfrii Henrici Gran: ci¬ 
       <lb ed="#P" n="94"/>uis in oppido imperiali Hagena u impressus. Anno¬ 
       <lb ed="#P" n="95"/>virginei partus. No. secnda die mesis Augusti finit 
-      <lb ed="#P" n="96"/>itt. 
+      <lb ed="#P" n="96"/>feliciter. 
       </p>
+    </div>
+    </div>
 </div>
