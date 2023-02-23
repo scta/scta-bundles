@@ -3961,16 +3961,18 @@
     <div> 
     <head>1</head> 
     <p>
+    <!--floating text-->
       <lb ed="#P" n="11"/>¶ Amor dei ad crea¬ 
       <lb ed="#P" n="12"/>turas. Quod eminentur amor sit in deo etc. 
       </p>
+    <!--heading 1 really starts here-->
     <p>
       <lb ed="#P" n="13"/>¶ Queritur. Utrum veraciter ponatur 
       <lb ed="#P" n="14"/>in deo amor ad creaturas. Nam cum dei voluntas sit 
       <lb ed="#P" n="15"/>de se perfectissima. ergo in ea non est ponendus ad extra 
-      <lb ed="#P" n="16"/>amor formaliter et inhesiue perficies eam: quomdo ergo potest deo 
-      <lb ed="#P" n="17"/>inesse: Respondetur praenotando pro praeambulo secundum Guill. li. iii. 
-      <lb ed="#P" n="18"/>sententiarum. di. xxvii. cum Tho. ibid ar. ii. q. i. Quod ista tria¬ 
+      <lb ed="#P" n="16"/>amor formaliter et inhesiue perficiens eam: quomodo ergo potest deo 
+      <lb ed="#P" n="17"/>inesse: Respondetur praenotando pro praeambulo secundum <ref> <name>Guill</name>. li. iii. 
+      <lb ed="#P" n="18"/>sententiarum. di. xxvii.</ref> cum <ref><name>Tho</name>. ibid ar. ii. q. i.</ref> Quod ista tria
       <lb ed="#P" n="19"/>se habent ad inuicem ex additione. Amor: amatio et ami¬ 
       <lb ed="#P" n="20"/>cicia. quia amor nominat dilectionis vinculum. videlicet abso 
       <lb ed="#P" n="21"/>lute seu simpliciter. Amatio autem illud idem nominat: tamen cum 
